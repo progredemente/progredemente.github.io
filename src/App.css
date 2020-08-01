@@ -2,3 +2,18 @@
     max-width: 150px;
     border-radius: 50%;
 }
+#logo,
+#title {
+    padding: 0 10px;
+}
+
+.main-header {
+    display: flex;
+    padding: 10px 0;
+}
+
+h1 {
+    font-weight: initial;
+    font-size: 3em;
+    margin: 0;
+}

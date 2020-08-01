@@ -5,7 +5,7 @@ import PostNavigator from './PostNavigator'
  
 class Post extends Component {
     render() {
-        let id = this.props.match.params.id;
+        let id = this.props.id || this.props.match.params.id;
         return (
             <div>
                 <PostNavigator currentId={id} list={Object.keys(list)} section="post"/>

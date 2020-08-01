@@ -6,32 +6,31 @@ import Post from './Post';
 import {
     BrowserRouter as Router,
     Switch,
-    Redirect,
     Route,
     Link
 } from "react-router-dom";
 
 function App() {
     return (
-        <div className="App">
+        <div>
             <Router>
-                <header className="App-header">
+                <header className="main-header">
                     <Link to="/">
                         <img src={logo} id="logo" alt="Logo"/>
                     </Link>
+                    <div id="title">
+                        <h1>progredemente</h1>
+                    </div>
                 </header>
                 <section>
                     <Switch>
-                        <Route exact path="/" render={
-                            () => {
-                                return (
-                                    <Redirect to={`/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>
-                                )
-                            }
-                        }/>
-                        <Route path="/post/:id" component={Post}/>
+                        <Route exact path="/">
+                            <Post id={Object.keys(list)[Object.keys(list).length - 1]}/>
+                        </Route>
+                        <Route exact path="/post/:id" component={Post}/>
                     </Switch>
                 </section>
+                <footer>© 2020 progredemente</footer>
             </Router>
         </div>
     );

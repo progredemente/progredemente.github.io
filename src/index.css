@@ -1,0 +1,13 @@
+@font-face {
+  font-family: ComicTypo;
+  src: url('./comic_typo.ttf');
+}
+* {
+  --body-width: 1000px;
+}
+body {
+  font-family: ComicTypo;
+  max-width: var(--body-width);
+  margin: 0 auto;
+  font-size: 1.5em;
+}

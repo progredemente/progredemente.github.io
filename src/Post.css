@@ -1,0 +1,13 @@
+.img-container > img {
+    max-width: 100%;
+}
+
+.name {
+    font-size: 2em;
+    margin: 0;
+}
+
+.date {
+    font-size: 1.25em;
+    margin: 0;
+}

@@ -1,0 +1,394 @@
+{
+    "greta": {
+        "name": "Greta",
+        "date": "2020/01/15",
+        "description": [
+            "Estas cosas pasan por no ir a la escuela."
+        ]
+    },
+    "bici": {
+        "name": "Bici",
+        "date": "2020/01/16",
+        "description": [
+            "Si usásemos esta lógica en el día a día seguiríamos en la edad de piedra, aunque hay gente que lo preferiría."
+        ]
+    },
+    "alerta_antifascista": {
+        "name": "Alerta antifascista",
+        "date": "2020/01/17",
+        "description": [
+            "Buscad \"lois griffin 911\" y la canción \"Política del miedo\" de Soziedad Alkoholika en YT. Nada más que añadir."
+        ]
+    },
+    "cables": {
+        "name": "Cables",
+        "date": "2020/01/20",
+        "description": [
+            "Me imagino a esta tía diciendo majaderías de este estilo después de lo que dijo sobre el Black Friday. Que no os sorprenda que en algún momento digan que las instalaciones eléctricas son racistas y propongan cambiarlas todas de todas las casas del país o propongan usar el mismo color para todos los cables para no herir sensibilidades."
+        ]
+    },
+    "pin_parental": {
+        "name": "Pin parental",
+        "date": "2020/01/21",
+        "description": [
+            "No les gusta el pin parental ahora, esperad a que cambie el sistema eduvativo cuando cambie quién está en el gobierno, que va a pasar tarde o temprano, y ya veréis como son los primeros en decir que los padres son los que tienen el derecho a decidir la educación que tienen que recibir sus hijos."
+        ]
+    },
+    "progremon_1": {
+        "name": "Progrémon 1",
+        "date": "2020/02/03",
+        "description": [
+            "¿Qué pasaría si se colase un progre en el mundo Pokémon? Yo me imagino algo así. Tengo más ideas para más viñetas, así que habrá mínimo una segunda parte."
+        ]
+    },
+    "guaido": {
+        "name": "Guaidó",
+        "date": "2020/02/14",
+        "description": [
+            "El PSOE debería cambiar lo de Obrero por Orwelliano, pues maneja muy bien esto del doblepensar."
+        ]
+    },
+    "renta_basica": {
+        "name": "Renta básica",
+        "date": "2020/02/21",
+        "description": [
+            "En el socialismo todo es maravilloso, porque nadie tiene por qué trabajar y las cosas que necesitamos aparecen delante de nosotros si pensamos fuertemente en ellas, porque el motor del socialismo es la magia y la ilusión 🙂"
+        ]
+    },
+    "minifaldas": {
+        "name": "Minifaldas",
+        "date": "2020/03/03",
+        "description": [
+            "Si vuestro discurso no se adapta a la realidad, que sea la realidad quien se adapte a vuestro discurso, no vaya a ser que os quedéis sin curro."
+        ]
+    },
+    "coronavirus": {
+        "name": "Coronavirus",
+        "date": "2020/03/13",
+        "description": [
+            "Dentro de poco los repartidores autónomos de las empresas tipo Uber Eats, Glovo y Deliveroo serán héroes nacionales. Hideo Kojima es el Nostradamus del siglo XXI."
+        ]
+    },
+    "captain_falconetti": {
+        "name": "Captain Falconetti",
+        "date": "2020/03/15",
+        "description": [
+            "¡Captain Faconetti se une al plantel!"
+        ]
+    },
+    "pabluigi": {
+        "name": "Pabluigi",
+        "date": "2020/03/18",
+        "description": [
+            "¡Pabluigi se une al plantel!"
+        ]
+    },
+    "progremon_2": {
+        "name": "Progrémon 2",
+        "date": "2020/03/19",
+        "description": [
+            "¡Segunda entrega de las aventuras de un progre en el mundo Pokémon! La viñeta del jynx está ligeramente basado en hechos reales, buscad \"jynx blackface\" en Google."
+        ]
+    },
+    "caceroladas": {
+        "name": "Caceroladas",
+        "date": "2020/03/19",
+        "description": [
+            "Cómo saben hacer ruido para que miremos hacia otro lado."
+        ]
+    },
+    "koopanique": {
+        "name": "Koopanique",
+        "date": "2020/03/20",
+        "description": [
+            "¡Koopanique se une al plantel!"
+        ]
+    },
+    "carencias": {
+        "name": "Carencias",
+        "date": "2020/03/22",
+        "description": [
+            "En neolengua \"incompetencia, irresponsabilidad y negligencia por parte de la izquierda\" se dice \"carencias\" y \"pedir responsabilidades políticas a la izquierda\" se reduce a \"hacer esa imprescindible reflexión\"."
+        ]
+    },
+    "chiringuito": {
+        "name": "Chiringuito",
+        "date": "2020/03/24",
+        "description": [
+            "Es en estos momentos de crisis sanitaria y económica cuando más vemos que las políticas con perspectiva de género son así como imprescindibles, pero sin el \"im-\" delante."
+        ]
+    },
+    "ortega_snake": {
+        "name": "Ortega Snake",
+        "date": "2020/03/25",
+        "description": [
+            "¡Ortega Snake se une al plantel!",
+            "Idea de un colega."
+        ]
+    },
+    "autoridad_sanitaria": {
+        "name": "Autoridad sanitaria",
+        "date": "2020/03/28",
+        "description": [
+            "A esta gente hay que recordarles constantemente que están en el gobierno, por lo que la autoridad y los responsables son ellos. Lo peor es que lo saben, pero les da igual, si cuela, cuela."
+        ]
+    },
+    "tacticas_evasion": {
+        "name": "Tácticas de evasión",
+        "date": "2020/03/31",
+        "description": [
+            "Seguro que las reuniones del Consejo de Ministros y con los \"expertos\" son brainstormings de excusas y tácticas de evasión."
+        ]
+    },
+    "little_mireia": {
+        "name": "Little Mireia",
+        "date": "2020/04/03",
+        "description": [
+            "¡Little Mireia se une al plantel!"
+        ]
+    },
+    "young_inigo": {
+        "name": "Young Íñigo",
+        "date": "2020/04/04",
+        "description": [
+            "¡Young Íñigo se une al plantel!"
+        ]
+    },
+    "mismo_sentido": {
+        "name": "Mismo sentido",
+        "date": "2020/04/06",
+        "description": [
+            "Tenemos a un grupo de descerebrados al timón."
+        ]
+    },
+    "mascarillas": {
+        "name": "Mascarillas",
+        "date": "2020/04/09",
+        "description": [
+            "Si no volvéis a ver posts míos durante una larga temporada ya sabéis por qué es."
+        ]
+    },
+    "apagon_vultural": {
+        "name": "Apagón Vultural",
+        "date": "2020/04/10",
+        "description": [
+            "La vergüenza ajena que da uno de los sectores más progre alcanza límites nunca vistos. ¿Creéis que servirá para algo este \"apagón cultural\"? ¿Hará caso el gobierno a esta chorrada? Hagan sus apuestas."
+        ]
+    },
+    "veleta": {
+        "name": "Veleta",
+        "date": "2020/04/20",
+        "description": [
+            "¡Hacia donde sople el viento!"
+        ]
+    },
+    "gafas_moradas": {
+        "name": "Gafas moradas",
+        "date": "2020/04/23",
+        "description": [
+            "Ponte las gafas moradas! ¡Es súper útil para señalar todo tipo de problemas irreales y para nunca más volver a disfrutar de cosas como el cine o la compañía de otras personas, porque sobreanalizarás cada cosa que se diga y que se haga como haría alguien propio de la época de la Inquisición!"
+        ]
+    },
+    "gente_irresponsable": {
+        "name": "Gente irresponsable",
+        "date": "2020/04/27",
+        "description": [
+            "Un gobierno que ideológicamente promueve la irresponsabilidad individual mediante un estado paternalista y que lleva desde el inicio intentando vender una situación muchísimo más controlada de lo que en realidad está, ante una situación que por culpa de su ineptitud y negligencia iba a acabar pasando, pues en algún momento tendremos que salir del confinamiento, ¿creéis que de repente vaya a creer en la responsabilidad individual?",
+            "No se si lo han hecho a propósito o no, yo creo que sí, aunque quizás sea paranoia conspiranoica mía por llevar tanto tiempo en casa, pero, vamos, esto les va a venir de perlas para seguir blanqueando su nefasta gestión y para que la gente mire hacia otro lado, enfrentando aún más a la sociedad.",
+            "Y no creo que la gente haya sido tan irresponsable como lo pintan, sinceramente, los vídeos que hay por las redes sociales de gente pasándose las medidas de seguridad por el forro no creo que sea muy representativo de la realidad, será la típica magnificación de los cuatro casos contados que haya. Igual me equivoco, pero espero que no.",
+            "Podéis darme vuestra opinión si queréis, aunque solo necesitaba desahogarme un poco."
+        ]
+    },
+    "la_nueva_subnormalidad": {
+        "name": "La nueva subnormalidad",
+        "date": "2020/04/29",
+        "description": [
+            "Si Orwell levantara la cabeza..."
+        ]
+    },
+    "runner": {
+        "name": "Runner",
+        "date": "2020/05/02",
+        "description": [
+            "Visto lo que pasó con la salida de los niños, me apostaría algo a que en unas horas van a empezar a señalar a los que salgan a dar unos trotes o a andar en bici, tanto por las redes como por los medios, sobre todo teniendo en cuenta que la gente lleva encerrada más de un mes y que la franja horaria permitida para hacer ejercicio, según mi humilde opinión, va a propiciar las concentraciones. Espero equivocarme."
+        ]
+    },
+    "terf_vs_trans_1": {
+        "name": "TERF vs trans 1",
+        "date": "2020/05/05",
+        "description": [
+            "¡El Feministerio ha hablado! Lo siento por las TERFs... realmente no."
+        ]
+    },
+    "portugal_oeste": {
+        "name": "Portugal está \"más al oeste\"",
+        "date": "2020/05/05",
+        "description": [
+            "Portugal não é Brasil, senhora."
+        ]
+    },
+    "billy_el_nino": {
+        "name": "Billy \"El Niño\"",
+        "date": "2020/05/07",
+        "description": [
+            "¡Bienvenidos una vez más a la enésima edición de: \"La doble moral socialista\"!"
+        ]
+    },
+    "payasos": {
+        "name": "Payasos",
+        "date": "2020/05/14",
+        "description": [
+            "Nuesto amado líder eligió identificarse con un payaso psicópata, pero hay otros payasos con hábitos moralmente cuestionables con los que podría haberse identificado. ¿Cual es tu favorito? (Sé que llego un poco tarde, pero me apetecía hacerlo)"
+        ]
+    },
+    "palos_de_golf": {
+        "name": "Palos de golf",
+        "date": "2020/05/15",
+        "description": [
+            "¡No se ni lo que es una escoba, Hulio!"
+        ]
+    },
+    "transparencia_gobierno": {
+        "name": "La transparencia del Gobierno",
+        "date": "2020/05/18",
+        "description": [
+            "Estos artífices de la neolengua supongo que adaptarán sus expresiones y dirán cosas tipo \"más claro, chapapote\" o \"esto está pasando de castaño a beis\"."
+        ]
+    },
+    "becas_mediocres": {
+        "name": "Becas para los mediocres",
+        "date": "2020/05/19",
+        "description": [
+            "Los que hayáis ido a la universidad quizás hayáis conocido, como yo, al mítico estudiante revolucionario: niño de papá, no ha trabajado en su vida ni va a trabajar porque estudia alguna carrera sin salida laboral, a tope con la clase obrera pero no pisa una clase, aprueba lo mínimo para que no lo echen de la universidad, parasita a sus padres y se funde el dinero que le dan en irse de fiesta y pillarse unos gramos, alaba regímenes totalitarios, siempre en todas las huelgas absurdas, su piso parece el vertedero de Silent Hill y, como no, con una buena beca (y para el año mejor) pagada por todos nosotros."
+        ]
+    },
+    "cortinas_banderas": {
+        "name": "Cortinas de banderas",
+        "date": "2020/05/27",
+        "description": [
+            "Hacen y deshacen mientras miramos a otro lado, y yo me pregunto cual será el mejor país al que emigrar antes de que vuelva a pasar lo de 1936."
+        ]
+    },
+    "saqueo_minneapolis": {
+        "name": "Saqueo de Minneapolis",
+        "date": "2020/05/31",
+        "description": [
+            "Luchar contra la violencia con más violencia me parece que es como intentar apagar un fuego con gasolina. Y hay que ser miserable para utilizar el rechazo al racismo como excusa para saquear y arruinarle la vida a la gente, y más aún cuando no han tenido nada que ver con el incidente del otro día. El fanatismo se les va de las manos."
+        ]
+    },
+    "sube_el_pan": {
+        "name": "Sube el pan",
+        "date": "2020/06/01",
+        "description": [
+            "Me los imagino así cuando llegan a su mansión cada vez que la lía.",
+            "Le veo potencial de reutilización a esta viñeta, independientemente de lo que haga, ya sea acusar a toda la Policía de machistas, celebrando su cumpleaños por las redes sociales, o esta última, contándole tan alegremente a los periodistas que no iba a admitir lo del coronavirus porque si no le cerraban el feministerio. ¿Qué creéis que será lo próximo que haga?"
+        ]
+    },
+    "curriculum": {
+        "name": "Currículum",
+        "date": "2020/06/03",
+        "description": [
+            "Si tenéis o tuvieseis una empresa, necesitáis contratar a alguien de aprendiz y os viniese a pedir trabajo alguien con un perfil similar al de la chica de la viñeta, ¿lo contrataríais?"
+        ]
+    },
+    "borregos": {
+        "name": "Borregos",
+        "date": "2020/06/07",
+        "description": [
+            "Poco que decir sobre esto. Solo voy a mencionar una rima de una canción de los Lendakaris: \"Decadencia moral en Occidente, nos lo dice lo que aplaude la gente\"."
+        ]
+    },
+    "terf_vs_trans_2": {
+        "name": "TERF vs trans 2",
+        "date": "2020/06/12",
+        "description": [
+            "¡Parece que el Desgobierno y el Feministerio discrepan ideológicamente! ¿Quién ganará la batalla?"
+        ]
+    },
+    "boot_facha": {
+        "name": "Boot facha",
+        "date": "2020/06/12",
+        "description": [
+            "Que conste que he visto este tipo de comentarios independientemente del bando político defendido/criticado. Son unos calzadófobos.",
+            "Ahora en serio, creo que hay mucha gente que no tiene ni idea de qué es un bot, o simplemente utilizan esa palabra como descalificativo."
+        ]
+    },
+    "oso_machista": {
+        "name": "Oso machista",
+        "date": "2020/06/18",
+        "description": [
+            "A una ideología cuyo principal motivo de supervivencia sea la condena de sucesos e ideas que causan el descontento de la población, ¿qué le interesa más, erradicar esos sucesos e ideas y así desaparecer, o mantenerlos, ya sea de manera real o ficticia, para poder seguir existiendo?"
+        ]
+    },
+    "alboran_dolmayan": {
+        "name": "Alborán y Dolmayan",
+        "date": "2020/06/20",
+        "description": [
+            "¿Alguien ha pillado esta viñeta sin explicación? Si no lo habéis hecho, como me temo que ha pasado, buscad las últimas noticias sobre John Dolmayan, y si no sabéis quién es, buscad también al grupo System Of A Down.",
+            "En esta página se apoya el buen metal y la buena música en general, independientemente de la ideología de los artistas o el contenido las letras. ¡Viva Burzum y viva Rage Against the Machine!"
+        ]
+    },
+    "jodechinchos": {
+        "name": "Jodechinchos",
+        "date": "2020/06/25",
+        "description": [
+            "Para quien no lo sepa, \"jodechincho\", \"fodechincho\" o simplemente \"chincho\" es como se les llama en Galicia, sobre todo en la costa, a los veraneantes del resto de España que van allí, especialmente a los madrileños, e incluso a veces a los que son del interior de Galicia."
+        ]
+    },
+    "conguitos": {
+        "name": "Conguitos",
+        "date": "2020/06/29",
+        "description": [
+            "#conguitoslivesmatter"
+        ]
+    },
+    "el_coletas_sapee": {
+        "name": "¡¡El Coletas sapee!!",
+        "date": "2020/07/01",
+        "description": [
+            "Para quien no entienda la referencia: \"harry el sucio potter\" en YT, vídeo del Bananero. ¡Sapee!"
+        ]
+    },
+    "subida_impuestos": {
+        "name": "Subida de impuestos",
+        "date": "2020/07/02",
+        "description": [
+            "Van a pagar los ricos, claro que sí."
+        ]
+    },
+    "arde_troya": {
+        "name": "Arde Troya",
+        "date": "2020/07/09",
+        "description": [
+            "El plan perfecto. Yo creo su carencia de vergüenza no les afecta porque cuentan con la carencia (también) del sentido crítico de la masa votante. Igual que pasa con los independentistas o los chavistas. Si acaban en la cárcel, estarán fuera antes de que dé tiempo a darnos cuenta. Jugarán la carta del mártir."
+        ]
+    },
+    "al_menos": {
+        "name": "Al menos",
+        "date": "2020/07/15",
+        "description": [
+            "Para los radicales todo es justificable si juegan la baza del enemigo imaginario."
+        ]
+    },
+    "inclusivo": {
+        "name": "Inclusivo",
+        "date": "2020/07/21",
+        "description": [
+            "Y hay más ejemplos de sociedades donde hablan lenguas sin género gramatical, o incluso con género neutro, y socialmente dejan mucho que desear."
+        ]
+    },
+    "duquemar": {
+        "name": "Duquemar",
+        "date": "2020/07/27",
+        "description": [
+            "¡Duquemar se une al plantel!"
+        ]
+    },
+    "cuotas": {
+        "name": "Cuotas",
+        "date": "2020/07/31",
+        "description": [
+            "¿Para qué esforzarse pudiendo pertenecer a un \"colectivo oprimido\"? Obligarán a las empresas a que te contraten para cumplir una cuota absurda y no hará falta ni que trabajes, ya se ocuparán los del \"colectivo opresor\" de trabajar, pues tendrá más incentivos que tú para hacerlo, principalmente el miedo al despido."
+        ]
+    }
+}

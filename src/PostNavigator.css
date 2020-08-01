@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+}
+
+.container > div,
+.container > a {
+    border: 3px solid transparent;
+    width: 50px;
+    height: 30px;
+}
+
+.container > a {
+    border-color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: initial;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

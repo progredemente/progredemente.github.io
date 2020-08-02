@@ -7,13 +7,49 @@
     padding: 0 10px;
 }
 
+#title {
+    flex-grow: 1;
+}
+
 .main-header {
     display: flex;
     padding: 10px 0;
 }
 
+@media only screen and (max-width: 500px) {
+    /* For mobile phones: */
+    .main-header {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
 h1 {
     font-weight: initial;
-    font-size: 3em;
+    font-size: 2em;
     margin: 0;
+}
+
+.social {
+    display: flex;
+}
+
+.social > a > img {
+    padding: 5px;
+    max-width: 30px;
+}
+
+#menu {
+    margin: 10px 0;
+    font-size: 1.5em;
+    display: flex;
+}
+
+#menu a {
+    color: initial;
+    text-decoration: none;
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 0 10px;
 }

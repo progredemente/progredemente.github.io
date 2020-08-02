@@ -3,7 +3,7 @@
   src: url('./comic_typo.ttf');
 }
 * {
-  --body-width: 1000px;
+  --body-width: 900px;
 }
 body {
   font-family: ComicTypo;

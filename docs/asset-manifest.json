@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.404ae5db.chunk.css",
-    "main.js": "/static/js/main.526633d9.chunk.js",
-    "main.js.map": "/static/js/main.526633d9.chunk.js.map",
+    "main.css": "/static/css/main.7dec3130.chunk.css",
+    "main.js": "/static/js/main.715efa7b.chunk.js",
+    "main.js.map": "/static/js/main.715efa7b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.5ffb7a67.chunk.js": "/static/js/2.5ffb7a67.chunk.js",
-    "static/js/2.5ffb7a67.chunk.js.map": "/static/js/2.5ffb7a67.chunk.js.map",
+    "static/js/2.d4783388.chunk.js": "/static/js/2.d4783388.chunk.js",
+    "static/js/2.d4783388.chunk.js.map": "/static/js/2.d4783388.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.782321c8632f7f44c0cd6acef1e06965.js": "/precache-manifest.782321c8632f7f44c0cd6acef1e06965.js",
+    "precache-manifest.ba1c18c30fa1a5b56c338f4445c50817.js": "/precache-manifest.ba1c18c30fa1a5b56c338f4445c50817.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.404ae5db.chunk.css.map": "/static/css/main.404ae5db.chunk.css.map",
-    "static/js/2.5ffb7a67.chunk.js.LICENSE.txt": "/static/js/2.5ffb7a67.chunk.js.LICENSE.txt",
+    "static/css/main.7dec3130.chunk.css.map": "/static/css/main.7dec3130.chunk.css.map",
+    "static/js/2.d4783388.chunk.js.LICENSE.txt": "/static/js/2.d4783388.chunk.js.LICENSE.txt",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
@@ -41,6 +41,7 @@
     "static/media/greta.png": "/static/media/greta.6d117979.png",
     "static/media/guaido.png": "/static/media/guaido.69f01b39.png",
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
+    "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.732231fd.png",
     "static/media/koopanique.png": "/static/media/koopanique.a96b220c.png",
     "static/media/la_nueva_subnormalidad.png": "/static/media/la_nueva_subnormalidad.83e42cec.png",
@@ -72,8 +73,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.5ffb7a67.chunk.js",
-    "static/css/main.404ae5db.chunk.css",
-    "static/js/main.526633d9.chunk.js"
+    "static/js/2.d4783388.chunk.js",
+    "static/css/main.7dec3130.chunk.css",
+    "static/js/main.715efa7b.chunk.js"
   ]
 }

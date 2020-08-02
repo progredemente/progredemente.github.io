@@ -10,7 +10,7 @@ class Post extends Component {
             <div>
                 <PostNavigator currentId={id} list={Object.keys(list)} section="post"/>
                 <div className="img-container">
-                    <img src={require(`./img/${id}.png`)} alt={list[id].name}/>
+                    <img src={require(`./img/comic/${id}.png`)} alt={list[id].name}/>
                     <div>
                         <p className="name">{list[id].name}</p>
                         <p className="date">{list[id].date}</p>

@@ -1,17 +1,17 @@
-.container {
+.navigator-container {
     display: flex;
     justify-content: space-evenly;
     padding: 10px 0;
 }
 
-.container > div,
-.container > a {
+.navigator-container > div,
+.navigator-container > a {
     border: 4px solid transparent;
     width: 60px;
     height: 40px;
 }
 
-.container > a {
+.navigator-container > a {
     border-color: black;
     border-radius: 10px;
     text-decoration: none;

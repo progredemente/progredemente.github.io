@@ -1,13 +1,16 @@
 import React, { Component } from 'react';
 import './Series.css';
 import {Link} from 'react-router-dom';
+import progremonBanner from './img/banners/progremon_banner.png';
  
 class Series extends Component {
     render() {
         return (
-            <div>
+            <div className="series-container">
                 <div>
-                    <Link to="/progremon">Progrémon</Link>
+                    <Link to="/progremon">
+                        <img src={progremonBanner} alt="Progrémon"></img>
+                    </Link>
                 </div>
                 <div>
                     <Link to="/smash">Smash</Link>

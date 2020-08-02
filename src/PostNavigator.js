@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom';
 class PostNavigator extends Component {
     render() {
         return (
-            <div className="container">
+            <div className="navigator-container">
                 { this.props.list.indexOf(this.props.currentId) > 0 &&
                     <>
                     <Link to={`/${this.props.section}/${this.props.list[0]}`} title="primero">&lt;&lt;</Link>

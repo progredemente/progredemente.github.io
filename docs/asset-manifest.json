@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dec3130.chunk.css",
-    "main.js": "/static/js/main.715efa7b.chunk.js",
-    "main.js.map": "/static/js/main.715efa7b.chunk.js.map",
+    "main.css": "/static/css/main.a1ed79de.chunk.css",
+    "main.js": "/static/js/main.88ebeecd.chunk.js",
+    "main.js.map": "/static/js/main.88ebeecd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.d4783388.chunk.js": "/static/js/2.d4783388.chunk.js",
-    "static/js/2.d4783388.chunk.js.map": "/static/js/2.d4783388.chunk.js.map",
+    "static/js/2.58d103d9.chunk.js": "/static/js/2.58d103d9.chunk.js",
+    "static/js/2.58d103d9.chunk.js.map": "/static/js/2.58d103d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ba1c18c30fa1a5b56c338f4445c50817.js": "/precache-manifest.ba1c18c30fa1a5b56c338f4445c50817.js",
+    "precache-manifest.cac84deb54917f3b7d49deef5c91e705.js": "/precache-manifest.cac84deb54917f3b7d49deef5c91e705.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7dec3130.chunk.css.map": "/static/css/main.7dec3130.chunk.css.map",
-    "static/js/2.d4783388.chunk.js.LICENSE.txt": "/static/js/2.d4783388.chunk.js.LICENSE.txt",
+    "static/css/main.a1ed79de.chunk.css.map": "/static/css/main.a1ed79de.chunk.css.map",
+    "static/js/2.58d103d9.chunk.js.LICENSE.txt": "/static/js/2.58d103d9.chunk.js.LICENSE.txt",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
@@ -57,8 +57,10 @@
     "static/media/payasos.png": "/static/media/payasos.489b2831.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.a22148bd.png",
     "static/media/portugal_oeste.png": "/static/media/portugal_oeste.86c64353.png",
+    "static/media/progremon_0.png": "/static/media/progremon_0.bccfd4ed.png",
     "static/media/progremon_1.png": "/static/media/progremon_1.d49be426.png",
     "static/media/progremon_2.png": "/static/media/progremon_2.9fc08c5f.png",
+    "static/media/progremon_banner.png": "/static/media/progremon_banner.2df0e163.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.b99827a9.png",
     "static/media/runner.png": "/static/media/runner.7c3f2b8c.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
@@ -73,8 +75,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.d4783388.chunk.js",
-    "static/css/main.7dec3130.chunk.css",
-    "static/js/main.715efa7b.chunk.js"
+    "static/js/2.58d103d9.chunk.js",
+    "static/css/main.a1ed79de.chunk.css",
+    "static/js/main.88ebeecd.chunk.js"
   ]
 }

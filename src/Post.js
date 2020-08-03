@@ -46,9 +46,10 @@ class Post extends Component {
         console.log(this.props)
         return (
             <div>
-                <PostNavigator currentId={id} list={Object.keys(list_)} section={section}/>
                 <div className="post-img-container">
+                    <PostNavigator currentId={id} list={Object.keys(list_)} section={section}/>
                     <img src={require(`./img/comic/${id}.png`)} alt={list_[id].name}/>
+                    <PostNavigator currentId={id} list={Object.keys(list_)} section={section}/>
                     <div>
                         <p className="name">{list_[id].name}</p>
                         <p className="date">{list_[id].date}</p>
@@ -57,7 +58,6 @@ class Post extends Component {
                         })}
                     </div>
                 </div>
-                <PostNavigator currentId={id} list={Object.keys(list_)} section={section}/>
             </div>
         );
     }

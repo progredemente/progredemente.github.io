@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f9e0cc3194aa1e686bcc2a53edd1ad2",
+    "revision": "f42347bc34df231fe51b65975c27cb4c",
     "url": "/index.html"
   },
   {
-    "revision": "6b6d78cb00a0cbe89fc1",
-    "url": "/static/css/main.a1ed79de.chunk.css"
+    "revision": "9b69a65248fcf3462884",
+    "url": "/static/css/main.e269b368.chunk.css"
   },
   {
-    "revision": "eee89c3715784f68bd63",
-    "url": "/static/js/2.58d103d9.chunk.js"
+    "revision": "4c3911a293e62c0a0c77",
+    "url": "/static/js/2.e881cd68.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.58d103d9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e881cd68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b6d78cb00a0cbe89fc1",
-    "url": "/static/js/main.88ebeecd.chunk.js"
+    "revision": "9b69a65248fcf3462884",
+    "url": "/static/js/main.f2f10bc4.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -204,8 +204,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/portugal_oeste.86c64353.png"
   },
   {
-    "revision": "bccfd4ed2d62177fff8a814d51aa709a",
-    "url": "/static/media/progremon_0.bccfd4ed.png"
+    "revision": "61cb08bdf832118942e8223e7d7bcf71",
+    "url": "/static/media/progremon_0.61cb08bd.png"
   },
   {
     "revision": "d49be42667b5dfc4b025e5f1e7f85254",
@@ -216,8 +216,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/progremon_2.9fc08c5f.png"
   },
   {
-    "revision": "2df0e163d830a62ac9dc9b9985718b98",
-    "url": "/static/media/progremon_banner.2df0e163.png"
+    "revision": "ccc508361a99e4c77469a406f7d93200",
+    "url": "/static/media/progremon_banner.ccc50836.png"
   },
   {
     "revision": "b99827a9af3b20387ed49f46252c2ef3",
@@ -250,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "56e2702d9eb099631e0022e27444bb51",
     "url": "/static/media/terf_vs_trans_2.56e2702d.png"
+  },
+  {
+    "revision": "ad2a1df1c14eb3385b0c212bd5bcbc7d",
+    "url": "/static/media/terf_vs_trans_banner.ad2a1df1.png"
   },
   {
     "revision": "a825be63fe1dc77a8b82ec8f27069f4f",

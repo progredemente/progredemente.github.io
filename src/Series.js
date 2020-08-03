@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Series.css';
 import {Link} from 'react-router-dom';
 import progremonBanner from './img/banners/progremon_banner.png';
+import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
  
 class Series extends Component {
     render() {
@@ -16,7 +17,9 @@ class Series extends Component {
                     <Link to="/smash">Smash</Link>
                 </div>
                 <div>
-                    <Link to="/terf_vs_trans">TERF vs trans</Link>
+                    <Link to="/terf_vs_trans">
+                        <img src={terfVsTransBanner} alt="TERF vs trans"></img>
+                    </Link>
                 </div>
             </div>
         );

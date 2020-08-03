@@ -1,7 +1,8 @@
 .series-container {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: calc(50% - 10px) calc(50% - 10px);
     grid-template-rows: auto;
+    grid-gap: 20px;
 }
 
 .series-container > div img {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f42347bc34df231fe51b65975c27cb4c",
+    "revision": "f2fca6e32809cb90bcaf512b111ac5ea",
     "url": "/index.html"
   },
   {
-    "revision": "9b69a65248fcf3462884",
+    "revision": "bcaf0a9518fade716e34",
     "url": "/static/css/main.e269b368.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e881cd68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b69a65248fcf3462884",
-    "url": "/static/js/main.f2f10bc4.chunk.js"
+    "revision": "bcaf0a9518fade716e34",
+    "url": "/static/js/main.9a8be002.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d82637075c68ebe2e23209201e11134",
     "url": "/static/media/gafas_moradas.9d826370.png"
+  },
+  {
+    "revision": "cd062762ac8bc32d50cd8c109ef5afad",
+    "url": "/static/media/galanchez.cd062762.png"
   },
   {
     "revision": "5cd678e4285d79e956151515dc5173f5",

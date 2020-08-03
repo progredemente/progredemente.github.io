@@ -172,7 +172,7 @@
         "name": "Apagón Vultural",
         "date": "2020/04/10",
         "description": [
-            "La vergüenza ajena que da uno de los sectores más progre alcanza límites nunca vistos. ¿Creéis que servirá para algo este \"apagón cultural\"? ¿Hará caso el gobierno a esta chorrada? Hagan sus apuestas."
+            "La vergüenza ajena que da uno de los sectores más progres alcanza límites nunca vistos. ¿Creéis que servirá para algo este \"apagón cultural\"? ¿Hará caso el gobierno a esta chorrada? Hagan sus apuestas."
         ]
     },
     "veleta": {
@@ -186,7 +186,7 @@
         "name": "Gafas moradas",
         "date": "2020/04/23",
         "description": [
-            "Ponte las gafas moradas! ¡Es súper útil para señalar todo tipo de problemas irreales y para nunca más volver a disfrutar de cosas como el cine o la compañía de otras personas, porque sobreanalizarás cada cosa que se diga y que se haga como haría alguien propio de la época de la Inquisición!"
+            "¡Ponte las gafas moradas! ¡Es súper útil para señalar todo tipo de problemas irreales y para nunca más volver a disfrutar de cosas como el cine o la compañía de otras personas, porque sobreanalizarás cada cosa que se diga y que se haga como haría alguien propio de la época de la Inquisición!"
         ]
     },
     "gente_irresponsable": {
@@ -389,6 +389,13 @@
         "date": "2020/07/31",
         "description": [
             "¿Para qué esforzarse pudiendo pertenecer a un \"colectivo oprimido\"? Obligarán a las empresas a que te contraten para cumplir una cuota absurda y no hará falta ni que trabajes, ya se ocuparán los del \"colectivo opresor\" de trabajar, pues tendrá más incentivos que tú para hacerlo, principalmente el miedo al despido."
+        ]
+    },
+    "galanchez": {
+        "name": "Galánchez",
+        "date": "2020/08/03",
+        "description": [
+            "¡Arrodillaos ante Galánchez, devorador de fondos europeos, y su heraldo Simón Surfer! No le llega con los contribuyentes españoles, ahora también con los europeos, ¡y pronto los de todo el mundo!"
         ]
     }
 }

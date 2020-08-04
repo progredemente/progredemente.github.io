@@ -397,5 +397,12 @@
         "description": [
             "¡Arrodillaos ante Galánchez, devorador de fondos europeos, y su heraldo Simón Surfer! No le llega con los contribuyentes españoles, ahora también con los europeos, ¡y pronto los de todo el mundo!"
         ]
+    },
+    "doble_vara": {
+        "name": "La doble vara de medir",
+        "date": "2020/08/05",
+        "description": [
+            "Si lo hace el enemigo es un prófugo, si lo hace el amigo es un exiliado. Se les va a gastar la doble vara de medir."
+        ]
     }
 }

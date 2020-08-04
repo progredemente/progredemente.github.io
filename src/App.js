@@ -46,7 +46,7 @@ function App() {
                     <Link to="/">Inicio</Link>
                     <Link to="/series">Series</Link>
                     <Link to="/archivo">Archivo</Link>
-                    <Link to="/sobre_mi">Sobre mí</Link>
+                    <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
                 </nav>
                 <section>
                     <Switch>

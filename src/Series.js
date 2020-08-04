@@ -7,6 +7,8 @@ import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 class Series extends Component {
     render() {
         return (
+            <>
+            <h1 className="section-title">Series</h1>
             <div className="series-container">
                 <div>
                     <Link to="/progremon">
@@ -22,6 +24,7 @@ class Series extends Component {
                     </Link>
                 </div>
             </div>
+            </>
         );
     }
 }

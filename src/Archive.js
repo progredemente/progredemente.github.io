@@ -6,6 +6,8 @@ import list from './list.json';
 class Archive extends Component {
     render() {
         return (
+            <>
+            <h1 className="section-title">Archivo</h1>
             <ul>
                 {
                     Object.keys(list).map((key) => {
@@ -15,6 +17,7 @@ class Archive extends Component {
                     })
                 }
             </ul>
+            </>
         );
     }
 }

@@ -10,6 +10,7 @@ import list from './list.json';
 import Post from './Post';
 import Archive from './Archive';
 import Series from './Series';
+import About from './About';
 import {
     HashRouter as Router,
     Switch,
@@ -45,6 +46,7 @@ function App() {
                     <Link to="/">Inicio</Link>
                     <Link to="/series">Series</Link>
                     <Link to="/archivo">Archivo</Link>
+                    <Link to="/sobre_mi">Sobre mí</Link>
                 </nav>
                 <section>
                     <Switch>
@@ -97,6 +99,9 @@ function App() {
                                 )
                             }
                         }/>
+                        <Route exact path="/sobre_mi">
+                            <About></About>
+                        </Route>
                     </Switch>
                 </section>
                 <footer>© 2020 progredemente</footer>

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a166922b051d1ce1664c7cbcae8e3f8",
+    "revision": "91257bf3c3a3855ec2b82a929826031c",
     "url": "/index.html"
   },
   {
-    "revision": "b32047fee30afb47ae9c",
-    "url": "/static/css/main.82fb985e.chunk.css"
+    "revision": "ae74e2e32648901face5",
+    "url": "/static/css/main.cbb742e4.chunk.css"
   },
   {
     "revision": "4c3911a293e62c0a0c77",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e881cd68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b32047fee30afb47ae9c",
+    "revision": "ae74e2e32648901face5",
     "url": "/static/js/main.20b5d85c.chunk.js"
   },
   {
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "261d5d1a69206ce11e6db5a43f54e3ec",
     "url": "/static/media/autoridad_sanitaria.261d5d1a.png"
+  },
+  {
+    "revision": "5c1476f6f4032fcb14ad6f3264e1a588",
+    "url": "/static/media/background.5c1476f6.png"
   },
   {
     "revision": "d727d7b5a203b8819d7b1bc418aa6f7a",

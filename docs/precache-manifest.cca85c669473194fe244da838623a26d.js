@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdef84ea9cfd0a24d44258365ba4fe0d",
+    "revision": "be58f772122560653727f6f4088f5429",
     "url": "/index.html"
   },
   {
-    "revision": "0c1b3cd0579bc190f8e2",
+    "revision": "a89f8a2942a5016c34d7",
     "url": "/static/css/main.cfb97b27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c067769c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c1b3cd0579bc190f8e2",
-    "url": "/static/js/main.d054e878.chunk.js"
+    "revision": "a89f8a2942a5016c34d7",
+    "url": "/static/js/main.704bf821.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b2190c680327297f3cba0f514df5e3b",
     "url": "/static/media/alerta_antifascista_animado.2b2190c6.mp4"
+  },
+  {
+    "revision": "10b56aa6f62a7a3342a8f48b898ddee0",
+    "url": "/static/media/alvarez_de_hyrule.10b56aa6.png"
   },
   {
     "revision": "aaeb43681ba128e4adf1fef5d0274b00",

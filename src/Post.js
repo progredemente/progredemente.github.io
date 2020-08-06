@@ -36,7 +36,8 @@ class Post extends Component {
                         "ortega_snake": list["ortega_snake"],
                         "little_mireia": list["little_mireia"],
                         "young_inigo": list["young_inigo"],
-                        "duquemar": list["duquemar"]
+                        "duquemar": list["duquemar"],
+                        "alvarez_de_hyrule": list["alvarez_de_hyrule"]
                     }
                     break;
                 case "terf_vs_trans":

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cfb97b27.chunk.css",
-    "main.js": "/static/js/main.d054e878.chunk.js",
-    "main.js.map": "/static/js/main.d054e878.chunk.js.map",
+    "main.js": "/static/js/main.704bf821.chunk.js",
+    "main.js.map": "/static/js/main.704bf821.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.c067769c.chunk.js": "/static/js/2.c067769c.chunk.js",
     "static/js/2.c067769c.chunk.js.map": "/static/js/2.c067769c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0e6a6bd9723ce86e69b01665f530d920.js": "/precache-manifest.0e6a6bd9723ce86e69b01665f530d920.js",
+    "precache-manifest.cca85c669473194fe244da838623a26d.js": "/precache-manifest.cca85c669473194fe244da838623a26d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cfb97b27.chunk.css.map": "/static/css/main.cfb97b27.chunk.css.map",
     "static/js/2.c067769c.chunk.js.LICENSE.txt": "/static/js/2.c067769c.chunk.js.LICENSE.txt",
@@ -16,6 +16,7 @@
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
     "static/media/alerta_antifascista_animado.mp4": "/static/media/alerta_antifascista_animado.2b2190c6.mp4",
+    "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.10b56aa6.png",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.261d5d1a.png",
@@ -81,6 +82,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.c067769c.chunk.js",
     "static/css/main.cfb97b27.chunk.css",
-    "static/js/main.d054e878.chunk.js"
+    "static/js/main.704bf821.chunk.js"
   ]
 }

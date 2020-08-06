@@ -404,5 +404,12 @@
         "description": [
             "Si lo hace el enemigo es un prófugo, si lo hace el amigo es un exiliado. Se les va a gastar la doble vara de medir."
         ]
+    },
+    "alvarez_de_hyrule": {
+        "name": "Álvarez de Hyrule",
+        "date": "2020/08/06",
+        "description": [
+            "¡Álvarez de Hyrule se une al plantel!"
+        ]
     }
 }

@@ -6,6 +6,7 @@ import twitter from './img/social/twitter.png';
 import gab from './img/social/gab.png';
 import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
+import smashBanner from './img/banners/smash_banner.png';
 import list from './list.json';
 import Post from './Post';
 import Archive from './Archive';
@@ -82,7 +83,7 @@ function App() {
                             (props) => {
                                 return (
                                     <div>
-                                        <h1>Smash</h1>
+                                        <img className="banner" src={smashBanner} alt="Spanish Smash Politics"/>
                                         <Post {...props}/>
                                     </div>
                                 )

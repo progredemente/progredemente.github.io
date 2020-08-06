@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.cfb97b27.chunk.css",
-    "main.js": "/static/js/main.704bf821.chunk.js",
-    "main.js.map": "/static/js/main.704bf821.chunk.js.map",
+    "main.js": "/static/js/main.df1533a9.chunk.js",
+    "main.js.map": "/static/js/main.df1533a9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c067769c.chunk.js": "/static/js/2.c067769c.chunk.js",
-    "static/js/2.c067769c.chunk.js.map": "/static/js/2.c067769c.chunk.js.map",
+    "static/js/2.2f706c2e.chunk.js": "/static/js/2.2f706c2e.chunk.js",
+    "static/js/2.2f706c2e.chunk.js.map": "/static/js/2.2f706c2e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cca85c669473194fe244da838623a26d.js": "/precache-manifest.cca85c669473194fe244da838623a26d.js",
+    "precache-manifest.7307c5c0765f7d152511d319c545ab0f.js": "/precache-manifest.7307c5c0765f7d152511d319c545ab0f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cfb97b27.chunk.css.map": "/static/css/main.cfb97b27.chunk.css.map",
-    "static/js/2.c067769c.chunk.js.LICENSE.txt": "/static/js/2.c067769c.chunk.js.LICENSE.txt",
+    "static/js/2.2f706c2e.chunk.js.LICENSE.txt": "/static/js/2.2f706c2e.chunk.js.LICENSE.txt",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
@@ -68,6 +68,7 @@
     "static/media/renta_basica.png": "/static/media/renta_basica.b99827a9.png",
     "static/media/runner.png": "/static/media/runner.7c3f2b8c.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
+    "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sube_el_pan.png": "/static/media/sube_el_pan.e6bf4868.png",
     "static/media/subida_impuestos.png": "/static/media/subida_impuestos.e462ed5d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.6114ba7c.png",
@@ -80,8 +81,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c067769c.chunk.js",
+    "static/js/2.2f706c2e.chunk.js",
     "static/css/main.cfb97b27.chunk.css",
-    "static/js/main.704bf821.chunk.js"
+    "static/js/main.df1533a9.chunk.js"
   ]
 }

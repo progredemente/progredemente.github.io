@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be58f772122560653727f6f4088f5429",
+    "revision": "93a9bab30f860d9b3e93a711074c46d0",
     "url": "/index.html"
   },
   {
-    "revision": "a89f8a2942a5016c34d7",
+    "revision": "9f6b637e12bcb0a9ff0b",
     "url": "/static/css/main.cfb97b27.chunk.css"
   },
   {
-    "revision": "224fd43fe6cc3c79cfc1",
-    "url": "/static/js/2.c067769c.chunk.js"
+    "revision": "c97714b1541e565ca8ab",
+    "url": "/static/js/2.2f706c2e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.c067769c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2f706c2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a89f8a2942a5016c34d7",
-    "url": "/static/js/main.704bf821.chunk.js"
+    "revision": "9f6b637e12bcb0a9ff0b",
+    "url": "/static/js/main.df1533a9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -250,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9db2dcdd0dd5c6c55db68f01347d394",
     "url": "/static/media/saqueo_minneapolis.f9db2dcd.png"
+  },
+  {
+    "revision": "76e7f98bffd311ceacc5bd8f3c658657",
+    "url": "/static/media/smash_banner.76e7f98b.png"
   },
   {
     "revision": "e6bf4868f388df5a46d20be643b6a7e2",

@@ -2,6 +2,32 @@
     max-width: 100%;
     padding: 0 10px;
     box-sizing: border-box;
+    position: relative;
+}
+
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.loading > div {
+    height: 100px;
+    width: 100px;
+    border: 8px solid black;
+    border-color: black black black transparent;
+    border-radius: 50%;
+    animation: loading 1s linear infinite;
+}
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 .name {
@@ -12,4 +38,8 @@
 .date {
     font-size: 1.25em;
     margin: 0;
+}
+
+.hidden {
+    display: none;
 }

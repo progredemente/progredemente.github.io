@@ -11,6 +11,7 @@ import Post from './Post';
 import Archive from './Archive';
 import Series from './Series';
 import About from './About';
+import Animation from './Animation';
 import {
     HashRouter as Router,
     Switch,
@@ -45,13 +46,14 @@ function App() {
                 <nav id="menu">
                     <Link to="/">Inicio</Link>
                     <Link to="/series">Series</Link>
+                    <Link to="/animacion">Animación</Link>
                     <Link to="/archivo">Archivo</Link>
                     <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
                 </nav>
                 <section>
                     <Switch>
                         <Route exact path="/">
-                            <Post id={Object.keys(list)[Object.keys(list).length - 1]}/>
+                            <Redirect to={`/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>
                         </Route>
                         <Route exact path="/post/:id" component={Post}/>
                         <Route exact path="/series">
@@ -101,6 +103,9 @@ function App() {
                         }/>
                         <Route exact path="/sobre_mi">
                             <About></About>
+                        </Route>
+                        <Route exact path="/animacion">
+                            <Animation></Animation>
                         </Route>
                     </Switch>
                 </section>

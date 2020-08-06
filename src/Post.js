@@ -4,9 +4,14 @@ import './Post.css';
 import PostNavigator from './PostNavigator'
  
 class Post extends Component {
+    state = { load: false }
+
+    changeImg() {
+        this.setState({ load: false });
+    }
+
     render() {
-        console.log(this.props);
-        let id = this.props.id || this.props.match.params.id;
+        let id = this.props.match.params.id;
         let list_ = list;
         let section = "post";
         if(this.props.match !== undefined) {
@@ -40,16 +45,21 @@ class Post extends Component {
                             "terf_vs_trans_2": list["terf_vs_trans_2"]
                         }
                     break;
+                default:
+                    break;
             }
         }
-        console.log(this.props);
-        console.log(this.props)
         return (
             <div>
                 <div className="post-img-container">
-                    <PostNavigator currentId={id} list={Object.keys(list_)} section={section}/>
-                    <img src={require(`./img/comic/${id}.png`)} alt={list_[id].name}/>
-                    <PostNavigator currentId={id} list={Object.keys(list_)} section={section}/>
+                    <PostNavigator currentId={id} list={Object.keys(list_)} section={section} changeImg={this.changeImg.bind(this)}/>
+                    <div className={ this.state.load ? "loading hidden": "loading" }>
+                        <div></div>
+                    </div>
+                    <img className={ this.state.load ? "": "hidden" } src={require(`./img/comic/${id}.png`)} alt={list_[id].name} onLoad={ () => {
+                         this.setState({ load: true })
+                     } }/>
+                    <PostNavigator currentId={id} list={Object.keys(list_)} section={section} changeImg={this.changeImg.bind(this)}/>
                     <div>
                         <p className="name">{list_[id].name}</p>
                         <p className="date">{list_[id].date}</p>

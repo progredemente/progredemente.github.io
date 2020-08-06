@@ -38,10 +38,8 @@
 }
 
 #menu {
-    margin: 10px 0;
-    font-size: 1.5em;
     display: flex;
-    overflow-x: auto;
+    flex-wrap: wrap;
 }
 
 #menu a {
@@ -52,6 +50,7 @@
     padding: 5px 10px;
     margin: 0 10px;
     background-color: white;
+    margin: 10px 10px;
 }
 
 .banner {

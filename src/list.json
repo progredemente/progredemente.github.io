@@ -411,5 +411,12 @@
         "description": [
             "¡Álvarez de Hyrule se une al plantel!"
         ]
+    },
+    "sube_el_contador": {
+        "name": "Cuando sube el contador...",
+        "date": "2020/08/08",
+        "description": [
+            "¿Es solo impresión mía o cada vez que sale una noticia donde la víctima es una mujer parece que lo celebran más de lo que lo condenan? Ni que se les fuera el salario en ello..."
+        ]
     }
 }

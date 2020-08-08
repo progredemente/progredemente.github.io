@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cfb97b27.chunk.css",
-    "main.js": "/static/js/main.df1533a9.chunk.js",
-    "main.js.map": "/static/js/main.df1533a9.chunk.js.map",
+    "main.js": "/static/js/main.4118a9f5.chunk.js",
+    "main.js.map": "/static/js/main.4118a9f5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.2f706c2e.chunk.js": "/static/js/2.2f706c2e.chunk.js",
     "static/js/2.2f706c2e.chunk.js.map": "/static/js/2.2f706c2e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7307c5c0765f7d152511d319c545ab0f.js": "/precache-manifest.7307c5c0765f7d152511d319c545ab0f.js",
+    "precache-manifest.753a605666c890c245e19d825ad59aa5.js": "/precache-manifest.753a605666c890c245e19d825ad59aa5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cfb97b27.chunk.css.map": "/static/css/main.cfb97b27.chunk.css.map",
     "static/js/2.2f706c2e.chunk.js.LICENSE.txt": "/static/js/2.2f706c2e.chunk.js.LICENSE.txt",
@@ -69,6 +69,7 @@
     "static/media/runner.png": "/static/media/runner.7c3f2b8c.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
+    "static/media/sube_el_contador.png": "/static/media/sube_el_contador.d22180a3.png",
     "static/media/sube_el_pan.png": "/static/media/sube_el_pan.e6bf4868.png",
     "static/media/subida_impuestos.png": "/static/media/subida_impuestos.e462ed5d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.6114ba7c.png",
@@ -83,6 +84,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.2f706c2e.chunk.js",
     "static/css/main.cfb97b27.chunk.css",
-    "static/js/main.df1533a9.chunk.js"
+    "static/js/main.4118a9f5.chunk.js"
   ]
 }

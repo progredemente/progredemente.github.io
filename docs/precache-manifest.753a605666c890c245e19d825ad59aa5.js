@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93a9bab30f860d9b3e93a711074c46d0",
+    "revision": "396767048bce51949a4a681cb1d07f5f",
     "url": "/index.html"
   },
   {
-    "revision": "9f6b637e12bcb0a9ff0b",
+    "revision": "3f75220e33800425855b",
     "url": "/static/css/main.cfb97b27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2f706c2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f6b637e12bcb0a9ff0b",
-    "url": "/static/js/main.df1533a9.chunk.js"
+    "revision": "3f75220e33800425855b",
+    "url": "/static/js/main.4118a9f5.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -254,6 +254,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76e7f98bffd311ceacc5bd8f3c658657",
     "url": "/static/media/smash_banner.76e7f98b.png"
+  },
+  {
+    "revision": "d22180a35638d30a40b917c4887880ae",
+    "url": "/static/media/sube_el_contador.d22180a3.png"
   },
   {
     "revision": "e6bf4868f388df5a46d20be643b6a7e2",

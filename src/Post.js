@@ -43,7 +43,8 @@ class Post extends Component {
                 case "terf_vs_trans":
                         list_ = {
                             "terf_vs_trans_1": list["terf_vs_trans_1"],
-                            "terf_vs_trans_2": list["terf_vs_trans_2"]
+                            "terf_vs_trans_2": list["terf_vs_trans_2"],
+                            "terf_vs_trans_3": list["terf_vs_trans_3"]
                         }
                     break;
                 default:

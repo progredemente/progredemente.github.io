@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.cfb97b27.chunk.css",
-    "main.js": "/static/js/main.4118a9f5.chunk.js",
-    "main.js.map": "/static/js/main.4118a9f5.chunk.js.map",
+    "main.js": "/static/js/main.610fb3c0.chunk.js",
+    "main.js.map": "/static/js/main.610fb3c0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2f706c2e.chunk.js": "/static/js/2.2f706c2e.chunk.js",
-    "static/js/2.2f706c2e.chunk.js.map": "/static/js/2.2f706c2e.chunk.js.map",
+    "static/js/2.09361b3f.chunk.js": "/static/js/2.09361b3f.chunk.js",
+    "static/js/2.09361b3f.chunk.js.map": "/static/js/2.09361b3f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.753a605666c890c245e19d825ad59aa5.js": "/precache-manifest.753a605666c890c245e19d825ad59aa5.js",
+    "precache-manifest.91e46fec2395614ed3eabd6f411274de.js": "/precache-manifest.91e46fec2395614ed3eabd6f411274de.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cfb97b27.chunk.css.map": "/static/css/main.cfb97b27.chunk.css.map",
-    "static/js/2.2f706c2e.chunk.js.LICENSE.txt": "/static/js/2.2f706c2e.chunk.js.LICENSE.txt",
+    "static/js/2.09361b3f.chunk.js.LICENSE.txt": "/static/js/2.09361b3f.chunk.js.LICENSE.txt",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
@@ -75,6 +75,7 @@
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.6114ba7c.png",
     "static/media/terf_vs_trans_1.png": "/static/media/terf_vs_trans_1.d980a893.png",
     "static/media/terf_vs_trans_2.png": "/static/media/terf_vs_trans_2.56e2702d.png",
+    "static/media/terf_vs_trans_3.png": "/static/media/terf_vs_trans_3.76c31731.png",
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
     "static/media/veleta.png": "/static/media/veleta.5375f573.png",
@@ -82,8 +83,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2f706c2e.chunk.js",
+    "static/js/2.09361b3f.chunk.js",
     "static/css/main.cfb97b27.chunk.css",
-    "static/js/main.4118a9f5.chunk.js"
+    "static/js/main.610fb3c0.chunk.js"
   ]
 }

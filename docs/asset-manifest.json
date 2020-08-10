@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cfb97b27.chunk.css",
-    "main.js": "/static/js/main.610fb3c0.chunk.js",
-    "main.js.map": "/static/js/main.610fb3c0.chunk.js.map",
+    "main.js": "/static/js/main.7e3d807e.chunk.js",
+    "main.js.map": "/static/js/main.7e3d807e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.09361b3f.chunk.js": "/static/js/2.09361b3f.chunk.js",
     "static/js/2.09361b3f.chunk.js.map": "/static/js/2.09361b3f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91e46fec2395614ed3eabd6f411274de.js": "/precache-manifest.91e46fec2395614ed3eabd6f411274de.js",
+    "precache-manifest.749df8745befc9956b8233ca3083cbfe.js": "/precache-manifest.749df8745befc9956b8233ca3083cbfe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cfb97b27.chunk.css.map": "/static/css/main.cfb97b27.chunk.css.map",
     "static/js/2.09361b3f.chunk.js.LICENSE.txt": "/static/js/2.09361b3f.chunk.js.LICENSE.txt",
@@ -79,12 +79,13 @@
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
     "static/media/veleta.png": "/static/media/veleta.5375f573.png",
+    "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.6e7bce0e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.09361b3f.chunk.js",
     "static/css/main.cfb97b27.chunk.css",
-    "static/js/main.610fb3c0.chunk.js"
+    "static/js/main.7e3d807e.chunk.js"
   ]
 }

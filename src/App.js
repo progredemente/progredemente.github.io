@@ -7,6 +7,7 @@ import gab from './img/social/gab.png';
 import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
+import memesBanner from './img/banners/memes_banner.png';
 import list from './list.json';
 import Post from './Post';
 import Archive from './Archive';
@@ -97,6 +98,19 @@ function App() {
                                 return (
                                     <div>
                                         <img className="banner" src={terfVsTransBanner} alt="TERF vs trans"/>
+                                        <Post {...props}/>
+                                    </div>
+                                )
+                            }
+                        }/>
+                        <Route exact path="/memes">
+                            <Redirect to="/memes/bici"/>
+                        </Route>
+                        <Route exact path="/memes/:id" component={
+                            (props) => {
+                                return (
+                                    <div>
+                                        <img className="banner" src={memesBanner} alt="Basado en memes"/>
                                         <Post {...props}/>
                                     </div>
                                 )

@@ -11,7 +11,8 @@
         "date": "2020/01/16",
         "description": [
             "Si usásemos esta lógica en el día a día seguiríamos en la edad de piedra, aunque hay gente que lo preferiría."
-        ]
+        ],
+        "series": ["memes"]
     },
     "alerta_antifascista": {
         "name": "Alerta antifascista",
@@ -39,7 +40,8 @@
         "date": "2020/02/03",
         "description": [
             "¿Qué pasaría si se colase un progre en el mundo Pokémon? Yo me imagino algo así. Tengo más ideas para más viñetas, así que habrá mínimo una segunda parte."
-        ]
+        ],
+        "series": ["progremon"]
     },
     "guaido": {
         "name": "Guaidó",
@@ -74,21 +76,24 @@
         "date": "2020/03/15",
         "description": [
             "¡Captain Faconetti se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "pabluigi": {
         "name": "Pabluigi",
         "date": "2020/03/18",
         "description": [
             "¡Pabluigi se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "progremon_2": {
         "name": "Progrémon 2",
         "date": "2020/03/19",
         "description": [
             "¡Segunda entrega de las aventuras de un progre en el mundo Pokémon! La viñeta del jynx está ligeramente basado en hechos reales, buscad \"jynx blackface\" en Google."
-        ]
+        ],
+        "series": ["progremon"]
     },
     "caceroladas": {
         "name": "Caceroladas",
@@ -102,7 +107,8 @@
         "date": "2020/03/20",
         "description": [
             "¡Koopanique se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "carencias": {
         "name": "Carencias",
@@ -124,7 +130,8 @@
         "description": [
             "¡Ortega Snake se une al plantel!",
             "Idea de un colega."
-        ]
+        ],
+        "series": ["smash"]
     },
     "autoridad_sanitaria": {
         "name": "Autoridad sanitaria",
@@ -138,21 +145,24 @@
         "date": "2020/03/31",
         "description": [
             "Seguro que las reuniones del Consejo de Ministros y con los \"expertos\" son brainstormings de excusas y tácticas de evasión."
-        ]
+        ],
+        "series": ["memes"]
     },
     "little_mireia": {
         "name": "Little Mireia",
         "date": "2020/04/03",
         "description": [
             "¡Little Mireia se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "young_inigo": {
         "name": "Young Íñigo",
         "date": "2020/04/04",
         "description": [
             "¡Young Íñigo se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "mismo_sentido": {
         "name": "Mismo sentido",
@@ -218,7 +228,8 @@
         "date": "2020/05/05",
         "description": [
             "¡El Feministerio ha hablado! Lo siento por las TERFs... realmente no."
-        ]
+        ],
+        "series": ["terf_vs_trans"]
     },
     "portugal_oeste": {
         "name": "Portugal está \"más al oeste\"",
@@ -303,7 +314,8 @@
         "date": "2020/06/12",
         "description": [
             "¡Parece que el Desgobierno y el Feministerio discrepan ideológicamente! ¿Quién ganará la batalla?"
-        ]
+        ],
+        "series": ["terf_vs_trans"]
     },
     "boot_facha": {
         "name": "Boot facha",
@@ -347,7 +359,8 @@
         "date": "2020/07/01",
         "description": [
             "Para quien no entienda la referencia: \"harry el sucio potter\" en YT, vídeo del Bananero. ¡Sapee!"
-        ]
+        ],
+        "series": ["memes"]
     },
     "subida_impuestos": {
         "name": "Subida de impuestos",
@@ -382,7 +395,8 @@
         "date": "2020/07/27",
         "description": [
             "¡Duquemar se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "cuotas": {
         "name": "Cuotas",
@@ -410,7 +424,8 @@
         "date": "2020/08/06",
         "description": [
             "¡Álvarez de Hyrule se une al plantel!"
-        ]
+        ],
+        "series": ["smash"]
     },
     "sube_el_contador": {
         "name": "Cuando sube el contador...",
@@ -424,7 +439,8 @@
         "date": "2020/08/10",
         "description": [
             "¡La lucha continúa! ¡La representante del Desgobierno intenta asestar un golpe letal, pero el Feministerio tiene algún que otro as en la manga!"
-        ]
+        ],
+        "series": ["terf_vs_trans"]
     },
     "volver_a_empezar": {
         "name": "Volver a empezar",

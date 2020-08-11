@@ -2,6 +2,24 @@ import React, { Component } from 'react';
 import list from './list.json';
 import './Post.css';
 import PostNavigator from './PostNavigator'
+
+let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
+    let postNames = Object.keys(posts);
+    let filteredPostNames = postNames.filter((postName) => {
+        if(posts[postName].series === undefined){
+            return false;
+        }
+        return posts[postName].series.includes(seriesName);
+    });
+    let retPosts = {}
+    if(initialPost !== undefined && initialPostName !== undefined) {
+        retPosts[initialPostName] = initialPost;
+    }
+    for(let postName of filteredPostNames){
+        retPosts[postName] = posts[postName];
+    }
+    return retPosts;
+}
  
 class Post extends Component {
     state = { load: false }
@@ -16,39 +34,13 @@ class Post extends Component {
         let section = "post";
         if(this.props.match !== undefined) {
             section = this.props.match.url.split("/")[1];
-            switch(section){
-                case "progremon":
-                    list_ = {
-                        "progremon_0": {
-                            "name": null,
-                            "date": null,
-                            "description": []
-                        },
-                        "progremon_1": list["progremon_1"],
-                        "progremon_2": list["progremon_2"]
-                    }
-                    break;
-                case "smash":
-                    list_ = {
-                        "captain_falconetti": list["captain_falconetti"],
-                        "pabluigi": list["pabluigi"],
-                        "koopanique": list["koopanique"],
-                        "ortega_snake": list["ortega_snake"],
-                        "little_mireia": list["little_mireia"],
-                        "young_inigo": list["young_inigo"],
-                        "duquemar": list["duquemar"],
-                        "alvarez_de_hyrule": list["alvarez_de_hyrule"]
-                    }
-                    break;
-                case "terf_vs_trans":
-                        list_ = {
-                            "terf_vs_trans_1": list["terf_vs_trans_1"],
-                            "terf_vs_trans_2": list["terf_vs_trans_2"],
-                            "terf_vs_trans_3": list["terf_vs_trans_3"]
-                        }
-                    break;
-                default:
-                    break;
+            if(["memes", "progremon", "smash", "terf_vs_trans"].includes(section)){
+                if(section === "progremon"){
+                    list_ = filterPosts(list, section, { "name": null, "date": null, "description": [] }, "progremon_0");
+                }
+                else {
+                    list_ = filterPosts(list, section);
+                }
             }
         }
         return (

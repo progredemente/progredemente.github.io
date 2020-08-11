@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.cfb97b27.chunk.css",
-    "main.js": "/static/js/main.7e3d807e.chunk.js",
-    "main.js.map": "/static/js/main.7e3d807e.chunk.js.map",
+    "main.js": "/static/js/main.e74488d5.chunk.js",
+    "main.js.map": "/static/js/main.e74488d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.09361b3f.chunk.js": "/static/js/2.09361b3f.chunk.js",
-    "static/js/2.09361b3f.chunk.js.map": "/static/js/2.09361b3f.chunk.js.map",
+    "static/js/2.8f676036.chunk.js": "/static/js/2.8f676036.chunk.js",
+    "static/js/2.8f676036.chunk.js.map": "/static/js/2.8f676036.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.749df8745befc9956b8233ca3083cbfe.js": "/precache-manifest.749df8745befc9956b8233ca3083cbfe.js",
+    "precache-manifest.803768f6700ee4fdd2ec1c23c4aa4c1c.js": "/precache-manifest.803768f6700ee4fdd2ec1c23c4aa4c1c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cfb97b27.chunk.css.map": "/static/css/main.cfb97b27.chunk.css.map",
-    "static/js/2.09361b3f.chunk.js.LICENSE.txt": "/static/js/2.09361b3f.chunk.js.LICENSE.txt",
+    "static/js/2.8f676036.chunk.js.LICENSE.txt": "/static/js/2.8f676036.chunk.js.LICENSE.txt",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
@@ -52,6 +52,7 @@
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
+    "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/minifaldas.png": "/static/media/minifaldas.ca1208f0.png",
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/ortega_snake.png": "/static/media/ortega_snake.8dc98014.png",
@@ -84,8 +85,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.09361b3f.chunk.js",
+    "static/js/2.8f676036.chunk.js",
     "static/css/main.cfb97b27.chunk.css",
-    "static/js/main.7e3d807e.chunk.js"
+    "static/js/main.e74488d5.chunk.js"
   ]
 }

@@ -4,6 +4,7 @@ import {Link} from 'react-router-dom';
 import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
+import memesBanner from './img/banners/memes_banner.png';
  
 class Series extends Component {
     render() {
@@ -11,6 +12,11 @@ class Series extends Component {
             <>
             <h1 className="section-title">Series</h1>
             <div className="series-container">
+                <div>
+                    <Link to="/memes">
+                        <img src={memesBanner} alt="Basado en memes"></img>
+                    </Link>
+                </div>
                 <div>
                     <Link to="/progremon">
                         <img src={progremonBanner} alt="Progrémon"></img>

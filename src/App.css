@@ -13,7 +13,7 @@
 
 .main-header {
     display: flex;
-    padding: 10px 0;
+    padding: 20px 10px;
 }
 
 @media only screen and (max-width: 500px) {
@@ -58,4 +58,13 @@
     max-height: 100px;
     margin: auto;
     display: block;
+}
+
+.sections {
+    padding: 0 10px 10px;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
 }

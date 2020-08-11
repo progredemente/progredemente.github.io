@@ -52,7 +52,7 @@ function App() {
                     <Link to="/archivo">Archivo</Link>
                     <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
                 </nav>
-                <section>
+                <section className="sections">
                     <Switch>
                         <Route exact path="/">
                             <Redirect to={`/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>

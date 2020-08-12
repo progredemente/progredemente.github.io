@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "916441bfa3be8b8b9c29bb9f210bf373",
+    "revision": "e0d21ae7cb5cdbc14ba2c92e51be93fe",
     "url": "/index.html"
   },
   {
-    "revision": "14408d5fdfc526c2046e",
+    "revision": "8cd4e9485794ccbc3d71",
     "url": "/static/css/main.74e1baa7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8f676036.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14408d5fdfc526c2046e",
-    "url": "/static/js/main.94474c2c.chunk.js"
+    "revision": "8cd4e9485794ccbc3d71",
+    "url": "/static/js/main.39d9a60b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -270,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e462ed5d1d72024d2f47d0b1065fff8b",
     "url": "/static/media/subida_impuestos.e462ed5d.png"
+  },
+  {
+    "revision": "8344260a0dbfd210ac60b952b7fcabee",
+    "url": "/static/media/super_pablo.8344260a.png"
   },
   {
     "revision": "6114ba7cbd66155a37b4687a018bad21",

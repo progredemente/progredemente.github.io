@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0d21ae7cb5cdbc14ba2c92e51be93fe",
+    "revision": "4f72e74e41589faafbddba035c0faa6d",
     "url": "/index.html"
   },
   {
-    "revision": "8cd4e9485794ccbc3d71",
-    "url": "/static/css/main.74e1baa7.chunk.css"
+    "revision": "cd4c40045ae8400d3129",
+    "url": "/static/css/main.d75dd0ca.chunk.css"
   },
   {
     "revision": "b6055c6df29824c9d3cc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8f676036.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8cd4e9485794ccbc3d71",
-    "url": "/static/js/main.39d9a60b.chunk.js"
+    "revision": "cd4c40045ae8400d3129",
+    "url": "/static/js/main.704c97d0.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/chiringuito.b674b800.png"
   },
   {
-    "revision": "8bacc5de0c0644ea77b833a6f21eb669",
-    "url": "/static/media/comic_typo.8bacc5de.ttf"
+    "revision": "8e976b02082ca084a9cc2673a931230f",
+    "url": "/static/media/comic_typo.8e976b02.ttf"
   },
   {
     "revision": "d90cd7e3e9edea2302ca7e910af3f120",
@@ -302,6 +302,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5375f573bcbe1bdabafe66a806a2ac52",
     "url": "/static/media/veleta.5375f573.png"
+  },
+  {
+    "revision": "235262598e0e2a2fbfcfe08439b03eaa",
+    "url": "/static/media/vodkuna.23526259.png"
   },
   {
     "revision": "d0e4ea725daaac17609a5eb25359808c",

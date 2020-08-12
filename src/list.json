@@ -456,5 +456,12 @@
             "¡Vive la aventura de líder comunista con Super Pablo Bros.! ¡Hazte rico con las cajas B, destruye las malvadas tarjetas SD y adéntrate en las cloacas del Estado!",
             "Próximamente en tu economato de confianza, ¡si no está desabastecido cuando llegues!"
         ]
+    },
+    "vodkuna": {
+        "name": "Vodkuna",
+        "date": "2020/08/12",
+        "description": [
+            "¿Qué opináis de la temprana vacuna rusa? Yo lo único que quiero de Rusia es vodka en vena."
+        ]
     }
 }

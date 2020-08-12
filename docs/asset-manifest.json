@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.74e1baa7.chunk.css",
-    "main.js": "/static/js/main.39d9a60b.chunk.js",
-    "main.js.map": "/static/js/main.39d9a60b.chunk.js.map",
+    "main.css": "/static/css/main.d75dd0ca.chunk.css",
+    "main.js": "/static/js/main.704c97d0.chunk.js",
+    "main.js.map": "/static/js/main.704c97d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.8f676036.chunk.js": "/static/js/2.8f676036.chunk.js",
     "static/js/2.8f676036.chunk.js.map": "/static/js/2.8f676036.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3c963fe19119f063b852e6e145e0d9d9.js": "/precache-manifest.3c963fe19119f063b852e6e145e0d9d9.js",
+    "precache-manifest.442c8f7abf745ced93e0901663828c16.js": "/precache-manifest.442c8f7abf745ced93e0901663828c16.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.74e1baa7.chunk.css.map": "/static/css/main.74e1baa7.chunk.css.map",
+    "static/css/main.d75dd0ca.chunk.css.map": "/static/css/main.d75dd0ca.chunk.css.map",
     "static/js/2.8f676036.chunk.js.LICENSE.txt": "/static/js/2.8f676036.chunk.js.LICENSE.txt",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.3a06c4e9.png",
@@ -20,7 +20,7 @@
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.261d5d1a.png",
-    "static/media/index.css": "/static/media/comic_typo.8bacc5de.ttf",
+    "static/media/index.css": "/static/media/comic_typo.8e976b02.ttf",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bici.png": "/static/media/bici.815dbfbb.png",
     "static/media/billy_el_nino.png": "/static/media/billy_el_nino.11765071.png",
@@ -81,13 +81,14 @@
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
     "static/media/veleta.png": "/static/media/veleta.5375f573.png",
+    "static/media/vodkuna.png": "/static/media/vodkuna.23526259.png",
     "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.6e7bce0e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.8f676036.chunk.js",
-    "static/css/main.74e1baa7.chunk.css",
-    "static/js/main.39d9a60b.chunk.js"
+    "static/css/main.d75dd0ca.chunk.css",
+    "static/js/main.704c97d0.chunk.js"
   ]
 }

@@ -463,5 +463,13 @@
         "description": [
             "¿Qué opináis de la temprana vacuna rusa? Yo lo único que quiero de Rusia es vodka en vena."
         ]
+    },
+    "abaskong": {
+        "name": "Abaskong",
+        "date": "2020/08/06",
+        "description": [
+            "¡Abaskong se une al plantel!"
+        ],
+        "series": ["smash"]
     }
 }

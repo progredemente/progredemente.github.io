@@ -8,6 +8,7 @@ import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
 import memesBanner from './img/banners/memes_banner.png';
+import series from './series.json';
 import list from './list.json';
 import Post from './Post';
 import Archive from './Archive';
@@ -71,7 +72,7 @@ function App() {
                             (props) => {
                                 return (
                                     <div>
-                                        <img className="banner" src={progremonBanner} alt="Progrémon"/>
+                                        <img className="banner" src={progremonBanner} alt={series["progremon"]}/>
                                         <Post {...props}/>
                                     </div>
                                 )
@@ -84,7 +85,7 @@ function App() {
                             (props) => {
                                 return (
                                     <div>
-                                        <img className="banner" src={smashBanner} alt="Spanish Smash Politics"/>
+                                        <img className="banner" src={smashBanner} alt={series["smash"]}/>
                                         <Post {...props}/>
                                     </div>
                                 )
@@ -97,7 +98,7 @@ function App() {
                             (props) => {
                                 return (
                                     <div>
-                                        <img className="banner" src={terfVsTransBanner} alt="TERF vs trans"/>
+                                        <img className="banner" src={terfVsTransBanner} alt={series["terf_vs_trans"]}/>
                                         <Post {...props}/>
                                     </div>
                                 )
@@ -110,7 +111,7 @@ function App() {
                             (props) => {
                                 return (
                                     <div>
-                                        <img className="banner" src={memesBanner} alt="Basado en memes"/>
+                                        <img className="banner" src={memesBanner} alt={series["memes"]}/>
                                         <Post {...props}/>
                                     </div>
                                 )

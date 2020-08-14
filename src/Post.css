@@ -43,3 +43,14 @@
 .hidden {
     display: none;
 }
+
+.series-list {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.series-list img {
+    max-width: 150px;
+    margin: 0px 10px;
+}

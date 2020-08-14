@@ -8,8 +8,8 @@ class PostNavigator extends Component {
             <div className="navigator-container">
                 { this.props.list.indexOf(this.props.currentId) > 0 &&
                     <>
-                    <Link to={`/${this.props.section}/${this.props.list[0]}`} title="primero" onClick={this.props.changeImg}>&lt;&lt;</Link>
-                    <Link to={`/${this.props.section}/${this.props.list[this.props.list.indexOf(this.props.currentId) - 1]}`} title="anterior" onClick={this.props.changeImg}>&lt;</Link>
+                    <Link to={`/${this.props.series}/${this.props.list[0]}`} title="primero" onClick={this.props.changeImg}>&lt;&lt;</Link>
+                    <Link to={`/${this.props.series}/${this.props.list[this.props.list.indexOf(this.props.currentId) - 1]}`} title="anterior" onClick={this.props.changeImg}>&lt;</Link>
                     </>
                 }
                 { this.props.list.indexOf(this.props.currentId) === 0 &&
@@ -20,8 +20,8 @@ class PostNavigator extends Component {
                 }
                 { this.props.list.indexOf(this.props.currentId) < this.props.list.length - 1 &&
                     <>
-                    <Link to={`/${this.props.section}/${this.props.list[this.props.list.indexOf(this.props.currentId) + 1]}`} title="siguiente" onClick={this.props.changeImg}>&gt;</Link>
-                    <Link to={`/${this.props.section}/${this.props.list[this.props.list.length - 1]}`} title="último" onClick={this.props.changeImg}>&gt;&gt;</Link>
+                    <Link to={`/${this.props.series}/${this.props.list[this.props.list.indexOf(this.props.currentId) + 1]}`} title="siguiente" onClick={this.props.changeImg}>&gt;</Link>
+                    <Link to={`/${this.props.series}/${this.props.list[this.props.list.length - 1]}`} title="último" onClick={this.props.changeImg}>&gt;&gt;</Link>
                     </>
                 }
                 { this.props.list.indexOf(this.props.currentId) === this.props.list.length - 1 &&

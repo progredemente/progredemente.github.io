@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1cda5e81.chunk.css",
-    "main.js": "/static/js/main.82bb130d.chunk.js",
-    "main.js.map": "/static/js/main.82bb130d.chunk.js.map",
+    "main.js": "/static/js/main.ea0c6754.chunk.js",
+    "main.js.map": "/static/js/main.ea0c6754.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.8f676036.chunk.js": "/static/js/2.8f676036.chunk.js",
     "static/js/2.8f676036.chunk.js.map": "/static/js/2.8f676036.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.611be2fd1a715e02cb7f92b559403d52.js": "/precache-manifest.611be2fd1a715e02cb7f92b559403d52.js",
+    "precache-manifest.ab07d5a55d84941202bf38edaa59618e.js": "/precache-manifest.ab07d5a55d84941202bf38edaa59618e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1cda5e81.chunk.css.map": "/static/css/main.1cda5e81.chunk.css.map",
     "static/js/2.8f676036.chunk.js.LICENSE.txt": "/static/js/2.8f676036.chunk.js.LICENSE.txt",
@@ -29,6 +29,7 @@
     "static/media/borregos.png": "/static/media/borregos.e6a4d770.png",
     "static/media/cables.png": "/static/media/cables.1ad0bd79.png",
     "static/media/caceroladas.png": "/static/media/caceroladas.7c106758.png",
+    "static/media/caja_s.png": "/static/media/caja_s.77f8d21d.png",
     "static/media/captain_falconetti.png": "/static/media/captain_falconetti.2bce5969.png",
     "static/media/carencias.png": "/static/media/carencias.f316d1d6.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
@@ -90,6 +91,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.8f676036.chunk.js",
     "static/css/main.1cda5e81.chunk.css",
-    "static/js/main.82bb130d.chunk.js"
+    "static/js/main.ea0c6754.chunk.js"
   ]
 }

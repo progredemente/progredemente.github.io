@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2bc21e8579449d07478da2398ef55bf",
+    "revision": "aeb15b90d6d51af2aa04cbb5d08c0ad7",
     "url": "/index.html"
   },
   {
-    "revision": "455ed333ac7a31e71547",
+    "revision": "6d33a71a7628d31024ca",
     "url": "/static/css/main.1cda5e81.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8f676036.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "455ed333ac7a31e71547",
-    "url": "/static/js/main.82bb130d.chunk.js"
+    "revision": "6d33a71a7628d31024ca",
+    "url": "/static/js/main.ea0c6754.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7c106758699a000e5334a60f91139daf",
     "url": "/static/media/caceroladas.7c106758.png"
+  },
+  {
+    "revision": "77f8d21d616b60f42196de4c2b240114",
+    "url": "/static/media/caja_s.77f8d21d.png"
   },
   {
     "revision": "2bce59699ac186fb0177a3e7d701c972",

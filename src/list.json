@@ -471,5 +471,12 @@
             "¡Abaskong se une al plantel!"
         ],
         "series": ["smash"]
+    },
+    "caja_s": {
+        "name": "Caja \"S\"",
+        "date": "2020/08/14",
+        "description": [
+            "Es que no os enteráis, es una caja de solidaridad, para solidarizarse con el líder, no vaya a ser que no pueda pagarse la mansión, que todo el mundo tiene derecho a una, que lo pone en la constitución."
+        ]
     }
 }

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e610e92.chunk.css",
-    "main.js": "/static/js/main.8145899b.chunk.js",
-    "main.js.map": "/static/js/main.8145899b.chunk.js.map",
+    "main.css": "/static/css/main.c4731e2a.chunk.css",
+    "main.js": "/static/js/main.5a12db3b.chunk.js",
+    "main.js.map": "/static/js/main.5a12db3b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.86534d2e.chunk.js": "/static/js/2.86534d2e.chunk.js",
     "static/js/2.86534d2e.chunk.js.map": "/static/js/2.86534d2e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3e3b045d4cba3e34bcb1c79c901c222e.js": "/precache-manifest.3e3b045d4cba3e34bcb1c79c901c222e.js",
+    "precache-manifest.eb96abddf31f515637a6ab1f2a5e9b20.js": "/precache-manifest.eb96abddf31f515637a6ab1f2a5e9b20.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7e610e92.chunk.css.map": "/static/css/main.7e610e92.chunk.css.map",
+    "static/css/main.c4731e2a.chunk.css.map": "/static/css/main.c4731e2a.chunk.css.map",
     "static/js/2.86534d2e.chunk.js.LICENSE.txt": "/static/js/2.86534d2e.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.c9bf251a.png",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -19,9 +19,10 @@
     "static/media/alerta_antifascista_animado.mp4": "/static/media/alerta_antifascista_animado.2b2190c6.mp4",
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.10b56aa6.png",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
+    "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.261d5d1a.png",
-    "static/media/index.css": "/static/media/comic_typo.4b7a9b06.ttf",
+    "static/media/index.css": "/static/media/comic_typo.90065b50.ttf",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bici.png": "/static/media/bici.815dbfbb.png",
     "static/media/billy_el_nino.png": "/static/media/billy_el_nino.11765071.png",
@@ -90,7 +91,7 @@
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.86534d2e.chunk.js",
-    "static/css/main.7e610e92.chunk.css",
-    "static/js/main.8145899b.chunk.js"
+    "static/css/main.c4731e2a.chunk.css",
+    "static/js/main.5a12db3b.chunk.js"
   ]
 }

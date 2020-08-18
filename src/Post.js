@@ -3,6 +3,7 @@ import list from './list.json';
 import seriesList from './series.json';
 import './Post.css';
 import PostNavigator from './PostNavigator';
+import Roster from './Roster';
 import {Link} from 'react-router-dom';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
@@ -48,14 +49,21 @@ class Post extends Component {
         return (
             <div>
                 <div className="post-img-container">
-                    <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+                    { series !== "smash" &&
+                        <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+                    }
+                    { series === "smash" &&
+                        <Roster {...this.props} changeImg={this.changeImg.bind(this)}/>
+                    }
                     <div className={ this.state.load ? "loading hidden": "loading" }>
                         <div></div>
                     </div>
                     <img className={ this.state.load ? "": "hidden" } src={require(`./img/comic/${id}.png`)} alt={list_[id].name} onLoad={ () => {
                          this.setState({ load: true })
                      } }/>
-                    <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+                     { series !== "smash" &&
+                         <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+                     }
                     <div>
                         <p className="name">{list_[id].name}</p>
                         <p className="date">{list_[id].date}</p>

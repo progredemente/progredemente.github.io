@@ -86,7 +86,7 @@ function App() {
                                 return (
                                     <div>
                                         <img className="banner" src={smashBanner} alt={series["smash"]}/>
-                                        <Post {...props}/>
+                                        <Post { ...props}/>
                                     </div>
                                 )
                             }

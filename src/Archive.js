@@ -8,15 +8,17 @@ class Archive extends Component {
         return (
             <>
             <h1 className="section-title">Archivo</h1>
-            <ul>
+            <div className="thumbnails">
                 {
                     Object.keys(list).map((key) => {
-                        return <li>
-                            <Link to={`/post/${key}`} key={key}>{list[key].date} - {list[key].name}</Link>
-                        </li>
+                        return (
+                            <Link to={`/post/${key}`} key={key}>
+                                <img src={require(`./img/thumbnails/${key}.png`)} alt={list[key].name} title={`${list[key].date} - ${list[key].name}`}/>
+                            </Link>
+                        )
                     })
                 }
-            </ul>
+            </div>
             </>
         );
     }

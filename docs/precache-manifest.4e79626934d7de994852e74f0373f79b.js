@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85db31203a2cbca0ab44accc65494422",
+    "revision": "fcb5b4bc08f383651091a9ea3327c902",
     "url": "/index.html"
   },
   {
-    "revision": "37a40cab27c008ce8d3b",
+    "revision": "022bec42ed754780893e",
     "url": "/static/css/main.f1fd498e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37a40cab27c008ce8d3b",
-    "url": "/static/js/main.0de03cc3.chunk.js"
+    "revision": "022bec42ed754780893e",
+    "url": "/static/js/main.cfb14fe9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -258,6 +258,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d40d694a6113e3af37ebc2ed6d301f04",
     "url": "/static/media/el_coletas_sapee.d40d694a.png"
+  },
+  {
+    "revision": "263e5bc96a925ca4e89d6bb30d8d30ea",
+    "url": "/static/media/franco_kazooie.263e5bc9.png"
+  },
+  {
+    "revision": "9af08c94b02a4407d7df27c57d451c88",
+    "url": "/static/media/franco_kazooie.9af08c94.png"
   },
   {
     "revision": "9d82637075c68ebe2e23209201e11134",

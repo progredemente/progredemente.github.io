@@ -485,5 +485,13 @@
         "description": [
             "Les iría mejor (y a nosotros también) si se dedicasen al negocio de las citas en vez de a la política."
         ]
+    },
+    "franco_kazooie": {
+        "name": "Franco & Kazooie",
+        "date": "2020/08/18",
+        "description": [
+            "Franco & Kazooie se une al plantel!"
+        ],
+        "series": ["smash"]
     }
 }

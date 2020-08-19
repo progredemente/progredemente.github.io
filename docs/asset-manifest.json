@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.c9d1547d.chunk.css",
-    "main.js": "/static/js/main.3b68b0d9.chunk.js",
-    "main.js.map": "/static/js/main.3b68b0d9.chunk.js.map",
+    "main.js": "/static/js/main.bc2db150.chunk.js",
+    "main.js.map": "/static/js/main.bc2db150.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.25544529.chunk.js": "/static/js/2.25544529.chunk.js",
     "static/js/2.25544529.chunk.js.map": "/static/js/2.25544529.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.522ce7ad837c5e496ba5919d0dc09d10.js": "/precache-manifest.522ce7ad837c5e496ba5919d0dc09d10.js",
+    "precache-manifest.e373f70c6fce3ec6d002f00bcc624d9f.js": "/precache-manifest.e373f70c6fce3ec6d002f00bcc624d9f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c9d1547d.chunk.css.map": "/static/css/main.c9d1547d.chunk.css.map",
     "static/js/2.25544529.chunk.js.LICENSE.txt": "/static/js/2.25544529.chunk.js.LICENSE.txt",
-    "static/media/abaskong.png": "/static/media/abaskong.d453b551.png",
+    "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.c81e8bb0.png",
-    "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.d04caaee.png",
+    "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.a5481c75.png",
     "static/media/alerta_antifascista_animado.mp4": "/static/media/alerta_antifascista_animado.2b2190c6.mp4",
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
@@ -46,7 +46,7 @@
     "static/media/duquemar.png": "/static/media/duquemar.b4a333ad.png",
     "static/media/duquemar.mp3": "/static/media/duquemar.db3e25c1.mp3",
     "static/media/el_coletas_sapee.png": "/static/media/el_coletas_sapee.d40d694a.png",
-    "static/media/franco_kazooie.png": "/static/media/franco_kazooie.9af08c94.png",
+    "static/media/franco_kazooie.png": "/static/media/franco_kazooie.8f7c48aa.png",
     "static/media/franco_kazooie.mp3": "/static/media/franco_kazooie.50e60ed0.mp3",
     "static/media/gafas_moradas.png": "/static/media/gafas_moradas.f7a1a331.png",
     "static/media/galanchez.png": "/static/media/galanchez.cd062762.png",
@@ -65,7 +65,7 @@
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
-    "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.72dfc00e.png",
+    "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
     "static/media/minifaldas.png": "/static/media/minifaldas.ca1208f0.png",
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/ortega_snake.png": "/static/media/ortega_snake.8dc98014.png",
@@ -105,6 +105,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.25544529.chunk.js",
     "static/css/main.c9d1547d.chunk.css",
-    "static/js/main.3b68b0d9.chunk.js"
+    "static/js/main.bc2db150.chunk.js"
   ]
 }

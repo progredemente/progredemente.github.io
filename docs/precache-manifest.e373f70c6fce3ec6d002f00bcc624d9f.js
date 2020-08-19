@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fc96641b270cd85ad58a90974894b62",
+    "revision": "c7e41046927cd77cb79c1c6208e837cc",
     "url": "/index.html"
   },
   {
-    "revision": "8b63d4e45f0d3f4b4300",
+    "revision": "2b3addb7724af314ab61",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b63d4e45f0d3f4b4300",
-    "url": "/static/js/main.3b68b0d9.chunk.js"
+    "revision": "2b3addb7724af314ab61",
+    "url": "/static/js/main.bc2db150.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
     "url": "/static/js/runtime-main.d10d1acb.js"
   },
   {
-    "revision": "c9bf251a81077c3c8b147111bdb480da",
-    "url": "/static/media/abaskong.c9bf251a.png"
-  },
-  {
     "revision": "d453b5515ad7fe168ca2e38d9605dbba",
     "url": "/static/media/abaskong.d453b551.png"
+  },
+  {
+    "revision": "e5fb2b3b3b658db855e45d04afdff818",
+    "url": "/static/media/abaskong.e5fb2b3b.png"
   },
   {
     "revision": "f108cfe354835975e7bd9f3a01708060",
@@ -52,20 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/alboran_dolmayan.c81e8bb0.png"
   },
   {
-    "revision": "a5481c75e0912446ab2a66e13fcc6e09",
-    "url": "/static/media/alerta_antifascista.a5481c75.png"
+    "revision": "415f68befd45915558aa22510bb436e3",
+    "url": "/static/media/alerta_antifascista.415f68be.png"
   },
   {
-    "revision": "d04caaeec1d435679a1dcc2c3a2bbfc6",
-    "url": "/static/media/alerta_antifascista.d04caaee.png"
+    "revision": "a5481c75e0912446ab2a66e13fcc6e09",
+    "url": "/static/media/alerta_antifascista.a5481c75.png"
   },
   {
     "revision": "2b2190c680327297f3cba0f514df5e3b",
     "url": "/static/media/alerta_antifascista_animado.2b2190c6.mp4"
   },
   {
-    "revision": "10b56aa6f62a7a3342a8f48b898ddee0",
-    "url": "/static/media/alvarez_de_hyrule.10b56aa6.png"
+    "revision": "a0507ecdc391fee270efadf6cbdbfa4b",
+    "url": "/static/media/alvarez_de_hyrule.a0507ecd.png"
   },
   {
     "revision": "bed48e4be50f1dd4f7e2d022bb7921f5",
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cables.5f8ff309.png"
   },
   {
-    "revision": "7c106758699a000e5334a60f91139daf",
-    "url": "/static/media/caceroladas.7c106758.png"
+    "revision": "fb3e56eab55cfb1d3c8060ce2fc90330",
+    "url": "/static/media/caceroladas.fb3e56ea.png"
   },
   {
     "revision": "fbb3ef6d82cf5e7d1c1378c3575a5c91",
@@ -284,8 +284,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/franco_kazooie.50e60ed0.mp3"
   },
   {
-    "revision": "9af08c94b02a4407d7df27c57d451c88",
-    "url": "/static/media/franco_kazooie.9af08c94.png"
+    "revision": "8f7c48aa3feba666fba9093f909ff4e6",
+    "url": "/static/media/franco_kazooie.8f7c48aa.png"
   },
   {
     "revision": "9d82637075c68ebe2e23209201e11134",
@@ -400,12 +400,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/memes_banner.770c8255.png"
   },
   {
-    "revision": "6a91f89481f4af5f91456470e696756f",
-    "url": "/static/media/merecidas_vacaciones.6a91f894.png"
+    "revision": "0bbbba229e99a7576a4149efc98e1f3c",
+    "url": "/static/media/merecidas_vacaciones.0bbbba22.png"
   },
   {
-    "revision": "72dfc00ee9c633079542550e3907a71e",
-    "url": "/static/media/merecidas_vacaciones.72dfc00e.png"
+    "revision": "6a91f89481f4af5f91456470e696756f",
+    "url": "/static/media/merecidas_vacaciones.6a91f894.png"
   },
   {
     "revision": "c2f8ef9379603968e6a2e703363a9637",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c9d1547d.chunk.css",
-    "main.js": "/static/js/main.3c269ed2.chunk.js",
-    "main.js.map": "/static/js/main.3c269ed2.chunk.js.map",
+    "main.js": "/static/js/main.3b68b0d9.chunk.js",
+    "main.js.map": "/static/js/main.3b68b0d9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.25544529.chunk.js": "/static/js/2.25544529.chunk.js",
     "static/js/2.25544529.chunk.js.map": "/static/js/2.25544529.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e78f7b7b35d6150c960841e1167adf9e.js": "/precache-manifest.e78f7b7b35d6150c960841e1167adf9e.js",
+    "precache-manifest.522ce7ad837c5e496ba5919d0dc09d10.js": "/precache-manifest.522ce7ad837c5e496ba5919d0dc09d10.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c9d1547d.chunk.css.map": "/static/css/main.c9d1547d.chunk.css.map",
     "static/js/2.25544529.chunk.js.LICENSE.txt": "/static/js/2.25544529.chunk.js.LICENSE.txt",
@@ -65,6 +65,7 @@
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
+    "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.72dfc00e.png",
     "static/media/minifaldas.png": "/static/media/minifaldas.ca1208f0.png",
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/ortega_snake.png": "/static/media/ortega_snake.8dc98014.png",
@@ -104,6 +105,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.25544529.chunk.js",
     "static/css/main.c9d1547d.chunk.css",
-    "static/js/main.3c269ed2.chunk.js"
+    "static/js/main.3b68b0d9.chunk.js"
   ]
 }

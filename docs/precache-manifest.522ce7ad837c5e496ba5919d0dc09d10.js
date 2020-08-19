@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0af7481ed3e8b70c52f8e50b282f78a",
+    "revision": "6fc96641b270cd85ad58a90974894b62",
     "url": "/index.html"
   },
   {
-    "revision": "6090f542c5f9c7db8e1f",
+    "revision": "8b63d4e45f0d3f4b4300",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6090f542c5f9c7db8e1f",
-    "url": "/static/js/main.3c269ed2.chunk.js"
+    "revision": "8b63d4e45f0d3f4b4300",
+    "url": "/static/js/main.3b68b0d9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -398,6 +398,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "770c825518095f71ceeb9dfae2c6350a",
     "url": "/static/media/memes_banner.770c8255.png"
+  },
+  {
+    "revision": "6a91f89481f4af5f91456470e696756f",
+    "url": "/static/media/merecidas_vacaciones.6a91f894.png"
+  },
+  {
+    "revision": "72dfc00ee9c633079542550e3907a71e",
+    "url": "/static/media/merecidas_vacaciones.72dfc00e.png"
   },
   {
     "revision": "c2f8ef9379603968e6a2e703363a9637",

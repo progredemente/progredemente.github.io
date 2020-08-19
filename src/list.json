@@ -493,5 +493,12 @@
             "¡Franco & Kazooie se une al plantel!"
         ],
         "series": ["smash"]
+    },
+    "merecidas_vacaciones": {
+        "name": "Unas merecidas vacaciones",
+        "date": "2020/08/19",
+        "description": [
+            "Muy responsable esto de irse de vacaciones en medio de una pandemia que ha causado más de 40.000 muertos en este país e inmersos en lo que parece una segunda ola, además de tener al país rumbo a la mayor crisis del siglo, sí señor. Y pagado con el dinero de todos."
+        ]
     }
 }

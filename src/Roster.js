@@ -11,6 +11,12 @@ class Roster extends Component {
         audio.play();
     }
 
+    componentDidMount() {
+        let location = this.props.location.pathname.split("/");
+        let currentPlayer = location[location.length - 1];
+        this.changePlayer(currentPlayer);
+    }
+
     render() {
         let roster = Object.keys(list).filter((post) => {
             if(list[post].series === undefined){

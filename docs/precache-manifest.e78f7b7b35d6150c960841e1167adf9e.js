@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "136886eb86a076aa60cbd74bc1239086",
+    "revision": "d0af7481ed3e8b70c52f8e50b282f78a",
     "url": "/index.html"
   },
   {
-    "revision": "eea763b69c38c6992f4d",
+    "revision": "6090f542c5f9c7db8e1f",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eea763b69c38c6992f4d",
-    "url": "/static/js/main.a7834b2d.chunk.js"
+    "revision": "6090f542c5f9c7db8e1f",
+    "url": "/static/js/main.3c269ed2.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d453b5515ad7fe168ca2e38d9605dbba",
     "url": "/static/media/abaskong.d453b551.png"
+  },
+  {
+    "revision": "f108cfe354835975e7bd9f3a01708060",
+    "url": "/static/media/abaskong.f108cfe3.mp3"
   },
   {
     "revision": "a560c7ae4a72bc50765d99629ad25f04",
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10b56aa6f62a7a3342a8f48b898ddee0",
     "url": "/static/media/alvarez_de_hyrule.10b56aa6.png"
+  },
+  {
+    "revision": "bed48e4be50f1dd4f7e2d022bb7921f5",
+    "url": "/static/media/alvarez_de_hyrule.bed48e4b.mp3"
   },
   {
     "revision": "c8ea407bcf5020764a232f065d7fe56c",
@@ -172,6 +180,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/captain_falconetti.2bce5969.png"
   },
   {
+    "revision": "d21fee2dbd6a57948b277dca3dec31fc",
+    "url": "/static/media/captain_falconetti.d21fee2d.mp3"
+  },
+  {
     "revision": "f415b350f5f07e83c8abd67d251e3a55",
     "url": "/static/media/captain_falconetti.f415b350.png"
   },
@@ -252,6 +264,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/duquemar.b4a333ad.png"
   },
   {
+    "revision": "db3e25c1a2a16f4ebec352d99bc5188f",
+    "url": "/static/media/duquemar.db3e25c1.mp3"
+  },
+  {
     "revision": "06cdce9bfaec19238238382a582f2ae5",
     "url": "/static/media/el_coletas_sapee.06cdce9b.png"
   },
@@ -262,6 +278,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "263e5bc96a925ca4e89d6bb30d8d30ea",
     "url": "/static/media/franco_kazooie.263e5bc9.png"
+  },
+  {
+    "revision": "50e60ed01277e08d579ebef742e25fb3",
+    "url": "/static/media/franco_kazooie.50e60ed0.mp3"
   },
   {
     "revision": "9af08c94b02a4407d7df27c57d451c88",
@@ -328,6 +348,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jodechinchos.c578b9ec.png"
   },
   {
+    "revision": "61b690ca9010acf7c28e7816dab957ac",
+    "url": "/static/media/koopanique.61b690ca.mp3"
+  },
+  {
     "revision": "98fcc97f5c10f81a0b443413dc28854a",
     "url": "/static/media/koopanique.98fcc97f.png"
   },
@@ -350,6 +374,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "513721a7a80b5d74c9363453315b92ee",
     "url": "/static/media/little_mireia.513721a7.png"
+  },
+  {
+    "revision": "70284cbf11cba9a2d3b55e3e474f19ea",
+    "url": "/static/media/little_mireia.70284cbf.mp3"
   },
   {
     "revision": "11965a96128246206d5d77fbb71f8f94",
@@ -396,6 +424,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ortega_snake.8dc98014.png"
   },
   {
+    "revision": "9334dbd652fc8a4fb23d10fbcfec1a24",
+    "url": "/static/media/ortega_snake.9334dbd6.mp3"
+  },
+  {
     "revision": "39b8aa44503e52d235629f990be781bb",
     "url": "/static/media/oso_machista.39b8aa44.png"
   },
@@ -410,6 +442,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc1378492afb7d51bb3e721c3a45376e",
     "url": "/static/media/pabluigi.cc137849.png"
+  },
+  {
+    "revision": "f51dc631c6ee21ad42daabe636c63016",
+    "url": "/static/media/pabluigi.f51dc631.mp3"
   },
   {
     "revision": "730173e1a082eac2955be241aadb74d0",
@@ -598,5 +634,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "930350c413314f9a9f4f4f8bb4da0562",
     "url": "/static/media/young_inigo.930350c4.png"
+  },
+  {
+    "revision": "e573cc5a4c8e0bb2daca43c6b2531405",
+    "url": "/static/media/young_inigo.e573cc5a.mp3"
   }
 ]);

@@ -5,16 +5,28 @@ import list from './list.json';
 import hand from './img/mano_smash.png';
  
 class Roster extends Component {
+    song = new Audio(require("./audio/smash.ogg"));
+
     changePlayer(player) {
         this.props.changeImg();
         let audio = new Audio(require(`./audio/${player}.mp3`));
         audio.play();
     }
 
+
     componentDidMount() {
+        this.song.volume = .05;
+        this.song.loop = true;
+        this.song.play();
         let location = this.props.location.pathname.split("/");
         let currentPlayer = location[location.length - 1];
         this.changePlayer(currentPlayer);
+    }
+
+    componentWillUnmount() {
+        console.log("HOLA");
+        this.song.pause();
+        this.song.currentTime = 0;
     }
 
     render() {

@@ -15,7 +15,7 @@ class Roster extends Component {
 
 
     componentDidMount() {
-        this.song.volume = .05;
+        this.song.volume = .5;
         this.song.loop = true;
         this.song.play();
         let location = this.props.location.pathname.split("/");

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c9d1547d.chunk.css",
-    "main.js": "/static/js/main.c8411a16.chunk.js",
-    "main.js.map": "/static/js/main.c8411a16.chunk.js.map",
+    "main.js": "/static/js/main.52cda9e2.chunk.js",
+    "main.js.map": "/static/js/main.52cda9e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.25544529.chunk.js": "/static/js/2.25544529.chunk.js",
     "static/js/2.25544529.chunk.js.map": "/static/js/2.25544529.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.eb9f8487a85d5133f97429d36615b690.js": "/precache-manifest.eb9f8487a85d5133f97429d36615b690.js",
+    "precache-manifest.8b07a12030a6aced8f37492b9459f643.js": "/precache-manifest.8b07a12030a6aced8f37492b9459f643.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c9d1547d.chunk.css.map": "/static/css/main.c9d1547d.chunk.css.map",
     "static/js/2.25544529.chunk.js.LICENSE.txt": "/static/js/2.25544529.chunk.js.LICENSE.txt",
@@ -99,6 +99,7 @@
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
     "static/media/vodkuna.png": "/static/media/vodkuna.23526259.png",
     "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
+    "static/media/ye_grave.png": "/static/media/ye_grave.582d007b.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.930350c4.png",
     "static/media/young_inigo.mp3": "/static/media/young_inigo.e573cc5a.mp3"
   },
@@ -106,6 +107,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.25544529.chunk.js",
     "static/css/main.c9d1547d.chunk.css",
-    "static/js/main.c8411a16.chunk.js"
+    "static/js/main.52cda9e2.chunk.js"
   ]
 }

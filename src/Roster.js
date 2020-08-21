@@ -24,7 +24,6 @@ class Roster extends Component {
     }
 
     componentWillUnmount() {
-        console.log("HOLA");
         this.song.pause();
         this.song.currentTime = 0;
     }

@@ -500,5 +500,12 @@
         "description": [
             "Muy responsable esto de irse de vacaciones en medio de una pandemia que ha causado más de 40.000 muertos en este país e inmersos en lo que parece una segunda ola, además de tener al país rumbo a la mayor crisis del siglo, sí señor. Y pagado con el dinero de todos."
         ]
+    },
+    "ye_grave": {
+        "name": "¿Ye grave, doctora?",
+        "date": "2020/08/21",
+        "description": [
+            "Chicxs, aún os quedan privilegios masculinos con los que acabar, como el privilegio de disfrutar de una mayor mortalidad por, entre otras cosas, la mayor exposición al riesgo debido a la desechabilidad histórica de los varones."
+        ]
     }
 }

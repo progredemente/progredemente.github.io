@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "314c134d177246c958b55a96671f3b67",
+    "revision": "0af3bf591b56bb39f77b492065143e68",
     "url": "/index.html"
   },
   {
-    "revision": "25c9f21aa6f521c9d46b",
+    "revision": "3e022529f34a5b0c4dc9",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25c9f21aa6f521c9d46b",
-    "url": "/static/js/main.9b434534.chunk.js"
+    "revision": "3e022529f34a5b0c4dc9",
+    "url": "/static/js/main.acef8123.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5c1476f6f4032fcb14ad6f3264e1a588",
     "url": "/static/media/background.5c1476f6.png"
+  },
+  {
+    "revision": "e5e51a7a0d6cecdb49cb33309daa8bcd",
+    "url": "/static/media/barco_hunde.e5e51a7a.png"
   },
   {
     "revision": "0b9544f4e5a551a8f4efec29b71e60fd",

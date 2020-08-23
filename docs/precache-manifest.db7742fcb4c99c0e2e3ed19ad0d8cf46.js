@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0af3bf591b56bb39f77b492065143e68",
+    "revision": "62b32f1be6576ded66843e80d9b6ee35",
     "url": "/index.html"
   },
   {
-    "revision": "3e022529f34a5b0c4dc9",
+    "revision": "e8f65b9e7db98da7bb43",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e022529f34a5b0c4dc9",
-    "url": "/static/js/main.acef8123.chunk.js"
+    "revision": "e8f65b9e7db98da7bb43",
+    "url": "/static/js/main.08c31dc0.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -250,6 +250,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83d6a998059a4627b3c32bcaa48f662b",
     "url": "/static/media/curriculum.83d6a998.png"
+  },
+  {
+    "revision": "80bc4f35f54cedb310b7e15255f8f883",
+    "url": "/static/media/de_compras.80bc4f35.png"
+  },
+  {
+    "revision": "b95cceb505405ef5d3ec840730a5cb4c",
+    "url": "/static/media/de_compras.b95cceb5.png"
   },
   {
     "revision": "937cee4208165fdcff91d0838609cd76",

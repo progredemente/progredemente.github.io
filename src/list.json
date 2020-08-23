@@ -514,5 +514,12 @@
         "description": [
             "Hay que estar a lo que hay que estar, ya discutiremos sobre el sexo de los ángeles cuando toque."
         ]
+    },
+    "de_compras": {
+        "name": "De compras",
+        "date": "2020/08/23",
+        "description": [
+            "No lo sé, Rick, parece falso."
+        ]
     }
 }

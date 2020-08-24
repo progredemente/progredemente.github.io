@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62b32f1be6576ded66843e80d9b6ee35",
+    "revision": "321e0d1af64f7af6e74444fa3e165697",
     "url": "/index.html"
   },
   {
-    "revision": "e8f65b9e7db98da7bb43",
+    "revision": "8c8224ea729a56880068",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8f65b9e7db98da7bb43",
-    "url": "/static/js/main.08c31dc0.chunk.js"
+    "revision": "8c8224ea729a56880068",
+    "url": "/static/js/main.9224613c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -358,6 +358,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c578b9ec6ea1315f0db98b09ca858781",
     "url": "/static/media/jodechinchos.c578b9ec.png"
+  },
+  {
+    "revision": "4d3a16dfd28bd0edfa648060c2cbc671",
+    "url": "/static/media/juraste_destruir.4d3a16df.png"
+  },
+  {
+    "revision": "a1a21c8dc7ad6ad86f0ed7c600fb48dc",
+    "url": "/static/media/juraste_destruir.a1a21c8d.png"
   },
   {
     "revision": "61b690ca9010acf7c28e7816dab957ac",

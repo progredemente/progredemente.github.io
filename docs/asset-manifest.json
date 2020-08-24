@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c9d1547d.chunk.css",
-    "main.js": "/static/js/main.08c31dc0.chunk.js",
-    "main.js.map": "/static/js/main.08c31dc0.chunk.js.map",
+    "main.js": "/static/js/main.9224613c.chunk.js",
+    "main.js.map": "/static/js/main.9224613c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.25544529.chunk.js": "/static/js/2.25544529.chunk.js",
     "static/js/2.25544529.chunk.js.map": "/static/js/2.25544529.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.db7742fcb4c99c0e2e3ed19ad0d8cf46.js": "/precache-manifest.db7742fcb4c99c0e2e3ed19ad0d8cf46.js",
+    "precache-manifest.656a4e806157db0a639dae190347d94c.js": "/precache-manifest.656a4e806157db0a639dae190347d94c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c9d1547d.chunk.css.map": "/static/css/main.c9d1547d.chunk.css.map",
     "static/js/2.25544529.chunk.js.LICENSE.txt": "/static/js/2.25544529.chunk.js.LICENSE.txt",
@@ -58,6 +58,7 @@
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.c578b9ec.png",
+    "static/media/juraste_destruir.png": "/static/media/juraste_destruir.a1a21c8d.png",
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
     "static/media/koopanique.png": "/static/media/koopanique.a96b220c.png",
     "static/media/la_nueva_subnormalidad.png": "/static/media/la_nueva_subnormalidad.aaa250f6.png",
@@ -109,6 +110,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.25544529.chunk.js",
     "static/css/main.c9d1547d.chunk.css",
-    "static/js/main.08c31dc0.chunk.js"
+    "static/js/main.9224613c.chunk.js"
   ]
 }

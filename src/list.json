@@ -521,5 +521,13 @@
         "description": [
             "No lo sé, Rick, parece falso."
         ]
+    },
+    "juraste_destruir": {
+        "name": "Lo que juraste destruir",
+        "date": "2020/08/25",
+        "description": [
+            "Tenemos a un lord sith en el gobierno. No entiendo como aún puede quedar alguien que se trague todo lo que dicen. (En la escena original no habían sacado todavía los sables láser, pero me hacía ilusión dibujarlos)"
+        ],
+        "series": ["memes"]
     }
 }

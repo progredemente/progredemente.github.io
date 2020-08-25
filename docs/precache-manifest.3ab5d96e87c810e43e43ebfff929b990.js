@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "321e0d1af64f7af6e74444fa3e165697",
+    "revision": "14b80ed491263781139d9f9b110ead2f",
     "url": "/index.html"
   },
   {
-    "revision": "8c8224ea729a56880068",
+    "revision": "eceb4e0329f89ae1b8a4",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c8224ea729a56880068",
-    "url": "/static/js/main.9224613c.chunk.js"
+    "revision": "eceb4e0329f89ae1b8a4",
+    "url": "/static/js/main.2170649f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -534,6 +534,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df9887135e612ed3dbda37f148f5481b",
     "url": "/static/media/renta_basica.df988713.png"
+  },
+  {
+    "revision": "18c09410265d76076b4f0fde1f0442cf",
+    "url": "/static/media/rolex.18c09410.png"
+  },
+  {
+    "revision": "7c77957987319017931545dcddfdf2b5",
+    "url": "/static/media/rolex.7c779579.png"
   },
   {
     "revision": "7c3f2b8c6c2d1564ae2ef66a48ddba5e",

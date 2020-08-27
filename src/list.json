@@ -536,5 +536,13 @@
         "description": [
             "Menos mal que nos lo han aclarado, no podía dormir sin saber si alguien que ya se ha gastado un pastizal en una mansión después de haber criticado algo similar se ya gastado, también, un pastizal en un reloj. Sigan mirando hacia otro lado que más acusaciones no van a (o no pueden) desmentir."
         ]
+    },
+    "marianic": {
+        "name": "Marianic",
+        "date": "2020/08/27",
+        "description": [
+            "¡Marianic se une al plantel!"
+        ],
+        "series": ["smash"]
     }
 }

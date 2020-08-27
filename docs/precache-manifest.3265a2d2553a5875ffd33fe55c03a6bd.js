@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14b80ed491263781139d9f9b110ead2f",
+    "revision": "d7f9d57e08c3b12d98085c7a1119e3e5",
     "url": "/index.html"
   },
   {
-    "revision": "eceb4e0329f89ae1b8a4",
+    "revision": "63538a196c42c3d28b1c",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eceb4e0329f89ae1b8a4",
-    "url": "/static/js/main.2170649f.chunk.js"
+    "revision": "63538a196c42c3d28b1c",
+    "url": "/static/js/main.98a58aee.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -406,6 +406,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "799b98934c5f62a5e866f81d34e3b380",
     "url": "/static/media/mano_smash.799b9893.png"
+  },
+  {
+    "revision": "48f47b6c563894e33671d8633de07536",
+    "url": "/static/media/marianic.48f47b6c.png"
+  },
+  {
+    "revision": "6bdaca56ec24fb5607f8c63c59c1e638",
+    "url": "/static/media/marianic.6bdaca56.png"
+  },
+  {
+    "revision": "7e5ec12816373c7e4a24d4c3c819a346",
+    "url": "/static/media/marianic.7e5ec128.mp3"
   },
   {
     "revision": "510b8863096893df5b89b46458f5f9c2",

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89da721e1c96b0689e0971acf47c00d2",
+    "revision": "6f23282d888bd28768b4c60b9282b20b",
     "url": "/index.html"
   },
   {
-    "revision": "08001ffef776d3b51dd8",
+    "revision": "e7d53776cdbb55be7270",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
-    "revision": "1dbc68e6fe25c78bb1b2",
-    "url": "/static/js/2.25544529.chunk.js"
+    "revision": "7e709eb46ec0ac135223",
+    "url": "/static/js/2.06cbb406.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.25544529.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.06cbb406.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08001ffef776d3b51dd8",
-    "url": "/static/js/main.1171b375.chunk.js"
+    "revision": "e7d53776cdbb55be7270",
+    "url": "/static/js/main.7b2e4d7d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -234,6 +234,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8a093a9ee9b54cc0b3dc8d8e498622c",
     "url": "/static/media/cortinas_banderas.a8a093a9.png"
+  },
+  {
+    "revision": "783f13f2e40cf02e64ce935d8e8cb428",
+    "url": "/static/media/cuentos_banner.783f13f2.png"
   },
   {
     "revision": "42cb614ccc649c3dbc9a80f8fd0ff5ff",

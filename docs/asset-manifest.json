@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c9d1547d.chunk.css",
-    "main.js": "/static/js/main.1171b375.chunk.js",
-    "main.js.map": "/static/js/main.1171b375.chunk.js.map",
+    "main.js": "/static/js/main.7b2e4d7d.chunk.js",
+    "main.js.map": "/static/js/main.7b2e4d7d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.25544529.chunk.js": "/static/js/2.25544529.chunk.js",
-    "static/js/2.25544529.chunk.js.map": "/static/js/2.25544529.chunk.js.map",
+    "static/js/2.06cbb406.chunk.js": "/static/js/2.06cbb406.chunk.js",
+    "static/js/2.06cbb406.chunk.js.map": "/static/js/2.06cbb406.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b098fca3482406f542863767e104f386.js": "/precache-manifest.b098fca3482406f542863767e104f386.js",
+    "precache-manifest.29d27713fb3455c584bfea23a022d507.js": "/precache-manifest.29d27713fb3455c584bfea23a022d507.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c9d1547d.chunk.css.map": "/static/css/main.c9d1547d.chunk.css.map",
-    "static/js/2.25544529.chunk.js.LICENSE.txt": "/static/js/2.25544529.chunk.js.LICENSE.txt",
+    "static/js/2.06cbb406.chunk.js.LICENSE.txt": "/static/js/2.06cbb406.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -41,6 +41,7 @@
     "static/media/conguitos.png": "/static/media/conguitos.d90cd7e3.png",
     "static/media/coronavirus.png": "/static/media/coronavirus.85f7e91c.png",
     "static/media/cortinas_banderas.png": "/static/media/cortinas_banderas.a8a093a9.png",
+    "static/media/cuentos_banner.png": "/static/media/cuentos_banner.783f13f2.png",
     "static/media/cuotas.png": "/static/media/cuotas.788a2cad.png",
     "static/media/curriculum.png": "/static/media/curriculum.83d6a998.png",
     "static/media/de_compras.png": "/static/media/de_compras.b95cceb5.png",
@@ -112,8 +113,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.25544529.chunk.js",
+    "static/js/2.06cbb406.chunk.js",
     "static/css/main.c9d1547d.chunk.css",
-    "static/js/main.1171b375.chunk.js"
+    "static/js/main.7b2e4d7d.chunk.js"
   ]
 }

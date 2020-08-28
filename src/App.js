@@ -8,6 +8,7 @@ import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
 import memesBanner from './img/banners/memes_banner.png';
+import cuentosBanner from './img/banners/cuentos_banner.png';
 import series from './series.json';
 import list from './list.json';
 import Post from './Post';
@@ -112,6 +113,19 @@ function App() {
                                 return (
                                     <div>
                                         <img className="banner" src={memesBanner} alt={series["memes"]}/>
+                                        <Post {...props}/>
+                                    </div>
+                                )
+                            }
+                        }/>
+                        <Route exact path="/cuentos">
+                            <Redirect to="/cuentos/tres_cerditos"/>
+                        </Route>
+                        <Route exact path="/cuentos/:id" component={
+                            (props) => {
+                                return (
+                                    <div>
+                                        <img className="banner" src={cuentosBanner} alt={series["cuentos"]}/>
                                         <Post {...props}/>
                                     </div>
                                 )

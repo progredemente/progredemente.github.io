@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c9d1547d.chunk.css",
-    "main.js": "/static/js/main.98a58aee.chunk.js",
-    "main.js.map": "/static/js/main.98a58aee.chunk.js.map",
+    "main.js": "/static/js/main.1171b375.chunk.js",
+    "main.js.map": "/static/js/main.1171b375.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.25544529.chunk.js": "/static/js/2.25544529.chunk.js",
     "static/js/2.25544529.chunk.js.map": "/static/js/2.25544529.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3265a2d2553a5875ffd33fe55c03a6bd.js": "/precache-manifest.3265a2d2553a5875ffd33fe55c03a6bd.js",
+    "precache-manifest.b098fca3482406f542863767e104f386.js": "/precache-manifest.b098fca3482406f542863767e104f386.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c9d1547d.chunk.css.map": "/static/css/main.c9d1547d.chunk.css.map",
     "static/js/2.25544529.chunk.js.LICENSE.txt": "/static/js/2.25544529.chunk.js.LICENSE.txt",
@@ -102,6 +102,7 @@
     "static/media/terf_vs_trans_3.png": "/static/media/terf_vs_trans_3.7e2f6664.png",
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
+    "static/media/tres_cerditos.png": "/static/media/tres_cerditos.dc465660.png",
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
     "static/media/vodkuna.png": "/static/media/vodkuna.23526259.png",
     "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
@@ -113,6 +114,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.25544529.chunk.js",
     "static/css/main.c9d1547d.chunk.css",
-    "static/js/main.98a58aee.chunk.js"
+    "static/js/main.1171b375.chunk.js"
   ]
 }

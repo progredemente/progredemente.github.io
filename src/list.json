@@ -544,5 +544,12 @@
             "¡Marianic se une al plantel!"
         ],
         "series": ["smash"]
+    },
+    "tres_cerditos": {
+        "name": "Los tres cerditos",
+        "date": "2020/08/28",
+        "description": [
+            "Moraleja: defiende tu derecho a la propiedad privada."
+        ]
     }
 }

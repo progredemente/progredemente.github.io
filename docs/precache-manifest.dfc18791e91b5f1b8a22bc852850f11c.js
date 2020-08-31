@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f23282d888bd28768b4c60b9282b20b",
+    "revision": "8c6cba4cfad5e73e658066b111229e25",
     "url": "/index.html"
   },
   {
-    "revision": "e7d53776cdbb55be7270",
+    "revision": "020ef7b4dac19fd51b9c",
     "url": "/static/css/main.c9d1547d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.06cbb406.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7d53776cdbb55be7270",
-    "url": "/static/js/main.7b2e4d7d.chunk.js"
+    "revision": "020ef7b4dac19fd51b9c",
+    "url": "/static/js/main.7dd84f8c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -690,6 +690,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0e4ea725daaac17609a5eb25359808c",
     "url": "/static/media/volver_a_empezar.d0e4ea72.png"
+  },
+  {
+    "revision": "0d5cd9864386c96d094f35a8a849ef42",
+    "url": "/static/media/wabalos.0d5cd986.png"
+  },
+  {
+    "revision": "89f14b2cd636ad431037640b8d4361d7",
+    "url": "/static/media/wabalos.89f14b2c.png"
+  },
+  {
+    "revision": "f48ce022eb917a9e760b54f980158c6b",
+    "url": "/static/media/wabalos.f48ce022.mp3"
   },
   {
     "revision": "1d848268fa6a8383d9fe97f31b7d85c4",

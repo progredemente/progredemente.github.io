@@ -552,5 +552,13 @@
             "Moraleja: defiende tu derecho a la propiedad privada."
         ],
         "series": ["cuentos"]
+    },
+    "wabalos": {
+        "name": "Wábalos",
+        "date": "2020/08/31",
+        "description": [
+            "¡Wábalos se une al plantel!"
+        ],
+        "series": ["smash"]
     }
 }

@@ -46,6 +46,9 @@ class Post extends Component {
                 }
             }
         }
+        let post = list_[id];
+        let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
+        let postCelebrities = (post.celebrities ? post.celebrities : []);
         return (
             <div>
                 <div className="post-img-container">
@@ -67,14 +70,19 @@ class Post extends Component {
                     <div>
                         <p className="name">{list_[id].name}</p>
                         <p className="date">{list_[id].date}</p>
-                        { (series === "post" && list_[id].series !== undefined && list_[id].series.length > 0) &&
-                            <p className="series-list">En la{list_[id].series.length > 1 ? "s" : ""} serie{list_[id].series.length > 1 ? "s" : ""}: {list_[id].series.map((s) => {
-                                return <Link to={`/${s}`} key={s}><img src={require(`./img/banners/${s}_banner.png`)} alt={seriesList[s]}/></Link>
-                            })}</p>
-                        }
                         {list_[id].description.map((text, index) => {
                             return <p key={index}>{text}</p>
                         })}
+                        { postSeries.length > 0 &&
+                            <p className="series-list">En la{postSeries.length > 1 ? "s" : ""} serie{postSeries.length > 1 ? "s" : ""}: {postSeries.map((s) => {
+                                return <Link to={`/${s}`} key={s}><img src={require(`./img/banners/${s}_banner.png`)} alt={seriesList[s]}/></Link>
+                            })}</p>
+                        }
+                        { postCelebrities.length > 0 &&
+                            <p className="celebrity-list">Personaje{postCelebrities.length > 1 ? "s" : ""}: {postCelebrities.map((c, i) => {
+                                return <Link to={`/personaje/${c}`} key={c}>{c}</Link>
+                            })}</p>
+                        }
                     </div>
                 </div>
             </div>

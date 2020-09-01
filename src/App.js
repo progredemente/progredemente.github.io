@@ -17,6 +17,7 @@ import Series from './Series';
 import About from './About';
 import Animation from './Animation';
 import Stats from './Stats';
+import Celebrity from './Celebrity';
 import {
     HashRouter as Router,
     Switch,
@@ -140,6 +141,10 @@ function App() {
                         </Route>
                         <Route exact path="/estadisticas">
                             <Stats></Stats>
+                        </Route>
+                        <Route exact path="/personaje/:name" component={Celebrity}>
+                        </Route>
+                        <Route exact path="/personaje/:name/:id" component={Post}>
                         </Route>
                     </Switch>
                 </section>

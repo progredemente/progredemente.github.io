@@ -54,3 +54,20 @@
     max-width: 150px;
     margin: 0px 10px;
 }
+
+.celebrity-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.celebrity-list a {
+    color: initial;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2.5px 5px;
+    background-color: white;
+    margin: 5px 5px;
+    font-size: .75em;
+}

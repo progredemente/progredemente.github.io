@@ -4,7 +4,8 @@
         "date": "2020/01/15",
         "description": [
             "Estas cosas pasan por no ir a la escuela."
-        ]
+        ],
+        "celebrities": ["Greta Thunberg"]
     },
     "bici": {
         "name": "Bici",
@@ -19,21 +20,27 @@
         "date": "2020/01/17",
         "description": [
             "Buscad \"lois griffin 911\" y la canción \"Política del miedo\" de Soziedad Alkoholika en YT. Nada más que añadir."
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "cables": {
         "name": "Cables",
         "date": "2020/01/20",
         "description": [
             "Me imagino a esta tía diciendo majaderías de este estilo después de lo que dijo sobre el Black Friday. Que no os sorprenda que en algún momento digan que las instalaciones eléctricas son racistas y propongan cambiarlas todas de todas las casas del país o propongan usar el mismo color para todos los cables para no herir sensibilidades."
-        ]
+        ],
+        "celebrities": ["Rita Bosaho"],
+        "parties": ["UP"]
     },
     "pin_parental": {
         "name": "Pin parental",
         "date": "2020/01/21",
         "description": [
             "No les gusta el pin parental ahora, esperad a que cambie el sistema eduvativo cuando cambie quién está en el gobierno, que va a pasar tarde o temprano, y ya veréis como son los primeros en decir que los padres son los que tienen el derecho a decidir la educación que tienen que recibir sus hijos."
-        ]
+        ],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     },
     "progremon_1": {
         "name": "Progrémon 1",
@@ -48,28 +55,34 @@
         "date": "2020/02/14",
         "description": [
             "El PSOE debería cambiar lo de Obrero por Orwelliano, pues maneja muy bien esto del doblepensar."
-        ]
+        ],
+        "celebrities": ["Juan Guaidó"]
     },
     "renta_basica": {
         "name": "Renta básica",
         "date": "2020/02/21",
         "description": [
             "En el socialismo todo es maravilloso, porque nadie tiene por qué trabajar y las cosas que necesitamos aparecen delante de nosotros si pensamos fuertemente en ellas, porque el motor del socialismo es la magia y la ilusión 🙂"
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "minifaldas": {
         "name": "Minifaldas",
         "date": "2020/03/03",
         "description": [
             "Si vuestro discurso no se adapta a la realidad, que sea la realidad quien se adapte a vuestro discurso, no vaya a ser que os quedéis sin curro."
-        ]
+        ],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     },
     "coronavirus": {
         "name": "Coronavirus",
         "date": "2020/03/13",
         "description": [
             "Dentro de poco los repartidores autónomos de las empresas tipo Uber Eats, Glovo y Deliveroo serán héroes nacionales. Hideo Kojima es el Nostradamus del siglo XXI."
-        ]
+        ],
+        "celebrities": ["Norman Reedus"]
     },
     "captain_falconetti": {
         "name": "Captain Falconetti",
@@ -77,7 +90,9 @@
         "description": [
             "¡Captain Faconetti se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     },
     "pabluigi": {
         "name": "Pabluigi",
@@ -85,7 +100,9 @@
         "description": [
             "¡Pabluigi se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "progremon_2": {
         "name": "Progrémon 2",
@@ -100,7 +117,9 @@
         "date": "2020/03/19",
         "description": [
             "Cómo saben hacer ruido para que miremos hacia otro lado."
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias", "Pedro Sánchez"],
+        "parties": ["UP", "PSOE"]
     },
     "koopanique": {
         "name": "Koopanique",
@@ -108,14 +127,18 @@
         "description": [
             "¡Koopanique se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Echenique"],
+        "parties": ["UP"]
     },
     "carencias": {
         "name": "Carencias",
         "date": "2020/03/22",
         "description": [
             "En neolengua \"incompetencia, irresponsabilidad y negligencia por parte de la izquierda\" se dice \"carencias\" y \"pedir responsabilidades políticas a la izquierda\" se reduce a \"hacer esa imprescindible reflexión\"."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     },
     "chiringuito": {
         "name": "Chiringuito",
@@ -131,14 +154,18 @@
             "¡Ortega Snake se une al plantel!",
             "Idea de un colega."
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Ortega Smith"],
+        "parties": ["Vox"]
     },
     "autoridad_sanitaria": {
         "name": "Autoridad sanitaria",
         "date": "2020/03/28",
         "description": [
             "A esta gente hay que recordarles constantemente que están en el gobierno, por lo que la autoridad y los responsables son ellos. Lo peor es que lo saben, pero les da igual, si cuela, cuela."
-        ]
+        ],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     },
     "tacticas_evasion": {
         "name": "Tácticas de evasión",
@@ -146,7 +173,9 @@
         "description": [
             "Seguro que las reuniones del Consejo de Ministros y con los \"expertos\" son brainstormings de excusas y tácticas de evasión."
         ],
-        "series": ["memes"]
+        "series": ["memes"],
+        "celebrities": ["Irene Montero", "Pablo Iglesias", "Pedro Sánchez", "Fernando Simón"],
+        "parties": ["UP", "PSOE"]
     },
     "little_mireia": {
         "name": "Little Mireia",
@@ -154,7 +183,9 @@
         "description": [
             "¡Little Mireia se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Mireia Borrás"],
+        "parties": ["Vox"]
     },
     "young_inigo": {
         "name": "Young Íñigo",
@@ -162,21 +193,27 @@
         "description": [
             "¡Young Íñigo se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     },
     "mismo_sentido": {
         "name": "Mismo sentido",
         "date": "2020/04/06",
         "description": [
             "Tenemos a un grupo de descerebrados al timón."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     },
     "mascarillas": {
         "name": "Mascarillas",
         "date": "2020/04/09",
         "description": [
             "Si no volvéis a ver posts míos durante una larga temporada ya sabéis por qué es."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez", "Pablo Iglesias"],
+        "parties": ["UP", "PSOE"]
     },
     "apagon_vultural": {
         "name": "Apagón Vultural",
@@ -190,7 +227,8 @@
         "date": "2020/04/20",
         "description": [
             "¡Hacia donde sople el viento!"
-        ]
+        ],
+        "celebrities": ["Risto Mejide"]
     },
     "gafas_moradas": {
         "name": "Gafas moradas",
@@ -207,14 +245,18 @@
             "No se si lo han hecho a propósito o no, yo creo que sí, aunque quizás sea paranoia conspiranoica mía por llevar tanto tiempo en casa, pero, vamos, esto les va a venir de perlas para seguir blanqueando su nefasta gestión y para que la gente mire hacia otro lado, enfrentando aún más a la sociedad.",
             "Y no creo que la gente haya sido tan irresponsable como lo pintan, sinceramente, los vídeos que hay por las redes sociales de gente pasándose las medidas de seguridad por el forro no creo que sea muy representativo de la realidad, será la típica magnificación de los cuatro casos contados que haya. Igual me equivoco, pero espero que no.",
             "Podéis darme vuestra opinión si queréis, aunque solo necesitaba desahogarme un poco."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez", "Pablo Iglesias"],
+        "parties": ["UP", "PSOE"]
     },
     "la_nueva_subnormalidad": {
         "name": "La nueva subnormalidad",
         "date": "2020/04/29",
         "description": [
             "Si Orwell levantara la cabeza..."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     },
     "runner": {
         "name": "Runner",
@@ -229,7 +271,9 @@
         "description": [
             "¡El Feministerio ha hablado! Lo siento por las TERFs... realmente no."
         ],
-        "series": ["terf_vs_trans"]
+        "series": ["terf_vs_trans"],
+        "celebrities": ["Irene Montero", "Boti García"],
+        "parties": ["UP"]
     },
     "portugal_oeste": {
         "name": "Portugal está \"más al oeste\"",
@@ -250,7 +294,9 @@
         "date": "2020/05/14",
         "description": [
             "Nuesto amado líder eligió identificarse con un payaso psicópata, pero hay otros payasos con hábitos moralmente cuestionables con los que podría haberse identificado. ¿Cual es tu favorito? (Sé que llego un poco tarde, pero me apetecía hacerlo)"
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "palos_de_golf": {
         "name": "Palos de golf",
@@ -278,7 +324,9 @@
         "date": "2020/05/27",
         "description": [
             "Hacen y deshacen mientras miramos a otro lado, y yo me pregunto cual será el mejor país al que emigrar antes de que vuelva a pasar lo de 1936."
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "saqueo_minneapolis": {
         "name": "Saqueo de Minneapolis",
@@ -293,7 +341,9 @@
         "description": [
             "Me los imagino así cuando llegan a su mansión cada vez que la lía.",
             "Le veo potencial de reutilización a esta viñeta, independientemente de lo que haga, ya sea acusar a toda la Policía de machistas, celebrando su cumpleaños por las redes sociales, o esta última, contándole tan alegremente a los periodistas que no iba a admitir lo del coronavirus porque si no le cerraban el feministerio. ¿Qué creéis que será lo próximo que haga?"
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias", "Irene Montero"],
+        "parties": ["UP"]
     },
     "curriculum": {
         "name": "Currículum",
@@ -315,7 +365,9 @@
         "description": [
             "¡Parece que el Desgobierno y el Feministerio discrepan ideológicamente! ¿Quién ganará la batalla?"
         ],
-        "series": ["terf_vs_trans"]
+        "series": ["terf_vs_trans"],
+        "celebrities": ["Carmen Calvo"],
+        "parties": ["PSOE"]
     },
     "boot_facha": {
         "name": "Boot facha",
@@ -360,21 +412,27 @@
         "description": [
             "Para quien no entienda la referencia: \"harry el sucio potter\" en YT, vídeo del Bananero. ¡Sapee!"
         ],
-        "series": ["memes"]
+        "series": ["memes"],
+        "celebrities": ["Pablo Iglesias", "Irene Montero", "Echenique", "Lilith Verstrynge", "Tania Sánchez", "Dina Bousselham"],
+        "parties": ["UP"]
     },
     "subida_impuestos": {
         "name": "Subida de impuestos",
         "date": "2020/07/02",
         "description": [
             "Van a pagar los ricos, claro que sí."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     },
     "arde_troya": {
         "name": "Arde Troya",
         "date": "2020/07/09",
         "description": [
             "El plan perfecto. Yo creo su carencia de vergüenza no les afecta porque cuentan con la carencia (también) del sentido crítico de la masa votante. Igual que pasa con los independentistas o los chavistas. Si acaban en la cárcel, estarán fuera antes de que dé tiempo a darnos cuenta. Jugarán la carta del mártir."
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "al_menos": {
         "name": "Al menos",
@@ -396,7 +454,9 @@
         "description": [
             "¡Duquemar se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Pedro Duque"],
+        "parties": ["PSOE"]
     },
     "cuotas": {
         "name": "Cuotas",
@@ -410,14 +470,18 @@
         "date": "2020/08/03",
         "description": [
             "¡Arrodillaos ante Galánchez, devorador de fondos europeos, y su heraldo Simón Surfer! No le llega con los contribuyentes españoles, ahora también con los europeos, ¡y pronto los de todo el mundo!"
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez", "Fernando Simón"],
+        "parties": ["PSOE"]
     },
     "doble_vara": {
         "name": "La doble vara de medir",
         "date": "2020/08/05",
         "description": [
             "Si lo hace el enemigo es un prófugo, si lo hace el amigo es un exiliado. Se les va a gastar la doble vara de medir."
-        ]
+        ],
+        "celebrities": ["Juan Carlos I", "Puigdemont"],
+        "parties": ["JxC"]
     },
     "alvarez_de_hyrule": {
         "name": "Álvarez de Hyrule",
@@ -425,14 +489,18 @@
         "description": [
             "¡Álvarez de Hyrule se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Álvarez de Toledo"],
+        "parties": ["PP"]
     },
     "sube_el_contador": {
         "name": "Cuando sube el contador...",
         "date": "2020/08/08",
         "description": [
             "¿Es solo impresión mía o cada vez que sale una noticia donde la víctima es una mujer parece que lo celebran más de lo que lo condenan? Ni que se les fuera el salario en ello..."
-        ]
+        ],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     },
     "terf_vs_trans_3": {
         "name": "TERF vs trans 3",
@@ -440,7 +508,9 @@
         "description": [
             "¡La lucha continúa! ¡La representante del Desgobierno intenta asestar un golpe letal, pero el Feministerio tiene algún que otro as en la manga!"
         ],
-        "series": ["terf_vs_trans"]
+        "series": ["terf_vs_trans"],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     },
     "volver_a_empezar": {
         "name": "Volver a empezar",
@@ -455,7 +525,9 @@
         "description": [
             "¡Vive la aventura de líder comunista con Super Pablo Bros.! ¡Hazte rico con las cajas B, destruye las malvadas tarjetas SD y adéntrate en las cloacas del Estado!",
             "Próximamente en tu economato de confianza, ¡si no está desabastecido cuando llegues!"
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "vodkuna": {
         "name": "Vodkuna",
@@ -470,14 +542,18 @@
         "description": [
             "¡Abaskong se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Abascal"],
+        "parties": ["Vox"]
     },
     "caja_s": {
         "name": "Caja \"S\"",
         "date": "2020/08/14",
         "description": [
             "Es que no os enteráis, es una caja de solidaridad, para solidarizarse con el líder, no vaya a ser que no pueda pagarse la mansión, que todo el mundo tiene derecho a una, que lo pone en la constitución."
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "apps_citas": {
         "name": "Apps de citas",
@@ -492,14 +568,17 @@
         "description": [
             "¡Franco & Kazooie se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Franco"]
     },
     "merecidas_vacaciones": {
         "name": "Unas merecidas vacaciones",
         "date": "2020/08/19",
         "description": [
             "Muy responsable esto de irse de vacaciones en medio de una pandemia que ha causado más de 40.000 muertos en este país e inmersos en lo que parece una segunda ola, además de tener al país rumbo a la mayor crisis del siglo, sí señor. Y pagado con el dinero de todos."
-        ]
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     },
     "ye_grave": {
         "name": "¿Ye grave, doctora?",
@@ -520,7 +599,9 @@
         "date": "2020/08/23",
         "description": [
             "No lo sé, Rick, parece falso."
-        ]
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     },
     "juraste_destruir": {
         "name": "Lo que juraste destruir",
@@ -528,14 +609,18 @@
         "description": [
             "Tenemos a un lord sith en el gobierno. No entiendo como aún puede quedar alguien que se trague todo lo que dicen. (En la escena original no habían sacado todavía los sables láser, pero me hacía ilusión dibujarlos)"
         ],
-        "series": ["memes"]
+        "series": ["memes"],
+        "celebrities": ["Pablo Iglesias", "Ewan McGregor"],
+        "parties": ["UP"]
     },
     "rolex": {
         "name": "Rolex",
         "date": "2020/08/25",
         "description": [
             "Menos mal que nos lo han aclarado, no podía dormir sin saber si alguien que ya se ha gastado un pastizal en una mansión después de haber criticado algo similar se ya gastado, también, un pastizal en un reloj. Sigan mirando hacia otro lado que más acusaciones no van a (o no pueden) desmentir."
-        ]
+        ],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     },
     "marianic": {
         "name": "Marianic",
@@ -543,7 +628,9 @@
         "description": [
             "¡Marianic se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Rajoy"],
+        "parties": ["PP"]
     },
     "tres_cerditos": {
         "name": "Los tres cerditos",
@@ -559,6 +646,8 @@
         "description": [
             "¡Wábalos se une al plantel!"
         ],
-        "series": ["smash"]
+        "series": ["smash"],
+        "celebrities": ["Ábalos"],
+        "parties": ["PSOE"]
     }
 }

@@ -30,3 +30,8 @@ h1 {
 .section-title {
   text-align: center;
 }
+
+h2 {
+  font-weight: initial;
+  font-size: 1.5em;
+}

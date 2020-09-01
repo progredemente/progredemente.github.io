@@ -1,0 +1,10 @@
+.chart tspan {
+    fill: black;
+}
+.chart:not(:last-of-type) {
+    padding-bottom: 20px;
+}
+
+.chart.semicircle .recharts-wrapper {
+    height: 250px !important;
+}

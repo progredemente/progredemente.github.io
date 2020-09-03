@@ -649,5 +649,14 @@
         "series": ["smash"],
         "celebrities": ["Ábalos"],
         "parties": ["PSOE"]
+    },
+    "seriefilo": {
+        "name": "Seriéfilo",
+        "date": "2020/09/03",
+        "description": [
+            "Sofá, manta, Netflix, pandemia y crisis, ¡qué tranquilidad!"
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

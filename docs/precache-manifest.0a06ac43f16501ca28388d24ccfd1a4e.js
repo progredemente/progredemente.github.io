@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e86a32e3fd3c5451cd3405a78a4f276c",
+    "revision": "a1e705614577d40f88ef96ca8b024887",
     "url": "/index.html"
   },
   {
-    "revision": "302a5bbf0a03766e0a33",
+    "revision": "9f48d67c56fcd49a6fc5",
     "url": "/static/css/main.fed12b62.chunk.css"
   },
   {
-    "revision": "0cf3df4c3828572fd108",
-    "url": "/static/js/2.e01da082.chunk.js"
+    "revision": "db448d30011586cda02f",
+    "url": "/static/js/2.c1354213.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.e01da082.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c1354213.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "302a5bbf0a03766e0a33",
-    "url": "/static/js/main.95f22a5c.chunk.js"
+    "revision": "9f48d67c56fcd49a6fc5",
+    "url": "/static/js/main.91753c0f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -574,6 +574,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9db2dcdd0dd5c6c55db68f01347d394",
     "url": "/static/media/saqueo_minneapolis.f9db2dcd.png"
+  },
+  {
+    "revision": "9c305b7d4744829dad48b58fe3615740",
+    "url": "/static/media/seriefilo.9c305b7d.png"
+  },
+  {
+    "revision": "cd3243db0d16e6273d83bbae9c5fd268",
+    "url": "/static/media/seriefilo.cd3243db.png"
   },
   {
     "revision": "6aa4541783d0f100e4b740d6e848127e",

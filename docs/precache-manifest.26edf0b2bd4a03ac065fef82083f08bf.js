@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1e705614577d40f88ef96ca8b024887",
+    "revision": "b8092d9c100ed745e24ba647122dabc0",
     "url": "/index.html"
   },
   {
-    "revision": "9f48d67c56fcd49a6fc5",
+    "revision": "0c745d790b2ca6729e96",
     "url": "/static/css/main.fed12b62.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c1354213.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f48d67c56fcd49a6fc5",
-    "url": "/static/js/main.91753c0f.chunk.js"
+    "revision": "0c745d790b2ca6729e96",
+    "url": "/static/js/main.5e891bb9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -576,12 +576,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/saqueo_minneapolis.f9db2dcd.png"
   },
   {
-    "revision": "9c305b7d4744829dad48b58fe3615740",
-    "url": "/static/media/seriefilo.9c305b7d.png"
-  },
-  {
     "revision": "cd3243db0d16e6273d83bbae9c5fd268",
     "url": "/static/media/seriefilo.cd3243db.png"
+  },
+  {
+    "revision": "d6a1773e0aecd23e84e11c79f59d8fbe",
+    "url": "/static/media/seriefilo.d6a1773e.png"
   },
   {
     "revision": "6aa4541783d0f100e4b740d6e848127e",

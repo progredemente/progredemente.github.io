@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.fed12b62.chunk.css",
-    "main.js": "/static/js/main.91753c0f.chunk.js",
-    "main.js.map": "/static/js/main.91753c0f.chunk.js.map",
+    "main.js": "/static/js/main.5e891bb9.chunk.js",
+    "main.js.map": "/static/js/main.5e891bb9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.c1354213.chunk.js": "/static/js/2.c1354213.chunk.js",
     "static/js/2.c1354213.chunk.js.map": "/static/js/2.c1354213.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0a06ac43f16501ca28388d24ccfd1a4e.js": "/precache-manifest.0a06ac43f16501ca28388d24ccfd1a4e.js",
+    "precache-manifest.26edf0b2bd4a03ac065fef82083f08bf.js": "/precache-manifest.26edf0b2bd4a03ac065fef82083f08bf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fed12b62.chunk.css.map": "/static/css/main.fed12b62.chunk.css.map",
     "static/js/2.c1354213.chunk.js.LICENSE.txt": "/static/js/2.c1354213.chunk.js.LICENSE.txt",
@@ -91,7 +91,7 @@
     "static/media/rolex.png": "/static/media/rolex.7c779579.png",
     "static/media/runner.png": "/static/media/runner.a0b2f2d8.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
-    "static/media/seriefilo.png": "/static/media/seriefilo.cd3243db.png",
+    "static/media/seriefilo.png": "/static/media/seriefilo.d6a1773e.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sube_el_contador.png": "/static/media/sube_el_contador.d22180a3.png",
@@ -118,6 +118,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.c1354213.chunk.js",
     "static/css/main.fed12b62.chunk.css",
-    "static/js/main.91753c0f.chunk.js"
+    "static/js/main.5e891bb9.chunk.js"
   ]
 }

@@ -658,5 +658,13 @@
         ],
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "cigarra_hormiga": {
+        "name": "La cigarra y la hormiga",
+        "date": "2020/09/07",
+        "description": [
+            "Moraleja: rechaza el parasitismo."
+        ],
+        "series": ["cuentos"]
     }
 }

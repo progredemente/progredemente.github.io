@@ -666,5 +666,14 @@
             "Moraleja: rechaza el parasitismo."
         ],
         "series": ["cuentos"]
+    },
+    "derechos_humanos": {
+        "name": "Derechos humanos",
+        "date": "2020/09/09",
+        "description": [
+            "Pedro, que ETA no tocó en el FIB."
+        ],
+        "celebrities": ["Pedro Sánchez", "Arnaldo Otegi"],
+        "parties": ["PSOE", "EH Bildu"]
     }
 }

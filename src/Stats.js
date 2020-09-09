@@ -70,7 +70,8 @@ let getPartyData = () => {
         { name: "MP", count: 0 },
         { name: "PP", count: 0 },
         { name: "JxC", count: 0 },
-        { name: "Vox", count: 0 }
+        { name: "Vox", count: 0 },
+        { name: "EH Bildu", count: 0}
     ];
     let partyColors = {
         "UP": "#5c3464",
@@ -78,7 +79,8 @@ let getPartyData = () => {
         "MP": "#0fddc4",
         "PP": "#0bb2ff",
         "JxC": "#e73452",
-        "Vox": "#7cbd2a"
+        "Vox": "#7cbd2a",
+        "EH Bildu": "#95c11f"
     }
     for(let key of Object.keys(list)) {
         let post = list[key];
@@ -143,10 +145,9 @@ class Stats extends PureComponent {
                     <h2>Partidos políticos por aparición</h2>
                     <PieChart
                         width={700}
-                        height={400}
+                        height={500}
                     >
                         <Pie
-                            className="celebrities"
                             data={partyData}
                             dataKey="count"
                             nameKey="name"

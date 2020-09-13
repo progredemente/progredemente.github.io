@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.210adc8a.chunk.css",
-    "main.js": "/static/js/main.6a5538be.chunk.js",
-    "main.js.map": "/static/js/main.6a5538be.chunk.js.map",
+    "main.js": "/static/js/main.2db053eb.chunk.js",
+    "main.js.map": "/static/js/main.2db053eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e24c0d87.chunk.js": "/static/js/2.e24c0d87.chunk.js",
-    "static/js/2.e24c0d87.chunk.js.map": "/static/js/2.e24c0d87.chunk.js.map",
+    "static/js/2.33c8b077.chunk.js": "/static/js/2.33c8b077.chunk.js",
+    "static/js/2.33c8b077.chunk.js.map": "/static/js/2.33c8b077.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6e1d7d3f8b0da69faf466e5b365a4ab6.js": "/precache-manifest.6e1d7d3f8b0da69faf466e5b365a4ab6.js",
+    "precache-manifest.cbdb15237ff3a4ebf833ec9ac304c4f6.js": "/precache-manifest.cbdb15237ff3a4ebf833ec9ac304c4f6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.210adc8a.chunk.css.map": "/static/css/main.210adc8a.chunk.css.map",
-    "static/js/2.e24c0d87.chunk.js.LICENSE.txt": "/static/js/2.e24c0d87.chunk.js.LICENSE.txt",
+    "static/js/2.33c8b077.chunk.js.LICENSE.txt": "/static/js/2.33c8b077.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -68,6 +68,7 @@
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
+    "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
@@ -118,8 +119,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e24c0d87.chunk.js",
+    "static/js/2.33c8b077.chunk.js",
     "static/css/main.210adc8a.chunk.css",
-    "static/js/main.6a5538be.chunk.js"
+    "static/js/main.2db053eb.chunk.js"
   ]
 }

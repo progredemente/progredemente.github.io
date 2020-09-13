@@ -675,5 +675,14 @@
         ],
         "celebrities": ["Pedro Sánchez", "Arnaldo Otegi"],
         "parties": ["PSOE", "EH Bildu"]
+    },
+    "macroencuesta": {
+        "name": "Macroencuesta",
+        "date": "2020/09/13",
+        "description": [
+            "Cuidadín, machirulos, que pronto será delito estar dentro de un radio de diez metros de cualquier mujer."
+        ],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

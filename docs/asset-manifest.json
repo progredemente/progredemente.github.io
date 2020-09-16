@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.210adc8a.chunk.css",
-    "main.js": "/static/js/main.2db053eb.chunk.js",
-    "main.js.map": "/static/js/main.2db053eb.chunk.js.map",
+    "main.js": "/static/js/main.7b8b0992.chunk.js",
+    "main.js.map": "/static/js/main.7b8b0992.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.33c8b077.chunk.js": "/static/js/2.33c8b077.chunk.js",
-    "static/js/2.33c8b077.chunk.js.map": "/static/js/2.33c8b077.chunk.js.map",
+    "static/js/2.5745e080.chunk.js": "/static/js/2.5745e080.chunk.js",
+    "static/js/2.5745e080.chunk.js.map": "/static/js/2.5745e080.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cbdb15237ff3a4ebf833ec9ac304c4f6.js": "/precache-manifest.cbdb15237ff3a4ebf833ec9ac304c4f6.js",
+    "precache-manifest.924356c754506de6ed55303a7f9443d2.js": "/precache-manifest.924356c754506de6ed55303a7f9443d2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.210adc8a.chunk.css.map": "/static/css/main.210adc8a.chunk.css.map",
-    "static/js/2.33c8b077.chunk.js.LICENSE.txt": "/static/js/2.33c8b077.chunk.js.LICENSE.txt",
+    "static/js/2.5745e080.chunk.js.LICENSE.txt": "/static/js/2.5745e080.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -97,6 +97,7 @@
     "static/media/seriefilo.png": "/static/media/seriefilo.d6a1773e.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
+    "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
     "static/media/sube_el_contador.png": "/static/media/sube_el_contador.d22180a3.png",
     "static/media/sube_el_pan.png": "/static/media/sube_el_pan.e6bf4868.png",
     "static/media/subida_impuestos.png": "/static/media/subida_impuestos.e462ed5d.png",
@@ -119,8 +120,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.33c8b077.chunk.js",
+    "static/js/2.5745e080.chunk.js",
     "static/css/main.210adc8a.chunk.css",
-    "static/js/main.2db053eb.chunk.js"
+    "static/js/main.7b8b0992.chunk.js"
   ]
 }

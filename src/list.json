@@ -691,5 +691,13 @@
         "description": [
             "Hasta en la sopa. Se les va a gastar el Francomodín de tanto usarlo. A la izquierda le gusta más el franquismo que a un tonto un lápiz."
         ]
+    },
+    "caperucita": {
+        "name": "Caperucita Roja",
+        "date": "2020/09/19",
+        "description": [
+            "Moraleja: no dejes que prostituyan las leyes con fines partidistas."
+        ],
+        "series": ["cuentos"]
     }
 }

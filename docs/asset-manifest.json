@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.210adc8a.chunk.css",
-    "main.js": "/static/js/main.ec5acf7c.chunk.js",
-    "main.js.map": "/static/js/main.ec5acf7c.chunk.js.map",
+    "main.js": "/static/js/main.c90f5a4c.chunk.js",
+    "main.js.map": "/static/js/main.c90f5a4c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.5f39e514.chunk.js": "/static/js/2.5f39e514.chunk.js",
-    "static/js/2.5f39e514.chunk.js.map": "/static/js/2.5f39e514.chunk.js.map",
+    "static/js/2.3a076f87.chunk.js": "/static/js/2.3a076f87.chunk.js",
+    "static/js/2.3a076f87.chunk.js.map": "/static/js/2.3a076f87.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e683f5bd2777d6ba3ad92277e6a8c768.js": "/precache-manifest.e683f5bd2777d6ba3ad92277e6a8c768.js",
+    "precache-manifest.4c98403743d2b1d2e310ba78cecb383d.js": "/precache-manifest.4c98403743d2b1d2e310ba78cecb383d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.210adc8a.chunk.css.map": "/static/css/main.210adc8a.chunk.css.map",
-    "static/js/2.5f39e514.chunk.js.LICENSE.txt": "/static/js/2.5f39e514.chunk.js.LICENSE.txt",
+    "static/js/2.3a076f87.chunk.js.LICENSE.txt": "/static/js/2.3a076f87.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -54,6 +54,7 @@
     "static/media/duquemar.png": "/static/media/duquemar.b4a333ad.png",
     "static/media/duquemar.mp3": "/static/media/duquemar.db3e25c1.mp3",
     "static/media/el_coletas_sapee.png": "/static/media/el_coletas_sapee.d40d694a.png",
+    "static/media/fer_simon.png": "/static/media/fer_simon.eaea6a51.png",
     "static/media/franco_kazooie.png": "/static/media/franco_kazooie.8f7c48aa.png",
     "static/media/franco_kazooie.mp3": "/static/media/franco_kazooie.50e60ed0.mp3",
     "static/media/gafas_moradas.png": "/static/media/gafas_moradas.f7a1a331.png",
@@ -124,8 +125,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.5f39e514.chunk.js",
+    "static/js/2.3a076f87.chunk.js",
     "static/css/main.210adc8a.chunk.css",
-    "static/js/main.ec5acf7c.chunk.js"
+    "static/js/main.c90f5a4c.chunk.js"
   ]
 }

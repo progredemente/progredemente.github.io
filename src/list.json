@@ -720,6 +720,14 @@
         "date": "2020/09/29",
         "description": [
             "Moraleja: no apoyes propuestas que solo sirvan para generar miedo en partes concretas de la sociedad."
-        ]
+        ],
+	"series": ["cuentos"]
+    },
+    "fer_simon": {
+    	"name": "Fer Simón",
+	"date": "2020/09/30",
+	"description": [
+		"Si al final Rajoy tenía razón con lo de que le iban a subir el IVA de \"los chuches\"."
+	]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.210adc8a.chunk.css",
-    "main.js": "/static/js/main.c90f5a4c.chunk.js",
-    "main.js.map": "/static/js/main.c90f5a4c.chunk.js.map",
+    "main.js": "/static/js/main.ee883302.chunk.js",
+    "main.js.map": "/static/js/main.ee883302.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.3a076f87.chunk.js": "/static/js/2.3a076f87.chunk.js",
-    "static/js/2.3a076f87.chunk.js.map": "/static/js/2.3a076f87.chunk.js.map",
+    "static/js/2.31cd79d5.chunk.js": "/static/js/2.31cd79d5.chunk.js",
+    "static/js/2.31cd79d5.chunk.js.map": "/static/js/2.31cd79d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4c98403743d2b1d2e310ba78cecb383d.js": "/precache-manifest.4c98403743d2b1d2e310ba78cecb383d.js",
+    "precache-manifest.daabbd3b0672e1f5f1a2034bffd72900.js": "/precache-manifest.daabbd3b0672e1f5f1a2034bffd72900.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.210adc8a.chunk.css.map": "/static/css/main.210adc8a.chunk.css.map",
-    "static/js/2.3a076f87.chunk.js.LICENSE.txt": "/static/js/2.3a076f87.chunk.js.LICENSE.txt",
+    "static/js/2.31cd79d5.chunk.js.LICENSE.txt": "/static/js/2.31cd79d5.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -22,6 +22,7 @@
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
+    "static/media/apropiacion_simbolos.png": "/static/media/apropiacion_simbolos.ac63ad70.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/index.css": "/static/media/comic_typo.d795b151.ttf",
@@ -125,8 +126,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.3a076f87.chunk.js",
+    "static/js/2.31cd79d5.chunk.js",
     "static/css/main.210adc8a.chunk.css",
-    "static/js/main.c90f5a4c.chunk.js"
+    "static/js/main.ee883302.chunk.js"
   ]
 }

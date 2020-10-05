@@ -724,10 +724,17 @@
 	"series": ["cuentos"]
     },
     "fer_simon": {
-    	"name": "Fer Simón",
-	"date": "2020/09/30",
-	"description": [
-		"Si al final Rajoy tenía razón con lo de que le iban a subir el IVA de \"los chuches\"."
-	]
+        "name": "Fer Simón",
+        "date": "2020/09/30",
+        "description": [
+            "Si al final Rajoy tenía razón con lo de que le iban a subir el IVA de \"los chuches\"."
+        ]
+    },
+    "apropiacion_simbolos": {
+        "name": "Apropiación de símbolos",
+        "date": "2020/10/5",
+        "description": [
+            "Que me diga alguien dónde está la coherencia en despreciar algo que es de todos y luego quejarse de que la gente que no lo desprecia lo use diciendo que esa gente se lo ha apropiado. Son como el perro del hortelano."
+        ]
     }
 }

@@ -736,5 +736,15 @@
         "description": [
             "Que me diga alguien dónde está la coherencia en despreciar algo que es de todos y luego quejarse de que la gente que no lo desprecia lo use diciendo que esa gente se lo ha apropiado. Son como el perro del hortelano."
         ]
+    },
+    "techo_gasto": {
+        "name": "Subida del techo de gasto",
+        "date": "2020/10/7",
+        "description": [
+            "Parece que echa de menos su tierra natal porque cualquiera diría que se alegra por la paulatina transformación de España en Argentina."
+        ],
+        "series": ["memes"],
+        "celebrities": ["Echenique"],
+        "parties": ["UP"]
     }
 }

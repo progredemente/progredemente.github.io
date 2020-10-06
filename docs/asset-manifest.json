@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.210adc8a.chunk.css",
-    "main.js": "/static/js/main.ee883302.chunk.js",
-    "main.js.map": "/static/js/main.ee883302.chunk.js.map",
+    "main.css": "/static/css/main.e05e41fc.chunk.css",
+    "main.js": "/static/js/main.f1aa9bdb.chunk.js",
+    "main.js.map": "/static/js/main.f1aa9bdb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.31cd79d5.chunk.js": "/static/js/2.31cd79d5.chunk.js",
-    "static/js/2.31cd79d5.chunk.js.map": "/static/js/2.31cd79d5.chunk.js.map",
+    "static/js/2.7914b57f.chunk.js": "/static/js/2.7914b57f.chunk.js",
+    "static/js/2.7914b57f.chunk.js.map": "/static/js/2.7914b57f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.daabbd3b0672e1f5f1a2034bffd72900.js": "/precache-manifest.daabbd3b0672e1f5f1a2034bffd72900.js",
+    "precache-manifest.25a2d3a3d0f3e1c39a9c29d7cdfaf6ef.js": "/precache-manifest.25a2d3a3d0f3e1c39a9c29d7cdfaf6ef.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.210adc8a.chunk.css.map": "/static/css/main.210adc8a.chunk.css.map",
-    "static/js/2.31cd79d5.chunk.js.LICENSE.txt": "/static/js/2.31cd79d5.chunk.js.LICENSE.txt",
+    "static/css/main.e05e41fc.chunk.css.map": "/static/css/main.e05e41fc.chunk.css.map",
+    "static/js/2.7914b57f.chunk.js.LICENSE.txt": "/static/js/2.7914b57f.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -25,7 +25,7 @@
     "static/media/apropiacion_simbolos.png": "/static/media/apropiacion_simbolos.ac63ad70.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
-    "static/media/index.css": "/static/media/comic_typo.d795b151.ttf",
+    "static/media/index.css": "/static/media/comic_typo.d8210ca1.ttf",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bella_durmiente.png": "/static/media/bella_durmiente.c60a25fd.png",
@@ -109,6 +109,7 @@
     "static/media/subida_impuestos.png": "/static/media/subida_impuestos.e462ed5d.png",
     "static/media/super_pablo.png": "/static/media/super_pablo.e8281f3d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
+    "static/media/techo_gasto.png": "/static/media/techo_gasto.91f2d34c.png",
     "static/media/terf_vs_trans_1.png": "/static/media/terf_vs_trans_1.d980a893.png",
     "static/media/terf_vs_trans_2.png": "/static/media/terf_vs_trans_2.56e2702d.png",
     "static/media/terf_vs_trans_3.png": "/static/media/terf_vs_trans_3.7e2f6664.png",
@@ -126,8 +127,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.31cd79d5.chunk.js",
-    "static/css/main.210adc8a.chunk.css",
-    "static/js/main.ee883302.chunk.js"
+    "static/js/2.7914b57f.chunk.js",
+    "static/css/main.e05e41fc.chunk.css",
+    "static/js/main.f1aa9bdb.chunk.js"
   ]
 }

@@ -746,5 +746,13 @@
         "series": ["memes"],
         "celebrities": ["Echenique"],
         "parties": ["UP"]
+    },
+    "nueva_coalicion": {
+        "name": "La nueva coalición",
+        "date": "2020/10/8",
+        "description": [
+            "Ya sabemos quienes formarán parte de la coalición liderada por los morados en las próximas elecciones."
+        ],
+        "parties": ["UP"]
     }
 }

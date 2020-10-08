@@ -754,5 +754,14 @@
             "Ya sabemos quienes formarán parte de la coalición liderada por los morados en las próximas elecciones."
         ],
         "parties": ["UP"]
+    },
+    "maquina_humo": {
+        "name": "Máquina de humo",
+        "date": "2020/10/8",
+        "description": [
+            "A ver cual es la siguiente cosa con la que nos soprenden para que miremos hacia otro lado, tienen que empezar a sacar nuevo material para que su horda de estómagos agradecidos siga defendiendo lo indefendible mientras nos vamos a la mierda."
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

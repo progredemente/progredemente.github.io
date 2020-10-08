@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e05e41fc.chunk.css",
-    "main.js": "/static/js/main.dd379cd0.chunk.js",
-    "main.js.map": "/static/js/main.dd379cd0.chunk.js.map",
+    "main.js": "/static/js/main.4db9e15e.chunk.js",
+    "main.js.map": "/static/js/main.4db9e15e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0eb05991.chunk.js": "/static/js/2.0eb05991.chunk.js",
-    "static/js/2.0eb05991.chunk.js.map": "/static/js/2.0eb05991.chunk.js.map",
+    "static/js/2.b722eb1f.chunk.js": "/static/js/2.b722eb1f.chunk.js",
+    "static/js/2.b722eb1f.chunk.js.map": "/static/js/2.b722eb1f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd7bd5208018f2d18b712f4346b915f8.js": "/precache-manifest.bd7bd5208018f2d18b712f4346b915f8.js",
+    "precache-manifest.529b2403703908cb0bc9f3ff1ea38a08.js": "/precache-manifest.529b2403703908cb0bc9f3ff1ea38a08.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e05e41fc.chunk.css.map": "/static/css/main.e05e41fc.chunk.css.map",
-    "static/js/2.0eb05991.chunk.js.LICENSE.txt": "/static/js/2.0eb05991.chunk.js.LICENSE.txt",
+    "static/js/2.b722eb1f.chunk.js.LICENSE.txt": "/static/js/2.b722eb1f.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -75,6 +75,7 @@
     "static/media/logo.png": "/static/media/logo.11965a96.png",
     "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
+    "static/media/maquina_humo.png": "/static/media/maquina_humo.8c0fec56.png",
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
@@ -128,8 +129,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0eb05991.chunk.js",
+    "static/js/2.b722eb1f.chunk.js",
     "static/css/main.e05e41fc.chunk.css",
-    "static/js/main.dd379cd0.chunk.js"
+    "static/js/main.4db9e15e.chunk.js"
   ]
 }

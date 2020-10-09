@@ -763,5 +763,14 @@
         ],
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "sanchezcracia": {
+        "name": "Sanchezcracia",
+        "date": "2020/10/9",
+        "description": [
+            "AVE PETRVS SANCTII DICTATOR IN PERPETVVM HISPANIAE ET MATRITI"
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

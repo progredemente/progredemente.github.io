@@ -4,6 +4,7 @@ import logo from './img/logo.png';
 import instagram from './img/social/instagram.png';
 import twitter from './img/social/twitter.png';
 import gab from './img/social/gab.png';
+import telegram from './img/social/telegram.png';
 import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
@@ -45,6 +46,9 @@ function App() {
                             </a>
                             <a target="_blank" rel="noopener noreferrer" href="https://gab.com/progredemente">
                                 <img src={gab} alt="gab"/>
+                            </a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://t.me/progredemente">
+                                <img src={telegram} alt="telegram"/>
                             </a>
                         </div>
                     </div>

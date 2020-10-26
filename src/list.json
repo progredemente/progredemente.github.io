@@ -732,14 +732,14 @@
     },
     "apropiacion_simbolos": {
         "name": "Apropiación de símbolos",
-        "date": "2020/10/5",
+        "date": "2020/10/05",
         "description": [
             "Que me diga alguien dónde está la coherencia en despreciar algo que es de todos y luego quejarse de que la gente que no lo desprecia lo use diciendo que esa gente se lo ha apropiado. Son como el perro del hortelano."
         ]
     },
     "techo_gasto": {
         "name": "Subida del techo de gasto",
-        "date": "2020/10/7",
+        "date": "2020/10/07",
         "description": [
             "Parece que echa de menos su tierra natal porque cualquiera diría que se alegra por la paulatina transformación de España en Argentina."
         ],
@@ -749,7 +749,7 @@
     },
     "nueva_coalicion": {
         "name": "La nueva coalición",
-        "date": "2020/10/8",
+        "date": "2020/10/08",
         "description": [
             "Ya sabemos quienes formarán parte de la coalición liderada por los morados en las próximas elecciones."
         ],
@@ -757,7 +757,7 @@
     },
     "maquina_humo": {
         "name": "Máquina de humo",
-        "date": "2020/10/8",
+        "date": "2020/10/08",
         "description": [
             "A ver cual es la siguiente cosa con la que nos soprenden para que miremos hacia otro lado, tienen que empezar a sacar nuevo material para que su horda de estómagos agradecidos siga defendiendo lo indefendible mientras nos vamos a la mierda."
         ],
@@ -766,9 +766,18 @@
     },
     "sanchezcracia": {
         "name": "Sanchezcracia",
-        "date": "2020/10/9",
+        "date": "2020/10/09",
         "description": [
             "AVE PETRVS SANCTII DICTATOR IN PERPETVVM HISPANIAE ET MATRITI"
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
+    },
+    "toque_de_queda": {
+        "name": "Toque de queda",
+        "date": "2020/10/26",
+        "description": [
+            "\"Hacer este ejercicio de pedagogía\" dice... A tope con la neolengua, por no variar."
         ],
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]

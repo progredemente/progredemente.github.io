@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e05e41fc.chunk.css",
-    "main.js": "/static/js/main.aa651752.chunk.js",
-    "main.js.map": "/static/js/main.aa651752.chunk.js.map",
+    "main.js": "/static/js/main.0fdea7c2.chunk.js",
+    "main.js.map": "/static/js/main.0fdea7c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b5a11171.chunk.js": "/static/js/2.b5a11171.chunk.js",
-    "static/js/2.b5a11171.chunk.js.map": "/static/js/2.b5a11171.chunk.js.map",
+    "static/js/2.204b3417.chunk.js": "/static/js/2.204b3417.chunk.js",
+    "static/js/2.204b3417.chunk.js.map": "/static/js/2.204b3417.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c55b7d1b751e2324d2bf57d95b2a6e01.js": "/precache-manifest.c55b7d1b751e2324d2bf57d95b2a6e01.js",
+    "precache-manifest.cbe1b8a386f6e00439df614a719042fe.js": "/precache-manifest.cbe1b8a386f6e00439df614a719042fe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e05e41fc.chunk.css.map": "/static/css/main.e05e41fc.chunk.css.map",
-    "static/js/2.b5a11171.chunk.js.LICENSE.txt": "/static/js/2.b5a11171.chunk.js.LICENSE.txt",
+    "static/js/2.204b3417.chunk.js.LICENSE.txt": "/static/js/2.204b3417.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -70,6 +70,7 @@
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
     "static/media/koopanique.png": "/static/media/koopanique.a96b220c.png",
     "static/media/la_nueva_subnormalidad.png": "/static/media/la_nueva_subnormalidad.aaa250f6.png",
+    "static/media/lagrimas_autonomo.png": "/static/media/lagrimas_autonomo.af1fc19f.png",
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
@@ -132,8 +133,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b5a11171.chunk.js",
+    "static/js/2.204b3417.chunk.js",
     "static/css/main.e05e41fc.chunk.css",
-    "static/js/main.aa651752.chunk.js"
+    "static/js/main.0fdea7c2.chunk.js"
   ]
 }

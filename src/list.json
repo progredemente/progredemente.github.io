@@ -781,5 +781,14 @@
         ],
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "lagrimas_autonomo": {
+        "name": "Lágrimas de autónomo",
+        "date": "2020/10/29",
+        "description": [
+            "¿Quién se va a apretar el cinturón? Parece que ellos no."
+        ],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

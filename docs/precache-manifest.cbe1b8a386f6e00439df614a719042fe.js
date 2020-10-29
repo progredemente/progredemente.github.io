@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9169d82e2de83bdcd83584fb5d3da85b",
+    "revision": "a45be7fa542a069aa470e832272e0df0",
     "url": "/index.html"
   },
   {
-    "revision": "7ced187b9ade202ef736",
+    "revision": "accfb2fc5d9803401fde",
     "url": "/static/css/main.e05e41fc.chunk.css"
   },
   {
-    "revision": "2442a61b817087896cf2",
-    "url": "/static/js/2.b5a11171.chunk.js"
+    "revision": "16bcdbd7a7c04219b63e",
+    "url": "/static/js/2.204b3417.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.b5a11171.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.204b3417.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ced187b9ade202ef736",
-    "url": "/static/js/main.aa651752.chunk.js"
+    "revision": "accfb2fc5d9803401fde",
+    "url": "/static/js/main.0fdea7c2.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -446,6 +446,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aaa250f6dc5e30e1ad12a6a52ea3910f",
     "url": "/static/media/la_nueva_subnormalidad.aaa250f6.png"
+  },
+  {
+    "revision": "796d0867ef2eed515f39f519332121cd",
+    "url": "/static/media/lagrimas_autonomo.796d0867.png"
+  },
+  {
+    "revision": "af1fc19f96d2ffdb5e5ab3a14cc8acd5",
+    "url": "/static/media/lagrimas_autonomo.af1fc19f.png"
   },
   {
     "revision": "347b55a8f67a097d682f705c3377ef35",

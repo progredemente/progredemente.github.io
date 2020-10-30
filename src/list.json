@@ -790,5 +790,14 @@
         ],
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "estado_totalitario": {
+        "name": "Estado totalitario",
+        "date": "2020/10/30",
+        "description": [
+            "Lo peor es que es cierto."
+        ],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

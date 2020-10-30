@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a45be7fa542a069aa470e832272e0df0",
+    "revision": "009006d59789a117b737f896539457b9",
     "url": "/index.html"
   },
   {
-    "revision": "accfb2fc5d9803401fde",
+    "revision": "783fec58a3e0ea418e6a",
     "url": "/static/css/main.e05e41fc.chunk.css"
   },
   {
-    "revision": "16bcdbd7a7c04219b63e",
-    "url": "/static/js/2.204b3417.chunk.js"
+    "revision": "2d36bed5c8acb04f50e8",
+    "url": "/static/js/2.fd7854e0.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.204b3417.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fd7854e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "accfb2fc5d9803401fde",
-    "url": "/static/js/main.0fdea7c2.chunk.js"
+    "revision": "783fec58a3e0ea418e6a",
+    "url": "/static/js/main.cab051b3.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -338,6 +338,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d40d694a6113e3af37ebc2ed6d301f04",
     "url": "/static/media/el_coletas_sapee.d40d694a.png"
+  },
+  {
+    "revision": "7ae3298f1a14e15c6c680abaaaf99a42",
+    "url": "/static/media/estado_totalitario.7ae3298f.png"
+  },
+  {
+    "revision": "b1b684fe271ca5ffebaff2ea68ffec2e",
+    "url": "/static/media/estado_totalitario.b1b684fe.png"
   },
   {
     "revision": "76c4c0f71d5211be3305410e76c64d45",

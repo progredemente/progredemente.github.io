@@ -721,7 +721,7 @@
         "description": [
             "Moraleja: no apoyes propuestas que solo sirvan para generar miedo en partes concretas de la sociedad."
         ],
-	"series": ["cuentos"]
+	    "series": ["cuentos"]
     },
     "fer_simon": {
         "name": "Fer Simón",
@@ -799,5 +799,13 @@
         ],
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "cenicienta": {
+        "name": "Cenicienta",
+        "date": "2020/11/07",
+        "description": [
+            "Moraleja: no esperes medidas o resultados positivos de un movimiento que solo se mueva dentro del mundo de las ideas y se niegue a ver la realidad."
+        ],
+        "series": ["cuentos"]
     }
 }

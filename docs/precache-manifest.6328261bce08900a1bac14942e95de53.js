@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2407d5beb5123e89f1273e5f8c9ec83b",
+    "revision": "c585b14dd79d2262be316cf3f019f8a3",
     "url": "/index.html"
   },
   {
-    "revision": "9522205f1c29a6f047a2",
-    "url": "/static/css/main.e05e41fc.chunk.css"
+    "revision": "e4bc7b5bce4b397bba44",
+    "url": "/static/css/main.f09f8101.chunk.css"
   },
   {
-    "revision": "cfe8ca8e2a25f18b9f8c",
-    "url": "/static/js/2.4df1eede.chunk.js"
+    "revision": "cfd0c9dd5edb35ddb1fd",
+    "url": "/static/js/2.68f4e048.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.4df1eede.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.68f4e048.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9522205f1c29a6f047a2",
-    "url": "/static/js/main.195cad24.chunk.js"
+    "revision": "e4bc7b5bce4b397bba44",
+    "url": "/static/js/main.35f55824.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -256,8 +256,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cigarra_hormiga.bfa5608a.png"
   },
   {
-    "revision": "d8210ca1f0388ca3c7480c6fd832a45c",
-    "url": "/static/media/comic_typo.d8210ca1.ttf"
+    "revision": "f3f94974e63a5ba41a8b59ccf0ae16b7",
+    "url": "/static/media/comic_typo.f3f94974.ttf"
+  },
+  {
+    "revision": "0fa234b588e80a1269946fca9a17e9e7",
+    "url": "/static/media/concurso_democratico.0fa234b5.png"
+  },
+  {
+    "revision": "20ca64b88311c885613a9ffa78babfc7",
+    "url": "/static/media/concurso_democratico.20ca64b8.png"
   },
   {
     "revision": "d19ed11d69ba70e490420664c8dcb22b",

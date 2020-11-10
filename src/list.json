@@ -807,5 +807,13 @@
             "Moraleja: no esperes medidas o resultados positivos de un movimiento que solo se mueva dentro del mundo de las ideas y se niegue a ver la realidad."
         ],
         "series": ["cuentos"]
+    },
+    "concurso_democratico": {
+        "name": "¿Quién quiere ser democrático?",
+        "date": "2020/11/10",
+        "description": [
+            "¿Es tanto el concepto de democracia como las decisiones tomadas democráticamente una suerte de argumentum ad populum?"
+        ],
+        "celebrities": ["Carlos Sobera"]
     }
 }

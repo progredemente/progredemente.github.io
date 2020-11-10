@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e05e41fc.chunk.css",
-    "main.js": "/static/js/main.195cad24.chunk.js",
-    "main.js.map": "/static/js/main.195cad24.chunk.js.map",
+    "main.css": "/static/css/main.f09f8101.chunk.css",
+    "main.js": "/static/js/main.35f55824.chunk.js",
+    "main.js.map": "/static/js/main.35f55824.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4df1eede.chunk.js": "/static/js/2.4df1eede.chunk.js",
-    "static/js/2.4df1eede.chunk.js.map": "/static/js/2.4df1eede.chunk.js.map",
+    "static/js/2.68f4e048.chunk.js": "/static/js/2.68f4e048.chunk.js",
+    "static/js/2.68f4e048.chunk.js.map": "/static/js/2.68f4e048.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2367766a58501cdb69235503b8bda4d4.js": "/precache-manifest.2367766a58501cdb69235503b8bda4d4.js",
+    "precache-manifest.6328261bce08900a1bac14942e95de53.js": "/precache-manifest.6328261bce08900a1bac14942e95de53.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e05e41fc.chunk.css.map": "/static/css/main.e05e41fc.chunk.css.map",
-    "static/js/2.4df1eede.chunk.js.LICENSE.txt": "/static/js/2.4df1eede.chunk.js.LICENSE.txt",
+    "static/css/main.f09f8101.chunk.css.map": "/static/css/main.f09f8101.chunk.css.map",
+    "static/js/2.68f4e048.chunk.js.LICENSE.txt": "/static/js/2.68f4e048.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -25,7 +25,7 @@
     "static/media/apropiacion_simbolos.png": "/static/media/apropiacion_simbolos.ac63ad70.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
-    "static/media/index.css": "/static/media/comic_typo.d8210ca1.ttf",
+    "static/media/index.css": "/static/media/comic_typo.f3f94974.ttf",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bella_durmiente.png": "/static/media/bella_durmiente.c60a25fd.png",
@@ -44,6 +44,7 @@
     "static/media/cenicienta.png": "/static/media/cenicienta.ef8e984c.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
     "static/media/cigarra_hormiga.png": "/static/media/cigarra_hormiga.bfa5608a.png",
+    "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
     "static/media/conguitos.png": "/static/media/conguitos.d90cd7e3.png",
     "static/media/coronavirus.png": "/static/media/coronavirus.85f7e91c.png",
     "static/media/cortinas_banderas.png": "/static/media/cortinas_banderas.a8a093a9.png",
@@ -135,8 +136,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4df1eede.chunk.js",
-    "static/css/main.e05e41fc.chunk.css",
-    "static/js/main.195cad24.chunk.js"
+    "static/js/2.68f4e048.chunk.js",
+    "static/css/main.f09f8101.chunk.css",
+    "static/js/main.35f55824.chunk.js"
   ]
 }

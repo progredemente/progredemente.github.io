@@ -815,5 +815,14 @@
             "¿Es tanto el concepto de democracia como las decisiones tomadas democráticamente una suerte de argumentum ad populum?"
         ],
         "celebrities": ["Carlos Sobera"]
+    },
+    "bajada_iva": {
+        "name": "Bajada del IVA de las mascarillas",
+        "date": "2020/11/12",
+        "description": [
+            "Parece que se han quedado sin argumentos para no bajarle el IVA a las mascarillas, pero recordad: esta gente no da puntada sin hilo."
+        ],
+        "celebrities": ["Carmen Calvo"],
+        "parties": ["PSOE"]
     }
 }

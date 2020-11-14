@@ -824,5 +824,13 @@
         ],
         "celebrities": ["Carmen Calvo"],
         "parties": ["PSOE"]
+    },
+    "psoeta": {
+        "name": "PSOETA",
+        "date": "2020/11/14",
+        "description": [
+            "Agarrándose a un clavo ardiendo."
+        ],
+        "parties": ["PSOE"]
     }
 }

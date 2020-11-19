@@ -832,5 +832,13 @@
             "Agarrándose a un clavo ardiendo."
         ],
         "parties": ["PSOE"]
+    },
+    "pinocho": {
+        "name": "Pinocho",
+        "date": "2020/11/19",
+        "description": [
+            "Moraleja: aprende a distinguir a los charlatanes, no dejes que te coman la oreja con palabras vacías."
+        ],
+        "series": ["cuentos"]
     }
 }

@@ -840,5 +840,14 @@
             "Moraleja: aprende a distinguir a los charlatanes, no dejes que te coman la oreja con palabras vacías."
         ],
         "series": ["cuentos"]
+    },
+    "celaa_de_vil": {
+        "name": "Celaá De Vil",
+        "date": "2020/11/19",
+        "description": [
+            "Decidme que no soy el único a quien esta señora le recuerda a Cruella De Vil. #stopleycelaá"
+        ],
+        "celebrities": ["Isabel Celaá"],
+        "parties": ["PSOE"]
     }
 }

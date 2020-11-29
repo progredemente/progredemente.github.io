@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55cfcf7b02d5e1bd6fbf10add3907d02",
+    "revision": "3ec954c891fa7ae7944e2bb2c3902696",
     "url": "/index.html"
   },
   {
-    "revision": "ec29d298edf5adee33f9",
+    "revision": "b2a226213a65ac024080",
     "url": "/static/css/main.f09f8101.chunk.css"
   },
   {
-    "revision": "b5286474700ea21ba149",
-    "url": "/static/js/2.2a0ccdac.chunk.js"
+    "revision": "a6d31d238a51961627b6",
+    "url": "/static/js/2.8f2f628a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.2a0ccdac.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8f2f628a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec29d298edf5adee33f9",
-    "url": "/static/js/main.f1bead4c.chunk.js"
+    "revision": "b2a226213a65ac024080",
+    "url": "/static/js/main.41a3d976.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -606,6 +606,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e57e96d31c1ce609f8d0e1d7b9fa27b0",
     "url": "/static/media/oso_machista.e57e96d3.png"
+  },
+  {
+    "revision": "254e50b38b5ac43e11c95219edb8c133",
+    "url": "/static/media/otro_mundo.254e50b3.png"
+  },
+  {
+    "revision": "c1fc276d0d961ffc8e55d3beb9527e2d",
+    "url": "/static/media/otro_mundo.c1fc276d.png"
   },
   {
     "revision": "1c38f4829c230d3707de9b90c29b7643",

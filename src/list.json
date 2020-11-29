@@ -843,11 +843,18 @@
     },
     "celaa_de_vil": {
         "name": "Celaá De Vil",
-        "date": "2020/11/19",
+        "date": "2020/11/21",
         "description": [
             "Decidme que no soy el único a quien esta señora le recuerda a Cruella De Vil. #stopleycelaá"
         ],
         "celebrities": ["Isabel Celaá"],
         "parties": ["PSOE"]
+    },
+    "otro_mundo": {
+        "name": "En otro mundo",
+        "date": "2020/11/29",
+        "description": [
+            "Ya puede empezar el apocalipsis que esta gente va a seguir con sus chorradas, a su puta bola. En fin, sería enternecedor si no estuviesen jugando con nuestro dinero."
+        ]
     }
 }

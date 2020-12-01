@@ -71,7 +71,8 @@ let getPartyData = () => {
         { name: "PP", count: 0 },
         { name: "JxC", count: 0 },
         { name: "Vox", count: 0 },
-        { name: "EH Bildu", count: 0}
+        { name: "EH Bildu", count: 0},
+        { name: "ERC", count: 0}
     ];
     let partyColors = {
         "UP": "#5c3464",
@@ -80,7 +81,8 @@ let getPartyData = () => {
         "PP": "#0bb2ff",
         "JxC": "#e73452",
         "Vox": "#7cbd2a",
-        "EH Bildu": "#95c11f"
+        "EH Bildu": "#95c11f",
+        "ERC": "#ffb018"
     }
     for(let key of Object.keys(list)) {
         let post = list[key];

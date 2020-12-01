@@ -831,7 +831,7 @@
         "description": [
             "Agarrándose a un clavo ardiendo."
         ],
-        "parties": ["PSOE"]
+        "parties": ["PSOE", "EH Bildu"]
     },
     "pinocho": {
         "name": "Pinocho",
@@ -856,5 +856,14 @@
         "description": [
             "Ya puede empezar el apocalipsis que esta gente va a seguir con sus chorradas, a su puta bola. En fin, sería enternecedor si no estuviesen jugando con nuestro dinero."
         ]
+    },
+    "presupuestos": {
+        "name": "Presupuestos",
+        "date": "2020/12/01",
+        "description": [
+            "Los coleguis de la ruina."
+        ],
+        "celebrities": ["Pedro Sánchez", "Pablo Iglesias", "Arnaldo Otegi", "Gabriel Rufián"],
+        "parties": ["PSOE", "UP", "EH Bildu", "ERC"]
     }
 }

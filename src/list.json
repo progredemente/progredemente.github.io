@@ -382,7 +382,8 @@
         "date": "2020/06/18",
         "description": [
             "A una ideología cuyo principal motivo de supervivencia sea la condena de sucesos e ideas que causan el descontento de la población, ¿qué le interesa más, erradicar esos sucesos e ideas y así desaparecer, o mantenerlos, ya sea de manera real o ficticia, para poder seguir existiendo?"
-        ]
+        ],
+        "series": ["el_palmero"]
     },
     "alboran_dolmayan": {
         "name": "Alborán y Dolmayan",
@@ -865,5 +866,13 @@
         ],
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias", "Arnaldo Otegi", "Gabriel Rufián"],
         "parties": ["PSOE", "UP", "EH Bildu", "ERC"]
+    },
+    "zendal": {
+        "name": "Enfermera Isabel Zendal",
+        "date": "2020/12/02",
+        "description": [
+            "Que alguien me explique por qué la gente que criticaba los recortes en la sanidad, que opina que imprimir dinero no está mal y que podemos endeudarnos hasta el infinito, critica ahora la construcción de un hospital. Bueno, realmente no me hace falta explicación alguna."
+        ],
+        "series": ["el_palmero"]
     }
 }

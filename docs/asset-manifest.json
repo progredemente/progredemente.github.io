@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f09f8101.chunk.css",
-    "main.js": "/static/js/main.ba938a84.chunk.js",
-    "main.js.map": "/static/js/main.ba938a84.chunk.js.map",
+    "main.js": "/static/js/main.fcc0e113.chunk.js",
+    "main.js.map": "/static/js/main.fcc0e113.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f0ad66fa.chunk.js": "/static/js/2.f0ad66fa.chunk.js",
-    "static/js/2.f0ad66fa.chunk.js.map": "/static/js/2.f0ad66fa.chunk.js.map",
+    "static/js/2.e0190471.chunk.js": "/static/js/2.e0190471.chunk.js",
+    "static/js/2.e0190471.chunk.js.map": "/static/js/2.e0190471.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.caa325cb66f1a52dc1da985bebe30c67.js": "/precache-manifest.caa325cb66f1a52dc1da985bebe30c67.js",
+    "precache-manifest.4cfbac0924f71fc5d9303a69c6d1d526.js": "/precache-manifest.4cfbac0924f71fc5d9303a69c6d1d526.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f09f8101.chunk.css.map": "/static/css/main.f09f8101.chunk.css.map",
-    "static/js/2.f0ad66fa.chunk.js.LICENSE.txt": "/static/js/2.f0ad66fa.chunk.js.LICENSE.txt",
+    "static/js/2.e0190471.chunk.js.LICENSE.txt": "/static/js/2.e0190471.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -59,6 +59,7 @@
     "static/media/duquemar.png": "/static/media/duquemar.b4a333ad.png",
     "static/media/duquemar.mp3": "/static/media/duquemar.db3e25c1.mp3",
     "static/media/el_coletas_sapee.png": "/static/media/el_coletas_sapee.d40d694a.png",
+    "static/media/el_palmero_banner.png": "/static/media/el_palmero_banner.87d3425f.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
     "static/media/fer_simon.png": "/static/media/fer_simon.eaea6a51.png",
     "static/media/franco_kazooie.png": "/static/media/franco_kazooie.8f7c48aa.png",
@@ -138,12 +139,13 @@
     "static/media/wabalos.mp3": "/static/media/wabalos.f48ce022.mp3",
     "static/media/ye_grave.png": "/static/media/ye_grave.582d007b.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.930350c4.png",
-    "static/media/young_inigo.mp3": "/static/media/young_inigo.e573cc5a.mp3"
+    "static/media/young_inigo.mp3": "/static/media/young_inigo.e573cc5a.mp3",
+    "static/media/zendal.png": "/static/media/zendal.94cae472.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f0ad66fa.chunk.js",
+    "static/js/2.e0190471.chunk.js",
     "static/css/main.f09f8101.chunk.css",
-    "static/js/main.ba938a84.chunk.js"
+    "static/js/main.fcc0e113.chunk.js"
   ]
 }

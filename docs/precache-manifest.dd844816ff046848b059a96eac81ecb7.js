@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d75c4122496266e5c2ec10503e7f7369",
+    "revision": "7b950babcb8986b5a2cbf2593cf9fa5d",
     "url": "/index.html"
   },
   {
-    "revision": "1fa3c90fb86ec491ec0c",
+    "revision": "9a4452577914373688e4",
     "url": "/static/css/main.f09f8101.chunk.css"
   },
   {
-    "revision": "38abcd60c9df211556ec",
-    "url": "/static/js/2.0f1aad76.chunk.js"
+    "revision": "a2832b49ea713b6fc230",
+    "url": "/static/js/2.a3829a88.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.0f1aad76.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a3829a88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fa3c90fb86ec491ec0c",
-    "url": "/static/js/main.5ac5b82f.chunk.js"
+    "revision": "9a4452577914373688e4",
+    "url": "/static/js/main.41450d3e.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -598,6 +598,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76b9f01b42fd1bfefb328fae3a4f8d9d",
     "url": "/static/media/observador_internacional.76b9f01b.png"
+  },
+  {
+    "revision": "2b3aa4b4ac8bc28c72753a95163412e1",
+    "url": "/static/media/olentzero_etxera.2b3aa4b4.png"
   },
   {
     "revision": "5c1a2615d9ca542a921638ae63aa5664",

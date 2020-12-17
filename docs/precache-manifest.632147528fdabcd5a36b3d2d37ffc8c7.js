@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9a5f9c3d107a9107a1872e9df1c2aac",
+    "revision": "fc66248ff34ad25e9ee016731290dea6",
     "url": "/index.html"
   },
   {
-    "revision": "375499fe09abbc6b7d1a",
+    "revision": "d22b5d69a425cc612342",
     "url": "/static/css/main.8a008f7e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0aadddae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "375499fe09abbc6b7d1a",
-    "url": "/static/js/main.3c25addb.chunk.js"
+    "revision": "d22b5d69a425cc612342",
+    "url": "/static/js/main.9857cf53.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -584,8 +584,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mismo_sentido.bb29363e.png"
   },
   {
-    "revision": "b803557da358991845b4c9de50d2b103",
-    "url": "/static/media/nueva_coalicion.b803557d.png"
+    "revision": "c05641a61554a5a8de241a4ef37f054a",
+    "url": "/static/media/nueva_coalicion.c05641a6.png"
   },
   {
     "revision": "f9c6f9f193e357306e7ac4f55fa67484",
@@ -768,12 +768,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/saqueo_minneapolis.f9db2dcd.png"
   },
   {
-    "revision": "cd3243db0d16e6273d83bbae9c5fd268",
-    "url": "/static/media/seriefilo.cd3243db.png"
-  },
-  {
     "revision": "d6a1773e0aecd23e84e11c79f59d8fbe",
     "url": "/static/media/seriefilo.d6a1773e.png"
+  },
+  {
+    "revision": "edf45dd4a62881b0d6df74987eab61e9",
+    "url": "/static/media/seriefilo.edf45dd4.png"
   },
   {
     "revision": "6aa4541783d0f100e4b740d6e848127e",
@@ -932,8 +932,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/wabalos.0d5cd986.png"
   },
   {
-    "revision": "89f14b2cd636ad431037640b8d4361d7",
-    "url": "/static/media/wabalos.89f14b2c.png"
+    "revision": "1cc94c8671d9c9a419258239a69e89e6",
+    "url": "/static/media/wabalos.1cc94c86.png"
   },
   {
     "revision": "f48ce022eb917a9e760b54f980158c6b",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.8a008f7e.chunk.css",
-    "main.js": "/static/js/main.3c25addb.chunk.js",
-    "main.js.map": "/static/js/main.3c25addb.chunk.js.map",
+    "main.js": "/static/js/main.9857cf53.chunk.js",
+    "main.js.map": "/static/js/main.9857cf53.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
     "static/js/2.0aadddae.chunk.js": "/static/js/2.0aadddae.chunk.js",
     "static/js/2.0aadddae.chunk.js.map": "/static/js/2.0aadddae.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1b96bab42781325451c4a2f5cc587c5d.js": "/precache-manifest.1b96bab42781325451c4a2f5cc587c5d.js",
+    "precache-manifest.632147528fdabcd5a36b3d2d37ffc8c7.js": "/precache-manifest.632147528fdabcd5a36b3d2d37ffc8c7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.8a008f7e.chunk.css.map": "/static/css/main.8a008f7e.chunk.css.map",
     "static/js/2.0aadddae.chunk.js.LICENSE.txt": "/static/js/2.0aadddae.chunk.js.LICENSE.txt",
@@ -116,7 +116,7 @@
     "static/media/runner.png": "/static/media/runner.a0b2f2d8.png",
     "static/media/sanchezcracia.png": "/static/media/sanchezcracia.9a7935f9.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
-    "static/media/seriefilo.png": "/static/media/seriefilo.d6a1773e.png",
+    "static/media/seriefilo.png": "/static/media/seriefilo.edf45dd4.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
@@ -138,7 +138,7 @@
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
     "static/media/vodkuna.png": "/static/media/vodkuna.23526259.png",
     "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
-    "static/media/wabalos.png": "/static/media/wabalos.89f14b2c.png",
+    "static/media/wabalos.png": "/static/media/wabalos.1cc94c86.png",
     "static/media/wabalos.mp3": "/static/media/wabalos.f48ce022.mp3",
     "static/media/ye_grave.png": "/static/media/ye_grave.582d007b.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.930350c4.png",
@@ -149,6 +149,6 @@
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.0aadddae.chunk.js",
     "static/css/main.8a008f7e.chunk.css",
-    "static/js/main.3c25addb.chunk.js"
+    "static/js/main.9857cf53.chunk.js"
   ]
 }

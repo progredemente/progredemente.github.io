@@ -888,5 +888,14 @@
         "description": [
             "Los niños vascos que quieran recibir regalos estas navidades van a tener que poner este cartel en sus balcones."
         ]
+    },
+    "tio_nadal": {
+        "name": "Tió de Nadal",
+        "date": "2020/12/17",
+        "description": [
+            "Bon Nadal!",
+            "¡Enviadle esta postal navideña a vuestros amigos catalanes!",
+            "Sinceramente, ya es turbio lo de que un desconocido se cuele en tu casa para dejarte regalos, pero lo de arrearle a un tronco para que te los cague..."
+        ]
     }
 }

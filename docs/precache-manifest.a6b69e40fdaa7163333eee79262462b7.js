@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2614f3f56229be64c3a4a882db36e538",
+    "revision": "e0b794bb4ea364a64bf35c29b3e4513f",
     "url": "/index.html"
   },
   {
-    "revision": "b722c023af3cfce9c0d5",
+    "revision": "ad03ac40ed4a52b013cb",
     "url": "/static/css/main.53ce3efe.chunk.css"
   },
   {
-    "revision": "c2ce8b4bd9aa776b4bcf",
-    "url": "/static/js/2.c4fd7bf4.chunk.js"
+    "revision": "1eedc92534a3a3509f87",
+    "url": "/static/js/2.b3f1da5a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.c4fd7bf4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b3f1da5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b722c023af3cfce9c0d5",
-    "url": "/static/js/main.91a64b21.chunk.js"
+    "revision": "ad03ac40ed4a52b013cb",
+    "url": "/static/js/main.1712f186.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -686,6 +686,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "86c64353828a213c913de1f134828939",
     "url": "/static/media/portugal_oeste.86c64353.png"
+  },
+  {
+    "revision": "78d15fa115feb42d5b337089a91e9fa9",
+    "url": "/static/media/postales_navidenas_banner.78d15fa1.png"
   },
   {
     "revision": "c8c59e3c1420ef11645055fbfc1a4b0d",

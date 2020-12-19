@@ -896,7 +896,8 @@
             "Bon Nadal!",
             "¡Enviadle esta postal navideña a vuestros amigos catalanes!",
             "Sinceramente, ya es turbio lo de que un desconocido se cuele en tu casa para dejarte regalos, pero lo de arrearle a un tronco para que te los cague..."
-        ]
+        ],
+        "series": ["postales_navidenas"]
     },
     "olentzero": {
         "name": "Olentzero",
@@ -905,6 +906,7 @@
             "Eguberri on!",
             "¡Enviadle esta postal navideña a vuestros amigos vascos!",
             "Un señor vasco con txapela escondido en el monte y relacionado con la fabricación de material inflamable... ahora entiendo lo de Leioa."
-        ]
+        ],
+        "series": ["postales_navidenas"]
     }
 }

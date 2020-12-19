@@ -11,6 +11,7 @@ import smashBanner from './img/banners/smash_banner.png';
 import memesBanner from './img/banners/memes_banner.png';
 import cuentosBanner from './img/banners/cuentos_banner.png';
 import elPalmeroBanner from './img/banners/el_palmero_banner.png';
+import postalesNavidenasBanner from './img/banners/postales_navidenas_banner.png';
 import series from './series.json';
 import list from './list.json';
 import Post from './Post';
@@ -146,6 +147,19 @@ function App() {
                                 return (
                                     <div>
                                         <img className="banner" src={elPalmeroBanner} alt={series["el_palmero"]}/>
+                                        <Post {...props}/>
+                                    </div>
+                                )
+                            }
+                        }/>
+                        <Route exact path="/postales_navidenas">
+                            <Redirect to="/postales_navidenas/tio_nadal"/>
+                        </Route>
+                        <Route exact path="/postales_navidenas/:id" component={
+                            (props) => {
+                                return (
+                                    <div>
+                                        <img className="banner" src={postalesNavidenasBanner} alt={series["postales_navidenas"]}/>
                                         <Post {...props}/>
                                     </div>
                                 )

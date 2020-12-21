@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.53ce3efe.chunk.css",
-    "main.js": "/static/js/main.1712f186.chunk.js",
-    "main.js.map": "/static/js/main.1712f186.chunk.js.map",
+    "main.js": "/static/js/main.c0e30e67.chunk.js",
+    "main.js.map": "/static/js/main.c0e30e67.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b3f1da5a.chunk.js": "/static/js/2.b3f1da5a.chunk.js",
-    "static/js/2.b3f1da5a.chunk.js.map": "/static/js/2.b3f1da5a.chunk.js.map",
+    "static/js/2.7787254f.chunk.js": "/static/js/2.7787254f.chunk.js",
+    "static/js/2.7787254f.chunk.js.map": "/static/js/2.7787254f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6b69e40fdaa7163333eee79262462b7.js": "/precache-manifest.a6b69e40fdaa7163333eee79262462b7.js",
+    "precache-manifest.eeb5f02968a0fa80d2626f59ef2791fc.js": "/precache-manifest.eeb5f02968a0fa80d2626f59ef2791fc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.53ce3efe.chunk.css.map": "/static/css/main.53ce3efe.chunk.css.map",
-    "static/js/2.b3f1da5a.chunk.js.LICENSE.txt": "/static/js/2.b3f1da5a.chunk.js.LICENSE.txt",
+    "static/js/2.7787254f.chunk.js.LICENSE.txt": "/static/js/2.7787254f.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -21,6 +21,7 @@
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
+    "static/media/apalpador.png": "/static/media/apalpador.6a213c0f.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
     "static/media/apropiacion_simbolos.png": "/static/media/apropiacion_simbolos.ac63ad70.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
@@ -149,8 +150,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b3f1da5a.chunk.js",
+    "static/js/2.7787254f.chunk.js",
     "static/css/main.53ce3efe.chunk.css",
-    "static/js/main.1712f186.chunk.js"
+    "static/js/main.c0e30e67.chunk.js"
   ]
 }

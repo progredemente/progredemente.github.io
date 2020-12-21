@@ -908,5 +908,16 @@
             "Un señor vasco con txapela escondido en el monte y relacionado con la fabricación de material inflamable... ahora entiendo lo de Leioa."
         ],
         "series": ["postales_navidenas"]
+    },
+    "apalpador": {
+        "name": "Apalpador",
+        "date": "2020/12/21",
+        "description": [
+            "Bo nadal!",
+            "¡Enviadle esta postal navideña a vuestros amigos gallegos!",
+            "El apalpador en Galicia es una tradición que los nacionalistas intentan extender por todo el territorio gallego, ya que solo existe en unas pocas comarcas del interior, pero parece que han tenido más éxito con él en los Estados Unidos, porque lo quieren poner de presidente."
+        ],
+        "series": ["postales_navidenas"],
+        "celebrities": ["Joe Biden"]
     }
 }

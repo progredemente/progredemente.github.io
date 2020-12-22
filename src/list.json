@@ -919,5 +919,14 @@
         ],
         "series": ["postales_navidenas"],
         "celebrities": ["Joe Biden"]
+    },
+    "vacunarse_publicamente": {
+        "name": "Vacunarse públicamente",
+        "date": "2020/12/22",
+        "description": [
+            "Fraga marcó el camino. A ver quién es el primero de los nuestros en comerse a Guiñitos (para quien no entienda la referencia: ved el cuarto capítulo de la segunda temporada de Los Simpsons)."
+        ],
+        "series": ["memes"],
+        "celebrities": ["Joe Biden", "Manuel Fraga"]
     }
 }

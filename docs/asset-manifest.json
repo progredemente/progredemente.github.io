@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.53ce3efe.chunk.css",
-    "main.js": "/static/js/main.2489e2af.chunk.js",
-    "main.js.map": "/static/js/main.2489e2af.chunk.js.map",
+    "main.js": "/static/js/main.c65c64ad.chunk.js",
+    "main.js.map": "/static/js/main.c65c64ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.1c4c6788.chunk.js": "/static/js/2.1c4c6788.chunk.js",
-    "static/js/2.1c4c6788.chunk.js.map": "/static/js/2.1c4c6788.chunk.js.map",
+    "static/js/2.dd5d069e.chunk.js": "/static/js/2.dd5d069e.chunk.js",
+    "static/js/2.dd5d069e.chunk.js.map": "/static/js/2.dd5d069e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dafa4f52e5a8740aa29eb1a3db21d5df.js": "/precache-manifest.dafa4f52e5a8740aa29eb1a3db21d5df.js",
+    "precache-manifest.aec6ae3d5adc69c9cd11cfb7a653f55b.js": "/precache-manifest.aec6ae3d5adc69c9cd11cfb7a653f55b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.53ce3efe.chunk.css.map": "/static/css/main.53ce3efe.chunk.css.map",
-    "static/js/2.1c4c6788.chunk.js.LICENSE.txt": "/static/js/2.1c4c6788.chunk.js.LICENSE.txt",
+    "static/js/2.dd5d069e.chunk.js.LICENSE.txt": "/static/js/2.dd5d069e.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -102,6 +102,7 @@
     "static/media/pabluigi.png": "/static/media/pabluigi.cc137849.png",
     "static/media/pabluigi.mp3": "/static/media/pabluigi.f51dc631.mp3",
     "static/media/palos_de_golf.png": "/static/media/palos_de_golf.91665119.png",
+    "static/media/papa_noel.png": "/static/media/papa_noel.7a49197b.png",
     "static/media/payasos.png": "/static/media/payasos.683628eb.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.ef2679b2.png",
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
@@ -151,8 +152,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.1c4c6788.chunk.js",
+    "static/js/2.dd5d069e.chunk.js",
     "static/css/main.53ce3efe.chunk.css",
-    "static/js/main.2489e2af.chunk.js"
+    "static/js/main.c65c64ad.chunk.js"
   ]
 }

@@ -928,5 +928,15 @@
         ],
         "series": ["memes"],
         "celebrities": ["Joe Biden", "Manuel Fraga"]
+    },
+    "papa_noel": {
+        "name": "Papá Noel",
+        "date": "2020/12/23",
+        "description": [
+            "¡Feliz Navidad!",
+            "¡Enviadle esta postal navideña a vuestros amigos hispanohablantes!",
+            "Hacedle caso a Papá Noel y ganaos los regalos con vuestro propio esfuerzo, el carbón debería estar reservado para envidiosos, maleantes y vagos."
+        ],
+        "series": ["postales_navidenas"]
     }
 }

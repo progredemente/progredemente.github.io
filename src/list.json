@@ -938,5 +938,12 @@
             "Hacedle caso a Papá Noel y ganaos los regalos con vuestro propio esfuerzo, el carbón debería estar reservado para envidiosos, maleantes y vagos."
         ],
         "series": ["postales_navidenas"]
+    },
+    "navidades_patriarcales": {
+        "name": "Navidades patriarcales",
+        "date": "2020/12/25",
+        "description": [
+            "Todo ventajas esto de pasarte los mejores años de tu vida en un barco en alta mar, lejos de tu casa y de tu familia. Muy privilegiados, sí."
+        ]
     }
 }

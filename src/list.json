@@ -945,5 +945,13 @@
         "description": [
             "Todo ventajas esto de pasarte los mejores años de tu vida en un barco en alta mar, lejos de tu casa y de tu familia. Muy privilegiados, sí."
         ]
+    },
+    "feliz_2021": {
+        "name": "¡Feliz 2021!",
+        "date": "2020/12/31",
+        "description": [
+            "¡Que tengáis un feliz 2021!",
+            "A ver si para este año que entra ocurre un milagro y nos libramos del mayor virus de la historia. Y del coronavirus también."
+        ]
     }
 }

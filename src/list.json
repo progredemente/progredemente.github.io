@@ -953,5 +953,12 @@
             "¡Que tengáis un feliz 2021!",
             "A ver si para este año que entra ocurre un milagro y nos libramos del mayor virus de la historia. Y del coronavirus también."
         ]
+    },
+    "reyes_magos": {
+        "name": "Reyes Magos",
+        "date": "2021/01/03",
+        "description": [
+            "Ya vienen los Reyes Magos con los camellos."
+        ]
     }
 }

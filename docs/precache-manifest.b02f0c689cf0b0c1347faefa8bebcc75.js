@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad4f98b7845621904d588428769fb2f1",
+    "revision": "5c32ced60ce10e60491e575faf214548",
     "url": "/index.html"
   },
   {
-    "revision": "da19e70e0ab2b064e945",
+    "revision": "a42a7b338a48800ca731",
     "url": "/static/css/main.53ce3efe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9948fc47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da19e70e0ab2b064e945",
-    "url": "/static/js/main.81c4eba0.chunk.js"
+    "revision": "a42a7b338a48800ca731",
+    "url": "/static/js/main.b565a85b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -784,8 +784,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/reyes_magos.7b7c545a.png"
   },
   {
-    "revision": "bdde77534cf86f44550fb6494c900b65",
-    "url": "/static/media/reyes_magos.bdde7753.png"
+    "revision": "e3fb7914e70b421e9b5c8caadc5a70bb",
+    "url": "/static/media/reyes_magos.e3fb7914.png"
   },
   {
     "revision": "18c09410265d76076b4f0fde1f0442cf",

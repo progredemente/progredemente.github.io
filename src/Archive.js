@@ -37,26 +37,6 @@ class Archive extends Component {
                     return (
                         <ArchiveYear year={year} posts={listByYears[year]} show={i === 0} />
                     )
-                    /*let show = i === 0 ? "show" : "";
-                    return(
-                        <div key={year} className={show}>
-                            <h2 className="year" onClick={() => show === "show" ? "" : "show"}>{year} <span>&gt;</span></h2>
-                            <div className="thumbnails">
-                            {
-                                listByYears[year].map((post) => {
-                                    return (
-                                        <Link to={`/post/${post.id}`} key={post.id}>
-                                            <img
-                                            src={require(`./img/thumbnails/${post.id}.png`)}
-                                            alt={post.name}
-                                            title={`${post.strDate} - ${post.name}`}/>
-                                        </Link>
-                                    )
-                                })
-                            }
-                            </div>
-                        </div>
-                    )*/
                 })
             }
             </>

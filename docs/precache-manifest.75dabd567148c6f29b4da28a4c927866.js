@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c32ced60ce10e60491e575faf214548",
+    "revision": "959769a918e75e9b3a0439de4003f98d",
     "url": "/index.html"
   },
   {
-    "revision": "a42a7b338a48800ca731",
-    "url": "/static/css/main.53ce3efe.chunk.css"
+    "revision": "f9731db07943e788dfef",
+    "url": "/static/css/main.f32bf724.chunk.css"
   },
   {
-    "revision": "b3adb900b313d2dcdd05",
-    "url": "/static/js/2.9948fc47.chunk.js"
+    "revision": "0841a1f1c87cc0189d5c",
+    "url": "/static/js/2.3faa13c0.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.9948fc47.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3faa13c0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a42a7b338a48800ca731",
-    "url": "/static/js/main.b565a85b.chunk.js"
+    "revision": "f9731db07943e788dfef",
+    "url": "/static/js/main.6f184fec.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -280,8 +280,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cigarra_hormiga.bfa5608a.png"
   },
   {
-    "revision": "f3f94974e63a5ba41a8b59ccf0ae16b7",
-    "url": "/static/media/comic_typo.f3f94974.ttf"
+    "revision": "941ba0d95a93175d951178e03182f0b7",
+    "url": "/static/media/comic_typo.941ba0d9.ttf"
   },
   {
     "revision": "0fa234b588e80a1269946fca9a17e9e7",

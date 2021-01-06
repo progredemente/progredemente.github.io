@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import logo from './img/logo.png';
 import instagram from './img/social/instagram.png';
@@ -29,161 +29,185 @@ import {
     Link
 } from "react-router-dom";
 
-function App() {
-    return (
-        <div>
-            <Router>
-                <header className="main-header">
-                    <Link to="/">
-                        <img src={logo} id="logo" alt="Logo"/>
-                    </Link>
-                    <div id="title">
-                        <h1>progredemente</h1>
-                        <div className="social">
-                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/progredemente/">
-                                <img src={instagram} alt="instagram"/>
-                            </a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/progredemente">
-                                <img src={twitter} alt="twitter"/>
-                            </a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://gab.com/progredemente">
-                                <img src={gab} alt="gab"/>
-                            </a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://t.me/progredemente">
-                                <img src={telegram} alt="telegram"/>
-                            </a>
+class App extends Component{
+
+    constructor(props){
+        super(props);
+        this.state = {
+            showMenu: false
+        }
+    }
+
+    render() {
+        return (
+            <div>
+                <Router>
+                    <header className="main-header">
+                        <div id="menu-icon">
+                            <div id="menu-button" onClick={() => this.setState({showMenu: true})}>☰</div>
+                            {
+                                this.state.showMenu &&
+                                <nav id="menu-phone" onClick={() => this.setState({showMenu: false})}>
+                                    <Link to="/">Inicio</Link>
+                                    <Link to="/series">Series</Link>
+                                    <Link to="/animacion">Animación</Link>
+                                    <Link to="/archivo">Archivo</Link>
+                                    <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
+                                    <div id="menu-close">×</div>
+                                </nav>
+                            }
                         </div>
-                    </div>
-                </header>
-                <nav id="menu">
-                    <Link to="/">Inicio</Link>
-                    <Link to="/series">Series</Link>
-                    <Link to="/animacion">Animación</Link>
-                    <Link to="/archivo">Archivo</Link>
-                    <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
-                </nav>
-                <section className="sections">
-                    <Switch>
-                        <Route exact path="/">
-                            <Redirect to={`/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>
-                        </Route>
-                        <Route exact path="/post/:id" component={Post}/>
-                        <Route exact path="/series">
-                            <Series></Series>
-                        </Route>
-                        <Route exact path="/archivo">
-                            <Archive></Archive>
-                        </Route>
-                        <Route exact path="/progremon">
-                            <Redirect to="/progremon/progremon_0"/>
-                        </Route>
-                        <Route exact path="/progremon/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={progremonBanner} alt={series["progremon"]}/>
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/smash">
-                            <Redirect to="/smash/captain_falconetti"/>
-                        </Route>
-                        <Route exact path="/smash/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={smashBanner} alt={series["smash"]}/>
-                                        <Post { ...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/terf_vs_trans">
-                            <Redirect to="/terf_vs_trans/terf_vs_trans_1"/>
-                        </Route>
-                        <Route exact path="/terf_vs_trans/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={terfVsTransBanner} alt={series["terf_vs_trans"]}/>
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/memes">
-                            <Redirect to="/memes/bici"/>
-                        </Route>
-                        <Route exact path="/memes/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={memesBanner} alt={series["memes"]}/>
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/cuentos">
-                            <Redirect to="/cuentos/tres_cerditos"/>
-                        </Route>
-                        <Route exact path="/cuentos/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={cuentosBanner} alt={series["cuentos"]}/>
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/el_palmero">
-                            <Redirect to="/el_palmero/oso_machista"/>
-                        </Route>
-                        <Route exact path="/el_palmero/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={elPalmeroBanner} alt={series["el_palmero"]}/>
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/postales_navidenas">
-                            <Redirect to="/postales_navidenas/tio_nadal"/>
-                        </Route>
-                        <Route exact path="/postales_navidenas/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <img className="banner" src={postalesNavidenasBanner} alt={series["postales_navidenas"]}/>
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/sobre_mi">
-                            <About></About>
-                        </Route>
-                        <Route exact path="/animacion">
-                            <Animation></Animation>
-                        </Route>
-                        <Route exact path="/estadisticas">
-                            <Stats></Stats>
-                        </Route>
-                        <Route exact path="/personaje/:name" component={Celebrity}>
-                        </Route>
-                        <Route exact path="/personaje/:name/:id" component={Post}>
-                        </Route>
-                    </Switch>
-                </section>
-                <footer>© 2020 progredemente</footer>
-            </Router>
-        </div>
-    );
+                        <Link to="/">
+                            <img src={logo} id="logo" alt="Logo"/>
+                        </Link>
+                        <div id="title">
+                            <h1>progredemente</h1>
+                            <div className="social">
+                                <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/progredemente/">
+                                    <img src={instagram} alt="instagram"/>
+                                </a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/progredemente">
+                                    <img src={twitter} alt="twitter"/>
+                                </a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://gab.com/progredemente">
+                                    <img src={gab} alt="gab"/>
+                                </a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://t.me/progredemente">
+                                    <img src={telegram} alt="telegram"/>
+                                </a>
+                            </div>
+                        </div>
+                    </header>
+                    <nav id="menu">
+                        <Link to="/">Inicio</Link>
+                        <Link to="/series">Series</Link>
+                        <Link to="/animacion">Animación</Link>
+                        <Link to="/archivo">Archivo</Link>
+                        <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
+                    </nav>
+                    <section className="sections">
+                        <Switch>
+                            <Route exact path="/">
+                                <Redirect to={`/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>
+                            </Route>
+                            <Route exact path="/post/:id" component={Post}/>
+                            <Route exact path="/series">
+                                <Series></Series>
+                            </Route>
+                            <Route exact path="/archivo">
+                                <Archive></Archive>
+                            </Route>
+                            <Route exact path="/progremon">
+                                <Redirect to="/progremon/progremon_0"/>
+                            </Route>
+                            <Route exact path="/progremon/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={progremonBanner} alt={series["progremon"]}/>
+                                            <Post {...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/smash">
+                                <Redirect to="/smash/captain_falconetti"/>
+                            </Route>
+                            <Route exact path="/smash/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={smashBanner} alt={series["smash"]}/>
+                                            <Post { ...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/terf_vs_trans">
+                                <Redirect to="/terf_vs_trans/terf_vs_trans_1"/>
+                            </Route>
+                            <Route exact path="/terf_vs_trans/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={terfVsTransBanner} alt={series["terf_vs_trans"]}/>
+                                            <Post {...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/memes">
+                                <Redirect to="/memes/bici"/>
+                            </Route>
+                            <Route exact path="/memes/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={memesBanner} alt={series["memes"]}/>
+                                            <Post {...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/cuentos">
+                                <Redirect to="/cuentos/tres_cerditos"/>
+                            </Route>
+                            <Route exact path="/cuentos/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={cuentosBanner} alt={series["cuentos"]}/>
+                                            <Post {...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/el_palmero">
+                                <Redirect to="/el_palmero/oso_machista"/>
+                            </Route>
+                            <Route exact path="/el_palmero/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={elPalmeroBanner} alt={series["el_palmero"]}/>
+                                            <Post {...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/postales_navidenas">
+                                <Redirect to="/postales_navidenas/tio_nadal"/>
+                            </Route>
+                            <Route exact path="/postales_navidenas/:id" component={
+                                (props) => {
+                                    return (
+                                        <div>
+                                            <img className="banner" src={postalesNavidenasBanner} alt={series["postales_navidenas"]}/>
+                                            <Post {...props}/>
+                                        </div>
+                                    )
+                                }
+                            }/>
+                            <Route exact path="/sobre_mi">
+                                <About></About>
+                            </Route>
+                            <Route exact path="/animacion">
+                                <Animation></Animation>
+                            </Route>
+                            <Route exact path="/estadisticas">
+                                <Stats></Stats>
+                            </Route>
+                            <Route exact path="/personaje/:name" component={Celebrity}>
+                            </Route>
+                            <Route exact path="/personaje/:name/:id" component={Post}>
+                            </Route>
+                        </Switch>
+                    </section>
+                    <footer>© 2020 progredemente</footer>
+                </Router>
+            </div>
+        );
+    }
 }
 
 export default App;

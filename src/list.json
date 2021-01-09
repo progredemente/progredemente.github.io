@@ -960,5 +960,14 @@
         "description": [
             "Ya vienen los Reyes Magos con los camellos."
         ]
+    },
+    "escudo_social": {
+        "name": "Escudo Social",
+        "date": "2021/01/09",
+        "description": [
+            "No vaya a ser que la ola de mierda les salpique a ellos también."
+        ],
+        "celebrities": ["Pablo Iglesias", "Irene Montero"],
+        "parties": ["UP"]
     }
 }

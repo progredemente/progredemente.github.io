@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "959769a918e75e9b3a0439de4003f98d",
+    "revision": "b756afa8188afd9876b42cbb904beaaf",
     "url": "/index.html"
   },
   {
-    "revision": "f9731db07943e788dfef",
+    "revision": "5617d3d37c74f1597c1d",
     "url": "/static/css/main.f32bf724.chunk.css"
   },
   {
-    "revision": "0841a1f1c87cc0189d5c",
-    "url": "/static/js/2.3faa13c0.chunk.js"
+    "revision": "d93df17eb75a9b52d954",
+    "url": "/static/js/2.2e13f0e1.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.3faa13c0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2e13f0e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9731db07943e788dfef",
-    "url": "/static/js/main.6f184fec.chunk.js"
+    "revision": "5617d3d37c74f1597c1d",
+    "url": "/static/js/main.2e88bcae.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -382,6 +382,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87d3425faf25f2b27c4d248bb01220a1",
     "url": "/static/media/el_palmero_banner.87d3425f.png"
+  },
+  {
+    "revision": "398d04035cfb8f8cb95756590a985eb4",
+    "url": "/static/media/escudo_social.398d0403.png"
+  },
+  {
+    "revision": "9c98074949934fb7c1a61d0e26c97952",
+    "url": "/static/media/escudo_social.9c980749.png"
   },
   {
     "revision": "7ae3298f1a14e15c6c680abaaaf99a42",

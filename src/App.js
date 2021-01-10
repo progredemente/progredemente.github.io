@@ -37,7 +37,7 @@ ReactGA.initialize("G-Y5CBECWJKM");
 
 const history = createBrowserHistory();
 history.listen(location => {
-    let hash = location.hash.replace(/^#\//, "").replace(/\/.*/,"");
+    let hash = "/" + location.hash.replace(/^#\//, "").replace(/\/.*/,"");
     ReactGA.set({page: hash});
     ReactGA.pageview(hash);
 });
@@ -49,6 +49,8 @@ class App extends Component{
         this.state = {
             showMenu: false
         }
+        ReactGA.set({page: "/"});
+        ReactGA.pageview("/");
     }
 
     render() {

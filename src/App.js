@@ -30,6 +30,17 @@ import {
     Redirect,
     Link
 } from "react-router-dom";
+import ReactGA from 'react-ga';
+import {createBrowserHistory} from 'history';
+
+ReactGA.initialize("G-Y5CBECWJKM");
+
+const history = createBrowserHistory();
+history.listen(location => {
+    let hash = location.hash.replace(/^#\//, "").replace(/\/.*/,"");
+    ReactGA.set({page: hash});
+    ReactGA.pageview(hash);
+});
 
 class App extends Component{
 

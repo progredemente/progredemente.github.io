@@ -5,6 +5,7 @@ import instagram from './img/social/instagram.png';
 import twitter from './img/social/twitter.png';
 import gab from './img/social/gab.png';
 import telegram from './img/social/telegram.png';
+import parler from './img/social/parler.png';
 import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
@@ -19,6 +20,7 @@ import Archive from './Archive';
 import Series from './Series';
 import About from './About';
 import Animation from './Animation';
+import PageStats from './PageStats';
 import Stats from './Stats';
 import Celebrity from './Celebrity';
 import {
@@ -52,6 +54,7 @@ class App extends Component{
                                     <Link to="/series">Series</Link>
                                     <Link to="/animacion">Animación</Link>
                                     <Link to="/archivo">Archivo</Link>
+                                    <Link to="/estadisticas">Estadísticas</Link>
                                     <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
                                     <div id="menu-close">×</div>
                                 </nav>
@@ -75,6 +78,9 @@ class App extends Component{
                                 <a target="_blank" rel="noopener noreferrer" href="https://t.me/progredemente">
                                     <img src={telegram} alt="telegram"/>
                                 </a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://parler.com/profile/progredemente">
+                                    <img src={parler} alt="parler"/>
+                                </a>
                             </div>
                         </div>
                     </header>
@@ -83,6 +89,7 @@ class App extends Component{
                         <Link to="/series">Series</Link>
                         <Link to="/animacion">Animación</Link>
                         <Link to="/archivo">Archivo</Link>
+                        <Link to="/estadisticas">Estadísticas</Link>
                         <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
                     </nav>
                     <section className="sections">
@@ -92,10 +99,10 @@ class App extends Component{
                             </Route>
                             <Route exact path="/post/:id" component={Post}/>
                             <Route exact path="/series">
-                                <Series></Series>
+                                <Series />
                             </Route>
                             <Route exact path="/archivo">
-                                <Archive></Archive>
+                                <Archive />
                             </Route>
                             <Route exact path="/progremon">
                                 <Redirect to="/progremon/progremon_0"/>
@@ -189,21 +196,22 @@ class App extends Component{
                                 }
                             }/>
                             <Route exact path="/sobre_mi">
-                                <About></About>
+                                <About />
                             </Route>
                             <Route exact path="/animacion">
-                                <Animation></Animation>
+                                <Animation />
                             </Route>
                             <Route exact path="/estadisticas">
-                                <Stats></Stats>
+                                <Stats />
+                            </Route>
+                            <Route exact path="/.estadisticas">
+                                <PageStats />
                             </Route>
                             <Route exact path="/personaje/:name" component={Celebrity}>
                             </Route>
-                            <Route exact path="/personaje/:name/:id" component={Post}>
-                            </Route>
                         </Switch>
                     </section>
-                    <footer>© 2020 progredemente</footer>
+                    <footer>© 2020-{new Date().getFullYear()} progredemente</footer>
                 </Router>
             </div>
         );

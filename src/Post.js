@@ -5,6 +5,7 @@ import './Post.css';
 import PostNavigator from './PostNavigator';
 import Roster from './Roster';
 import {Link} from 'react-router-dom';
+import {formatDate} from './utils.js';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -49,6 +50,7 @@ class Post extends Component {
         let post = list_[id];
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
+        let date = formatDate(new Date(list_[id].date));
         return (
             <div>
                 <div className="post-img-container">
@@ -69,7 +71,7 @@ class Post extends Component {
                      }
                     <div>
                         <p className="name">{list_[id].name}</p>
-                        <p className="date">{list_[id].date}</p>
+                        <p className="date">{date}</p>
                         {list_[id].description.map((text, index) => {
                             return <p key={index}>{text}</p>
                         })}

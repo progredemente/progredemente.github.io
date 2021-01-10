@@ -1,10 +1,14 @@
-.chart tspan {
-    fill: black;
+.year-picker {
+    display: flex;
+    flex-wrap: wrap;
 }
-.chart:not(:last-of-type) {
-    padding-bottom: 20px;
+.year-picker > div {
+    padding: 0 10px;
+    width: 100px;
 }
 
-.chart.semicircle .recharts-wrapper {
-    height: 300px !important;
+.color-box {
+    display: inline-block;
+    width: 1em;
+    height: .5em;
 }

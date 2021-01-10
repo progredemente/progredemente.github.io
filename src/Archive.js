@@ -17,12 +17,14 @@ class Archive extends Component {
             ret[year].push({
                 id: key,
                 name: post.name,
-                strDate: post.date
+                date: date
             });
             return null;
         });
         for(let year in ret){
-            ret[year].reverse();
+            ret[year].sort((a, b) => {
+                return b.date - a.date
+            });
         }
         return ret;
     }

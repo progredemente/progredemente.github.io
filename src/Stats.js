@@ -1,195 +1,107 @@
-import React, { PureComponent } from 'react';
+
+import React, { Component } from 'react';
 import {
-    BarChart,
-    Bar,
+    LineChart,
+    Line,
     XAxis,
     YAxis,
     Tooltip,
-    PieChart,
-    Pie,
-    Cell
+    CartesianGrid
 } from 'recharts';
 import './Stats.css';
-import list from './list.json';
+import unemployment from './unemployment.json';
  
-class Stats extends PureComponent {
+class Stats extends Component {
 
-    getMonthData = () => {
-        let monthData = [
-            { name: "Ene", tootipName: "Enero"},
-            { name: "Feb", tootipName: "Febrero"},
-            { name: "Mar", tootipName: "Marzo"},
-            { name: "Abr", tootipName: "Abril"},
-            { name: "May", tootipName: "Mayo"},
-            { name: "Jun", tootipName: "Junio"},
-            { name: "Jul", tootipName: "Julio"},
-            { name: "Ago", tootipName: "Agosto"},
-            { name: "Sep", tootipName: "Septiembre"},
-            { name: "Oct", tootipName: "Octubre"},
-            { name: "Nov", tootipName: "Noviembre"},
-            { name: "Dic", tootipName: "Diciembre"},
-        ];
-        let years = new Set();
-        for(let key of Object.keys(list)) {
-            let post = list[key];
-            let date = new Date(post.date);
-            let year = date.getFullYear();
-            years.add(year);
-            let month = date.getMonth();
-            if(!(year in monthData[month])){
-                monthData[month][year] = 0;
-            }
-            monthData[month][year]++;
-        }
-        years = Array.from(years);
-        let yearColors = [];
-        for(let i = 0; i < years.length; i++){
-            yearColors.push({ year: years[i], color: `hsl(${360 * i / years.length}, 100%, 75%)`});
-        }
-        console.log(years.length);
-        return [monthData, yearColors];
+    constructor(props){
+        super(props);
+        let unemploymentYears = Object.keys(unemployment[0]).filter((key) => /^\d+$/.test(key)).sort().map((year) => {return {year: year, checked: year > "2015"}});
+        this.state = {
+            unemploymentYears
+        };
     }
-    
-    getCelebrityData = () => {
-        let celebrityData = [];
-        for(let key of Object.keys(list)) {
-            let post = list[key];
-            if(post.celebrities !== undefined) {
-                for(let celName of post.celebrities){
-                    let celebrity = celebrityData.find((cel) => celName === cel.name);
-                    if(celebrity === null || celebrity === undefined) {
-                        celebrityData.push({ name: celName, count: 1 });
-                    }
-                    else celebrity.count++;
+
+    changeUnemploymentYears = (year) => {
+        let unemploymentYears = this.state.unemploymentYears;
+        let yearObj = unemploymentYears.find((y) => y.year === year);
+        yearObj.checked = !yearObj.checked;
+        this.setState({unemploymentYears: unemploymentYears});
+    }
+
+    getColors = (keys) => {
+        let colors = [];
+        for(let i = 0; i < keys.length; i++){
+            colors.push({ key: keys[i], color: `hsl(${360 * i / keys.length}, 50%, 50%)`});
+        }
+        return colors;
+    }
+
+    getUnemploymentDomain = () => {
+        let domain = [Number.MAX_VALUE, 0];
+        for(let year of this.state.unemploymentYears.filter((year) => year.checked).map((year) => year.year)){
+            for(let month of unemployment){
+                if(month[year] > domain[1]){
+                    domain[1] = month[year];
+                }
+                if(month[year] < domain[0]){
+                    domain[0] = month[year];
                 }
             }
         }
-        celebrityData.sort((a, b) => b.count - a.count);
-        let celebrityFiltered = celebrityData.filter((cel) => cel.count > 1 );
-        let justOnce = celebrityData.length - celebrityFiltered.length;
-        if(justOnce > 0) {
-            celebrityFiltered.push({ name: "Otros", count: justOnce});
-            celebrityData = celebrityFiltered;
-        }
-        let celebColors = [];
-        for(let i = 0; i < celebrityData.length; i++){
-            celebColors.push(`hsl(${360 * i / celebrityData.length}, 100%, 75%)`);
-        }
-    
-        return [celebrityData, celebColors];
-    }
-    
-    getPartyData = () => {
-        let partyData = [
-            { name: "UP", count: 0 },
-            { name: "PSOE", count: 0 },
-            { name: "MP", count: 0 },
-            { name: "PP", count: 0 },
-            { name: "JxC", count: 0 },
-            { name: "Vox", count: 0 },
-            { name: "EH Bildu", count: 0},
-            { name: "ERC", count: 0}
-        ];
-        let partyColors = {
-            "UP": "#5c3464",
-            "PSOE": "#f31912",
-            "MP": "#0fddc4",
-            "PP": "#0bb2ff",
-            "JxC": "#e73452",
-            "Vox": "#7cbd2a",
-            "EH Bildu": "#95c11f",
-            "ERC": "#ffb018"
-        }
-        for(let key of Object.keys(list)) {
-            let post = list[key];
-            if(post.parties !== undefined) {
-                for(let partyName of post.parties){
-                    partyData.find((party) => party.name === partyName).count++;
-                }
-            }
-        }
-        partyData.sort((a, b) => b.count - a.count);
-        return [partyData, partyColors];
+        return [(Math.floor(domain[0] / 100000) * 100000 - 100000), Math.ceil(domain[1] / 100000) * 100000 + 100000];
     }
 
     render() {
-        let [monthData, yearColors] = this.getMonthData();
-        let [celebrityData, celebColors] = this.getCelebrityData();
-        let [partyData, partyColors] = this.getPartyData();
+        console.log("RERENDERING");
+        let unemploymentColors = this.getColors(this.state.unemploymentYears.filter((year) => year.checked).map((year) => year.year));
+        let unemploymentDomain = this.getUnemploymentDomain();
         return (
             <div>
                 <h1 className="section-title">Estadísticas</h1>
                 <div className="chart">
-                    <h2>Número de posts por mes y año</h2>
-                    <BarChart
-                        data={monthData}
+                    <h2>Paro registrado</h2>
+                    <LineChart
+                        data={unemployment}
                         width={700}
                         height={300}
                     >
-                        <XAxis dataKey="name" interval={0} stroke="black"/>
+                        <XAxis dataKey="name" interval={0} stroke="black" width={100} padding={{left: 10, right: 10}}/>
                         <Tooltip
-                            labelFormatter={(label) => monthData.filter((month) => month.name === label)[0].tootipName}
+                            labelFormatter={(label) => unemployment.filter((month) => month.name === label)[0].tootipName}
                             cursor={{ fill: "#EEEEEE"}}
                         />
-                        <YAxis stroke="black"/>
+                        <YAxis stroke="black" type="number" domain={unemploymentDomain} width={100}/>
+                        <CartesianGrid strokeDasharray="3 3" />
                         {
-                            yearColors.map((year) => {
-                                return <Bar dataKey={year.year} fill={year.color}/>
+                            unemploymentColors.map((year) => {
+                                return <Line dataKey={year.key} stroke={year.color} dot={false} />
                             })
                         }
-                    </BarChart>
-                </div>
-                <div className="chart">
-                    <h2>Personajes públicos por aparición</h2>
-                    <PieChart
-                        width={700}
-                        height={400}
-                    >
-                        <Pie
-                            data={celebrityData}
-                            dataKey="count"
-                            nameKey="name"
-                            label={(cel) => cel.name}
-                            labelLine={{stroke: "black"}}
-                        >
-                            {
-                                celebrityData.map((entry, index) => (
-                                    <Cell key={`cell-${index}`} fill={celebColors[index]}/>
-                                ))
-                            }
-                        </Pie>
-                        <Tooltip />
-                    </PieChart>
-                </div>
-                <div className="chart semicircle">
-                    <h2>Partidos políticos por aparición</h2>
-                    <PieChart
-                        width={700}
-                        height={500}
-                    >
-                        <Pie
-                            data={partyData}
-                            dataKey="count"
-                            nameKey="name"
-                            label={(cel) => cel.name}
-                            labelLine={{stroke: "black"}}
-                            startAngle={180}
-                            endAngle={0}
-                            innerRadius={125}
-                            outerRadius={200}
-                        >
-                            {
-                                partyData.map((entry, index) => {
-                                    return (
-                                        <Cell key={`cell-${index}`} fill={partyColors[entry.name]}/>
-                                    )
 
-                                }
+                    </LineChart>
+                    <p>Seleccionar años:</p>
+                    <div className="year-picker">
+                        {
+                            this.state.unemploymentYears.map((year, index) => {
+                                return (
+                                    <div key={year.year}>
+                                        <input
+                                            type="checkbox"
+                                            checked={this.state.unemploymentYears[index].checked}
+                                            onChange={() => this.changeUnemploymentYears(year.year)}
+                                            name={`unemployment${year.year}`}
+                                            />
+                                        <label htmlFor={`unemployment${year.year}`}>{year.year}</label>
+                                        {
+                                            this.state.unemploymentYears[index].checked &&
+                                            <span style={{backgroundColor: unemploymentColors.find((color) => color.key === year.year).color}} className="color-box"></span>
+                                        }
+                                    </div>
                                 )
-                            }
-                        </Pie>
-                        <Tooltip />
-                    </PieChart>
+                            })
+                        }
+                    </div>
+                    <p>Fuente: <a href="https://www.sepe.es/HomeSepe/que-es-el-sepe/estadisticas/datos-avance/paro.html" target="_blank" rel="noopener noreferrer">SEPE</a></p>
                 </div>
             </div>
         );

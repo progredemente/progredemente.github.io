@@ -1,7 +1,7 @@
 {
     "greta": {
         "name": "Greta",
-        "date": "2020/01/15",
+        "date": "2020-01-15T00:00",
         "description": [
             "Estas cosas pasan por no ir a la escuela."
         ],
@@ -9,7 +9,7 @@
     },
     "bici": {
         "name": "Bici",
-        "date": "2020/01/16",
+        "date": "2020-01-16T00:00",
         "description": [
             "Si usásemos esta lógica en el día a día seguiríamos en la edad de piedra, aunque hay gente que lo preferiría."
         ],
@@ -17,7 +17,7 @@
     },
     "alerta_antifascista": {
         "name": "Alerta antifascista",
-        "date": "2020/01/17",
+        "date": "2020-01-17T00:00",
         "description": [
             "Buscad \"lois griffin 911\" y la canción \"Política del miedo\" de Soziedad Alkoholika en YT. Nada más que añadir."
         ],
@@ -26,7 +26,7 @@
     },
     "cables": {
         "name": "Cables",
-        "date": "2020/01/20",
+        "date": "2020-01-20T00:00",
         "description": [
             "Me imagino a esta tía diciendo majaderías de este estilo después de lo que dijo sobre el Black Friday. Que no os sorprenda que en algún momento digan que las instalaciones eléctricas son racistas y propongan cambiarlas todas de todas las casas del país o propongan usar el mismo color para todos los cables para no herir sensibilidades."
         ],
@@ -35,7 +35,7 @@
     },
     "pin_parental": {
         "name": "Pin parental",
-        "date": "2020/01/21",
+        "date": "2020-01-21T00:00",
         "description": [
             "No les gusta el pin parental ahora, esperad a que cambie el sistema eduvativo cuando cambie quién está en el gobierno, que va a pasar tarde o temprano, y ya veréis como son los primeros en decir que los padres son los que tienen el derecho a decidir la educación que tienen que recibir sus hijos."
         ],
@@ -44,7 +44,7 @@
     },
     "progremon_1": {
         "name": "Progrémon 1",
-        "date": "2020/02/03",
+        "date": "2020-02-03T00:00",
         "description": [
             "¿Qué pasaría si se colase un progre en el mundo Pokémon? Yo me imagino algo así. Tengo más ideas para más viñetas, así que habrá mínimo una segunda parte."
         ],
@@ -52,7 +52,7 @@
     },
     "guaido": {
         "name": "Guaidó",
-        "date": "2020/02/14",
+        "date": "2020-02-14T00:00",
         "description": [
             "El PSOE debería cambiar lo de Obrero por Orwelliano, pues maneja muy bien esto del doblepensar."
         ],
@@ -60,7 +60,7 @@
     },
     "renta_basica": {
         "name": "Renta básica",
-        "date": "2020/02/21",
+        "date": "2020-02-21T00:00",
         "description": [
             "En el socialismo todo es maravilloso, porque nadie tiene por qué trabajar y las cosas que necesitamos aparecen delante de nosotros si pensamos fuertemente en ellas, porque el motor del socialismo es la magia y la ilusión 🙂"
         ],
@@ -69,7 +69,7 @@
     },
     "minifaldas": {
         "name": "Minifaldas",
-        "date": "2020/03/03",
+        "date": "2020-03-03T00:00",
         "description": [
             "Si vuestro discurso no se adapta a la realidad, que sea la realidad quien se adapte a vuestro discurso, no vaya a ser que os quedéis sin curro."
         ],
@@ -78,7 +78,7 @@
     },
     "coronavirus": {
         "name": "Coronavirus",
-        "date": "2020/03/13",
+        "date": "2020-03-13T00:00",
         "description": [
             "Dentro de poco los repartidores autónomos de las empresas tipo Uber Eats, Glovo y Deliveroo serán héroes nacionales. Hideo Kojima es el Nostradamus del siglo XXI."
         ],
@@ -86,7 +86,7 @@
     },
     "captain_falconetti": {
         "name": "Captain Falconetti",
-        "date": "2020/03/15",
+        "date": "2020-03-15T00:00",
         "description": [
             "¡Captain Faconetti se une al plantel!"
         ],
@@ -96,7 +96,7 @@
     },
     "pabluigi": {
         "name": "Pabluigi",
-        "date": "2020/03/18",
+        "date": "2020-03-18T00:00",
         "description": [
             "¡Pabluigi se une al plantel!"
         ],
@@ -106,7 +106,7 @@
     },
     "progremon_2": {
         "name": "Progrémon 2",
-        "date": "2020/03/19",
+        "date": "2020-03-19T00:00",
         "description": [
             "¡Segunda entrega de las aventuras de un progre en el mundo Pokémon! La viñeta del jynx está ligeramente basado en hechos reales, buscad \"jynx blackface\" en Google."
         ],
@@ -114,7 +114,7 @@
     },
     "caceroladas": {
         "name": "Caceroladas",
-        "date": "2020/03/19",
+        "date": "2020-03-19T00:01",
         "description": [
             "Cómo saben hacer ruido para que miremos hacia otro lado."
         ],
@@ -123,7 +123,7 @@
     },
     "koopanique": {
         "name": "Koopanique",
-        "date": "2020/03/20",
+        "date": "2020-03-20T00:00",
         "description": [
             "¡Koopanique se une al plantel!"
         ],
@@ -133,7 +133,7 @@
     },
     "carencias": {
         "name": "Carencias",
-        "date": "2020/03/22",
+        "date": "2020-03-22T00:00",
         "description": [
             "En neolengua \"incompetencia, irresponsabilidad y negligencia por parte de la izquierda\" se dice \"carencias\" y \"pedir responsabilidades políticas a la izquierda\" se reduce a \"hacer esa imprescindible reflexión\"."
         ],
@@ -142,14 +142,14 @@
     },
     "chiringuito": {
         "name": "Chiringuito",
-        "date": "2020/03/24",
+        "date": "2020-03-24T00:00",
         "description": [
             "Es en estos momentos de crisis sanitaria y económica cuando más vemos que las políticas con perspectiva de género son así como imprescindibles, pero sin el \"im-\" delante."
         ]
     },
     "ortega_snake": {
         "name": "Ortega Snake",
-        "date": "2020/03/25",
+        "date": "2020-03-25T00:00",
         "description": [
             "¡Ortega Snake se une al plantel!",
             "Idea de un colega."
@@ -160,7 +160,7 @@
     },
     "autoridad_sanitaria": {
         "name": "Autoridad sanitaria",
-        "date": "2020/03/28",
+        "date": "2020-03-28T00:00",
         "description": [
             "A esta gente hay que recordarles constantemente que están en el gobierno, por lo que la autoridad y los responsables son ellos. Lo peor es que lo saben, pero les da igual, si cuela, cuela."
         ],
@@ -169,7 +169,7 @@
     },
     "tacticas_evasion": {
         "name": "Tácticas de evasión",
-        "date": "2020/03/31",
+        "date": "2020-03-31T00:00",
         "description": [
             "Seguro que las reuniones del Consejo de Ministros y con los \"expertos\" son brainstormings de excusas y tácticas de evasión."
         ],
@@ -179,7 +179,7 @@
     },
     "little_mireia": {
         "name": "Little Mireia",
-        "date": "2020/04/03",
+        "date": "2020-04-03T00:00",
         "description": [
             "¡Little Mireia se une al plantel!"
         ],
@@ -189,7 +189,7 @@
     },
     "young_inigo": {
         "name": "Young Íñigo",
-        "date": "2020/04/04",
+        "date": "2020-04-04T00:00",
         "description": [
             "¡Young Íñigo se une al plantel!"
         ],
@@ -199,7 +199,7 @@
     },
     "mismo_sentido": {
         "name": "Mismo sentido",
-        "date": "2020/04/06",
+        "date": "2020-04-06T00:00",
         "description": [
             "Tenemos a un grupo de descerebrados al timón."
         ],
@@ -208,7 +208,7 @@
     },
     "mascarillas": {
         "name": "Mascarillas",
-        "date": "2020/04/09",
+        "date": "2020-04-09T00:00",
         "description": [
             "Si no volvéis a ver posts míos durante una larga temporada ya sabéis por qué es."
         ],
@@ -217,14 +217,14 @@
     },
     "apagon_vultural": {
         "name": "Apagón Vultural",
-        "date": "2020/04/10",
+        "date": "2020-04-10T00:00",
         "description": [
             "La vergüenza ajena que da uno de los sectores más progres alcanza límites nunca vistos. ¿Creéis que servirá para algo este \"apagón cultural\"? ¿Hará caso el gobierno a esta chorrada? Hagan sus apuestas."
         ]
     },
     "veleta": {
         "name": "Veleta",
-        "date": "2020/04/20",
+        "date": "2020-04-20T00:00",
         "description": [
             "¡Hacia donde sople el viento!"
         ],
@@ -232,14 +232,14 @@
     },
     "gafas_moradas": {
         "name": "Gafas moradas",
-        "date": "2020/04/23",
+        "date": "2020-04-23T00:00",
         "description": [
             "¡Ponte las gafas moradas! ¡Es súper útil para señalar todo tipo de problemas irreales y para nunca más volver a disfrutar de cosas como el cine o la compañía de otras personas, porque sobreanalizarás cada cosa que se diga y que se haga como haría alguien propio de la época de la Inquisición!"
         ]
     },
     "gente_irresponsable": {
         "name": "Gente irresponsable",
-        "date": "2020/04/27",
+        "date": "2020-04-27T00:00",
         "description": [
             "Un gobierno que ideológicamente promueve la irresponsabilidad individual mediante un estado paternalista y que lleva desde el inicio intentando vender una situación muchísimo más controlada de lo que en realidad está, ante una situación que por culpa de su ineptitud y negligencia iba a acabar pasando, pues en algún momento tendremos que salir del confinamiento, ¿creéis que de repente vaya a creer en la responsabilidad individual?",
             "No se si lo han hecho a propósito o no, yo creo que sí, aunque quizás sea paranoia conspiranoica mía por llevar tanto tiempo en casa, pero, vamos, esto les va a venir de perlas para seguir blanqueando su nefasta gestión y para que la gente mire hacia otro lado, enfrentando aún más a la sociedad.",
@@ -251,7 +251,7 @@
     },
     "la_nueva_subnormalidad": {
         "name": "La nueva subnormalidad",
-        "date": "2020/04/29",
+        "date": "2020-04-29T00:00",
         "description": [
             "Si Orwell levantara la cabeza..."
         ],
@@ -260,14 +260,14 @@
     },
     "runner": {
         "name": "Runner",
-        "date": "2020/05/02",
+        "date": "2020-05-02T00:00",
         "description": [
             "Visto lo que pasó con la salida de los niños, me apostaría algo a que en unas horas van a empezar a señalar a los que salgan a dar unos trotes o a andar en bici, tanto por las redes como por los medios, sobre todo teniendo en cuenta que la gente lleva encerrada más de un mes y que la franja horaria permitida para hacer ejercicio, según mi humilde opinión, va a propiciar las concentraciones. Espero equivocarme."
         ]
     },
     "terf_vs_trans_1": {
         "name": "TERF vs trans 1",
-        "date": "2020/05/05",
+        "date": "2020-05-05T00:00",
         "description": [
             "¡El Feministerio ha hablado! Lo siento por las TERFs... realmente no."
         ],
@@ -277,21 +277,21 @@
     },
     "portugal_oeste": {
         "name": "Portugal está \"más al oeste\"",
-        "date": "2020/05/05",
+        "date": "2020-05-05T00:01",
         "description": [
             "Portugal não é Brasil, senhora."
         ]
     },
     "billy_el_nino": {
         "name": "Billy \"El Niño\"",
-        "date": "2020/05/07",
+        "date": "2020-05-07T00:00",
         "description": [
             "¡Bienvenidos una vez más a la enésima edición de: \"La doble moral socialista\"!"
         ]
     },
     "payasos": {
         "name": "Payasos",
-        "date": "2020/05/14",
+        "date": "2020-05-14T00:00",
         "description": [
             "Nuesto amado líder eligió identificarse con un payaso psicópata, pero hay otros payasos con hábitos moralmente cuestionables con los que podría haberse identificado. ¿Cual es tu favorito? (Sé que llego un poco tarde, pero me apetecía hacerlo)"
         ],
@@ -300,28 +300,28 @@
     },
     "palos_de_golf": {
         "name": "Palos de golf",
-        "date": "2020/05/15",
+        "date": "2020-05-15T00:00",
         "description": [
             "¡No se ni lo que es una escoba, Hulio!"
         ]
     },
     "transparencia_gobierno": {
         "name": "La transparencia del Gobierno",
-        "date": "2020/05/18",
+        "date": "2020-05-18T00:00",
         "description": [
             "Estos artífices de la neolengua supongo que adaptarán sus expresiones y dirán cosas tipo \"más claro, chapapote\" o \"esto está pasando de castaño a beis\"."
         ]
     },
     "becas_mediocres": {
         "name": "Becas para los mediocres",
-        "date": "2020/05/19",
+        "date": "2020-05-19T00:00",
         "description": [
             "Los que hayáis ido a la universidad quizás hayáis conocido, como yo, al mítico estudiante revolucionario: niño de papá, no ha trabajado en su vida ni va a trabajar porque estudia alguna carrera sin salida laboral, a tope con la clase obrera pero no pisa una clase, aprueba lo mínimo para que no lo echen de la universidad, parasita a sus padres y se funde el dinero que le dan en irse de fiesta y pillarse unos gramos, alaba regímenes totalitarios, siempre en todas las huelgas absurdas, su piso parece el vertedero de Silent Hill y, como no, con una buena beca (y para el año mejor) pagada por todos nosotros."
         ]
     },
     "cortinas_banderas": {
         "name": "Cortinas de banderas",
-        "date": "2020/05/27",
+        "date": "2020-05-27T00:00",
         "description": [
             "Hacen y deshacen mientras miramos a otro lado, y yo me pregunto cual será el mejor país al que emigrar antes de que vuelva a pasar lo de 1936."
         ],
@@ -330,14 +330,14 @@
     },
     "saqueo_minneapolis": {
         "name": "Saqueo de Minneapolis",
-        "date": "2020/05/31",
+        "date": "2020-05-31T00:00",
         "description": [
             "Luchar contra la violencia con más violencia me parece que es como intentar apagar un fuego con gasolina. Y hay que ser miserable para utilizar el rechazo al racismo como excusa para saquear y arruinarle la vida a la gente, y más aún cuando no han tenido nada que ver con el incidente del otro día. El fanatismo se les va de las manos."
         ]
     },
     "sube_el_pan": {
         "name": "Sube el pan",
-        "date": "2020/06/01",
+        "date": "2020-06-01T00:00",
         "description": [
             "Me los imagino así cuando llegan a su mansión cada vez que la lía.",
             "Le veo potencial de reutilización a esta viñeta, independientemente de lo que haga, ya sea acusar a toda la Policía de machistas, celebrando su cumpleaños por las redes sociales, o esta última, contándole tan alegremente a los periodistas que no iba a admitir lo del coronavirus porque si no le cerraban el feministerio. ¿Qué creéis que será lo próximo que haga?"
@@ -347,21 +347,21 @@
     },
     "curriculum": {
         "name": "Currículum",
-        "date": "2020/06/03",
+        "date": "2020-06-03T00:00",
         "description": [
             "Si tenéis o tuvieseis una empresa, necesitáis contratar a alguien de aprendiz y os viniese a pedir trabajo alguien con un perfil similar al de la chica de la viñeta, ¿lo contrataríais?"
         ]
     },
     "borregos": {
         "name": "Borregos",
-        "date": "2020/06/07",
+        "date": "2020-06-07T00:00",
         "description": [
             "Poco que decir sobre esto. Solo voy a mencionar una rima de una canción de los Lendakaris: \"Decadencia moral en Occidente, nos lo dice lo que aplaude la gente\"."
         ]
     },
     "terf_vs_trans_2": {
         "name": "TERF vs trans 2",
-        "date": "2020/06/12",
+        "date": "2020-06-12T00:00",
         "description": [
             "¡Parece que el Desgobierno y el Feministerio discrepan ideológicamente! ¿Quién ganará la batalla?"
         ],
@@ -371,7 +371,7 @@
     },
     "boot_facha": {
         "name": "Boot facha",
-        "date": "2020/06/12",
+        "date": "2020-06-12T00:01",
         "description": [
             "Que conste que he visto este tipo de comentarios independientemente del bando político defendido/criticado. Son unos calzadófobos.",
             "Ahora en serio, creo que hay mucha gente que no tiene ni idea de qué es un bot, o simplemente utilizan esa palabra como descalificativo."
@@ -379,7 +379,7 @@
     },
     "oso_machista": {
         "name": "Oso machista",
-        "date": "2020/06/18",
+        "date": "2020-06-18T00:00",
         "description": [
             "A una ideología cuyo principal motivo de supervivencia sea la condena de sucesos e ideas que causan el descontento de la población, ¿qué le interesa más, erradicar esos sucesos e ideas y así desaparecer, o mantenerlos, ya sea de manera real o ficticia, para poder seguir existiendo?"
         ],
@@ -387,7 +387,7 @@
     },
     "alboran_dolmayan": {
         "name": "Alborán y Dolmayan",
-        "date": "2020/06/20",
+        "date": "2020-06-20T00:00",
         "description": [
             "¿Alguien ha pillado esta viñeta sin explicación? Si no lo habéis hecho, como me temo que ha pasado, buscad las últimas noticias sobre John Dolmayan, y si no sabéis quién es, buscad también al grupo System Of A Down.",
             "En esta página se apoya el buen metal y la buena música en general, independientemente de la ideología de los artistas o el contenido las letras. ¡Viva Burzum y viva Rage Against the Machine!"
@@ -395,21 +395,21 @@
     },
     "jodechinchos": {
         "name": "Jodechinchos",
-        "date": "2020/06/25",
+        "date": "2020-06-25T00:00",
         "description": [
             "Para quien no lo sepa, \"jodechincho\", \"fodechincho\" o simplemente \"chincho\" es como se les llama en Galicia, sobre todo en la costa, a los veraneantes del resto de España que van allí, especialmente a los madrileños, e incluso a veces a los que son del interior de Galicia."
         ]
     },
     "conguitos": {
         "name": "Conguitos",
-        "date": "2020/06/29",
+        "date": "2020-06-29T00:00",
         "description": [
             "#conguitoslivesmatter"
         ]
     },
     "el_coletas_sapee": {
         "name": "¡¡El Coletas sapee!!",
-        "date": "2020/07/01",
+        "date": "2020-07-01T00:00",
         "description": [
             "Para quien no entienda la referencia: \"harry el sucio potter\" en YT, vídeo del Bananero. ¡Sapee!"
         ],
@@ -419,7 +419,7 @@
     },
     "subida_impuestos": {
         "name": "Subida de impuestos",
-        "date": "2020/07/02",
+        "date": "2020-07-02T00:00",
         "description": [
             "Van a pagar los ricos, claro que sí."
         ],
@@ -428,7 +428,7 @@
     },
     "arde_troya": {
         "name": "Arde Troya",
-        "date": "2020/07/09",
+        "date": "2020-07-09T00:00",
         "description": [
             "El plan perfecto. Yo creo su carencia de vergüenza no les afecta porque cuentan con la carencia (también) del sentido crítico de la masa votante. Igual que pasa con los independentistas o los chavistas. Si acaban en la cárcel, estarán fuera antes de que dé tiempo a darnos cuenta. Jugarán la carta del mártir."
         ],
@@ -437,21 +437,21 @@
     },
     "al_menos": {
         "name": "Al menos",
-        "date": "2020/07/15",
+        "date": "2020-07-15T00:00",
         "description": [
             "Para los radicales todo es justificable si juegan la baza del enemigo imaginario."
         ]
     },
     "inclusivo": {
         "name": "Inclusivo",
-        "date": "2020/07/21",
+        "date": "2020-07-21T00:00",
         "description": [
             "Y hay más ejemplos de sociedades donde hablan lenguas sin género gramatical, o incluso con género neutro, y socialmente dejan mucho que desear."
         ]
     },
     "duquemar": {
         "name": "Duquemar",
-        "date": "2020/07/27",
+        "date": "2020-07-27T00:00",
         "description": [
             "¡Duquemar se une al plantel!"
         ],
@@ -461,14 +461,14 @@
     },
     "cuotas": {
         "name": "Cuotas",
-        "date": "2020/07/31",
+        "date": "2020-07-31T00:00",
         "description": [
             "¿Para qué esforzarse pudiendo pertenecer a un \"colectivo oprimido\"? Obligarán a las empresas a que te contraten para cumplir una cuota absurda y no hará falta ni que trabajes, ya se ocuparán los del \"colectivo opresor\" de trabajar, pues tendrá más incentivos que tú para hacerlo, principalmente el miedo al despido."
         ]
     },
     "galanchez": {
         "name": "Galánchez",
-        "date": "2020/08/03",
+        "date": "2020-08-03T00:00",
         "description": [
             "¡Arrodillaos ante Galánchez, devorador de fondos europeos, y su heraldo Simón Surfer! No le llega con los contribuyentes españoles, ahora también con los europeos, ¡y pronto los de todo el mundo!"
         ],
@@ -477,7 +477,7 @@
     },
     "doble_vara": {
         "name": "La doble vara de medir",
-        "date": "2020/08/05",
+        "date": "2020-08-05T00:00",
         "description": [
             "Si lo hace el enemigo es un prófugo, si lo hace el amigo es un exiliado. Se les va a gastar la doble vara de medir."
         ],
@@ -486,7 +486,7 @@
     },
     "alvarez_de_hyrule": {
         "name": "Álvarez de Hyrule",
-        "date": "2020/08/06",
+        "date": "2020-08-06T00:00",
         "description": [
             "¡Álvarez de Hyrule se une al plantel!"
         ],
@@ -496,7 +496,7 @@
     },
     "sube_el_contador": {
         "name": "Cuando sube el contador...",
-        "date": "2020/08/08",
+        "date": "2020-08-08T00:00",
         "description": [
             "¿Es solo impresión mía o cada vez que sale una noticia donde la víctima es una mujer parece que lo celebran más de lo que lo condenan? Ni que se les fuera el salario en ello..."
         ],
@@ -505,7 +505,7 @@
     },
     "terf_vs_trans_3": {
         "name": "TERF vs trans 3",
-        "date": "2020/08/10",
+        "date": "2020-08-10T00:00",
         "description": [
             "¡La lucha continúa! ¡La representante del Desgobierno intenta asestar un golpe letal, pero el Feministerio tiene algún que otro as en la manga!"
         ],
@@ -515,14 +515,14 @@
     },
     "volver_a_empezar": {
         "name": "Volver a empezar",
-        "date": "2020/08/11",
+        "date": "2020-08-11T00:00",
         "description": [
             "¿A vosotros también os daban ganas de suicidaros cuando echaba el anuncio en la tele y sonaba esta canción? Quien haya hecho el cartel ha sabido canalizar la esencia de la vuelta al cole con El Corte Inglés. Me quito el sombrero."
         ]
     },
     "super_pablo": {
         "name": "Super Pablo Bros.",
-        "date": "2020/08/12",
+        "date": "2020-08-12T00:00",
         "description": [
             "¡Vive la aventura de líder comunista con Super Pablo Bros.! ¡Hazte rico con las cajas B, destruye las malvadas tarjetas SD y adéntrate en las cloacas del Estado!",
             "Próximamente en tu economato de confianza, ¡si no está desabastecido cuando llegues!"
@@ -532,14 +532,14 @@
     },
     "vodkuna": {
         "name": "Vodkuna",
-        "date": "2020/08/12",
+        "date": "2020-08-12T00:01",
         "description": [
             "¿Qué opináis de la temprana vacuna rusa? Yo lo único que quiero de Rusia es vodka en vena."
         ]
     },
     "abaskong": {
         "name": "Abaskong",
-        "date": "2020/08/13",
+        "date": "2020-08-13T00:00",
         "description": [
             "¡Abaskong se une al plantel!"
         ],
@@ -549,7 +549,7 @@
     },
     "caja_s": {
         "name": "Caja \"S\"",
-        "date": "2020/08/14",
+        "date": "2020-08-14T00:00",
         "description": [
             "Es que no os enteráis, es una caja de solidaridad, para solidarizarse con el líder, no vaya a ser que no pueda pagarse la mansión, que todo el mundo tiene derecho a una, que lo pone en la constitución."
         ],
@@ -558,14 +558,14 @@
     },
     "apps_citas": {
         "name": "Apps de citas",
-        "date": "2020/08/16",
+        "date": "2020-08-16T00:00",
         "description": [
             "Les iría mejor (y a nosotros también) si se dedicasen al negocio de las citas en vez de a la política."
         ]
     },
     "franco_kazooie": {
         "name": "Franco & Kazooie",
-        "date": "2020/08/18",
+        "date": "2020-08-18T00:00",
         "description": [
             "¡Franco & Kazooie se une al plantel!"
         ],
@@ -574,7 +574,7 @@
     },
     "merecidas_vacaciones": {
         "name": "Unas merecidas vacaciones",
-        "date": "2020/08/19",
+        "date": "2020-08-19T00:00",
         "description": [
             "Muy responsable esto de irse de vacaciones en medio de una pandemia que ha causado más de 40.000 muertos en este país e inmersos en lo que parece una segunda ola, además de tener al país rumbo a la mayor crisis del siglo, sí señor. Y pagado con el dinero de todos."
         ],
@@ -583,21 +583,21 @@
     },
     "ye_grave": {
         "name": "¿Ye grave, doctora?",
-        "date": "2020/08/21",
+        "date": "2020-08-21T00:00",
         "description": [
             "Chicxs, aún os quedan privilegios masculinos con los que acabar, como el privilegio de disfrutar de una mayor mortalidad por, entre otras cosas, la mayor exposición al riesgo debido a la desechabilidad histórica de los varones."
         ]
     },
     "barco_hunde": {
         "name": "Si el barco se hunde...",
-        "date": "2020/08/23",
+        "date": "2020-08-23T00:00",
         "description": [
             "Hay que estar a lo que hay que estar, ya discutiremos sobre el sexo de los ángeles cuando toque."
         ]
     },
     "de_compras": {
         "name": "De compras",
-        "date": "2020/08/23",
+        "date": "2020-08-23T00:01",
         "description": [
             "No lo sé, Rick, parece falso."
         ],
@@ -606,7 +606,7 @@
     },
     "juraste_destruir": {
         "name": "Lo que juraste destruir",
-        "date": "2020/08/25",
+        "date": "2020-08-25T00:00",
         "description": [
             "Tenemos a un lord sith en el gobierno. No entiendo como aún puede quedar alguien que se trague todo lo que dicen. (En la escena original no habían sacado todavía los sables láser, pero me hacía ilusión dibujarlos)"
         ],
@@ -616,7 +616,7 @@
     },
     "rolex": {
         "name": "Rolex",
-        "date": "2020/08/25",
+        "date": "2020-08-25T00:01",
         "description": [
             "Menos mal que nos lo han aclarado, no podía dormir sin saber si alguien que ya se ha gastado un pastizal en una mansión después de haber criticado algo similar se ya gastado, también, un pastizal en un reloj. Sigan mirando hacia otro lado que más acusaciones no van a (o no pueden) desmentir."
         ],
@@ -625,7 +625,7 @@
     },
     "marianic": {
         "name": "Marianic",
-        "date": "2020/08/27",
+        "date": "2020-08-27T00:00",
         "description": [
             "¡Marianic se une al plantel!"
         ],
@@ -635,7 +635,7 @@
     },
     "tres_cerditos": {
         "name": "Los tres cerditos",
-        "date": "2020/08/28",
+        "date": "2020-08-28T00:00",
         "description": [
             "Moraleja: defiende tu derecho a la propiedad privada."
         ],
@@ -643,7 +643,7 @@
     },
     "wabalos": {
         "name": "Wábalos",
-        "date": "2020/08/31",
+        "date": "2020-08-31T00:00",
         "description": [
             "¡Wábalos se une al plantel!"
         ],
@@ -653,7 +653,7 @@
     },
     "seriefilo": {
         "name": "Seriéfilo",
-        "date": "2020/09/03",
+        "date": "2020-09-03T00:00",
         "description": [
             "Sofá, manta, Netflix, pandemia y crisis, ¡qué tranquilidad!"
         ],
@@ -662,7 +662,7 @@
     },
     "cigarra_hormiga": {
         "name": "La cigarra y la hormiga",
-        "date": "2020/09/07",
+        "date": "2020-09-07T00:00",
         "description": [
             "Moraleja: rechaza el parasitismo."
         ],
@@ -670,7 +670,7 @@
     },
     "derechos_humanos": {
         "name": "Derechos humanos",
-        "date": "2020/09/09",
+        "date": "2020-09-09T00:00",
         "description": [
             "Pedro, que ETA no tocó en el FIB."
         ],
@@ -679,7 +679,7 @@
     },
     "macroencuesta": {
         "name": "Macroencuesta",
-        "date": "2020/09/13",
+        "date": "2020-09-13T00:00",
         "description": [
             "Cuidadín, machirulos, que pronto será delito estar dentro de un radio de diez metros de cualquier mujer."
         ],
@@ -688,14 +688,14 @@
     },
     "sopa_letras": {
         "name": "Sopa de letras",
-        "date": "2020/09/16",
+        "date": "2020-09-16T00:00",
         "description": [
             "Hasta en la sopa. Se les va a gastar el Francomodín de tanto usarlo. A la izquierda le gusta más el franquismo que a un tonto un lápiz."
         ]
     },
     "caperucita": {
         "name": "Caperucita Roja",
-        "date": "2020/09/19",
+        "date": "2020-09-19T00:00",
         "description": [
             "Moraleja: no dejes que prostituyan las leyes con fines partidistas."
         ],
@@ -703,7 +703,7 @@
     },
     "brujas": {
         "name": "Brujas",
-        "date": "2020/09/22",
+        "date": "2020-09-22T00:00",
         "description": [
             "Me hace un montón de gracia que esta gente se crea que, en la época de la caza de brujas, habrían sido las víctimas de los linchamientos y no la turba furiosa, como si, en otra época con una moral diferente a la actual, no fuesen a suscribir esa moral, incluso en su rama más radical.",
             "Es patético creerse revolucionario desde el borreguismo, pero así es parte de la gente con la que nos ha tocado convivir."
@@ -711,14 +711,14 @@
     },
     "progrebranding_1": {
         "name": "Progrebranding 1",
-        "date": "2020/09/25",
+        "date": "2020-09-25T00:00",
         "description": [
             "Increíble que nadie se haya percatado de un nombre tan tremendamente ofensivo, menos mal que estoy yo para ayudar. Mucho mejor ahora. #stopgordofobia"
         ]
     },
     "bella_durmiente": {
         "name": "La bella durmiente",
-        "date": "2020/09/29",
+        "date": "2020-09-29T00:00",
         "description": [
             "Moraleja: no apoyes propuestas que solo sirvan para generar miedo en partes concretas de la sociedad."
         ],
@@ -726,21 +726,21 @@
     },
     "fer_simon": {
         "name": "Fer Simón",
-        "date": "2020/09/30",
+        "date": "2020-09-30T00:00",
         "description": [
             "Si al final Rajoy tenía razón con lo de que le iban a subir el IVA de \"los chuches\"."
         ]
     },
     "apropiacion_simbolos": {
         "name": "Apropiación de símbolos",
-        "date": "2020/10/05",
+        "date": "2020-10-05T00:00",
         "description": [
             "Que me diga alguien dónde está la coherencia en despreciar algo que es de todos y luego quejarse de que la gente que no lo desprecia lo use diciendo que esa gente se lo ha apropiado. Son como el perro del hortelano."
         ]
     },
     "techo_gasto": {
         "name": "Subida del techo de gasto",
-        "date": "2020/10/07",
+        "date": "2020-10-07T00:00",
         "description": [
             "Parece que echa de menos su tierra natal porque cualquiera diría que se alegra por la paulatina transformación de España en Argentina."
         ],
@@ -750,7 +750,7 @@
     },
     "nueva_coalicion": {
         "name": "La nueva coalición",
-        "date": "2020/10/08",
+        "date": "2020-10-08T00:00",
         "description": [
             "Ya sabemos quienes formarán parte de la coalición liderada por los morados en las próximas elecciones."
         ],
@@ -758,7 +758,7 @@
     },
     "maquina_humo": {
         "name": "Máquina de humo",
-        "date": "2020/10/08",
+        "date": "2020-10-08T00:01",
         "description": [
             "A ver cual es la siguiente cosa con la que nos soprenden para que miremos hacia otro lado, tienen que empezar a sacar nuevo material para que su horda de estómagos agradecidos siga defendiendo lo indefendible mientras nos vamos a la mierda."
         ],
@@ -767,7 +767,7 @@
     },
     "sanchezcracia": {
         "name": "Sanchezcracia",
-        "date": "2020/10/09",
+        "date": "2020-10-09T00:00",
         "description": [
             "AVE PETRVS SANCTII DICTATOR IN PERPETVVM HISPANIAE ET MATRITI"
         ],
@@ -776,7 +776,7 @@
     },
     "toque_de_queda": {
         "name": "Toque de queda",
-        "date": "2020/10/26",
+        "date": "2020-10-26T00:00",
         "description": [
             "\"Hacer este ejercicio de pedagogía\" dice... A tope con la neolengua, por no variar."
         ],
@@ -785,7 +785,7 @@
     },
     "lagrimas_autonomo": {
         "name": "Lágrimas de autónomo",
-        "date": "2020/10/29",
+        "date": "2020-10-29T00:00",
         "description": [
             "¿Quién se va a apretar el cinturón? Parece que ellos no."
         ],
@@ -794,7 +794,7 @@
     },
     "estado_totalitario": {
         "name": "Estado totalitario",
-        "date": "2020/10/30",
+        "date": "2020-10-30T00:00",
         "description": [
             "Lo peor es que es cierto."
         ],
@@ -803,7 +803,7 @@
     },
     "cenicienta": {
         "name": "Cenicienta",
-        "date": "2020/11/07",
+        "date": "2020-11-07T00:00",
         "description": [
             "Moraleja: no esperes medidas o resultados positivos de un movimiento que solo se mueva dentro del mundo de las ideas y se niegue a ver la realidad."
         ],
@@ -811,7 +811,7 @@
     },
     "concurso_democratico": {
         "name": "¿Quién quiere ser democrático?",
-        "date": "2020/11/10",
+        "date": "2020-11-10T00:00",
         "description": [
             "¿Es tanto el concepto de democracia como las decisiones tomadas democráticamente una suerte de argumentum ad populum?"
         ],
@@ -819,7 +819,7 @@
     },
     "bajada_iva": {
         "name": "Bajada del IVA de las mascarillas",
-        "date": "2020/11/12",
+        "date": "2020-11-12T00:00",
         "description": [
             "Parece que se han quedado sin argumentos para no bajarle el IVA a las mascarillas, pero recordad: esta gente no da puntada sin hilo."
         ],
@@ -828,7 +828,7 @@
     },
     "psoeta": {
         "name": "PSOETA",
-        "date": "2020/11/14",
+        "date": "2020-11-14T00:00",
         "description": [
             "Agarrándose a un clavo ardiendo."
         ],
@@ -836,7 +836,7 @@
     },
     "pinocho": {
         "name": "Pinocho",
-        "date": "2020/11/19",
+        "date": "2020-11-19T00:00",
         "description": [
             "Moraleja: aprende a distinguir a los charlatanes, no dejes que te coman la oreja con palabras vacías."
         ],
@@ -844,7 +844,7 @@
     },
     "celaa_de_vil": {
         "name": "Celaá De Vil",
-        "date": "2020/11/21",
+        "date": "2020-11-21T00:00",
         "description": [
             "Decidme que no soy el único a quien esta señora le recuerda a Cruella De Vil. #stopleycelaá"
         ],
@@ -853,14 +853,14 @@
     },
     "otro_mundo": {
         "name": "En otro mundo",
-        "date": "2020/11/29",
+        "date": "2020-11-29T00:00",
         "description": [
             "Ya puede empezar el apocalipsis que esta gente va a seguir con sus chorradas, a su puta bola. En fin, sería enternecedor si no estuviesen jugando con nuestro dinero."
         ]
     },
     "presupuestos": {
         "name": "Presupuestos",
-        "date": "2020/12/01",
+        "date": "2020-12-01T00:00",
         "description": [
             "Los coleguis de la ruina."
         ],
@@ -869,7 +869,7 @@
     },
     "zendal": {
         "name": "Enfermera Isabel Zendal",
-        "date": "2020/12/02",
+        "date": "2020-12-02T00:00",
         "description": [
             "Que alguien me explique por qué la gente que criticaba los recortes en la sanidad, que opina que imprimir dinero no está mal y que podemos endeudarnos hasta el infinito, critica ahora la construcción de un hospital. Bueno, realmente no me hace falta explicación alguna."
         ],
@@ -877,21 +877,21 @@
     },
     "observador_internacional": {
         "name": "Observador internacional",
-        "date": "2020/12/08",
+        "date": "2020-12-08T00:00",
         "description": [
             "El de la Champions League de la economía diciéndole a la UE que su postura con la dictadura chavista está equivocada. Gran Bretaña se fue, pero a nosotros nos van a echar."
         ]
     },
     "olentzero_etxera": {
         "name": "Olentzero etxera",
-        "date": "2020/12/13",
+        "date": "2020-12-13T00:00",
         "description": [
             "Los niños vascos que quieran recibir regalos estas navidades van a tener que poner este cartel en sus balcones."
         ]
     },
     "tio_nadal": {
         "name": "Tió de Nadal",
-        "date": "2020/12/17",
+        "date": "2020-12-17T00:00",
         "description": [
             "Bon Nadal!",
             "¡Enviadle esta postal navideña a vuestros amigos catalanes!",
@@ -901,7 +901,7 @@
     },
     "olentzero": {
         "name": "Olentzero",
-        "date": "2020/12/19",
+        "date": "2020-12-19T00:00",
         "description": [
             "Eguberri on!",
             "¡Enviadle esta postal navideña a vuestros amigos vascos!",
@@ -911,7 +911,7 @@
     },
     "apalpador": {
         "name": "Apalpador",
-        "date": "2020/12/21",
+        "date": "2020-12-21T00:00",
         "description": [
             "Bo nadal!",
             "¡Enviadle esta postal navideña a vuestros amigos gallegos!",
@@ -922,7 +922,7 @@
     },
     "vacunarse_publicamente": {
         "name": "Vacunarse públicamente",
-        "date": "2020/12/22",
+        "date": "2020-12-22T00:00",
         "description": [
             "Fraga marcó el camino. A ver quién es el primero de los nuestros en comerse a Guiñitos (para quien no entienda la referencia: ved el cuarto capítulo de la segunda temporada de Los Simpsons)."
         ],
@@ -931,7 +931,7 @@
     },
     "papa_noel": {
         "name": "Papá Noel",
-        "date": "2020/12/23",
+        "date": "2020-12-23T00:00",
         "description": [
             "¡Feliz Navidad!",
             "¡Enviadle esta postal navideña a vuestros amigos hispanohablantes!",
@@ -941,14 +941,14 @@
     },
     "navidades_patriarcales": {
         "name": "Navidades patriarcales",
-        "date": "2020/12/25",
+        "date": "2020-12-25T00:00",
         "description": [
             "Todo ventajas esto de pasarte los mejores años de tu vida en un barco en alta mar, lejos de tu casa y de tu familia. Muy privilegiados, sí."
         ]
     },
     "feliz_2021": {
         "name": "¡Feliz 2021!",
-        "date": "2020/12/31",
+        "date": "2020-12-31T00:00",
         "description": [
             "¡Que tengáis un feliz 2021!",
             "A ver si para este año que entra ocurre un milagro y nos libramos del mayor virus de la historia. Y del coronavirus también."
@@ -956,14 +956,14 @@
     },
     "reyes_magos": {
         "name": "Reyes Magos",
-        "date": "2021/01/03",
+        "date": "2021-01-03T00:00",
         "description": [
             "Ya vienen los Reyes Magos con los camellos."
         ]
     },
     "escudo_social": {
         "name": "Escudo Social",
-        "date": "2021/01/09",
+        "date": "2021-01-09T00:00",
         "description": [
             "No vaya a ser que la ola de mierda les salpique a ellos también."
         ],

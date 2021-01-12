@@ -969,5 +969,13 @@
         ],
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
         "parties": ["UP"]
+    },
+    "ano_marmota": {
+        "name": "El año de la marmota",
+        "date": "2021-01-12T00:00",
+        "description": [
+            "No da una."
+        ],
+        "celebrities": ["Fernando Simón"]
     }
 }

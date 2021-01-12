@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d69af4a7.chunk.css",
-    "main.js": "/static/js/main.6914c64e.chunk.js",
-    "main.js.map": "/static/js/main.6914c64e.chunk.js.map",
+    "main.js": "/static/js/main.8fcf63b9.chunk.js",
+    "main.js.map": "/static/js/main.8fcf63b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7a9adc50.chunk.js": "/static/js/2.7a9adc50.chunk.js",
-    "static/js/2.7a9adc50.chunk.js.map": "/static/js/2.7a9adc50.chunk.js.map",
+    "static/js/2.d93e7373.chunk.js": "/static/js/2.d93e7373.chunk.js",
+    "static/js/2.d93e7373.chunk.js.map": "/static/js/2.d93e7373.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4950e327e8f19e26e8b55ea9f9d4a3a2.js": "/precache-manifest.4950e327e8f19e26e8b55ea9f9d4a3a2.js",
+    "precache-manifest.3395d70e595d2c42a4b0687e6c09242c.js": "/precache-manifest.3395d70e595d2c42a4b0687e6c09242c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d69af4a7.chunk.css.map": "/static/css/main.d69af4a7.chunk.css.map",
-    "static/js/2.7a9adc50.chunk.js.LICENSE.txt": "/static/js/2.7a9adc50.chunk.js.LICENSE.txt",
+    "static/js/2.d93e7373.chunk.js.LICENSE.txt": "/static/js/2.d93e7373.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
@@ -20,6 +20,7 @@
     "static/media/alerta_antifascista_animado.mp4": "/static/media/alerta_antifascista_animado.2b2190c6.mp4",
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
+    "static/media/ano_marmota.png": "/static/media/ano_marmota.5118b97f.png",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/apalpador.png": "/static/media/apalpador.6a213c0f.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
@@ -156,8 +157,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7a9adc50.chunk.js",
+    "static/js/2.d93e7373.chunk.js",
     "static/css/main.d69af4a7.chunk.css",
-    "static/js/main.6914c64e.chunk.js"
+    "static/js/main.8fcf63b9.chunk.js"
   ]
 }

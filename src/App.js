@@ -30,6 +30,15 @@ import {
     Redirect,
     Link
 } from "react-router-dom";
+import {createBrowserHistory} from 'history';
+
+const history = createBrowserHistory();
+
+history.listen((location) => {
+    window.gtag('event', 'page_view', {
+        page_title: location.hash.replace(/^#\//, "").replace(/\/.*/,"")
+    });
+})
 
 class App extends Component{
 
@@ -43,7 +52,7 @@ class App extends Component{
     render() {
         return (
             <div>
-                <Router>
+                <Router history={history}>
                     <header className="main-header">
                         <div id="menu-icon">
                             <div id="menu-button" onClick={() => this.setState({showMenu: true})}>☰</div>
@@ -66,19 +75,69 @@ class App extends Component{
                         <div id="title">
                             <h1>progredemente</h1>
                             <div className="social">
-                                <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/progredemente/">
+                                <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href="https://www.instagram.com/progredemente/"
+                                    onClick={() => {
+                                        window.gtag('event', 'click', {
+                                            'event_category': 'outbound',
+                                            'event_label': 'instagram'
+                                        });
+                                    }}
+                                >
                                     <img src={instagram} alt="instagram"/>
                                 </a>
-                                <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/progredemente">
+                                <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href="https://twitter.com/progredemente"
+                                    onClick={() => {
+                                        window.gtag('event', 'click', {
+                                            'event_category': 'outbound',
+                                            'event_label': 'twitter'
+                                        });
+                                    }}
+                                >
                                     <img src={twitter} alt="twitter"/>
                                 </a>
-                                <a target="_blank" rel="noopener noreferrer" href="https://gab.com/progredemente">
+                                <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href="https://gab.com/progredemente"
+                                    onClick={() => {
+                                        window.gtag('event', 'click', {
+                                            'event_category': 'outbound',
+                                            'event_label': 'gab'
+                                        });
+                                    }}
+                                >
                                     <img src={gab} alt="gab"/>
                                 </a>
-                                <a target="_blank" rel="noopener noreferrer" href="https://t.me/progredemente">
+                                <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href="https://t.me/progredemente"
+                                    onClick={() => {
+                                        window.gtag('event', 'click', {
+                                            'event_category': 'outbound',
+                                            'event_label': 'telegram'
+                                        });
+                                    }}
+                                >
                                     <img src={telegram} alt="telegram"/>
                                 </a>
-                                <a target="_blank" rel="noopener noreferrer" href="https://parler.com/profile/progredemente">
+                                <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href="https://parler.com/profile/progredemente"
+                                    onClick={() => {
+                                        window.gtag('event', 'click', {
+                                            'event_category': 'outbound',
+                                            'event_label': 'parler'
+                                        });
+                                    }}
+                                >
                                     <img src={parler} alt="parler"/>
                                 </a>
                             </div>

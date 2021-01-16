@@ -1,8 +1,9 @@
-.year-picker {
+.line-picker {
     display: flex;
     flex-wrap: wrap;
 }
-.year-picker > div {
+
+.line-picker > div {
     padding: 0 10px;
     width: 100px;
 }
@@ -11,4 +12,8 @@
     display: inline-block;
     width: 1em;
     height: .5em;
+}
+
+.source {
+    font-size: .75em
 }

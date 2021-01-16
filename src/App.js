@@ -20,8 +20,8 @@ import Archive from './Archive';
 import Series from './Series';
 import About from './About';
 import Animation from './Animation';
-import PageStats from './PageStats';
-import Stats from './Stats';
+import PageStats from './stats/PageStats';
+import Stats from './stats/Stats';
 import Celebrity from './Celebrity';
 import {
     HashRouter as Router,
@@ -80,9 +80,8 @@ class App extends Component{
                                     rel="noopener noreferrer"
                                     href="https://www.instagram.com/progredemente/"
                                     onClick={() => {
-                                        window.gtag('event', 'click', {
-                                            'event_category': 'outbound',
-                                            'event_label': 'instagram'
+                                        window.gtag('event', 'page_view', {
+                                            page_title: "instagram"
                                         });
                                     }}
                                 >
@@ -93,9 +92,8 @@ class App extends Component{
                                     rel="noopener noreferrer"
                                     href="https://twitter.com/progredemente"
                                     onClick={() => {
-                                        window.gtag('event', 'click', {
-                                            'event_category': 'outbound',
-                                            'event_label': 'twitter'
+                                        window.gtag('event', 'page_view', {
+                                            page_title: "twitter"
                                         });
                                     }}
                                 >
@@ -106,9 +104,8 @@ class App extends Component{
                                     rel="noopener noreferrer"
                                     href="https://gab.com/progredemente"
                                     onClick={() => {
-                                        window.gtag('event', 'click', {
-                                            'event_category': 'outbound',
-                                            'event_label': 'gab'
+                                        window.gtag('event', 'page_view', {
+                                            page_title: "gab"
                                         });
                                     }}
                                 >
@@ -119,9 +116,8 @@ class App extends Component{
                                     rel="noopener noreferrer"
                                     href="https://t.me/progredemente"
                                     onClick={() => {
-                                        window.gtag('event', 'click', {
-                                            'event_category': 'outbound',
-                                            'event_label': 'telegram'
+                                        window.gtag('event', 'page_view', {
+                                            page_title: "telegram"
                                         });
                                     }}
                                 >
@@ -132,9 +128,8 @@ class App extends Component{
                                     rel="noopener noreferrer"
                                     href="https://parler.com/profile/progredemente"
                                     onClick={() => {
-                                        window.gtag('event', 'click', {
-                                            'event_category': 'outbound',
-                                            'event_label': 'parler'
+                                        window.gtag('event', 'page_view', {
+                                            page_title: "parler"
                                         });
                                     }}
                                 >

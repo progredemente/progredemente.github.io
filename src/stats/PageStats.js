@@ -12,7 +12,7 @@ import {
     CartesianGrid
 } from 'recharts';
 import './PageStats.css';
-import list from './list.json';
+import list from '../list.json';
  
 class PageStats extends Component {
 

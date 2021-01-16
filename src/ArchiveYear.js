@@ -15,7 +15,7 @@ class ArchiveYear extends Component {
     render() {
         return (
             <div key={this.props.year} className={this.state.show ? "show" : ""}>
-                <h2 className="year" onClick={() => this.setState({show:!this.state.show})}>{this.props.year} <span>&gt;</span></h2>
+                <h2 className="collapser year" onClick={() => this.setState({show:!this.state.show})}>{this.props.year} <span>&gt;</span></h2>
                 { this.state.show && 
                     <div className="thumbnails">
                     {

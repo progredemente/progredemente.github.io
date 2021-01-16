@@ -17,32 +17,4 @@
 
 .year {
     text-align: center;
-    cursor: pointer;
-}
-
-.year > span {
-    display: inline-block;
-    animation: collapse .5s ease forwards;
-}
-
-.show > .year > span {
-    animation: uncollapse .5s ease forwards;
-}
-
-@keyframes uncollapse {
-    0% {
-        transform: rotate(0deg);
-    }
-    100% {
-        transform: rotate(90deg);
-    }
-}
-
-@keyframes collapse {
-    0% {
-        transform: rotate(90deg);
-    }
-    100% {
-        transform: rotate(0deg);
-    }
 }

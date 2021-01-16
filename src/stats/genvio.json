@@ -1,0 +1,120 @@
+[
+    {
+        "mujeres": 21285368,
+        "muertes_viogen": 71,
+        "muertes_totales": 184931,
+        "name": "2003"
+    },
+    {
+        "mujeres": 21622873,
+        "muertes_viogen": 72,
+        "muertes_totales": 177006,
+        "name": "2004"
+    },
+    {
+        "mujeres": 21961052,
+        "muertes_viogen": 57,
+        "muertes_totales": 185586,
+        "name": "2005"
+    },
+    {
+        "mujeres": 22290652,
+        "muertes_viogen": 69,
+        "muertes_totales": 177324,
+        "name": "2006"
+    },
+    {
+        "mujeres": 22665689,
+        "muertes_viogen": 71,
+        "muertes_totales": 184225,
+        "name": "2007"
+    },
+    {
+        "mujeres": 23077454,
+        "muertes_viogen": 76,
+        "muertes_totales": 186677,
+        "name": "2008"
+    },
+    {
+        "mujeres": 23358736,
+        "muertes_viogen": 57,
+        "muertes_totales": 185838,
+        "denuncias_puestas": 135539,
+        "name": "2009"
+    },
+    {
+        "mujeres": 23504349,
+        "muertes_viogen": 73,
+        "muertes_totales": 183926,
+        "denuncias_puestas": 134105,
+        "name": "2010"
+    },
+    {
+        "mujeres": 23617698,
+        "muertes_viogen": 62,
+        "muertes_totales": 188057,
+        "denuncias_puestas": 134002,
+        "name": "2011"
+    },
+    {
+        "mujeres": 23719207,
+        "muertes_viogen": 51,
+        "muertes_totales": 197030,
+        "denuncias_puestas": 128477,
+        "name": "2012"
+    },
+    {
+        "mujeres": 23710132,
+        "muertes_viogen": 54,
+        "muertes_totales": 190585,
+        "denuncias_puestas": 124893,
+        "name": "2013"
+    },
+    {
+        "mujeres": 23634738,
+        "muertes_viogen": 55,
+        "muertes_totales": 194259,
+        "denuncias_puestas": 126742,
+        "name": "2014"
+    },
+    {
+        "mujeres": 23623019,
+        "muertes_viogen": 60,
+        "muertes_totales": 209259,
+        "denuncias_puestas": 129193,
+        "name": "2015"
+    },
+    {
+        "mujeres": 23632635,
+        "muertes_viogen": 49,
+        "muertes_totales": 201618,
+        "denuncias_puestas": 143535,
+        "name": "2016"
+    },
+    {
+        "mujeres": 23692812,
+        "muertes_viogen": 50,
+        "muertes_totales": 210287,
+        "denuncias_puestas": 166260,
+        "name": "2017"
+    },
+    {
+        "mujeres": 23776565,
+        "muertes_viogen": 51,
+        "muertes_totales": 211279,
+        "denuncias_puestas": 166961,
+        "name": "2018"
+    },
+    {
+        "mujeres": 23927801,
+        "muertes_viogen": 55,
+        "denuncias_puestas": 168168,
+        "name": "2019"
+    },
+    {
+        "mujeres": 24133301,
+        "muertes_viogen": 45,
+        "denuncias_puestas": 70761,
+        "name": "2020"
+    }
+]

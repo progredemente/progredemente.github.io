@@ -5,6 +5,7 @@
         "description": [
             "Estas cosas pasan por no ir a la escuela."
         ],
+        "size": "2000x2000",
         "celebrities": ["Greta Thunberg"]
     },
     "bici": {
@@ -13,6 +14,7 @@
         "description": [
             "Si usásemos esta lógica en el día a día seguiríamos en la edad de piedra, aunque hay gente que lo preferiría."
         ],
+        "size": "2000x2000",
         "series": ["memes"]
     },
     "alerta_antifascista": {
@@ -21,6 +23,7 @@
         "description": [
             "Buscad \"lois griffin 911\" y la canción \"Política del miedo\" de Soziedad Alkoholika en YT. Nada más que añadir."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -30,6 +33,7 @@
         "description": [
             "Me imagino a esta tía diciendo majaderías de este estilo después de lo que dijo sobre el Black Friday. Que no os sorprenda que en algún momento digan que las instalaciones eléctricas son racistas y propongan cambiarlas todas de todas las casas del país o propongan usar el mismo color para todos los cables para no herir sensibilidades."
         ],
+        "size": "2000x2000",
         "celebrities": ["Rita Bosaho"],
         "parties": ["UP"]
     },
@@ -39,6 +43,7 @@
         "description": [
             "No les gusta el pin parental ahora, esperad a que cambie el sistema eduvativo cuando cambie quién está en el gobierno, que va a pasar tarde o temprano, y ya veréis como son los primeros en decir que los padres son los que tienen el derecho a decidir la educación que tienen que recibir sus hijos."
         ],
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
     },
@@ -48,6 +53,7 @@
         "description": [
             "¿Qué pasaría si se colase un progre en el mundo Pokémon? Yo me imagino algo así. Tengo más ideas para más viñetas, así que habrá mínimo una segunda parte."
         ],
+        "size": "2000x2000",
         "series": ["progremon"]
     },
     "guaido": {
@@ -56,6 +62,7 @@
         "description": [
             "El PSOE debería cambiar lo de Obrero por Orwelliano, pues maneja muy bien esto del doblepensar."
         ],
+        "size": "2000x2000",
         "celebrities": ["Juan Guaidó"]
     },
     "renta_basica": {
@@ -64,6 +71,7 @@
         "description": [
             "En el socialismo todo es maravilloso, porque nadie tiene por qué trabajar y las cosas que necesitamos aparecen delante de nosotros si pensamos fuertemente en ellas, porque el motor del socialismo es la magia y la ilusión 🙂"
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -73,6 +81,7 @@
         "description": [
             "Si vuestro discurso no se adapta a la realidad, que sea la realidad quien se adapte a vuestro discurso, no vaya a ser que os quedéis sin curro."
         ],
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
     },
@@ -82,6 +91,7 @@
         "description": [
             "Dentro de poco los repartidores autónomos de las empresas tipo Uber Eats, Glovo y Deliveroo serán héroes nacionales. Hideo Kojima es el Nostradamus del siglo XXI."
         ],
+        "size": "4000x4000",
         "celebrities": ["Norman Reedus"]
     },
     "captain_falconetti": {
@@ -90,6 +100,7 @@
         "description": [
             "¡Captain Faconetti se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
@@ -100,6 +111,7 @@
         "description": [
             "¡Pabluigi se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
@@ -110,6 +122,7 @@
         "description": [
             "¡Segunda entrega de las aventuras de un progre en el mundo Pokémon! La viñeta del jynx está ligeramente basado en hechos reales, buscad \"jynx blackface\" en Google."
         ],
+        "size": "2000x2000",
         "series": ["progremon"]
     },
     "caceroladas": {
@@ -118,6 +131,7 @@
         "description": [
             "Cómo saben hacer ruido para que miremos hacia otro lado."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Pedro Sánchez"],
         "parties": ["UP", "PSOE"]
     },
@@ -127,6 +141,7 @@
         "description": [
             "¡Koopanique se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Echenique"],
         "parties": ["UP"]
@@ -137,6 +152,7 @@
         "description": [
             "En neolengua \"incompetencia, irresponsabilidad y negligencia por parte de la izquierda\" se dice \"carencias\" y \"pedir responsabilidades políticas a la izquierda\" se reduce a \"hacer esa imprescindible reflexión\"."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -145,7 +161,8 @@
         "date": "2020-03-24T00:00",
         "description": [
             "Es en estos momentos de crisis sanitaria y económica cuando más vemos que las políticas con perspectiva de género son así como imprescindibles, pero sin el \"im-\" delante."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "ortega_snake": {
         "name": "Ortega Snake",
@@ -154,6 +171,7 @@
             "¡Ortega Snake se une al plantel!",
             "Idea de un colega."
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Ortega Smith"],
         "parties": ["Vox"]
@@ -164,6 +182,7 @@
         "description": [
             "A esta gente hay que recordarles constantemente que están en el gobierno, por lo que la autoridad y los responsables son ellos. Lo peor es que lo saben, pero les da igual, si cuela, cuela."
         ],
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
     },
@@ -173,6 +192,7 @@
         "description": [
             "Seguro que las reuniones del Consejo de Ministros y con los \"expertos\" son brainstormings de excusas y tácticas de evasión."
         ],
+        "size": "3000x6160",
         "series": ["memes"],
         "celebrities": ["Irene Montero", "Pablo Iglesias", "Pedro Sánchez", "Fernando Simón"],
         "parties": ["UP", "PSOE"]
@@ -183,6 +203,7 @@
         "description": [
             "¡Little Mireia se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Mireia Borrás"],
         "parties": ["Vox"]
@@ -193,6 +214,7 @@
         "description": [
             "¡Young Íñigo se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
@@ -203,6 +225,7 @@
         "description": [
             "Tenemos a un grupo de descerebrados al timón."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -212,6 +235,7 @@
         "description": [
             "Si no volvéis a ver posts míos durante una larga temporada ya sabéis por qué es."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias"],
         "parties": ["UP", "PSOE"]
     },
@@ -220,7 +244,8 @@
         "date": "2020-04-10T00:00",
         "description": [
             "La vergüenza ajena que da uno de los sectores más progres alcanza límites nunca vistos. ¿Creéis que servirá para algo este \"apagón cultural\"? ¿Hará caso el gobierno a esta chorrada? Hagan sus apuestas."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "veleta": {
         "name": "Veleta",
@@ -228,6 +253,7 @@
         "description": [
             "¡Hacia donde sople el viento!"
         ],
+        "size": "2000x2000",
         "celebrities": ["Risto Mejide"]
     },
     "gafas_moradas": {
@@ -235,7 +261,8 @@
         "date": "2020-04-23T00:00",
         "description": [
             "¡Ponte las gafas moradas! ¡Es súper útil para señalar todo tipo de problemas irreales y para nunca más volver a disfrutar de cosas como el cine o la compañía de otras personas, porque sobreanalizarás cada cosa que se diga y que se haga como haría alguien propio de la época de la Inquisición!"
-        ]
+        ],
+        "size": "3000x2000"
     },
     "gente_irresponsable": {
         "name": "Gente irresponsable",
@@ -246,6 +273,7 @@
             "Y no creo que la gente haya sido tan irresponsable como lo pintan, sinceramente, los vídeos que hay por las redes sociales de gente pasándose las medidas de seguridad por el forro no creo que sea muy representativo de la realidad, será la típica magnificación de los cuatro casos contados que haya. Igual me equivoco, pero espero que no.",
             "Podéis darme vuestra opinión si queréis, aunque solo necesitaba desahogarme un poco."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias"],
         "parties": ["UP", "PSOE"]
     },
@@ -255,6 +283,7 @@
         "description": [
             "Si Orwell levantara la cabeza..."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -263,7 +292,8 @@
         "date": "2020-05-02T00:00",
         "description": [
             "Visto lo que pasó con la salida de los niños, me apostaría algo a que en unas horas van a empezar a señalar a los que salgan a dar unos trotes o a andar en bici, tanto por las redes como por los medios, sobre todo teniendo en cuenta que la gente lleva encerrada más de un mes y que la franja horaria permitida para hacer ejercicio, según mi humilde opinión, va a propiciar las concentraciones. Espero equivocarme."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "terf_vs_trans_1": {
         "name": "TERF vs trans 1",
@@ -271,6 +301,7 @@
         "description": [
             "¡El Feministerio ha hablado! Lo siento por las TERFs... realmente no."
         ],
+        "size": "3800x2000",
         "series": ["terf_vs_trans"],
         "celebrities": ["Irene Montero", "Boti García"],
         "parties": ["UP"]
@@ -280,14 +311,16 @@
         "date": "2020-05-05T00:01",
         "description": [
             "Portugal não é Brasil, senhora."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "billy_el_nino": {
         "name": "Billy \"El Niño\"",
         "date": "2020-05-07T00:00",
         "description": [
             "¡Bienvenidos una vez más a la enésima edición de: \"La doble moral socialista\"!"
-        ]
+        ],
+        "size": "2000x2000"
     },
     "payasos": {
         "name": "Payasos",
@@ -295,6 +328,7 @@
         "description": [
             "Nuesto amado líder eligió identificarse con un payaso psicópata, pero hay otros payasos con hábitos moralmente cuestionables con los que podría haberse identificado. ¿Cual es tu favorito? (Sé que llego un poco tarde, pero me apetecía hacerlo)"
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -303,21 +337,24 @@
         "date": "2020-05-15T00:00",
         "description": [
             "¡No se ni lo que es una escoba, Hulio!"
-        ]
+        ],
+        "size": "2000x2000"
     },
     "transparencia_gobierno": {
         "name": "La transparencia del Gobierno",
         "date": "2020-05-18T00:00",
         "description": [
             "Estos artífices de la neolengua supongo que adaptarán sus expresiones y dirán cosas tipo \"más claro, chapapote\" o \"esto está pasando de castaño a beis\"."
-        ]
+        ],
+        "size": "3000x2000"
     },
     "becas_mediocres": {
         "name": "Becas para los mediocres",
         "date": "2020-05-19T00:00",
         "description": [
             "Los que hayáis ido a la universidad quizás hayáis conocido, como yo, al mítico estudiante revolucionario: niño de papá, no ha trabajado en su vida ni va a trabajar porque estudia alguna carrera sin salida laboral, a tope con la clase obrera pero no pisa una clase, aprueba lo mínimo para que no lo echen de la universidad, parasita a sus padres y se funde el dinero que le dan en irse de fiesta y pillarse unos gramos, alaba regímenes totalitarios, siempre en todas las huelgas absurdas, su piso parece el vertedero de Silent Hill y, como no, con una buena beca (y para el año mejor) pagada por todos nosotros."
-        ]
+        ],
+        "size": "3000x2000"
     },
     "cortinas_banderas": {
         "name": "Cortinas de banderas",
@@ -325,6 +362,7 @@
         "description": [
             "Hacen y deshacen mientras miramos a otro lado, y yo me pregunto cual será el mejor país al que emigrar antes de que vuelva a pasar lo de 1936."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -333,7 +371,8 @@
         "date": "2020-05-31T00:00",
         "description": [
             "Luchar contra la violencia con más violencia me parece que es como intentar apagar un fuego con gasolina. Y hay que ser miserable para utilizar el rechazo al racismo como excusa para saquear y arruinarle la vida a la gente, y más aún cuando no han tenido nada que ver con el incidente del otro día. El fanatismo se les va de las manos."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "sube_el_pan": {
         "name": "Sube el pan",
@@ -342,6 +381,7 @@
             "Me los imagino así cuando llegan a su mansión cada vez que la lía.",
             "Le veo potencial de reutilización a esta viñeta, independientemente de lo que haga, ya sea acusar a toda la Policía de machistas, celebrando su cumpleaños por las redes sociales, o esta última, contándole tan alegremente a los periodistas que no iba a admitir lo del coronavirus porque si no le cerraban el feministerio. ¿Qué creéis que será lo próximo que haga?"
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
         "parties": ["UP"]
     },
@@ -350,14 +390,16 @@
         "date": "2020-06-03T00:00",
         "description": [
             "Si tenéis o tuvieseis una empresa, necesitáis contratar a alguien de aprendiz y os viniese a pedir trabajo alguien con un perfil similar al de la chica de la viñeta, ¿lo contrataríais?"
-        ]
+        ],
+        "size": "2000x2000"
     },
     "borregos": {
         "name": "Borregos",
         "date": "2020-06-07T00:00",
         "description": [
             "Poco que decir sobre esto. Solo voy a mencionar una rima de una canción de los Lendakaris: \"Decadencia moral en Occidente, nos lo dice lo que aplaude la gente\"."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "terf_vs_trans_2": {
         "name": "TERF vs trans 2",
@@ -365,6 +407,7 @@
         "description": [
             "¡Parece que el Desgobierno y el Feministerio discrepan ideológicamente! ¿Quién ganará la batalla?"
         ],
+        "size": "2000x2000",
         "series": ["terf_vs_trans"],
         "celebrities": ["Carmen Calvo"],
         "parties": ["PSOE"]
@@ -375,7 +418,8 @@
         "description": [
             "Que conste que he visto este tipo de comentarios independientemente del bando político defendido/criticado. Son unos calzadófobos.",
             "Ahora en serio, creo que hay mucha gente que no tiene ni idea de qué es un bot, o simplemente utilizan esa palabra como descalificativo."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "oso_machista": {
         "name": "Oso machista",
@@ -383,6 +427,7 @@
         "description": [
             "A una ideología cuyo principal motivo de supervivencia sea la condena de sucesos e ideas que causan el descontento de la población, ¿qué le interesa más, erradicar esos sucesos e ideas y así desaparecer, o mantenerlos, ya sea de manera real o ficticia, para poder seguir existiendo?"
         ],
+        "size": "2000x2000",
         "series": ["el_palmero"]
     },
     "alboran_dolmayan": {
@@ -391,21 +436,24 @@
         "description": [
             "¿Alguien ha pillado esta viñeta sin explicación? Si no lo habéis hecho, como me temo que ha pasado, buscad las últimas noticias sobre John Dolmayan, y si no sabéis quién es, buscad también al grupo System Of A Down.",
             "En esta página se apoya el buen metal y la buena música en general, independientemente de la ideología de los artistas o el contenido las letras. ¡Viva Burzum y viva Rage Against the Machine!"
-        ]
+        ],
+        "size": "2000x2000"
     },
     "jodechinchos": {
         "name": "Jodechinchos",
         "date": "2020-06-25T00:00",
         "description": [
             "Para quien no lo sepa, \"jodechincho\", \"fodechincho\" o simplemente \"chincho\" es como se les llama en Galicia, sobre todo en la costa, a los veraneantes del resto de España que van allí, especialmente a los madrileños, e incluso a veces a los que son del interior de Galicia."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "conguitos": {
         "name": "Conguitos",
         "date": "2020-06-29T00:00",
         "description": [
             "#conguitoslivesmatter"
-        ]
+        ],
+        "size": "3800x2000"
     },
     "el_coletas_sapee": {
         "name": "¡¡El Coletas sapee!!",
@@ -413,6 +461,7 @@
         "description": [
             "Para quien no entienda la referencia: \"harry el sucio potter\" en YT, vídeo del Bananero. ¡Sapee!"
         ],
+        "size": "3000x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Irene Montero", "Echenique", "Lilith Verstrynge", "Tania Sánchez", "Dina Bousselham"],
         "parties": ["UP"]
@@ -423,6 +472,7 @@
         "description": [
             "Van a pagar los ricos, claro que sí."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -432,6 +482,7 @@
         "description": [
             "El plan perfecto. Yo creo su carencia de vergüenza no les afecta porque cuentan con la carencia (también) del sentido crítico de la masa votante. Igual que pasa con los independentistas o los chavistas. Si acaban en la cárcel, estarán fuera antes de que dé tiempo a darnos cuenta. Jugarán la carta del mártir."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -440,14 +491,16 @@
         "date": "2020-07-15T00:00",
         "description": [
             "Para los radicales todo es justificable si juegan la baza del enemigo imaginario."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "inclusivo": {
         "name": "Inclusivo",
         "date": "2020-07-21T00:00",
         "description": [
             "Y hay más ejemplos de sociedades donde hablan lenguas sin género gramatical, o incluso con género neutro, y socialmente dejan mucho que desear."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "duquemar": {
         "name": "Duquemar",
@@ -455,6 +508,7 @@
         "description": [
             "¡Duquemar se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Pedro Duque"],
         "parties": ["PSOE"]
@@ -464,7 +518,8 @@
         "date": "2020-07-31T00:00",
         "description": [
             "¿Para qué esforzarse pudiendo pertenecer a un \"colectivo oprimido\"? Obligarán a las empresas a que te contraten para cumplir una cuota absurda y no hará falta ni que trabajes, ya se ocuparán los del \"colectivo opresor\" de trabajar, pues tendrá más incentivos que tú para hacerlo, principalmente el miedo al despido."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "galanchez": {
         "name": "Galánchez",
@@ -472,6 +527,7 @@
         "description": [
             "¡Arrodillaos ante Galánchez, devorador de fondos europeos, y su heraldo Simón Surfer! No le llega con los contribuyentes españoles, ahora también con los europeos, ¡y pronto los de todo el mundo!"
         ],
+        "size": "6000x4000",
         "celebrities": ["Pedro Sánchez", "Fernando Simón"],
         "parties": ["PSOE"]
     },
@@ -481,6 +537,7 @@
         "description": [
             "Si lo hace el enemigo es un prófugo, si lo hace el amigo es un exiliado. Se les va a gastar la doble vara de medir."
         ],
+        "size": "2000x2000",
         "celebrities": ["Juan Carlos I", "Puigdemont"],
         "parties": ["JxC"]
     },
@@ -490,6 +547,7 @@
         "description": [
             "¡Álvarez de Hyrule se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Álvarez de Toledo"],
         "parties": ["PP"]
@@ -500,6 +558,7 @@
         "description": [
             "¿Es solo impresión mía o cada vez que sale una noticia donde la víctima es una mujer parece que lo celebran más de lo que lo condenan? Ni que se les fuera el salario en ello..."
         ],
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
     },
@@ -509,6 +568,7 @@
         "description": [
             "¡La lucha continúa! ¡La representante del Desgobierno intenta asestar un golpe letal, pero el Feministerio tiene algún que otro as en la manga!"
         ],
+        "size": "2000x2000",
         "series": ["terf_vs_trans"],
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
@@ -518,7 +578,8 @@
         "date": "2020-08-11T00:00",
         "description": [
             "¿A vosotros también os daban ganas de suicidaros cuando echaba el anuncio en la tele y sonaba esta canción? Quien haya hecho el cartel ha sabido canalizar la esencia de la vuelta al cole con El Corte Inglés. Me quito el sombrero."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "super_pablo": {
         "name": "Super Pablo Bros.",
@@ -527,6 +588,7 @@
             "¡Vive la aventura de líder comunista con Super Pablo Bros.! ¡Hazte rico con las cajas B, destruye las malvadas tarjetas SD y adéntrate en las cloacas del Estado!",
             "Próximamente en tu economato de confianza, ¡si no está desabastecido cuando llegues!"
         ],
+        "size": "1590x1590",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -535,7 +597,8 @@
         "date": "2020-08-12T00:01",
         "description": [
             "¿Qué opináis de la temprana vacuna rusa? Yo lo único que quiero de Rusia es vodka en vena."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "abaskong": {
         "name": "Abaskong",
@@ -543,6 +606,7 @@
         "description": [
             "¡Abaskong se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Abascal"],
         "parties": ["Vox"]
@@ -553,6 +617,7 @@
         "description": [
             "Es que no os enteráis, es una caja de solidaridad, para solidarizarse con el líder, no vaya a ser que no pueda pagarse la mansión, que todo el mundo tiene derecho a una, que lo pone en la constitución."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -561,7 +626,8 @@
         "date": "2020-08-16T00:00",
         "description": [
             "Les iría mejor (y a nosotros también) si se dedicasen al negocio de las citas en vez de a la política."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "franco_kazooie": {
         "name": "Franco & Kazooie",
@@ -569,6 +635,7 @@
         "description": [
             "¡Franco & Kazooie se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Franco"]
     },
@@ -578,6 +645,7 @@
         "description": [
             "Muy responsable esto de irse de vacaciones en medio de una pandemia que ha causado más de 40.000 muertos en este país e inmersos en lo que parece una segunda ola, además de tener al país rumbo a la mayor crisis del siglo, sí señor. Y pagado con el dinero de todos."
         ],
+        "size": "4000x4000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -586,14 +654,16 @@
         "date": "2020-08-21T00:00",
         "description": [
             "Chicxs, aún os quedan privilegios masculinos con los que acabar, como el privilegio de disfrutar de una mayor mortalidad por, entre otras cosas, la mayor exposición al riesgo debido a la desechabilidad histórica de los varones."
-        ]
+        ],
+        "size": "3000x2000"
     },
     "barco_hunde": {
         "name": "Si el barco se hunde...",
         "date": "2020-08-23T00:00",
         "description": [
             "Hay que estar a lo que hay que estar, ya discutiremos sobre el sexo de los ángeles cuando toque."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "de_compras": {
         "name": "De compras",
@@ -601,6 +671,7 @@
         "description": [
             "No lo sé, Rick, parece falso."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -610,6 +681,7 @@
         "description": [
             "Tenemos a un lord sith en el gobierno. No entiendo como aún puede quedar alguien que se trague todo lo que dicen. (En la escena original no habían sacado todavía los sables láser, pero me hacía ilusión dibujarlos)"
         ],
+        "size": "3000x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Ewan McGregor"],
         "parties": ["UP"]
@@ -620,6 +692,7 @@
         "description": [
             "Menos mal que nos lo han aclarado, no podía dormir sin saber si alguien que ya se ha gastado un pastizal en una mansión después de haber criticado algo similar se ya gastado, también, un pastizal en un reloj. Sigan mirando hacia otro lado que más acusaciones no van a (o no pueden) desmentir."
         ],
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
     },
@@ -629,6 +702,7 @@
         "description": [
             "¡Marianic se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Rajoy"],
         "parties": ["PP"]
@@ -639,6 +713,7 @@
         "description": [
             "Moraleja: defiende tu derecho a la propiedad privada."
         ],
+        "size": "2000x2000",
         "series": ["cuentos"]
     },
     "wabalos": {
@@ -647,6 +722,7 @@
         "description": [
             "¡Wábalos se une al plantel!"
         ],
+        "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Ábalos"],
         "parties": ["PSOE"]
@@ -657,6 +733,7 @@
         "description": [
             "Sofá, manta, Netflix, pandemia y crisis, ¡qué tranquilidad!"
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -666,6 +743,7 @@
         "description": [
             "Moraleja: rechaza el parasitismo."
         ],
+        "size": "2000x2000",
         "series": ["cuentos"]
     },
     "derechos_humanos": {
@@ -674,6 +752,7 @@
         "description": [
             "Pedro, que ETA no tocó en el FIB."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Arnaldo Otegi"],
         "parties": ["PSOE", "EH Bildu"]
     },
@@ -683,6 +762,7 @@
         "description": [
             "Cuidadín, machirulos, que pronto será delito estar dentro de un radio de diez metros de cualquier mujer."
         ],
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
     },
@@ -691,7 +771,8 @@
         "date": "2020-09-16T00:00",
         "description": [
             "Hasta en la sopa. Se les va a gastar el Francomodín de tanto usarlo. A la izquierda le gusta más el franquismo que a un tonto un lápiz."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "caperucita": {
         "name": "Caperucita Roja",
@@ -699,6 +780,7 @@
         "description": [
             "Moraleja: no dejes que prostituyan las leyes con fines partidistas."
         ],
+        "size": "2000x2000",
         "series": ["cuentos"]
     },
     "brujas": {
@@ -707,14 +789,16 @@
         "description": [
             "Me hace un montón de gracia que esta gente se crea que, en la época de la caza de brujas, habrían sido las víctimas de los linchamientos y no la turba furiosa, como si, en otra época con una moral diferente a la actual, no fuesen a suscribir esa moral, incluso en su rama más radical.",
             "Es patético creerse revolucionario desde el borreguismo, pero así es parte de la gente con la que nos ha tocado convivir."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "progrebranding_1": {
         "name": "Progrebranding 1",
         "date": "2020-09-25T00:00",
         "description": [
             "Increíble que nadie se haya percatado de un nombre tan tremendamente ofensivo, menos mal que estoy yo para ayudar. Mucho mejor ahora. #stopgordofobia"
-        ]
+        ],
+        "size": "2000x2000"
     },
     "bella_durmiente": {
         "name": "La bella durmiente",
@@ -722,6 +806,7 @@
         "description": [
             "Moraleja: no apoyes propuestas que solo sirvan para generar miedo en partes concretas de la sociedad."
         ],
+        "size": "2000x2000",
 	    "series": ["cuentos"]
     },
     "fer_simon": {
@@ -729,14 +814,16 @@
         "date": "2020-09-30T00:00",
         "description": [
             "Si al final Rajoy tenía razón con lo de que le iban a subir el IVA de \"los chuches\"."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "apropiacion_simbolos": {
         "name": "Apropiación de símbolos",
         "date": "2020-10-05T00:00",
         "description": [
             "Que me diga alguien dónde está la coherencia en despreciar algo que es de todos y luego quejarse de que la gente que no lo desprecia lo use diciendo que esa gente se lo ha apropiado. Son como el perro del hortelano."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "techo_gasto": {
         "name": "Subida del techo de gasto",
@@ -744,6 +831,7 @@
         "description": [
             "Parece que echa de menos su tierra natal porque cualquiera diría que se alegra por la paulatina transformación de España en Argentina."
         ],
+        "size": "4000x4000",
         "series": ["memes"],
         "celebrities": ["Echenique"],
         "parties": ["UP"]
@@ -754,6 +842,7 @@
         "description": [
             "Ya sabemos quienes formarán parte de la coalición liderada por los morados en las próximas elecciones."
         ],
+        "size": "2000x2000",
         "parties": ["UP"]
     },
     "maquina_humo": {
@@ -762,6 +851,7 @@
         "description": [
             "A ver cual es la siguiente cosa con la que nos soprenden para que miremos hacia otro lado, tienen que empezar a sacar nuevo material para que su horda de estómagos agradecidos siga defendiendo lo indefendible mientras nos vamos a la mierda."
         ],
+        "size": "3800x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -771,6 +861,7 @@
         "description": [
             "AVE PETRVS SANCTII DICTATOR IN PERPETVVM HISPANIAE ET MATRITI"
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -780,6 +871,7 @@
         "description": [
             "\"Hacer este ejercicio de pedagogía\" dice... A tope con la neolengua, por no variar."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -789,6 +881,7 @@
         "description": [
             "¿Quién se va a apretar el cinturón? Parece que ellos no."
         ],
+        "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
@@ -798,6 +891,7 @@
         "description": [
             "Lo peor es que es cierto."
         ],
+        "size": "3800x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     },
@@ -807,6 +901,7 @@
         "description": [
             "Moraleja: no esperes medidas o resultados positivos de un movimiento que solo se mueva dentro del mundo de las ideas y se niegue a ver la realidad."
         ],
+        "size": "2000x2000",
         "series": ["cuentos"]
     },
     "concurso_democratico": {
@@ -815,6 +910,7 @@
         "description": [
             "¿Es tanto el concepto de democracia como las decisiones tomadas democráticamente una suerte de argumentum ad populum?"
         ],
+        "size": "2000x2000",
         "celebrities": ["Carlos Sobera"]
     },
     "bajada_iva": {
@@ -823,6 +919,7 @@
         "description": [
             "Parece que se han quedado sin argumentos para no bajarle el IVA a las mascarillas, pero recordad: esta gente no da puntada sin hilo."
         ],
+        "size": "2000x2000",
         "celebrities": ["Carmen Calvo"],
         "parties": ["PSOE"]
     },
@@ -832,6 +929,7 @@
         "description": [
             "Agarrándose a un clavo ardiendo."
         ],
+        "size": "2000x2000",
         "parties": ["PSOE", "EH Bildu"]
     },
     "pinocho": {
@@ -840,6 +938,7 @@
         "description": [
             "Moraleja: aprende a distinguir a los charlatanes, no dejes que te coman la oreja con palabras vacías."
         ],
+        "size": "2000x2000",
         "series": ["cuentos"]
     },
     "celaa_de_vil": {
@@ -848,6 +947,7 @@
         "description": [
             "Decidme que no soy el único a quien esta señora le recuerda a Cruella De Vil. #stopleycelaá"
         ],
+        "size": "2000x2000",
         "celebrities": ["Isabel Celaá"],
         "parties": ["PSOE"]
     },
@@ -856,7 +956,8 @@
         "date": "2020-11-29T00:00",
         "description": [
             "Ya puede empezar el apocalipsis que esta gente va a seguir con sus chorradas, a su puta bola. En fin, sería enternecedor si no estuviesen jugando con nuestro dinero."
-        ]
+        ],
+        "size": "4000x4000"
     },
     "presupuestos": {
         "name": "Presupuestos",
@@ -864,6 +965,7 @@
         "description": [
             "Los coleguis de la ruina."
         ],
+        "size": "4000x4000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias", "Arnaldo Otegi", "Gabriel Rufián"],
         "parties": ["PSOE", "UP", "EH Bildu", "ERC"]
     },
@@ -873,6 +975,7 @@
         "description": [
             "Que alguien me explique por qué la gente que criticaba los recortes en la sanidad, que opina que imprimir dinero no está mal y que podemos endeudarnos hasta el infinito, critica ahora la construcción de un hospital. Bueno, realmente no me hace falta explicación alguna."
         ],
+        "size": "2000x2000",
         "series": ["el_palmero"]
     },
     "observador_internacional": {
@@ -880,14 +983,16 @@
         "date": "2020-12-08T00:00",
         "description": [
             "El de la Champions League de la economía diciéndole a la UE que su postura con la dictadura chavista está equivocada. Gran Bretaña se fue, pero a nosotros nos van a echar."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "olentzero_etxera": {
         "name": "Olentzero etxera",
         "date": "2020-12-13T00:00",
         "description": [
             "Los niños vascos que quieran recibir regalos estas navidades van a tener que poner este cartel en sus balcones."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "tio_nadal": {
         "name": "Tió de Nadal",
@@ -897,6 +1002,7 @@
             "¡Enviadle esta postal navideña a vuestros amigos catalanes!",
             "Sinceramente, ya es turbio lo de que un desconocido se cuele en tu casa para dejarte regalos, pero lo de arrearle a un tronco para que te los cague..."
         ],
+        "size": "2000x2000",
         "series": ["postales_navidenas"]
     },
     "olentzero": {
@@ -907,6 +1013,7 @@
             "¡Enviadle esta postal navideña a vuestros amigos vascos!",
             "Un señor vasco con txapela escondido en el monte y relacionado con la fabricación de material inflamable... ahora entiendo lo de Leioa."
         ],
+        "size": "2000x2000",
         "series": ["postales_navidenas"]
     },
     "apalpador": {
@@ -917,6 +1024,7 @@
             "¡Enviadle esta postal navideña a vuestros amigos gallegos!",
             "El apalpador en Galicia es una tradición que los nacionalistas intentan extender por todo el territorio gallego, ya que solo existe en unas pocas comarcas del interior, pero parece que han tenido más éxito con él en los Estados Unidos, porque lo quieren poner de presidente."
         ],
+        "size": "2000x2000",
         "series": ["postales_navidenas"],
         "celebrities": ["Joe Biden"]
     },
@@ -926,6 +1034,7 @@
         "description": [
             "Fraga marcó el camino. A ver quién es el primero de los nuestros en comerse a Guiñitos (para quien no entienda la referencia: ved el cuarto capítulo de la segunda temporada de Los Simpsons)."
         ],
+        "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Joe Biden", "Manuel Fraga"]
     },
@@ -937,6 +1046,7 @@
             "¡Enviadle esta postal navideña a vuestros amigos hispanohablantes!",
             "Hacedle caso a Papá Noel y ganaos los regalos con vuestro propio esfuerzo, el carbón debería estar reservado para envidiosos, maleantes y vagos."
         ],
+        "size": "2000x2000",
         "series": ["postales_navidenas"]
     },
     "navidades_patriarcales": {
@@ -944,7 +1054,8 @@
         "date": "2020-12-25T00:00",
         "description": [
             "Todo ventajas esto de pasarte los mejores años de tu vida en un barco en alta mar, lejos de tu casa y de tu familia. Muy privilegiados, sí."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "feliz_2021": {
         "name": "¡Feliz 2021!",
@@ -952,14 +1063,16 @@
         "description": [
             "¡Que tengáis un feliz 2021!",
             "A ver si para este año que entra ocurre un milagro y nos libramos del mayor virus de la historia. Y del coronavirus también."
-        ]
+        ],
+        "size": "2000x2000"
     },
     "reyes_magos": {
         "name": "Reyes Magos",
         "date": "2021-01-03T00:00",
         "description": [
             "Ya vienen los Reyes Magos con los camellos."
-        ]
+        ],
+        "size": "3800x2000"
     },
     "escudo_social": {
         "name": "Escudo Social",
@@ -967,6 +1080,7 @@
         "description": [
             "No vaya a ser que la ola de mierda les salpique a ellos también."
         ],
+        "size": "4000x4000",
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
         "parties": ["UP"]
     },
@@ -976,6 +1090,7 @@
         "description": [
             "No da una."
         ],
+        "size": "2000x2000",
         "celebrities": ["Fernando Simón"]
     },
     "accidente_laboral": {
@@ -983,6 +1098,7 @@
         "date": "2021-01-16T00:00",
         "description": [
             "La absurda teoría de la conspiración del patriarcado que oprime a las mujeres, no entiendo el privilegio de que la vida de los hombres históricamente valga menos. Pero bueno, sigamos negando la realidad y seguiremos sin identificar y solucionar problemas reales."
-        ]
+        ],
+        "size": "4000x4000"
     }
 }

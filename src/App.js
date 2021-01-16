@@ -23,6 +23,7 @@ import Animation from './Animation';
 import PageStats from './stats/PageStats';
 import Stats from './stats/Stats';
 import Celebrity from './Celebrity';
+import Size from './Size';
 import {
     HashRouter as Router,
     Switch,
@@ -262,6 +263,8 @@ class App extends Component{
                                 <PageStats />
                             </Route>
                             <Route exact path="/personaje/:name" component={Celebrity}>
+                            </Route>
+                            <Route exact path="/.tamano/:size" component={Size}>
                             </Route>
                         </Switch>
                     </section>

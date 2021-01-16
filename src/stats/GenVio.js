@@ -14,10 +14,12 @@ import {getColors} from './chartUtils';
 class Stats extends Component {
 
     lineNames = {
-        mujeres: "Total de mujeres a 1 de enero",
-        muertes_viogen: "Muertes por violencia de género",
-        muertes_totales: "Muertes por cualquier causa",
-        denuncias_puestas: "Denuncias puestas"
+        mujeres: "Población de mujeres a 1 de enero",
+        muertes_totales: "Defunciones de mujeres",
+        muertes_viogen: "Muertes víctimas mortales por vdg",
+        denuncias_puestas: "Denuncias por vdg",
+        condenados: "Condenados por vdg",
+        absueltos: "Absueltos de vdg"
     }
 
     constructor(props){
@@ -26,9 +28,11 @@ class Stats extends Component {
             show: false,
             genvioLines: {
                 mujeres: true,
-                muertes_viogen: true,
                 muertes_totales: true,
-                denuncias_puestas: true
+                muertes_viogen: true,
+                denuncias_puestas: true,
+                condenados: true,
+                absueltos: true
             },
             logScale: false,
         };

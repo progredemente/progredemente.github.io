@@ -82,6 +82,8 @@
         "muertes_viogen": 60,
         "muertes_totales": 209259,
         "denuncias_puestas": 129193,
+        "condenados": 24265,
+        "absueltos": 6768,
         "name": "2015"
     },
     {
@@ -89,6 +91,8 @@
         "muertes_viogen": 49,
         "muertes_totales": 201618,
         "denuncias_puestas": 143535,
+        "condenados": 25959,
+        "absueltos": 6288,
         "name": "2016"
     },
     {
@@ -96,6 +100,8 @@
         "muertes_viogen": 50,
         "muertes_totales": 210287,
         "denuncias_puestas": 166260,
+        "condenados": 27202,
+        "absueltos": 6181,
         "name": "2017"
     },
     {
@@ -103,12 +109,16 @@
         "muertes_viogen": 51,
         "muertes_totales": 211279,
         "denuncias_puestas": 166961,
+        "condenados": 27972,
+        "absueltos": 5025,
         "name": "2018"
     },
     {
         "mujeres": 23927801,
         "muertes_viogen": 55,
         "denuncias_puestas": 168168,
+        "condenados": 30495,
+        "absueltos": 5149,
         "name": "2019"
     },
     {

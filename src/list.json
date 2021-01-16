@@ -977,5 +977,12 @@
             "No da una."
         ],
         "celebrities": ["Fernando Simón"]
+    },
+    "accidente_laboral": {
+        "name": "Accidente laboral",
+        "date": "2021-01-16T00:00",
+        "description": [
+            "La absurda teoría de la conspiración del patriarcado que oprime a las mujeres, no entiendo el privilegio de que la vida de los hombres históricamente valga menos. Pero bueno, sigamos negando la realidad y seguiremos sin identificar y solucionar problemas reales."
+        ]
     }
 }

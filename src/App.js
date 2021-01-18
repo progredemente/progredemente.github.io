@@ -6,6 +6,7 @@ import twitter from './img/social/twitter.png';
 import gab from './img/social/gab.png';
 import telegram from './img/social/telegram.png';
 import parler from './img/social/parler.png';
+import youtube from './img/social/youtube.png';
 import progremonBanner from './img/banners/progremon_banner.png';
 import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
 import smashBanner from './img/banners/smash_banner.png';
@@ -123,6 +124,18 @@ class App extends Component{
                                     }}
                                 >
                                     <img src={telegram} alt="telegram"/>
+                                </a>
+                                <a
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    href="https://www.youtube.com/channel/UCZtxGIqOUgIyKxzSLUOgDpA"
+                                    onClick={() => {
+                                        window.gtag('event', 'page_view', {
+                                            page_title: "youtube"
+                                        });
+                                    }}
+                                >
+                                    <img src={youtube} alt="youtube"/>
                                 </a>
                                 <a
                                     target="_blank"

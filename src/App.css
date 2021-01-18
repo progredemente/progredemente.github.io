@@ -31,6 +31,7 @@
 
 .social {
     display: flex;
+    align-items: center;
 }
 
 .social > a > img {

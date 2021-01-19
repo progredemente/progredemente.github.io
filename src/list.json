@@ -1108,6 +1108,14 @@
             "No caigáis en la trampa.",
             "Para quien no lo sepa, una nasa es una trampa para animales marinos como el pulpo o algunos crustáceos."
         ],
-        "size": "4000x4000"
+        "size": "2000x2000"
+    },
+    "parasitos": {
+        "name": "Parásitos",
+        "date": "2021-01-19T00:00",
+        "description": [
+            "Me encanta como Carnaval Tercermundista llama a esta gente, los malbañados, porque tener parásitos es un idicativo de falta de higiene. Y estos los tienen y los mantienen."
+        ],
+        "size": "2000x2000"
     }
 }

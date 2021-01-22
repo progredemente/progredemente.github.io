@@ -1117,5 +1117,13 @@
             "Me encanta como Carnaval Tercermundista llama a esta gente, los malbañados, porque tener parásitos es un idicativo de falta de higiene. Y estos los tienen y los mantienen."
         ],
         "size": "2000x2000"
+    },
+    "efecto_illa": {
+        "name": "El efecto Illa",
+        "date": "2021-01-22T00:00",
+        "description": [
+            "Pocos les parecen."
+        ],
+        "size": "2000x2000"
     }
 }

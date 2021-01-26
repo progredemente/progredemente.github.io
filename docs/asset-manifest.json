@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eb5011c7.chunk.css",
-    "main.js": "/static/js/main.13f2ff6e.chunk.js",
-    "main.js.map": "/static/js/main.13f2ff6e.chunk.js.map",
+    "main.js": "/static/js/main.8b45eedd.chunk.js",
+    "main.js.map": "/static/js/main.8b45eedd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b05a4b85.chunk.js": "/static/js/2.b05a4b85.chunk.js",
-    "static/js/2.b05a4b85.chunk.js.map": "/static/js/2.b05a4b85.chunk.js.map",
+    "static/js/2.a4396417.chunk.js": "/static/js/2.a4396417.chunk.js",
+    "static/js/2.a4396417.chunk.js.map": "/static/js/2.a4396417.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9c7c671e9cce2ce0b160d4a5c9daf024.js": "/precache-manifest.9c7c671e9cce2ce0b160d4a5c9daf024.js",
+    "precache-manifest.218bbf9b4f89ff083390d1c86559893b.js": "/precache-manifest.218bbf9b4f89ff083390d1c86559893b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eb5011c7.chunk.css.map": "/static/css/main.eb5011c7.chunk.css.map",
-    "static/js/2.b05a4b85.chunk.js.LICENSE.txt": "/static/js/2.b05a4b85.chunk.js.LICENSE.txt",
+    "static/js/2.a4396417.chunk.js.LICENSE.txt": "/static/js/2.a4396417.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -123,6 +123,7 @@
     "static/media/progremon_2.png": "/static/media/progremon_2.d17f6bdf.png",
     "static/media/progremon_banner.png": "/static/media/progremon_banner.ccc50836.png",
     "static/media/psoeta.png": "/static/media/psoeta.b964f73b.png",
+    "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.df988713.png",
     "static/media/reyes_magos.png": "/static/media/reyes_magos.e3fb7914.png",
     "static/media/rolex.png": "/static/media/rolex.7c779579.png",
@@ -162,8 +163,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b05a4b85.chunk.js",
+    "static/js/2.a4396417.chunk.js",
     "static/css/main.eb5011c7.chunk.css",
-    "static/js/main.13f2ff6e.chunk.js"
+    "static/js/main.8b45eedd.chunk.js"
   ]
 }

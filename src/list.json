@@ -1125,5 +1125,13 @@
             "Pocos les parecen."
         ],
         "size": "2000x2000"
+    },
+    "racismo_disney": {
+        "name": "El racismo en Disney",
+        "date": "2021-01-26T00:00",
+        "description": [
+            "No hace falta ni que les señalen ni que les monten una campaña en contra suya, ellos solitos se autocensuran, no vaya a ser que despierten a la bestia."
+        ],
+        "size": "2000x2000"
     }
 }

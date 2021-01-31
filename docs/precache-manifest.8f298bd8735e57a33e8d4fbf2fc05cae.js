@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "226d0b5769ad070cf888c43bcc476b54",
+    "revision": "fbf94c7b894c0bd022869a33906a1309",
     "url": "/index.html"
   },
   {
-    "revision": "2674ecddfe2d049878c6",
+    "revision": "5387794f014a22368b6f",
     "url": "/static/css/main.eb5011c7.chunk.css"
   },
   {
-    "revision": "7d84fa81ea134fd08ed9",
-    "url": "/static/js/2.a4396417.chunk.js"
+    "revision": "7a944041fa6194a772e4",
+    "url": "/static/js/2.de68c276.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a4396417.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.de68c276.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2674ecddfe2d049878c6",
-    "url": "/static/js/main.8b45eedd.chunk.js"
+    "revision": "5387794f014a22368b6f",
+    "url": "/static/js/main.52dcb20a.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -630,6 +630,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bb29363e0e1133ce8bbabc91957be6e6",
     "url": "/static/media/mismo_sentido.bb29363e.png"
+  },
+  {
+    "revision": "5df14e98d4d9be87df147e77d360b80f",
+    "url": "/static/media/mitin_negacionista.5df14e98.png"
+  },
+  {
+    "revision": "8d6cde5d8c839580155a9cb7cd1d388b",
+    "url": "/static/media/mitin_negacionista.8d6cde5d.png"
   },
   {
     "revision": "df1f0928928de77f98f409a277bef4d8",

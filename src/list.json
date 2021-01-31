@@ -1133,5 +1133,15 @@
             "No hace falta ni que les señalen ni que les monten una campaña en contra suya, ellos solitos se autocensuran, no vaya a ser que despierten a la bestia."
         ],
         "size": "2000x2000"
+    },
+    "mitin_negacionista": {
+        "name": "Mitin negacionista",
+        "date": "2021-01-31T00:00",
+        "description": [
+            "Luego llaman negacionista a quien protesta porque le cierran el negocio y no quiere acabar en la ruina. El virus son ellos y sus ideologías."
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Oriol Junqueras"],
+        "parties": ["ERC"]
     }
 }

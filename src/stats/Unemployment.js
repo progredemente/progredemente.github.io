@@ -106,7 +106,7 @@ class Unemployment extends Component {
                         >
                             <XAxis
                                 dataKey="name"
-                                interval={24}
+                                interval={36}
                                 stroke="black"
                                 width={100}
                                 padding={{left: 10, right: 10}}

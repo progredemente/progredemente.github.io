@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: progredemente.github.io
+Token: e2abf42d149300f850b5d7170e898bd295e9367ba8a567a6c1999276d9934e4c

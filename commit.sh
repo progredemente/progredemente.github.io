@@ -9,6 +9,4 @@ if [ $# -gt 0 ]
 then
     TEXT=$1
 fi
-echo $TEXT
-#git commit -m "New post"
-#git push origin master
+git commit -m "$TEXT"

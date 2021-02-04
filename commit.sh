@@ -10,3 +10,4 @@ then
     TEXT=$1
 fi
 git commit -m "$TEXT"
+git push origin master

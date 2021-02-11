@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eb5011c7.chunk.css",
-    "main.js": "/static/js/main.db902dcb.chunk.js",
-    "main.js.map": "/static/js/main.db902dcb.chunk.js.map",
+    "main.js": "/static/js/main.b094efc5.chunk.js",
+    "main.js.map": "/static/js/main.b094efc5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b9e75de3.chunk.js": "/static/js/2.b9e75de3.chunk.js",
-    "static/js/2.b9e75de3.chunk.js.map": "/static/js/2.b9e75de3.chunk.js.map",
+    "static/js/2.b6361104.chunk.js": "/static/js/2.b6361104.chunk.js",
+    "static/js/2.b6361104.chunk.js.map": "/static/js/2.b6361104.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.32e54f2c2f7beb1ecca0489090590ffd.js": "/precache-manifest.32e54f2c2f7beb1ecca0489090590ffd.js",
+    "precache-manifest.205ebbcc5fb48c50d12f5dbf89f9e991.js": "/precache-manifest.205ebbcc5fb48c50d12f5dbf89f9e991.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eb5011c7.chunk.css.map": "/static/css/main.eb5011c7.chunk.css.map",
-    "static/js/2.b9e75de3.chunk.js.LICENSE.txt": "/static/js/2.b9e75de3.chunk.js.LICENSE.txt",
+    "static/js/2.b6361104.chunk.js.LICENSE.txt": "/static/js/2.b6361104.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -22,6 +22,7 @@
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
     "static/media/ano_marmota.png": "/static/media/ano_marmota.5118b97f.png",
+    "static/media/ano_rata.png": "/static/media/ano_rata.d1768431.png",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/apalpador.png": "/static/media/apalpador.6a213c0f.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
@@ -166,8 +167,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b9e75de3.chunk.js",
+    "static/js/2.b6361104.chunk.js",
     "static/css/main.eb5011c7.chunk.css",
-    "static/js/main.db902dcb.chunk.js"
+    "static/js/main.b094efc5.chunk.js"
   ]
 }

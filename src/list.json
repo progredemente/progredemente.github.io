@@ -1160,5 +1160,15 @@
         ],
         "size": "3800x2000",
         "celebrities": ["Iker Jiménez", "Carmen Porter"]
+    },
+    "ano_rata": {
+        "name": "El año de la rata",
+        "date": "2021-02-11T00:00",
+        "description": [
+            "Habrá que ir empezando a sumergirnos en la cultura china, ¿no creéis?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

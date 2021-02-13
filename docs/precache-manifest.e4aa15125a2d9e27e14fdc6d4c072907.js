@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c59acd1e1538cc6c384b12a0e0f41aa",
+    "revision": "17c1abafc12ff3c3e2a0d9676011dad7",
     "url": "/index.html"
   },
   {
-    "revision": "e22d8e044fd6de8b5648",
+    "revision": "80a9370d3d635a029947",
     "url": "/static/css/main.eb5011c7.chunk.css"
   },
   {
-    "revision": "23d6ea2f014f865bad42",
-    "url": "/static/js/2.b6361104.chunk.js"
+    "revision": "fce0b1785bbe679230b3",
+    "url": "/static/js/2.84bd6742.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.b6361104.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.84bd6742.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e22d8e044fd6de8b5648",
-    "url": "/static/js/main.b094efc5.chunk.js"
+    "revision": "80a9370d3d635a029947",
+    "url": "/static/js/main.18f4f76c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -294,6 +294,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b674b8007ba0087e01dc2a61e71b9574",
     "url": "/static/media/chiringuito.b674b800.png"
+  },
+  {
+    "revision": "611bcd7d65eca5b51ea7e41debfbdde5",
+    "url": "/static/media/cielo_tierra.611bcd7d.png"
+  },
+  {
+    "revision": "d951c36d9bb5e739697ad53c30a2f7ca",
+    "url": "/static/media/cielo_tierra.d951c36d.png"
   },
   {
     "revision": "06bc589c89d505921a9fb3755f0b88ad",

@@ -1170,5 +1170,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "cielo_tierra": {
+        "name": "El cielo en la tierra",
+        "date": "2021-02-13T00:00",
+        "description": [
+            "Si para ellos esto es el cielo, no me quiero imaginar lo que debe de ser el infierno..."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eb5011c7.chunk.css",
-    "main.js": "/static/js/main.b094efc5.chunk.js",
-    "main.js.map": "/static/js/main.b094efc5.chunk.js.map",
+    "main.js": "/static/js/main.18f4f76c.chunk.js",
+    "main.js.map": "/static/js/main.18f4f76c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b6361104.chunk.js": "/static/js/2.b6361104.chunk.js",
-    "static/js/2.b6361104.chunk.js.map": "/static/js/2.b6361104.chunk.js.map",
+    "static/js/2.84bd6742.chunk.js": "/static/js/2.84bd6742.chunk.js",
+    "static/js/2.84bd6742.chunk.js.map": "/static/js/2.84bd6742.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.205ebbcc5fb48c50d12f5dbf89f9e991.js": "/precache-manifest.205ebbcc5fb48c50d12f5dbf89f9e991.js",
+    "precache-manifest.e4aa15125a2d9e27e14fdc6d4c072907.js": "/precache-manifest.e4aa15125a2d9e27e14fdc6d4c072907.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eb5011c7.chunk.css.map": "/static/css/main.eb5011c7.chunk.css.map",
-    "static/js/2.b6361104.chunk.js.LICENSE.txt": "/static/js/2.b6361104.chunk.js.LICENSE.txt",
+    "static/js/2.84bd6742.chunk.js.LICENSE.txt": "/static/js/2.84bd6742.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -49,6 +49,7 @@
     "static/media/celaa_de_vil.png": "/static/media/celaa_de_vil.c12a8382.png",
     "static/media/cenicienta.png": "/static/media/cenicienta.ef8e984c.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
+    "static/media/cielo_tierra.png": "/static/media/cielo_tierra.d951c36d.png",
     "static/media/cigarra_hormiga.png": "/static/media/cigarra_hormiga.bfa5608a.png",
     "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
     "static/media/conguitos.png": "/static/media/conguitos.d90cd7e3.png",
@@ -167,8 +168,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b6361104.chunk.js",
+    "static/js/2.84bd6742.chunk.js",
     "static/css/main.eb5011c7.chunk.css",
-    "static/js/main.b094efc5.chunk.js"
+    "static/js/main.18f4f76c.chunk.js"
   ]
 }

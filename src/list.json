@@ -1180,5 +1180,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "parking": {
+        "name": "Parking",
+        "date": "2021-02-14T00:00",
+        "description": [
+            "Una medida de este tipo, la cual me consta que ya existe en algunos sitios, ¿es machista o feminista?",
+            "No quieren la emancipación de las mujeres, quieren la centralización del paternalismo en la figura del Estado."
+        ],
+        "size": "3800x2000"
     }
 }

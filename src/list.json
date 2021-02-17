@@ -1196,6 +1196,8 @@
         "description": [
             "De poco sirve que te cambies de ropa si no te duchas."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "celebrities": ["Pablo Casado"],
+        "parties": ["PP"]
     }
 }

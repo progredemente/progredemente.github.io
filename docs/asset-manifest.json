@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.eb5011c7.chunk.css",
-    "main.js": "/static/js/main.9fe07e21.chunk.js",
-    "main.js.map": "/static/js/main.9fe07e21.chunk.js.map",
+    "main.js": "/static/js/main.6b3f10cd.chunk.js",
+    "main.js.map": "/static/js/main.6b3f10cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.94100c70.chunk.js": "/static/js/2.94100c70.chunk.js",
-    "static/js/2.94100c70.chunk.js.map": "/static/js/2.94100c70.chunk.js.map",
+    "static/js/2.637256cd.chunk.js": "/static/js/2.637256cd.chunk.js",
+    "static/js/2.637256cd.chunk.js.map": "/static/js/2.637256cd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.601bdab95903bb38772ea4cd9922d074.js": "/precache-manifest.601bdab95903bb38772ea4cd9922d074.js",
+    "precache-manifest.498e1428cd6141db65080d23fb04dfba.js": "/precache-manifest.498e1428cd6141db65080d23fb04dfba.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eb5011c7.chunk.css.map": "/static/css/main.eb5011c7.chunk.css.map",
-    "static/js/2.94100c70.chunk.js.LICENSE.txt": "/static/js/2.94100c70.chunk.js.LICENSE.txt",
+    "static/js/2.637256cd.chunk.js.LICENSE.txt": "/static/js/2.637256cd.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
+    "static/media/adoquines.png": "/static/media/adoquines.bfa7eb72.png",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.c81e8bb0.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.a5481c75.png",
@@ -171,8 +172,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.94100c70.chunk.js",
+    "static/js/2.637256cd.chunk.js",
     "static/css/main.eb5011c7.chunk.css",
-    "static/js/main.9fe07e21.chunk.js"
+    "static/js/main.6b3f10cd.chunk.js"
   ]
 }

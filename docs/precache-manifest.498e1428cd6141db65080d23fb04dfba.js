@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4776a71df943cc6866049a9eb0d762ae",
+    "revision": "e78c1e76324b06cdbf119dbfb3fd6788",
     "url": "/index.html"
   },
   {
-    "revision": "ebc9938fee22799373ad",
+    "revision": "3cd49ae3cb2e505e987b",
     "url": "/static/css/main.eb5011c7.chunk.css"
   },
   {
-    "revision": "24e878e758520d372bad",
-    "url": "/static/js/2.94100c70.chunk.js"
+    "revision": "cbd84efb82fcd8b70e57",
+    "url": "/static/js/2.637256cd.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.94100c70.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.637256cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebc9938fee22799373ad",
-    "url": "/static/js/main.9fe07e21.chunk.js"
+    "revision": "3cd49ae3cb2e505e987b",
+    "url": "/static/js/main.6b3f10cd.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -42,6 +42,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d4c5157f323704205b990fa8c64dbc6d",
     "url": "/static/media/accidente_laboral.d4c5157f.png"
+  },
+  {
+    "revision": "5d555789264dcce7fbe10c0dbb9effae",
+    "url": "/static/media/adoquines.5d555789.png"
+  },
+  {
+    "revision": "bfa7eb72632488a2fd7e9f616feae108",
+    "url": "/static/media/adoquines.bfa7eb72.png"
   },
   {
     "revision": "a560c7ae4a72bc50765d99629ad25f04",

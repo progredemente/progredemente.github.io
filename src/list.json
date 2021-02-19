@@ -1199,5 +1199,13 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Casado"],
         "parties": ["PP"]
+    },
+    "adoquines": {
+        "name": "Adoquines",
+        "date": "2021-02-19T00:00",
+        "description": [
+            "El bocachancla mayor del Reino apoya unos disturbios provocados por la entrada en prisión de otro bocachancla."
+        ],
+        "size": "2000x2000"
     }
 }

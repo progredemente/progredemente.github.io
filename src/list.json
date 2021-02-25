@@ -1207,5 +1207,13 @@
             "El bocachancla mayor del Reino apoya unos disturbios provocados por la entrada en prisión de otro bocachancla."
         ],
         "size": "2000x2000"
+    },
+    "transicion_energetica": {
+        "name": "Transición energética",
+        "date": "2021-02-25T00:00",
+        "description": [
+            "Un gran triunfo de la educación estatal es que la gente se escandalice por el cambio climático y no lo haga por el endeudamiento de las generaciones futuras."
+        ],
+        "size": "2000x2000"
     }
 }

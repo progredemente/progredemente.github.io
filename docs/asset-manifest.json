@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eb5011c7.chunk.css",
-    "main.js": "/static/js/main.6b3f10cd.chunk.js",
-    "main.js.map": "/static/js/main.6b3f10cd.chunk.js.map",
+    "main.js": "/static/js/main.f583241e.chunk.js",
+    "main.js.map": "/static/js/main.f583241e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.637256cd.chunk.js": "/static/js/2.637256cd.chunk.js",
-    "static/js/2.637256cd.chunk.js.map": "/static/js/2.637256cd.chunk.js.map",
+    "static/js/2.0629e6d5.chunk.js": "/static/js/2.0629e6d5.chunk.js",
+    "static/js/2.0629e6d5.chunk.js.map": "/static/js/2.0629e6d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.498e1428cd6141db65080d23fb04dfba.js": "/precache-manifest.498e1428cd6141db65080d23fb04dfba.js",
+    "precache-manifest.be1924a2c9f5c62083abf19657164eaa.js": "/precache-manifest.be1924a2c9f5c62083abf19657164eaa.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eb5011c7.chunk.css.map": "/static/css/main.eb5011c7.chunk.css.map",
-    "static/js/2.637256cd.chunk.js.LICENSE.txt": "/static/js/2.637256cd.chunk.js.LICENSE.txt",
+    "static/js/2.0629e6d5.chunk.js.LICENSE.txt": "/static/js/2.0629e6d5.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -155,6 +155,7 @@
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/tio_nadal.png": "/static/media/tio_nadal.5ad41069.png",
     "static/media/toque_de_queda.png": "/static/media/toque_de_queda.d1faf70d.png",
+    "static/media/transicion_energetica.png": "/static/media/transicion_energetica.3f75e4ce.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
     "static/media/tres_cerditos.png": "/static/media/tres_cerditos.dc465660.png",
     "static/media/vacunarse_publicamente.png": "/static/media/vacunarse_publicamente.6ae8a95d.png",
@@ -172,8 +173,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.637256cd.chunk.js",
+    "static/js/2.0629e6d5.chunk.js",
     "static/css/main.eb5011c7.chunk.css",
-    "static/js/main.6b3f10cd.chunk.js"
+    "static/js/main.f583241e.chunk.js"
   ]
 }

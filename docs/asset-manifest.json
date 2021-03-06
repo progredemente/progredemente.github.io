@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eb5011c7.chunk.css",
-    "main.js": "/static/js/main.60dc6994.chunk.js",
-    "main.js.map": "/static/js/main.60dc6994.chunk.js.map",
+    "main.js": "/static/js/main.a876a100.chunk.js",
+    "main.js.map": "/static/js/main.a876a100.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0629e6d5.chunk.js": "/static/js/2.0629e6d5.chunk.js",
-    "static/js/2.0629e6d5.chunk.js.map": "/static/js/2.0629e6d5.chunk.js.map",
+    "static/js/2.ef7809a5.chunk.js": "/static/js/2.ef7809a5.chunk.js",
+    "static/js/2.ef7809a5.chunk.js.map": "/static/js/2.ef7809a5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f1d42a171875d0c99cae7b21138d8382.js": "/precache-manifest.f1d42a171875d0c99cae7b21138d8382.js",
+    "precache-manifest.6a7eea534abe1298b6df4c7b3b78b2f0.js": "/precache-manifest.6a7eea534abe1298b6df4c7b3b78b2f0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eb5011c7.chunk.css.map": "/static/css/main.eb5011c7.chunk.css.map",
-    "static/js/2.0629e6d5.chunk.js.LICENSE.txt": "/static/js/2.0629e6d5.chunk.js.LICENSE.txt",
+    "static/js/2.ef7809a5.chunk.js.LICENSE.txt": "/static/js/2.ef7809a5.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -129,6 +129,7 @@
     "static/media/progremon_0.png": "/static/media/progremon_0.61cb08bd.png",
     "static/media/progremon_1.png": "/static/media/progremon_1.d49be426.png",
     "static/media/progremon_2.png": "/static/media/progremon_2.d17f6bdf.png",
+    "static/media/progremon_3.png": "/static/media/progremon_3.5c14cafe.png",
     "static/media/progremon_banner.png": "/static/media/progremon_banner.ccc50836.png",
     "static/media/psoeta.png": "/static/media/psoeta.b964f73b.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
@@ -173,8 +174,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0629e6d5.chunk.js",
+    "static/js/2.ef7809a5.chunk.js",
     "static/css/main.eb5011c7.chunk.css",
-    "static/js/main.60dc6994.chunk.js"
+    "static/js/main.a876a100.chunk.js"
   ]
 }

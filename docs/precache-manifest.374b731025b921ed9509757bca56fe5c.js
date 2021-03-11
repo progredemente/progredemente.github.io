@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dee19d78cc1c6e34db76e12f0e7694c1",
+    "revision": "5885da060ee566c6acc1d9879df11e41",
     "url": "/index.html"
   },
   {
-    "revision": "50c615480c243e946900",
+    "revision": "7287a31476b9b27da720",
     "url": "/static/css/main.eb5011c7.chunk.css"
   },
   {
-    "revision": "e14db59839d1cc61d114",
-    "url": "/static/js/2.ef7809a5.chunk.js"
+    "revision": "e2595f13fe1f96b794c5",
+    "url": "/static/js/2.bb9511ae.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ef7809a5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bb9511ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50c615480c243e946900",
-    "url": "/static/js/main.a876a100.chunk.js"
+    "revision": "7287a31476b9b27da720",
+    "url": "/static/js/main.fe37d8aa.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -986,6 +986,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e462ed5d1d72024d2f47d0b1065fff8b",
     "url": "/static/media/subida_impuestos.e462ed5d.png"
+  },
+  {
+    "revision": "be96f5637a8284711217efb7f0178ded",
+    "url": "/static/media/suicidio_politico.be96f563.png"
+  },
+  {
+    "revision": "d92d5ffbbb026a9b878f156671fcb052",
+    "url": "/static/media/suicidio_politico.d92d5ffb.png"
   },
   {
     "revision": "8344260a0dbfd210ac60b952b7fcabee",

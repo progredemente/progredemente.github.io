@@ -1224,5 +1224,16 @@
         ],
         "size": "2000x2000",
         "series": ["progremon"]
+    },
+    "suicidio_politico": {
+        "name": "Suicidio político",
+        "date": "2021-03-11T00:00",
+        "description": [
+            "Tarde o temprano van a tener que pasar por las urnas."
+        ],
+        "size": "5700x3000",
+        "series": ["memes"],
+        "celebrities": ["Inés Arrimadas"],
+        "parties": ["C's"]
     }
 }

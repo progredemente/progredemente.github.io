@@ -89,7 +89,8 @@ class PageStats extends Component {
             { name: "JxC", count: 0 },
             { name: "Vox", count: 0 },
             { name: "EH Bildu", count: 0},
-            { name: "ERC", count: 0}
+            { name: "ERC", count: 0},
+            { name: "C's", count: 0}
         ];
         let partyColors = {
             "UP": "#5c3464",
@@ -99,7 +100,8 @@ class PageStats extends Component {
             "JxC": "#e73452",
             "Vox": "#7cbd2a",
             "EH Bildu": "#95c11f",
-            "ERC": "#ffb018"
+            "ERC": "#ffb018",
+            "C's": "#fa5000"
         }
         for(let key of Object.keys(list)) {
             let post = list[key];

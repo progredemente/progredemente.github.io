@@ -6,6 +6,8 @@ import PostNavigator from './PostNavigator';
 import Roster from './Roster';
 import {Link} from 'react-router-dom';
 import {formatDate} from './utils.js';
+import Loading from './Loading.js';
+import SeriesLink from './SeriesLink.js';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -26,7 +28,11 @@ let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
 }
  
 class Post extends Component {
-    state = { load: false }
+
+    constructor(props) {
+        super(props);
+        this.state = { load: false }
+    }
 
     changeImg() {
         this.setState({ load: false });
@@ -48,44 +54,49 @@ class Post extends Component {
             }
         }
         let post = list_[id];
+        let size = post.size.split("x");
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
         let date = formatDate(new Date(list_[id].date));
         return (
-            <div>
-                <div className="post-img-container">
-                    { series !== "smash" &&
-                        <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+            <div className="post-img-container">
+                { series !== "smash" &&
+                    <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+                }
+                { series === "smash" &&
+                    <Roster {...this.props} changeImg={this.changeImg.bind(this)}/>
+                }
+                <div
+                    className={ `loading-image ${this.state.load ? " hidden": ""}` }
+                    style={{
+                        "--width": `${size[0]}`, 
+                        "--height": `${size[1]}`
+                    }}
+                >
+                    <Loading />
+                </div>
+                <img className={ this.state.load ? "": "hidden" } src={require(`./img/comic/${id}.png`)} alt={list_[id].name} onLoad={ () => {
+                        this.setState({ load: true })
+                } }/>
+                { series !== "smash" &&
+                    <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
+                }
+                <div>
+                    <p className="name">{list_[id].name}</p>
+                    <p className="date">{date}</p>
+                    {list_[id].description.map((text, index) => {
+                        return <p key={index}>{text}</p>
+                    })}
+                    { postSeries.length > 0 &&
+                        <p className="series-list">En la{postSeries.length > 1 ? "s" : ""} serie{postSeries.length > 1 ? "s" : ""}: {postSeries.map((s) => {
+                            return <SeriesLink id={s} alt={seriesList[s]} key={s} />
+                        })}</p>
                     }
-                    { series === "smash" &&
-                        <Roster {...this.props} changeImg={this.changeImg.bind(this)}/>
+                    { postCelebrities.length > 0 &&
+                        <p className="celebrity-list">Personaje{postCelebrities.length > 1 ? "s" : ""}: {postCelebrities.map((c, i) => {
+                            return <Link to={`/personaje/${c}`} key={c}>{c}</Link>
+                        })}</p>
                     }
-                    <div className={ this.state.load ? "loading hidden": "loading" }>
-                        <div></div>
-                    </div>
-                    <img className={ this.state.load ? "": "hidden" } src={require(`./img/comic/${id}.png`)} alt={list_[id].name} onLoad={ () => {
-                         this.setState({ load: true })
-                     } }/>
-                     { series !== "smash" &&
-                         <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg.bind(this)}/>
-                     }
-                    <div>
-                        <p className="name">{list_[id].name}</p>
-                        <p className="date">{date}</p>
-                        {list_[id].description.map((text, index) => {
-                            return <p key={index}>{text}</p>
-                        })}
-                        { postSeries.length > 0 &&
-                            <p className="series-list">En la{postSeries.length > 1 ? "s" : ""} serie{postSeries.length > 1 ? "s" : ""}: {postSeries.map((s) => {
-                                return <Link to={`/${s}`} key={s}><img src={require(`./img/banners/${s}_banner.png`)} alt={seriesList[s]}/></Link>
-                            })}</p>
-                        }
-                        { postCelebrities.length > 0 &&
-                            <p className="celebrity-list">Personaje{postCelebrities.length > 1 ? "s" : ""}: {postCelebrities.map((c, i) => {
-                                return <Link to={`/personaje/${c}`} key={c}>{c}</Link>
-                            })}</p>
-                        }
-                    </div>
                 </div>
             </div>
         );

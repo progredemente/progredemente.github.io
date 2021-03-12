@@ -40,3 +40,7 @@ h3 {
   font-weight: initial;
   font-size: 1.25em;
 }
+
+.hidden {
+    display: none !important;
+}

@@ -46,7 +46,7 @@ class Post extends Component {
             series = this.props.match.url.split("/")[1];
             if(Object.keys(seriesList).includes(series)){
                 if(series === "progremon"){
-                    list_ = filterPosts(list, series, { "name": null, "date": null, "description": [] }, "progremon_0");
+                    list_ = filterPosts(list, series, { "name": null, "date": null, "description": [], size: "2000x2000" }, "progremon_0");
                 }
                 else {
                     list_ = filterPosts(list, series);

@@ -143,7 +143,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Echenique"],
+        "celebrities": ["Pablo Echenique"],
         "parties": ["UP"]
     },
     "carencias": {
@@ -173,7 +173,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Ortega Smith"],
+        "celebrities": ["Javier Ortega Smith"],
         "parties": ["Vox"]
     },
     "autoridad_sanitaria": {
@@ -463,7 +463,7 @@
         ],
         "size": "3000x2000",
         "series": ["memes"],
-        "celebrities": ["Pablo Iglesias", "Irene Montero", "Echenique", "Lilith Verstrynge", "Tania Sánchez", "Dina Bousselham"],
+        "celebrities": ["Pablo Iglesias", "Irene Montero", "Pablo Echenique", "Lilith Verstrynge", "Tania Sánchez", "Dina Bousselham"],
         "parties": ["UP"]
     },
     "subida_impuestos": {
@@ -538,7 +538,7 @@
             "Si lo hace el enemigo es un prófugo, si lo hace el amigo es un exiliado. Se les va a gastar la doble vara de medir."
         ],
         "size": "2000x2000",
-        "celebrities": ["Juan Carlos I", "Puigdemont"],
+        "celebrities": ["Juan Carlos I", "Carles Puigdemont"],
         "parties": ["JxC"]
     },
     "alvarez_de_hyrule": {
@@ -549,7 +549,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Álvarez de Toledo"],
+        "celebrities": ["Cayetana Álvarez de Toledo"],
         "parties": ["PP"]
     },
     "sube_el_contador": {
@@ -608,7 +608,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Abascal"],
+        "celebrities": ["Santiago Abascal"],
         "parties": ["Vox"]
     },
     "caja_s": {
@@ -637,7 +637,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Franco"]
+        "celebrities": ["Francisco Franco"]
     },
     "merecidas_vacaciones": {
         "name": "Unas merecidas vacaciones",
@@ -704,7 +704,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Rajoy"],
+        "celebrities": ["Mariano Rajoy"],
         "parties": ["PP"]
     },
     "tres_cerditos": {
@@ -724,7 +724,7 @@
         ],
         "size": "2000x2000",
         "series": ["smash"],
-        "celebrities": ["Ábalos"],
+        "celebrities": ["José Luis Ábalos"],
         "parties": ["PSOE"]
     },
     "seriefilo": {
@@ -833,7 +833,7 @@
         ],
         "size": "4000x4000",
         "series": ["memes"],
-        "celebrities": ["Echenique"],
+        "celebrities": ["Pablo Echenique"],
         "parties": ["UP"]
     },
     "nueva_coalicion": {
@@ -1235,5 +1235,15 @@
         "series": ["memes"],
         "celebrities": ["Inés Arrimadas"],
         "parties": ["C's"]
+    },
+    "cinta_correr": {
+        "name": "Cinta de correr",
+        "date": "2021-03-13T00:00",
+        "description": [
+            "Lo que no entiendo es por qué le dan una vivienda \"gratis\" a esta gente si les estamos pagando ya un pastizal."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Fernando Grande-Marlaska"],
+        "parties": ["PSOE"]
     }
 }

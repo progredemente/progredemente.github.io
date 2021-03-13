@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Series.css';
 import {Link} from 'react-router-dom';
 import series from './series.json';
+import Banner from './Banner';
  
 class Series extends Component {
     render() {
@@ -11,11 +12,9 @@ class Series extends Component {
             <div className="series-container">
                 { Object.keys(series).map((s) => {
                     return (
-                        <div key={s}>
-                            <Link to={`/${s}`}>
-                                <img src={require(`./img/banners/${s}_banner.png`)} alt={series[s]}/>
-                            </Link>
-                        </div>
+                        <Link to={`/${s}`}>
+                            <Banner id={s} alt={series[s]} key={`series-${s}`} />
+                        </Link>
                     );
                 }) }
             </div>

@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import './SeriesLink.css';
-import {Link} from 'react-router-dom';
+import './Banner.css';
 import Loading from './Loading';
  
-class SeriesLink extends Component {
+class Banner extends Component {
 
     constructor(props) {
         super(props);
@@ -12,23 +11,21 @@ class SeriesLink extends Component {
 
     render() {
         return (
-            <Link to={`/${this.props.id}`}>
-                <div
-                    className={ `loading-series-link${this.state.load ? " hidden": ""}` }
-                >
-                    <Loading />
-                </div>
+            <div className="banner">
+                <Loading
+                    hidden={this.state.load}
+                />
                 <img
-                    className={ `series-link${this.state.load ? "": " hidden"}` }
+                    className={ this.state.load ? "": " hidden" }
                     src={require(`./img/banners/${this.props.id}_banner.png`)}
                     alt={this.props.alt}
                     onLoad={ () => {
                         this.setState({ load: true })
                     }}
                 />
-            </Link>
+            </div>
         );
     }
 }
  
-export default SeriesLink;
+export default Banner;

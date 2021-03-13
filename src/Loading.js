@@ -5,7 +5,7 @@ class Loading extends Component {
 
     render() {
         return (
-            <div className="loading"></div>
+            <div className={`loading${this.props.hidden ? " hidden" : ""}`}></div>
         );
     }
 }

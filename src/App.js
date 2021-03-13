@@ -1,19 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import logo from './img/logo.png';
-import instagram from './img/social/instagram.png';
-import twitter from './img/social/twitter.png';
-import gab from './img/social/gab.png';
-import telegram from './img/social/telegram.png';
-import parler from './img/social/parler.png';
-import youtube from './img/social/youtube.png';
-import progremonBanner from './img/banners/progremon_banner.png';
-import terfVsTransBanner from './img/banners/terf_vs_trans_banner.png';
-import smashBanner from './img/banners/smash_banner.png';
-import memesBanner from './img/banners/memes_banner.png';
-import cuentosBanner from './img/banners/cuentos_banner.png';
-import elPalmeroBanner from './img/banners/el_palmero_banner.png';
-import postalesNavidenasBanner from './img/banners/postales_navidenas_banner.png';
 import series from './series.json';
 import list from './list.json';
 import Post from './Post';
@@ -33,6 +20,10 @@ import {
     Link
 } from "react-router-dom";
 import {createBrowserHistory} from 'history';
+import Banner from './Banner';
+import Loading from './Loading';
+import social from './social.json';
+import Social from './Social';
 
 const history = createBrowserHistory();
 
@@ -47,7 +38,8 @@ class App extends Component{
     constructor(props){
         super(props);
         this.state = {
-            showMenu: false
+            showMenu: false,
+            logo: false
         }
     }
 
@@ -71,84 +63,23 @@ class App extends Component{
                                 </nav>
                             }
                         </div>
-                        <Link to="/">
-                            <img src={logo} id="logo" alt="Logo"/>
+                        <Link to="/" id="logo">
+                            <Loading hidden={this.state.logo} />
+                            <img
+                                src={logo}
+                                alt="Logo"
+                                className={this.state.logo ? "" : "hidden" }
+                                onLoad={() => this.setState({ logo: true })}
+                            />
                         </Link>
                         <div id="title">
                             <h1>progredemente</h1>
                             <div className="social">
-                                <a
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    href="https://www.instagram.com/progredemente/"
-                                    onClick={() => {
-                                        window.gtag('event', 'page_view', {
-                                            page_title: "instagram"
-                                        });
-                                    }}
-                                >
-                                    <img src={instagram} alt="instagram"/>
-                                </a>
-                                <a
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    href="https://twitter.com/progredemente"
-                                    onClick={() => {
-                                        window.gtag('event', 'page_view', {
-                                            page_title: "twitter"
-                                        });
-                                    }}
-                                >
-                                    <img src={twitter} alt="twitter"/>
-                                </a>
-                                <a
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    href="https://gab.com/progredemente"
-                                    onClick={() => {
-                                        window.gtag('event', 'page_view', {
-                                            page_title: "gab"
-                                        });
-                                    }}
-                                >
-                                    <img src={gab} alt="gab"/>
-                                </a>
-                                <a
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    href="https://t.me/progredemente"
-                                    onClick={() => {
-                                        window.gtag('event', 'page_view', {
-                                            page_title: "telegram"
-                                        });
-                                    }}
-                                >
-                                    <img src={telegram} alt="telegram"/>
-                                </a>
-                                <a
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    href="https://www.youtube.com/channel/UCZtxGIqOUgIyKxzSLUOgDpA"
-                                    onClick={() => {
-                                        window.gtag('event', 'page_view', {
-                                            page_title: "youtube"
-                                        });
-                                    }}
-                                >
-                                    <img src={youtube} alt="youtube"/>
-                                </a>
-                                <a
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    href="https://parler.com/profile/progredemente"
-                                    onClick={() => {
-                                        window.gtag('event', 'page_view', {
-                                            page_title: "parler"
-                                        });
-                                    }}
-                                >
-                                    <img src={parler} alt="parler"/>
-                                </a>
+                                {
+                                    social.map((s) => {
+                                        return <Social page={s}/>
+                                    })
+                                }
                             </div>
                         </div>
                     </header>
@@ -179,7 +110,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={progremonBanner} alt={series["progremon"]}/>
+                                            <Banner id="progremon" alt={series["progremon"]} key={`banner-progremon`} />
                                             <Post {...props}/>
                                         </div>
                                     )
@@ -192,7 +123,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={smashBanner} alt={series["smash"]}/>
+                                            <Banner id="smash" alt={series["s,ash"]} key={`banner-smash`} />
                                             <Post { ...props}/>
                                         </div>
                                     )
@@ -205,7 +136,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={terfVsTransBanner} alt={series["terf_vs_trans"]}/>
+                                            <Banner id="terf_vs_trans" alt={series["terf_vs_trans"]} key={`banner-terf_vs_trans`} />
                                             <Post {...props}/>
                                         </div>
                                     )
@@ -218,7 +149,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={memesBanner} alt={series["memes"]}/>
+                                            <Banner id="memes" alt={series["memes"]} key={`banner-memes`} />
                                             <Post {...props}/>
                                         </div>
                                     )
@@ -231,7 +162,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={cuentosBanner} alt={series["cuentos"]}/>
+                                            <Banner id="cuentos" alt={series["cuentos"]} key={`banner-cuentos`} />
                                             <Post {...props}/>
                                         </div>
                                     )
@@ -244,7 +175,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={elPalmeroBanner} alt={series["el_palmero"]}/>
+                                            <Banner id="el_palmero" alt={series["el_palmero"]} key={`banner-el_palmero`} />
                                             <Post {...props}/>
                                         </div>
                                     )
@@ -257,7 +188,7 @@ class App extends Component{
                                 (props) => {
                                     return (
                                         <div>
-                                            <img className="banner" src={postalesNavidenasBanner} alt={series["postales_navidenas"]}/>
+                                            <Banner id="postales_navidenas" alt={series["postales_navidenas"]} key={`banner-postales_navidenas`} />
                                             <Post {...props}/>
                                         </div>
                                     )

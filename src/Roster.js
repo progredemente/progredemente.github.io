@@ -1,13 +1,16 @@
 import React, { Component } from 'react';
 import './Roster.css';
-import { Link } from 'react-router-dom';
 import list from './list.json';
-import hand from './img/mano_smash.png';
+import RosterCharacter from './RosterCharacter';
  
 class Roster extends Component {
-    song = new Audio(require("./audio/smash.ogg"));
 
-    changePlayer(player) {
+    constructor(props){
+        super(props);
+        this.song = new Audio(require("./audio/smash.ogg"));
+    }
+
+    changePlayer = (player) => {
         this.props.changeImg();
         let audio = new Audio(require(`./audio/${player}.mp3`));
         audio.play();
@@ -42,15 +45,13 @@ class Roster extends Component {
                 {
                     roster.map((player) => {
                         return (
-                            <Link to={`/smash/${player}`} key={player}  onClick={currentPlayer === player ? (e) => e.preventDefault() : this.changePlayer.bind(this, player)}>
-                                <img src={require(`./img/thumbnails/${player}.png`)} alt={list[player].name} title={list[player].name} className="player"/>
-                                { currentPlayer === player &&
-                                    <>
-                                    <div className="player-selected"></div>
-                                    <img src={hand} alt="mano" className="hand"/>
-                                    </>
-                                }
-                            </Link>
+                            <RosterCharacter
+                                id={player}
+                                key={`roster-${player}`}
+                                name={list[player].name}
+                                changePlayer={this.changePlayer}
+                                selected={player === currentPlayer}
+                            />
                         )
                     })
                 }

@@ -1,10 +1,17 @@
-#logo {
-    max-width: 150px;
-    border-radius: 50%;
-}
 #logo,
 #title {
-    padding: 0 10px;
+    margin: 0 10px;
+}
+
+#logo img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+#logo .loading {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
 
 #title {
@@ -32,11 +39,6 @@
 .social {
     display: flex;
     align-items: center;
-}
-
-.social > a > img {
-    padding: 5px;
-    max-width: 30px;
 }
 
 #menu {
@@ -78,13 +80,6 @@
 
 #menu a {
     margin: 10px 10px;
-}
-
-.banner {
-    max-width: 100%;
-    max-height: 100px;
-    margin: auto;
-    display: block;
 }
 
 .sections {

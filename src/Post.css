@@ -27,20 +27,38 @@
     margin: 0;
 }
 
-.hidden {
-    display: none;
-}
-
 .series-list {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    margin: 1em 0;
+}
+
+.series-list .banner {
+    max-height: 55px;
+    margin: 0px 10px;
+    width: 175px;
+}
+
+.series-list .banner img {
+    max-height: 55px;
+    margin: 0px 10px;
+    width: 175px;
+}
+
+.series-list .banner .loading {
+    display: inline-block;
+    height: 55px;
+    margin: 0px 10px;
+    width: 175px;
+    border-radius: 10px
 }
 
 .celebrity-list {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    margin: 1em 0;
 }
 
 .celebrity-list a {

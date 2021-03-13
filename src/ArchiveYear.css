@@ -4,17 +4,6 @@
     justify-content: center;
 }
 
-.thumbnails > a {
-    margin: 5px;
-    height: 100px;
-    width: 100px;
-}
-
-.thumbnails > a > img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
 .year {
     text-align: center;
 }

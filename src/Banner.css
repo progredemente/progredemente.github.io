@@ -1,0 +1,15 @@
+.banner {
+    height: 100px;
+}
+
+.banner img {
+    height: 100%;
+    margin: auto;
+    display: block;
+}
+
+.banner .loading {
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+}

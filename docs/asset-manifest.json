@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.608dbe89.chunk.css",
-    "main.js": "/static/js/main.68cf9b53.chunk.js",
-    "main.js.map": "/static/js/main.68cf9b53.chunk.js.map",
+    "main.js": "/static/js/main.b9124279.chunk.js",
+    "main.js.map": "/static/js/main.b9124279.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a87601de.chunk.js": "/static/js/2.a87601de.chunk.js",
-    "static/js/2.a87601de.chunk.js.map": "/static/js/2.a87601de.chunk.js.map",
+    "static/js/2.530bd5ea.chunk.js": "/static/js/2.530bd5ea.chunk.js",
+    "static/js/2.530bd5ea.chunk.js.map": "/static/js/2.530bd5ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c28bbc0ecc7f5c39a54045b541a42bec.js": "/precache-manifest.c28bbc0ecc7f5c39a54045b541a42bec.js",
+    "precache-manifest.ea19fff1faba4ca64f5659c9a3a1c027.js": "/precache-manifest.ea19fff1faba4ca64f5659c9a3a1c027.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.608dbe89.chunk.css.map": "/static/css/main.608dbe89.chunk.css.map",
-    "static/js/2.a87601de.chunk.js.LICENSE.txt": "/static/js/2.a87601de.chunk.js.LICENSE.txt",
+    "static/js/2.530bd5ea.chunk.js.LICENSE.txt": "/static/js/2.530bd5ea.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -99,6 +99,7 @@
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
     "static/media/milenio_live.png": "/static/media/milenio_live.7b73573d.png",
+    "static/media/minds.png": "/static/media/minds.3a14c638.png",
     "static/media/minifaldas.png": "/static/media/minifaldas.ca1208f0.png",
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/mitin_negacionista.png": "/static/media/mitin_negacionista.8d6cde5d.png",
@@ -176,8 +177,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a87601de.chunk.js",
+    "static/js/2.530bd5ea.chunk.js",
     "static/css/main.608dbe89.chunk.css",
-    "static/js/main.68cf9b53.chunk.js"
+    "static/js/main.b9124279.chunk.js"
   ]
 }

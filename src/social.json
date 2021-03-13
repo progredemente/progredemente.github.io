@@ -1,7 +1,7 @@
 [
     {
         "id": "instagram",
-        "url": "https://www.instagram.com/progredemente/"
+        "url": "https://www.instagram.com/progredemente"
     },
     {
         "id": "twitter",
@@ -22,5 +22,9 @@
     {
         "id": "parler",
         "url": "https://parler.com/profile/progredemente"
+    },
+    {
+        "id": "minds",
+        "url": "https://www.minds.com/progredemente"
     }
 ]

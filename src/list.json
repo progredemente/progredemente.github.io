@@ -1255,5 +1255,13 @@
         "size": "4000x3000",
         "celebrities": ["Isabel Díaz Ayuso"],
         "parties": ["PP"]
+    },
+    "tristan": {
+        "name": "Tristán Verrugosa de los Batracios",
+        "date": "2021-03-22T00:00",
+        "description": [
+            "Estoy trabajando en un nuevo miniproyecto. Mi idea era tenerlo listo para el pasado 8M, pero me está llevando mucho más tiempo del previsto. Aquí un pequeño adelanto: os presento a Tristán Verrugosa de los Batracios."
+        ],
+        "size": "3000x3000"
     }
 }

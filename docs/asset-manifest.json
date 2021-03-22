@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.608dbe89.chunk.css",
-    "main.js": "/static/js/main.3c0aecab.chunk.js",
-    "main.js.map": "/static/js/main.3c0aecab.chunk.js.map",
+    "main.js": "/static/js/main.26e98501.chunk.js",
+    "main.js.map": "/static/js/main.26e98501.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7c0257d6.chunk.js": "/static/js/2.7c0257d6.chunk.js",
-    "static/js/2.7c0257d6.chunk.js.map": "/static/js/2.7c0257d6.chunk.js.map",
+    "static/js/2.347e141c.chunk.js": "/static/js/2.347e141c.chunk.js",
+    "static/js/2.347e141c.chunk.js.map": "/static/js/2.347e141c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e9aa6cf2bf98a8028d3db4c35bfa1cb1.js": "/precache-manifest.e9aa6cf2bf98a8028d3db4c35bfa1cb1.js",
+    "precache-manifest.c3acb01f7294d8ddef2facfbabeda56f.js": "/precache-manifest.c3acb01f7294d8ddef2facfbabeda56f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.608dbe89.chunk.css.map": "/static/css/main.608dbe89.chunk.css.map",
-    "static/js/2.7c0257d6.chunk.js.LICENSE.txt": "/static/js/2.7c0257d6.chunk.js.LICENSE.txt",
+    "static/js/2.347e141c.chunk.js.LICENSE.txt": "/static/js/2.347e141c.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -163,6 +163,7 @@
     "static/media/transicion_energetica.png": "/static/media/transicion_energetica.3f75e4ce.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
     "static/media/tres_cerditos.png": "/static/media/tres_cerditos.dc465660.png",
+    "static/media/tristan.png": "/static/media/tristan.fb07ea66.png",
     "static/media/vacunarse_publicamente.png": "/static/media/vacunarse_publicamente.6ae8a95d.png",
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
     "static/media/ventana_overton.png": "/static/media/ventana_overton.d1c4177e.png",
@@ -178,8 +179,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7c0257d6.chunk.js",
+    "static/js/2.347e141c.chunk.js",
     "static/css/main.608dbe89.chunk.css",
-    "static/js/main.3c0aecab.chunk.js"
+    "static/js/main.26e98501.chunk.js"
   ]
 }

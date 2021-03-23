@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3959f01b9f160a51120693b9dcc6f7c5",
+    "revision": "9aa7a8fe6d3e5621351cfd5f996bcbab",
     "url": "/index.html"
   },
   {
-    "revision": "84e7d9a7b7a2f2ec6638",
+    "revision": "02d8e361bd10608bbd39",
     "url": "/static/css/main.608dbe89.chunk.css"
   },
   {
-    "revision": "87a209d2ab2cffc6858e",
-    "url": "/static/js/2.347e141c.chunk.js"
+    "revision": "8d7b3570ee73be5f2eb6",
+    "url": "/static/js/2.7a801ac2.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.347e141c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7a801ac2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84e7d9a7b7a2f2ec6638",
-    "url": "/static/js/main.26e98501.chunk.js"
+    "revision": "02d8e361bd10608bbd39",
+    "url": "/static/js/main.eb8bf479.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -278,6 +278,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f82082572e2f8375ca5b4eaabd94579a",
     "url": "/static/media/carencias.f8208257.png"
+  },
+  {
+    "revision": "4b8183423a04ce841cc0f0eb1e8b4f1d",
+    "url": "/static/media/casinos_furcias.4b818342.png"
+  },
+  {
+    "revision": "ed3583c77f0b0dbf17aa487dcd0636f4",
+    "url": "/static/media/casinos_furcias.ed3583c7.png"
   },
   {
     "revision": "5641f1390425162cbeddb271ad952c95",

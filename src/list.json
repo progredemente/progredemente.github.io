@@ -1274,5 +1274,13 @@
         "size": "4000x3000",
         "series": ["memes"],
         "celebrities": ["Donald Trump"]
+    },
+    "paulo": {
+        "name": "Paulo Cloacas",
+        "date": "2021-03-24T00:00",
+        "description": [
+            "Otro adelanto del proyecto: Paulo Cloacas."
+        ],
+        "size": "3000x3000"
     }
 }

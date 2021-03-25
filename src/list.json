@@ -1282,5 +1282,13 @@
             "Otro adelanto del proyecto: Paulo Cloacas."
         ],
         "size": "3000x3000"
+    },
+    "pepe": {
+        "name": "Pepe Rapaz",
+        "date": "2021-03-25T00:00",
+        "description": [
+            "Este es Pepe Rapaz."
+        ],
+        "size": "3000x3000"
     }
 }

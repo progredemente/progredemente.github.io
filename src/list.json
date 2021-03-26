@@ -1290,5 +1290,13 @@
             "Este es Pepe Rapaz."
         ],
         "size": "3000x3000"
+    },
+    "pero": {
+        "name": "Pero López",
+        "date": "2021-03-26T00:00",
+        "description": [
+            "Creo que este es mi favorito: Pero López."
+        ],
+        "size": "3000x3000"
     }
 }

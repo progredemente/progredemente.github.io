@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.608dbe89.chunk.css",
-    "main.js": "/static/js/main.aba8ff73.chunk.js",
-    "main.js.map": "/static/js/main.aba8ff73.chunk.js.map",
+    "main.js": "/static/js/main.815fe36d.chunk.js",
+    "main.js.map": "/static/js/main.815fe36d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.86297177.chunk.js": "/static/js/2.86297177.chunk.js",
-    "static/js/2.86297177.chunk.js.map": "/static/js/2.86297177.chunk.js.map",
+    "static/js/2.e22f5ec9.chunk.js": "/static/js/2.e22f5ec9.chunk.js",
+    "static/js/2.e22f5ec9.chunk.js.map": "/static/js/2.e22f5ec9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.06c1127858088541bce83fe41b12a9a5.js": "/precache-manifest.06c1127858088541bce83fe41b12a9a5.js",
+    "precache-manifest.c039124df26d86fd154b0ac23f278f13.js": "/precache-manifest.c039124df26d86fd154b0ac23f278f13.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.608dbe89.chunk.css.map": "/static/css/main.608dbe89.chunk.css.map",
-    "static/js/2.86297177.chunk.js.LICENSE.txt": "/static/js/2.86297177.chunk.js.LICENSE.txt",
+    "static/js/2.e22f5ec9.chunk.js.LICENSE.txt": "/static/js/2.e22f5ec9.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -126,6 +126,7 @@
     "static/media/paulo.png": "/static/media/paulo.b74b3eb4.png",
     "static/media/payasos.png": "/static/media/payasos.683628eb.png",
     "static/media/pepe.png": "/static/media/pepe.55d65e52.png",
+    "static/media/pero.png": "/static/media/pero.f46845c0.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.ef2679b2.png",
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
     "static/media/portugal_oeste.png": "/static/media/portugal_oeste.86c64353.png",
@@ -182,8 +183,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.86297177.chunk.js",
+    "static/js/2.e22f5ec9.chunk.js",
     "static/css/main.608dbe89.chunk.css",
-    "static/js/main.aba8ff73.chunk.js"
+    "static/js/main.815fe36d.chunk.js"
   ]
 }

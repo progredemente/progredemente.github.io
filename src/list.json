@@ -1298,5 +1298,15 @@
             "Creo que este es mi favorito: Pero López."
         ],
         "size": "3000x3000"
+    },
+    "pocos_impuestos": {
+        "name": "Pocos impuestos",
+        "date": "2021-03-27T00:00",
+        "description": [
+            "Mantener un chalet, guardias civiles en la puerta custodiándolo, guardaespaldas recadera y niñera con cargo público es muy caro. Y no pueden permitirse un trabajo honrado, ¿cómo, si no, van a tener tiempo para verse todas esas series?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

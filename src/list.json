@@ -1308,5 +1308,13 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "llibert": {
+        "name": "Llibert Ojera",
+        "date": "2021-03-28T00:00",
+        "description": [
+            "Ya casi están todos: Llibert Ojera."
+        ],
+        "size": "3000x3000"
     }
 }

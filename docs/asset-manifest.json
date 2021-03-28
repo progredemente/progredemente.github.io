@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.608dbe89.chunk.css",
-    "main.js": "/static/js/main.d6f4749a.chunk.js",
-    "main.js.map": "/static/js/main.d6f4749a.chunk.js.map",
+    "main.js": "/static/js/main.7e76a513.chunk.js",
+    "main.js.map": "/static/js/main.7e76a513.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ea8e2ea9.chunk.js": "/static/js/2.ea8e2ea9.chunk.js",
-    "static/js/2.ea8e2ea9.chunk.js.map": "/static/js/2.ea8e2ea9.chunk.js.map",
+    "static/js/2.44c8563c.chunk.js": "/static/js/2.44c8563c.chunk.js",
+    "static/js/2.44c8563c.chunk.js.map": "/static/js/2.44c8563c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.eb67a4060d71338ea7aa1e1be2e84f44.js": "/precache-manifest.eb67a4060d71338ea7aa1e1be2e84f44.js",
+    "precache-manifest.2c27af150cabf2ad5a10b90f1bb10d9c.js": "/precache-manifest.2c27af150cabf2ad5a10b90f1bb10d9c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.608dbe89.chunk.css.map": "/static/css/main.608dbe89.chunk.css.map",
-    "static/js/2.ea8e2ea9.chunk.js.LICENSE.txt": "/static/js/2.ea8e2ea9.chunk.js.LICENSE.txt",
+    "static/js/2.44c8563c.chunk.js.LICENSE.txt": "/static/js/2.44c8563c.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -91,6 +91,7 @@
     "static/media/lagrimas_autonomo.png": "/static/media/lagrimas_autonomo.af1fc19f.png",
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
+    "static/media/llibert.png": "/static/media/llibert.3f705388.png",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
     "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
@@ -184,8 +185,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ea8e2ea9.chunk.js",
+    "static/js/2.44c8563c.chunk.js",
     "static/css/main.608dbe89.chunk.css",
-    "static/js/main.d6f4749a.chunk.js"
+    "static/js/main.7e76a513.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.608dbe89.chunk.css",
-    "main.js": "/static/js/main.5d0da917.chunk.js",
-    "main.js.map": "/static/js/main.5d0da917.chunk.js.map",
+    "main.css": "/static/css/main.e59048b8.chunk.css",
+    "main.js": "/static/js/main.f1c90f82.chunk.js",
+    "main.js.map": "/static/js/main.f1c90f82.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e0cd517c.chunk.js": "/static/js/2.e0cd517c.chunk.js",
-    "static/js/2.e0cd517c.chunk.js.map": "/static/js/2.e0cd517c.chunk.js.map",
+    "static/js/2.21823fbb.chunk.js": "/static/js/2.21823fbb.chunk.js",
+    "static/js/2.21823fbb.chunk.js.map": "/static/js/2.21823fbb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7c24848370b3aca97723ac5902d24e38.js": "/precache-manifest.7c24848370b3aca97723ac5902d24e38.js",
+    "precache-manifest.f32eb640979152efef80b5172a6813b2.js": "/precache-manifest.f32eb640979152efef80b5172a6813b2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.608dbe89.chunk.css.map": "/static/css/main.608dbe89.chunk.css.map",
-    "static/js/2.e0cd517c.chunk.js.LICENSE.txt": "/static/js/2.e0cd517c.chunk.js.LICENSE.txt",
+    "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
+    "static/js/2.21823fbb.chunk.js.LICENSE.txt": "/static/js/2.21823fbb.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -54,6 +54,7 @@
     "static/media/cielo_tierra.png": "/static/media/cielo_tierra.d951c36d.png",
     "static/media/cigarra_hormiga.png": "/static/media/cigarra_hormiga.bfa5608a.png",
     "static/media/cinta_correr.png": "/static/media/cinta_correr.ec5917ce.png",
+    "static/media/Icon.css": "/static/media/comic_icons.3be09869.ttf",
     "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
     "static/media/conguitos.png": "/static/media/conguitos.d90cd7e3.png",
     "static/media/control_plagas.png": "/static/media/control_plagas.b7efca5f.png",
@@ -187,8 +188,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e0cd517c.chunk.js",
-    "static/css/main.608dbe89.chunk.css",
-    "static/js/main.5d0da917.chunk.js"
+    "static/js/2.21823fbb.chunk.js",
+    "static/css/main.e59048b8.chunk.css",
+    "static/js/main.f1c90f82.chunk.js"
   ]
 }

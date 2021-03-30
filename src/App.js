@@ -24,6 +24,7 @@ import Banner from './Banner';
 import Loading from './Loading';
 import social from './social.json';
 import Social from './Social';
+import Icon from './Icon';
 
 const history = createBrowserHistory();
 
@@ -49,7 +50,9 @@ class App extends Component{
                 <Router history={history}>
                     <header className="main-header">
                         <div id="menu-icon">
-                            <div id="menu-button" onClick={() => this.setState({showMenu: true})}>☰</div>
+                            <div id="menu-button" onClick={() => this.setState({showMenu: true})}>
+                                <Icon icon="☰" />
+                            </div>
                             {
                                 this.state.showMenu &&
                                 <nav id="menu-phone" onClick={() => this.setState({showMenu: false})}>

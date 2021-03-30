@@ -1324,5 +1324,14 @@
             "El último: Imanol Porqueras."
         ],
         "size": "3000x3000"
+    },
+    "madrid_omnipresente": {
+        "name": "Madrid es omnipresente",
+        "date": "2021-03-30T00:00",
+        "description": [
+            "Las próximas imágenes que muestren serán de Stormwind o de Minas Tirith."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

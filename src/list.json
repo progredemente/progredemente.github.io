@@ -1333,5 +1333,15 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "haren": {
+        "name": "El harén",
+        "date": "2021-04-02T00:00",
+        "description": [
+            "Las próximas imágenes que muestren serán de Stormwind o de Minas Tirith."
+        ],
+        "size": "6000x4000",
+        "celebrities": ["Pedro Sánchez", "Carmen Calvo", "Yolanda Díaz", "Nadia Calviño", "Teresa Ribera", "Iván Redondo"],
+        "parties": ["PSOE", "UP"]
     }
 }

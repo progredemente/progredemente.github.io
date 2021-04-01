@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.f1c90f82.chunk.js",
-    "main.js.map": "/static/js/main.f1c90f82.chunk.js.map",
+    "main.js": "/static/js/main.271bfa55.chunk.js",
+    "main.js.map": "/static/js/main.271bfa55.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.21823fbb.chunk.js": "/static/js/2.21823fbb.chunk.js",
-    "static/js/2.21823fbb.chunk.js.map": "/static/js/2.21823fbb.chunk.js.map",
+    "static/js/2.839f7cc3.chunk.js": "/static/js/2.839f7cc3.chunk.js",
+    "static/js/2.839f7cc3.chunk.js.map": "/static/js/2.839f7cc3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f32eb640979152efef80b5172a6813b2.js": "/precache-manifest.f32eb640979152efef80b5172a6813b2.js",
+    "precache-manifest.1ad8cb0fd8cd9303fc84e2c2b3d58037.js": "/precache-manifest.1ad8cb0fd8cd9303fc84e2c2b3d58037.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.21823fbb.chunk.js.LICENSE.txt": "/static/js/2.21823fbb.chunk.js.LICENSE.txt",
+    "static/js/2.839f7cc3.chunk.js.LICENSE.txt": "/static/js/2.839f7cc3.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/accidente_laboral.png": "/static/media/accidente_laboral.d4c5157f.png",
@@ -82,6 +82,7 @@
     "static/media/gente_irresponsable.png": "/static/media/gente_irresponsable.7702526b.png",
     "static/media/greta.png": "/static/media/greta.c1376d3e.png",
     "static/media/guaido.png": "/static/media/guaido.69f01b39.png",
+    "static/media/haren.png": "/static/media/haren.752669a1.png",
     "static/media/imanol.png": "/static/media/imanol.e9d6e75f.png",
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
@@ -188,8 +189,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.21823fbb.chunk.js",
+    "static/js/2.839f7cc3.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.f1c90f82.chunk.js"
+    "static/js/main.271bfa55.chunk.js"
   ]
 }

@@ -1338,10 +1338,20 @@
         "name": "El harén",
         "date": "2021-04-02T00:00",
         "description": [
-            "Las próximas imágenes que muestren serán de Stormwind o de Minas Tirith."
+            "Como si fuesen trofeos de caza..."
         ],
         "size": "6000x4000",
         "celebrities": ["Pedro Sánchez", "Carmen Calvo", "Yolanda Díaz", "Nadia Calviño", "Teresa Ribera", "Iván Redondo"],
         "parties": ["PSOE", "UP"]
+    },
+    "sobras": {
+        "name": "Sobras",
+        "date": "2021-04-08T00:00",
+        "description": [
+            "Estos \"antifascistas\" son muy de olvidarse el \"anti\" en casa o perderlo por el camino."
+        ],
+        "size": "3800x2000",
+        "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Irene Montero"],
+        "parties": ["UP"]
     }
 }

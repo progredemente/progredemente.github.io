@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fb85061437ae90c219f1950d1664b00",
+    "revision": "835f424717005e0e5478705bca123640",
     "url": "/index.html"
   },
   {
-    "revision": "b54f84ee605ec5a194a1",
+    "revision": "f95e71892e79abb2648b",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "f9904702c00b1b8b8871",
-    "url": "/static/js/2.d0f2292d.chunk.js"
+    "revision": "f06ebb31bc1cc5907314",
+    "url": "/static/js/2.2c452f2b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.d0f2292d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2c452f2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b54f84ee605ec5a194a1",
-    "url": "/static/js/main.0b7c696b.chunk.js"
+    "revision": "f95e71892e79abb2648b",
+    "url": "/static/js/main.c881e1a3.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -204,6 +204,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/billy_el_nino.9cd410db.png"
   },
   {
+    "revision": "0a6dd256bbb938ab9bab8823fe1bc69e",
+    "url": "/static/media/bisagranos.0a6dd256.png"
+  },
+  {
+    "revision": "8ba558ca20096abdf45e03dc2f61dadc",
+    "url": "/static/media/bisagranos.8ba558ca.png"
+  },
+  {
     "revision": "4869372b3ca2a54d0c5a82daab5b54fc",
     "url": "/static/media/boot_facha.4869372b.png"
   },
@@ -218,6 +226,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e6a4d770debe113880646dabf45d50fa",
     "url": "/static/media/borregos.e6a4d770.png"
+  },
+  {
+    "revision": "bca6b22d388ab8af5752677ab3f1501e",
+    "url": "/static/media/borreguistas.bca6b22d.png"
   },
   {
     "revision": "281fc895ed941a352a5d5620e5310c04",
@@ -278,6 +290,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f82082572e2f8375ca5b4eaabd94579a",
     "url": "/static/media/carencias.f8208257.png"
+  },
+  {
+    "revision": "27fd6afb43f58397b0ddab8557c1aac7",
+    "url": "/static/media/carroneros.27fd6afb.png"
+  },
+  {
+    "revision": "6df3bd74df525585e8e837535fe457d0",
+    "url": "/static/media/carroneros.6df3bd74.png"
   },
   {
     "revision": "4b8183423a04ce841cc0f0eb1e8b4f1d",
@@ -492,6 +512,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fer_simon.eaea6a51.png"
   },
   {
+    "revision": "1df96ad553e5b6139088f846ecb69052",
+    "url": "/static/media/fodemos.1df96ad5.png"
+  },
+  {
+    "revision": "6c281782219e3ab2d6af6cfc94adf519",
+    "url": "/static/media/fodemos.6c281782.png"
+  },
+  {
     "revision": "263e5bc96a925ca4e89d6bb30d8d30ea",
     "url": "/static/media/franco_kazooie.263e5bc9.png"
   },
@@ -502,6 +530,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8f7c48aa3feba666fba9093f909ff4e6",
     "url": "/static/media/franco_kazooie.8f7c48aa.png"
+  },
+  {
+    "revision": "c0825beccf009d076e61cb23b37dbd98",
+    "url": "/static/media/frox.c0825bec.png"
+  },
+  {
+    "revision": "da0013e34b6d074d5e5f349d2bbcb7d6",
+    "url": "/static/media/frox.da0013e3.png"
   },
   {
     "revision": "9d82637075c68ebe2e23209201e11134",
@@ -906,6 +942,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f57ed1a00fa239eba20d7ca26b56dfac",
     "url": "/static/media/pinocho.f57ed1a0.png"
+  },
+  {
+    "revision": "8565fb8ea39101043450ba6159dc4cc7",
+    "url": "/static/media/pocilgazis.8565fb8e.png"
+  },
+  {
+    "revision": "9fa7354338f0eb1ebf4639bbccbb29b2",
+    "url": "/static/media/pocilgazis.9fa73543.png"
   },
   {
     "revision": "08fd6e5bc2ec1bda22fa41d4893e65fd",

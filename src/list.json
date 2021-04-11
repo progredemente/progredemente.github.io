@@ -1353,5 +1353,53 @@
         "size": "3800x2000",
         "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Irene Montero"],
         "parties": ["UP"]
+    },
+    "frox": {
+        "name": "Frox",
+        "date": "2021-04-11T00:00",
+        "description": [
+            "Otra opción que tenía para el nombre del partido era \"Croax\", pero \"Frox\" me suena mejor."
+        ],
+        "size": "2000x2000"
+    },
+    "fodemos": {
+        "name": "Fodemos",
+        "date": "2021-04-11T01:00",
+        "description": [
+            "Otras opciones que tenía para el nombre del partido eran \"Follemos\", \"Jodemos\" y \"Cogemos\", pero fonéticamente \"Fodemos\" suena mejor ya que la letra p y la letra f se articulan de manera bastante parecida."
+        ],
+        "size": "2000x2000"
+    },
+    "carroneros": {
+        "name": "Carroñeros",
+        "date": "2021-04-11T02:00",
+        "description": [
+            "A este fue algo complicado darle un nombre, porque el partido en el que se inspira se conoce por unas siglas, por lo que me inspiré en el propio personaje del cartel."
+        ],
+        "size": "2000x2000"
+    },
+    "borreguistas": {
+        "name": "Borreguistas",
+        "date": "2021-04-11T03:00",
+        "description": [
+            "Con este pasa lo mismo que con el anterior."
+        ],
+        "size": "2000x2000"
+    },
+    "bisagranos": {
+        "name": "Bisagranos",
+        "date": "2021-04-11T04:00",
+        "description": [
+            "Este fue el más complicado de nombrar, descarté \"Suicidanos\", \"Extinganos\" y \"Veletanos\" a favor de \"Bisagranos\" porque era el único para el que se me ocurría un logo."
+        ],
+        "size": "2000x2000"
+    },
+    "pocilgazis": {
+        "name": "Pocilgazis",
+        "date": "2021-04-11T05:00",
+        "description": [
+            "Para este ni me maté en pensar el nombre. No hace referencia a ningún cartel electoral real, creo que muy pocos van a pillar la referencia."
+        ],
+        "size": "2000x2000"
     }
 }

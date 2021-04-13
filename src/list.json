@@ -1401,5 +1401,14 @@
             "Para este ni me maté en pensar el nombre. No hace referencia a ningún cartel electoral real, creo que muy pocos van a pillar la referencia."
         ],
         "size": "2000x2000"
+    },
+    "rapunzel": {
+        "name": "Rapunzel",
+        "date": "2021-04-13T00:00",
+        "description": [
+            "Moraleja: hazle caso a esa voz en tu cabeza que te dice que quizás esa persona no esté bien de la cabeza, porque prejuzgar no es inherentemente malo y no te la vas a coger, saludos."
+        ],
+        "size": "2000x2000",
+        "series": ["cuentos"]
     }
 }

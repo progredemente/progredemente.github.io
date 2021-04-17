@@ -1410,5 +1410,15 @@
         ],
         "size": "2000x2000",
         "series": ["cuentos"]
+    },
+    "hijxs": {
+        "name": "Hijxs",
+        "date": "2021-04-17T00:00",
+        "description": [
+            "No hay tanta vocal para tanto género ni para tanto imbécil."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

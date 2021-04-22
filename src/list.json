@@ -1420,5 +1420,15 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "milfs_rat": {
+        "name": "Two MILFs one rat",
+        "date": "2021-04-22T00:00",
+        "description": [
+            "Y tú, ¿vas a votar MILF o vas a votar rata?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias", "Isabel Díaz Ayuso", "Rocío Monasterio"],
+        "parties": ["UP", "PP", "Vox"]
     }
 }

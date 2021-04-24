@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "123d505134331d7cddd72fd7947f8398",
+    "revision": "9282fded1b448e858bb457f8f539751a",
     "url": "/index.html"
   },
   {
-    "revision": "2031e0c8b2f5cdb512c3",
+    "revision": "2c543804dd8c6cc7eec7",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "b3971696fcdd38a930a0",
-    "url": "/static/js/2.fa47c104.chunk.js"
+    "revision": "b8479a89e3e393703894",
+    "url": "/static/js/2.c9463e1f.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.fa47c104.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c9463e1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2031e0c8b2f5cdb512c3",
-    "url": "/static/js/main.82e355f6.chunk.js"
+    "revision": "2c543804dd8c6cc7eec7",
+    "url": "/static/js/main.8014cf6d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -90,6 +90,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8ea407bcf5020764a232f065d7fe56c",
     "url": "/static/media/alvarez_de_hyrule.c8ea407b.png"
+  },
+  {
+    "revision": "c8a4be6772c684c44c05d2c9d88f510c",
+    "url": "/static/media/amenazas.c8a4be67.png"
+  },
+  {
+    "revision": "decc8d55ee1ce545748feaa89e86d76a",
+    "url": "/static/media/amenazas.decc8d55.png"
   },
   {
     "revision": "32f65513d56410eb8183859b8741cc92",

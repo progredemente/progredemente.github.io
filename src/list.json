@@ -1430,5 +1430,16 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Isabel Díaz Ayuso", "Rocío Monasterio"],
         "parties": ["UP", "PP", "Vox"]
+    },
+    "amenazas": {
+        "name": "Amenazas",
+        "date": "2021-04-24T00:00",
+        "description": [
+            "¿Conocéis la fábula de \"El pastor mentiroso\"?"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

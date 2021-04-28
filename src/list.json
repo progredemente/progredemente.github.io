@@ -1441,5 +1441,16 @@
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "abstencion_activa": {
+        "name": "Abstención activa",
+        "date": "2021-04-29T00:00",
+        "description": [
+            "Éramos pocos y parió la abuela."
+        ],
+        "size": "3800x2000",
+        "series": ["memes"],
+        "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Rubén Gisbert"],
+        "parties": ["UP"]
     }
 }

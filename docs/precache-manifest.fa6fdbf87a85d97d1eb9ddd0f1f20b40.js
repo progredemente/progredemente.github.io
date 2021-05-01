@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef3a3a7747f21b0832e32565618869f8",
+    "revision": "b04291cc8570a7eb53d94314aecb8836",
     "url": "/index.html"
   },
   {
-    "revision": "c117ad4b493c03053c87",
+    "revision": "1fbca535743555f752d6",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "27dbb580272456fca6f6",
-    "url": "/static/js/2.81d822ff.chunk.js"
+    "revision": "07a103e94fed17ec840e",
+    "url": "/static/js/2.692d741a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.81d822ff.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.692d741a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c117ad4b493c03053c87",
-    "url": "/static/js/main.b709538f.chunk.js"
+    "revision": "1fbca535743555f752d6",
+    "url": "/static/js/main.f91481d5.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1102,6 +1102,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0b2f2d8dad0e0ea089fc9aed2767760",
     "url": "/static/media/runner.a0b2f2d8.png"
+  },
+  {
+    "revision": "58342dfcf7c1efc9ad9a7af5435fc1d6",
+    "url": "/static/media/saltar_barco.58342dfc.png"
+  },
+  {
+    "revision": "8b4e6e25961f9db511252852d7c64ee9",
+    "url": "/static/media/saltar_barco.8b4e6e25.png"
   },
   {
     "revision": "7f198fffeb3f1d5a1d65a12ad6571fc3",

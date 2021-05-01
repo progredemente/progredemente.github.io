@@ -1452,5 +1452,15 @@
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Rubén Gisbert"],
         "parties": ["UP"]
+    },
+    "saltar_barco": {
+        "name": "Saltar del barco",
+        "date": "2021-05-01T00:00",
+        "description": [
+            "Leí en algún lado que las ratas son las primeras en abandonar los barcos cuando se hunden."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

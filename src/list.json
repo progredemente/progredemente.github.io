@@ -1462,5 +1462,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "c2_ingles": {
+        "name": "C2 en inglés",
+        "date": "2021-05-02T00:00",
+        "description": [
+            "Cuando se decida a abandonar definitivamente su \"political estráguel\" podría dar clases de inglés, pues dice que tiene un C2 en este idioma."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

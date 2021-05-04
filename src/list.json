@@ -1472,5 +1472,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "minoria_absoluta": {
+        "name": "Minoría absoluta",
+        "date": "2021-05-05T00:00",
+        "description": [
+            "Crónica de una dimisión anunciada. Menudo espectáculo..."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

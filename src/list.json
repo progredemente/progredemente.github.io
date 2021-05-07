@@ -1482,5 +1482,16 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "maestro_rata": {
+        "name": "Maestro Rata",
+        "date": "2021-05-07T00:00",
+        "description": [
+            "Creando escuela.",
+            "¿Sabéis quienes son? Al menos uno de ellos me tiene bloqueado por algún motivo que desconozco."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Pablo Iglesias", "Alán Barroso", "Isabel Serrano", "Vozivoto", "Cuellilargo"],
+        "parties": ["UP"]
     }
 }

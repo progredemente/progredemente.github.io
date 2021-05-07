@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.1d6459ca.chunk.js",
-    "main.js.map": "/static/js/main.1d6459ca.chunk.js.map",
+    "main.js": "/static/js/main.180f01ed.chunk.js",
+    "main.js.map": "/static/js/main.180f01ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.3e1178b4.chunk.js": "/static/js/2.3e1178b4.chunk.js",
-    "static/js/2.3e1178b4.chunk.js.map": "/static/js/2.3e1178b4.chunk.js.map",
+    "static/js/2.39777153.chunk.js": "/static/js/2.39777153.chunk.js",
+    "static/js/2.39777153.chunk.js.map": "/static/js/2.39777153.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.40173d2bbe164732a021f2022c569834.js": "/precache-manifest.40173d2bbe164732a021f2022c569834.js",
+    "precache-manifest.34e6a82d051a45f16a4a3dfa05691d3d.js": "/precache-manifest.34e6a82d051a45f16a4a3dfa05691d3d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.3e1178b4.chunk.js.LICENSE.txt": "/static/js/2.3e1178b4.chunk.js.LICENSE.txt",
+    "static/js/2.39777153.chunk.js.LICENSE.txt": "/static/js/2.39777153.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -107,6 +107,7 @@
     "static/media/logo.png": "/static/media/logo.11965a96.png",
     "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
     "static/media/madrid_omnipresente.png": "/static/media/madrid_omnipresente.c1b040c9.png",
+    "static/media/maestro_rata.png": "/static/media/maestro_rata.b2255b0a.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/maquina_humo.png": "/static/media/maquina_humo.8c0fec56.png",
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
@@ -204,8 +205,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.3e1178b4.chunk.js",
+    "static/js/2.39777153.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.1d6459ca.chunk.js"
+    "static/js/main.180f01ed.chunk.js"
   ]
 }

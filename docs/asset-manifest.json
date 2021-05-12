@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.180f01ed.chunk.js",
-    "main.js.map": "/static/js/main.180f01ed.chunk.js.map",
+    "main.js": "/static/js/main.4bc42b36.chunk.js",
+    "main.js.map": "/static/js/main.4bc42b36.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.39777153.chunk.js": "/static/js/2.39777153.chunk.js",
-    "static/js/2.39777153.chunk.js.map": "/static/js/2.39777153.chunk.js.map",
+    "static/js/2.54a39b17.chunk.js": "/static/js/2.54a39b17.chunk.js",
+    "static/js/2.54a39b17.chunk.js.map": "/static/js/2.54a39b17.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.34e6a82d051a45f16a4a3dfa05691d3d.js": "/precache-manifest.34e6a82d051a45f16a4a3dfa05691d3d.js",
+    "precache-manifest.af59dce65ec3a7f97f16a8424b125e72.js": "/precache-manifest.af59dce65ec3a7f97f16a8424b125e72.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.39777153.chunk.js.LICENSE.txt": "/static/js/2.39777153.chunk.js.LICENSE.txt",
+    "static/js/2.54a39b17.chunk.js.LICENSE.txt": "/static/js/2.54a39b17.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -71,6 +71,7 @@
     "static/media/curriculum.png": "/static/media/curriculum.83d6a998.png",
     "static/media/de_compras.png": "/static/media/de_compras.b95cceb5.png",
     "static/media/derechos_humanos.png": "/static/media/derechos_humanos.73325288.png",
+    "static/media/descoletado.png": "/static/media/descoletado.d6e5676b.png",
     "static/media/doble_vara.png": "/static/media/doble_vara.eb52f66d.png",
     "static/media/duquemar.png": "/static/media/duquemar.b4a333ad.png",
     "static/media/duquemar.mp3": "/static/media/duquemar.db3e25c1.mp3",
@@ -205,8 +206,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.39777153.chunk.js",
+    "static/js/2.54a39b17.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.180f01ed.chunk.js"
+    "static/js/main.4bc42b36.chunk.js"
   ]
 }

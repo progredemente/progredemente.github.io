@@ -1493,5 +1493,15 @@
         "size": "4000x3000",
         "celebrities": ["Pablo Iglesias", "Alán Barroso", "Isabel Serrano", "Vozivoto", "Cuellilargo"],
         "parties": ["UP"]
+    },
+    "descoletado": {
+        "name": "Descoletado",
+        "date": "2021-05-12T00:00",
+        "description": [
+            "La chepa no se puede cortar."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

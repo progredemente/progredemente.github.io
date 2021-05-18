@@ -1503,5 +1503,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "shingeki_no_muajin": {
+        "name": "Shingeki no Muajin",
+        "date": "2021-05-19T00:00",
+        "description": [
+            "Ya no saben ni como echarle la culpa a la derecha de su incompetencia."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Fernando Grande-Marlaska", "Mohamed VI"],
+        "parties": ["PSOE"]
     }
 }

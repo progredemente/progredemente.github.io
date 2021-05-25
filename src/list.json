@@ -1513,5 +1513,15 @@
         "size": "4000x3000",
         "celebrities": ["Fernando Grande-Marlaska", "Mohamed VI"],
         "parties": ["PSOE"]
+    },
+    "respeto_constitucion": {
+        "name": "Respeto a la constitución",
+        "date": "2021-05-25T00:00",
+        "description": [
+            "Ya no se a quién pretenden engañar."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Oriol Junqueras"],
+        "parties": ["PSOE", "ERC"]
     }
 }

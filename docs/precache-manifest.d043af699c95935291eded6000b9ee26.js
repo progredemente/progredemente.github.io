@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42102df19ab287a76c69e0d55908f0cf",
+    "revision": "9059dc49f1c2f40dd8318277e3af639d",
     "url": "/index.html"
   },
   {
-    "revision": "3057abb109e00a546d59",
+    "revision": "01fd1ecc1c239f783e44",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "85a3088484d28c517822",
-    "url": "/static/js/2.2483ec9d.chunk.js"
+    "revision": "a747ce47c7fcb5f77a49",
+    "url": "/static/js/2.55ddc29e.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.2483ec9d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.55ddc29e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3057abb109e00a546d59",
-    "url": "/static/js/main.b182d55f.chunk.js"
+    "revision": "01fd1ecc1c239f783e44",
+    "url": "/static/js/main.675166f1.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1106,6 +1106,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df9887135e612ed3dbda37f148f5481b",
     "url": "/static/media/renta_basica.df988713.png"
+  },
+  {
+    "revision": "2d5de99c6d5b6323b80fb0b62a6d562a",
+    "url": "/static/media/respeto_constitucion.2d5de99c.png"
+  },
+  {
+    "revision": "703151fb0113171724ba0c4318dcf640",
+    "url": "/static/media/respeto_constitucion.703151fb.png"
   },
   {
     "revision": "7b7c545abeaa9d6671490952692d2001",

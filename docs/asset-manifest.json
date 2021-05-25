@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.b182d55f.chunk.js",
-    "main.js.map": "/static/js/main.b182d55f.chunk.js.map",
+    "main.js": "/static/js/main.675166f1.chunk.js",
+    "main.js.map": "/static/js/main.675166f1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2483ec9d.chunk.js": "/static/js/2.2483ec9d.chunk.js",
-    "static/js/2.2483ec9d.chunk.js.map": "/static/js/2.2483ec9d.chunk.js.map",
+    "static/js/2.55ddc29e.chunk.js": "/static/js/2.55ddc29e.chunk.js",
+    "static/js/2.55ddc29e.chunk.js.map": "/static/js/2.55ddc29e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9193b414cfae2f7d6a41767472fc7f6f.js": "/precache-manifest.9193b414cfae2f7d6a41767472fc7f6f.js",
+    "precache-manifest.d043af699c95935291eded6000b9ee26.js": "/precache-manifest.d043af699c95935291eded6000b9ee26.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.2483ec9d.chunk.js.LICENSE.txt": "/static/js/2.2483ec9d.chunk.js.LICENSE.txt",
+    "static/js/2.55ddc29e.chunk.js.LICENSE.txt": "/static/js/2.55ddc29e.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -161,6 +161,7 @@
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
     "static/media/rapunzel.png": "/static/media/rapunzel.57e96611.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.df988713.png",
+    "static/media/respeto_constitucion.png": "/static/media/respeto_constitucion.703151fb.png",
     "static/media/reyes_magos.png": "/static/media/reyes_magos.e3fb7914.png",
     "static/media/rolex.png": "/static/media/rolex.7c779579.png",
     "static/media/runner.png": "/static/media/runner.a0b2f2d8.png",
@@ -206,8 +207,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2483ec9d.chunk.js",
+    "static/js/2.55ddc29e.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.b182d55f.chunk.js"
+    "static/js/main.675166f1.chunk.js"
   ]
 }

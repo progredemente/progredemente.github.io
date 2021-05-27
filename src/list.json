@@ -1523,5 +1523,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Oriol Junqueras"],
         "parties": ["PSOE", "ERC"]
+    },
+    "adoctrinamiento": {
+        "name": "Adoctrinamiento",
+        "date": "2021-05-27T00:00",
+        "description": [
+            "Tremenda charo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pamela Palenciano"]
     }
 }

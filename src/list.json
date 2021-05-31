@@ -1532,5 +1532,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pamela Palenciano"]
+    },
+    "luz_lujo": {
+        "name": "La luz es un lujo",
+        "date": "2021-05-31T00:00",
+        "description": [
+            "\"Lo van a pagar los ricos\". Pues igual no entendimos bien esta frase."
+        ],
+        "size": "2000x2000"
     }
 }

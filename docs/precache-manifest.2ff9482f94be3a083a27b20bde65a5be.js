@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4438f8536f655f0780bb3fa2bb15ba6",
+    "revision": "b558c1854bc732f438c5db298e1d3fb3",
     "url": "/index.html"
   },
   {
-    "revision": "f0894f4d5cb44c21850b",
+    "revision": "166dc23747e806eb81f4",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "43618d8f48fd011d4057",
-    "url": "/static/js/2.446866d8.chunk.js"
+    "revision": "f8cfd20a7f720328ec4b",
+    "url": "/static/js/2.bdba6628.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.446866d8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bdba6628.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0894f4d5cb44c21850b",
-    "url": "/static/js/main.c7176ea4.chunk.js"
+    "revision": "166dc23747e806eb81f4",
+    "url": "/static/js/main.33249e5a.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -634,6 +634,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ce323ed50cf7f45d9863b600da0c60f2",
     "url": "/static/media/hijxs.ce323ed5.png"
+  },
+  {
+    "revision": "33e079575c1534d3869a8ed4b80257c8",
+    "url": "/static/media/hipocresia_climatica.33e07957.png"
+  },
+  {
+    "revision": "639bb7dd4af47722d111aee32eb7a86e",
+    "url": "/static/media/hipocresia_climatica.639bb7dd.png"
   },
   {
     "revision": "a055f8a064177ee15fb732552ec0d7b6",

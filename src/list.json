@@ -1540,5 +1540,13 @@
             "\"Lo van a pagar los ricos\". Pues igual no entendimos bien esta frase."
         ],
         "size": "2000x2000"
+    },
+    "hipocresia_climatica": {
+        "name": "Hipocresía climática",
+        "date": "2021-06-05T00:00",
+        "description": [
+            "Mientras seguimos creyéndonos el ombligo del mundo y autoflagelándonos por problemas cuya solución está fuera de nuestro alcance, dejamos que otros que no lo hacen nos pasen por encima."
+        ],
+        "size": "2000x2000"
     }
 }

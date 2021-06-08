@@ -1548,5 +1548,15 @@
             "Mientras seguimos creyéndonos el ombligo del mundo y autoflagelándonos por problemas cuya solución está fuera de nuestro alcance, dejamos que otros que no lo hacen nos pasen por encima."
         ],
         "size": "2000x2000"
+    },
+    "pateador": {
+        "name": "Pateador",
+        "date": "2021-06-08T00:00",
+        "description": [
+            "Como esto sea cierto, en vez de Milhouse va a haber que empezar a llamarlo Errejónidas (que era la idea de viñeta que tenía inicialmente)."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62cb43dc81e0639cdd996c6212baac97",
+    "revision": "a7976d8368df34d96bb3ec9394da48de",
     "url": "/index.html"
   },
   {
-    "revision": "be3e4f49cb917235cd4f",
+    "revision": "2b486df3aa72c94e50cb",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "10663d35fcb0e55a4351",
-    "url": "/static/js/2.ece3c714.chunk.js"
+    "revision": "402fa6a5fbad04bf886b",
+    "url": "/static/js/2.b159a477.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ece3c714.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b159a477.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be3e4f49cb917235cd4f",
-    "url": "/static/js/main.536ca63d.chunk.js"
+    "revision": "2b486df3aa72c94e50cb",
+    "url": "/static/js/main.01e49415.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -882,6 +882,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc407c1d6f509171e2d491301d2eb825",
     "url": "/static/media/navidades_patriarcales.bc407c1d.png"
+  },
+  {
+    "revision": "06df54e9f2d4c0f4c7ede7e79e9d5e01",
+    "url": "/static/media/notice_me_senpai.06df54e9.png"
+  },
+  {
+    "revision": "66f2e9d853053b5458a6d188b2e5e76d",
+    "url": "/static/media/notice_me_senpai.66f2e9d8.png"
   },
   {
     "revision": "c05641a61554a5a8de241a4ef37f054a",

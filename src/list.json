@@ -1560,13 +1560,23 @@
         "parties": ["MP"]
     },
     "notice_me_senpai": {
-        "name": "Notice me, senpai!",
+        "name": "Notice me, Senpai!",
         "date": "2021-06-14T00:00",
         "description": [
             "Patético, por no variar."
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Joe Biden"],
+        "parties": ["PSOE"]
+    },
+    "fabrica_votantes": {
+        "name": "Fábrica de votantes",
+        "date": "2021-06-18T00:00",
+        "description": [
+            "Vamos a petar los rankings internacionales, pero por la cola."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Isabel Celaá"],
         "parties": ["PSOE"]
     }
 }

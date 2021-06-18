@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.01e49415.chunk.js",
-    "main.js.map": "/static/js/main.01e49415.chunk.js.map",
+    "main.js": "/static/js/main.afb13908.chunk.js",
+    "main.js.map": "/static/js/main.afb13908.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b159a477.chunk.js": "/static/js/2.b159a477.chunk.js",
-    "static/js/2.b159a477.chunk.js.map": "/static/js/2.b159a477.chunk.js.map",
+    "static/js/2.975afb05.chunk.js": "/static/js/2.975afb05.chunk.js",
+    "static/js/2.975afb05.chunk.js.map": "/static/js/2.975afb05.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91d6ce4d9c0402c08c45756ab3944e47.js": "/precache-manifest.91d6ce4d9c0402c08c45756ab3944e47.js",
+    "precache-manifest.3078240c83a3f0a60e705a5481ea342b.js": "/precache-manifest.3078240c83a3f0a60e705a5481ea342b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.b159a477.chunk.js.LICENSE.txt": "/static/js/2.b159a477.chunk.js.LICENSE.txt",
+    "static/js/2.975afb05.chunk.js.LICENSE.txt": "/static/js/2.975afb05.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -81,6 +81,7 @@
     "static/media/el_palmero_banner.png": "/static/media/el_palmero_banner.87d3425f.png",
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
+    "static/media/fabrica_votantes.png": "/static/media/fabrica_votantes.ce159a07.png",
     "static/media/feliz_2021.png": "/static/media/feliz_2021.fbecfd65.png",
     "static/media/fer_simon.png": "/static/media/fer_simon.eaea6a51.png",
     "static/media/fodemos.png": "/static/media/fodemos.6c281782.png",
@@ -212,8 +213,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b159a477.chunk.js",
+    "static/js/2.975afb05.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.01e49415.chunk.js"
+    "static/js/main.afb13908.chunk.js"
   ]
 }

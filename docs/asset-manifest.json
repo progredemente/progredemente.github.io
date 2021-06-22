@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.afb13908.chunk.js",
-    "main.js.map": "/static/js/main.afb13908.chunk.js.map",
+    "main.js": "/static/js/main.88eacf1a.chunk.js",
+    "main.js.map": "/static/js/main.88eacf1a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.975afb05.chunk.js": "/static/js/2.975afb05.chunk.js",
-    "static/js/2.975afb05.chunk.js.map": "/static/js/2.975afb05.chunk.js.map",
+    "static/js/2.40ad17d2.chunk.js": "/static/js/2.40ad17d2.chunk.js",
+    "static/js/2.40ad17d2.chunk.js.map": "/static/js/2.40ad17d2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3078240c83a3f0a60e705a5481ea342b.js": "/precache-manifest.3078240c83a3f0a60e705a5481ea342b.js",
+    "precache-manifest.3437ad26dbb31443450c43db4af9655f.js": "/precache-manifest.3437ad26dbb31443450c43db4af9655f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.975afb05.chunk.js.LICENSE.txt": "/static/js/2.975afb05.chunk.js.LICENSE.txt",
+    "static/js/2.40ad17d2.chunk.js.LICENSE.txt": "/static/js/2.40ad17d2.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -53,6 +53,7 @@
     "static/media/captain_falconetti.png": "/static/media/captain_falconetti.f415b350.png",
     "static/media/captain_falconetti.mp3": "/static/media/captain_falconetti.d21fee2d.mp3",
     "static/media/carencias.png": "/static/media/carencias.f8208257.png",
+    "static/media/carrera_revolucionaria.png": "/static/media/carrera_revolucionaria.fbf50aa1.png",
     "static/media/carroneros.png": "/static/media/carroneros.6df3bd74.png",
     "static/media/casinos_furcias.png": "/static/media/casinos_furcias.ed3583c7.png",
     "static/media/celaa_de_vil.png": "/static/media/celaa_de_vil.c12a8382.png",
@@ -213,8 +214,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.975afb05.chunk.js",
+    "static/js/2.40ad17d2.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.afb13908.chunk.js"
+    "static/js/main.88eacf1a.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c79680dd276e52f932b6882765b937e9",
+    "revision": "275c3980a41757cf10bdb9e19f8018c0",
     "url": "/index.html"
   },
   {
-    "revision": "2d2bf64d276db74ea3fe",
+    "revision": "50716117d4d9792088a8",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "7e7f761f7ad21505c228",
-    "url": "/static/js/2.975afb05.chunk.js"
+    "revision": "b07da2c1f511ddfb4359",
+    "url": "/static/js/2.40ad17d2.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.975afb05.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.40ad17d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d2bf64d276db74ea3fe",
-    "url": "/static/js/main.afb13908.chunk.js"
+    "revision": "50716117d4d9792088a8",
+    "url": "/static/js/main.88eacf1a.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -322,6 +322,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f82082572e2f8375ca5b4eaabd94579a",
     "url": "/static/media/carencias.f8208257.png"
+  },
+  {
+    "revision": "0d37c8e179ebeba1414d8b9c1f9b5cac",
+    "url": "/static/media/carrera_revolucionaria.0d37c8e1.png"
+  },
+  {
+    "revision": "fbf50aa129105dca01615b5a86d9d92a",
+    "url": "/static/media/carrera_revolucionaria.fbf50aa1.png"
   },
   {
     "revision": "27fd6afb43f58397b0ddab8557c1aac7",

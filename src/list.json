@@ -1578,5 +1578,14 @@
         "size": "2000x2000",
         "celebrities": ["Isabel Celaá"],
         "parties": ["PSOE"]
+    },
+    "carrera_revolucionaria": {
+        "name": "Carrera revolucionaria",
+        "date": "2021-06-23T00:00",
+        "description": [
+            "Esta viñeta está inspirada en este artículo:",
+            "https://www.publico.es/politica/mareas-paro-politico-izquierdas-morir-profesionalmente.html"
+        ],
+        "size": "2000x2000"
     }
 }

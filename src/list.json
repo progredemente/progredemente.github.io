@@ -1587,5 +1587,16 @@
             "https://www.publico.es/politica/mareas-paro-politico-izquierdas-morir-profesionalmente.html"
         ],
         "size": "2000x2000"
+    },
+    "castillo_naipes": {
+        "name": "Se cae el castillo de naipes",
+        "date": "2021-06-25T00:00",
+        "description": [
+            "Cada vez engañan a menos gente, por lo que tienen que inventarse nuevos subtipos de \"violencia de género\" para asustar a las pocas personas que aún les creen.",
+            "Pronto harán como los metaleros matizando los miles de subgéneros del metal que existen, como el melodic death viking pagan folk black prog doom stoner power metal."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

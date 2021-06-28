@@ -1598,5 +1598,16 @@
         "size": "4000x3000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "cirque": {
+        "name": "Le cirque",
+        "date": "2021-06-28T00:00",
+        "description": [
+            "Hombres, a por el póker de opresiones: de hombre cis hetero a mujer trans lesbiana.",
+            "Por cierto, ¿el haka ese que se marcaron no es apropiación cultural?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

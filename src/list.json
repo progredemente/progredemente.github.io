@@ -1609,5 +1609,16 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "terf_vs_trans_4": {
+        "name": "TERF vs trans 4",
+        "date": "2021-06-30T00:00",
+        "description": [
+            "¿Es el fin del TERFismo gubernamental? ¡Parece que le han asestado un golpe letal a la vicepresidenta!"
+        ],
+        "size": "2000x2000",
+        "series": ["terf_vs_trans"],
+        "celebrities": ["Carmen Calvo"],
+        "parties": ["PSOE"]
     }
 }

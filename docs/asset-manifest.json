@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.bbe13579.chunk.js",
-    "main.js.map": "/static/js/main.bbe13579.chunk.js.map",
+    "main.js": "/static/js/main.3e4feee3.chunk.js",
+    "main.js.map": "/static/js/main.3e4feee3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.594b4966.chunk.js": "/static/js/2.594b4966.chunk.js",
-    "static/js/2.594b4966.chunk.js.map": "/static/js/2.594b4966.chunk.js.map",
+    "static/js/2.abba0b59.chunk.js": "/static/js/2.abba0b59.chunk.js",
+    "static/js/2.abba0b59.chunk.js.map": "/static/js/2.abba0b59.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8a98988e740af9f1b120f695907281d0.js": "/precache-manifest.8a98988e740af9f1b120f695907281d0.js",
+    "precache-manifest.23ec8bea34ae354258f2bc62f8be6892.js": "/precache-manifest.23ec8bea34ae354258f2bc62f8be6892.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.594b4966.chunk.js.LICENSE.txt": "/static/js/2.594b4966.chunk.js.LICENSE.txt",
+    "static/js/2.abba0b59.chunk.js.LICENSE.txt": "/static/js/2.abba0b59.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -194,6 +194,7 @@
     "static/media/terf_vs_trans_1.png": "/static/media/terf_vs_trans_1.d980a893.png",
     "static/media/terf_vs_trans_2.png": "/static/media/terf_vs_trans_2.56e2702d.png",
     "static/media/terf_vs_trans_3.png": "/static/media/terf_vs_trans_3.7e2f6664.png",
+    "static/media/terf_vs_trans_4.png": "/static/media/terf_vs_trans_4.8ce2defc.png",
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/tio_nadal.png": "/static/media/tio_nadal.5ad41069.png",
     "static/media/toque_de_queda.png": "/static/media/toque_de_queda.d1faf70d.png",
@@ -216,8 +217,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.594b4966.chunk.js",
+    "static/js/2.abba0b59.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.bbe13579.chunk.js"
+    "static/js/main.3e4feee3.chunk.js"
   ]
 }

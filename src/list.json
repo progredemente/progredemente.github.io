@@ -1620,5 +1620,13 @@
         "series": ["terf_vs_trans"],
         "celebrities": ["Carmen Calvo"],
         "parties": ["PSOE"]
+    },
+    "frigodedo_senalador": {
+        "name": "Frigodedo señalador",
+        "date": "2021-07-07T00:00",
+        "description": [
+            "Estos días la actualidad política española me está dando más asco de lo habitual."
+        ],
+        "size": "2000x2000"
     }
 }

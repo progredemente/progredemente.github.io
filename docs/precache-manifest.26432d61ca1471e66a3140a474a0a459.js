@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c28611f96c745835bf72f295d1dde63",
+    "revision": "5f1e3c5a87a7249ea43a0008297deff0",
     "url": "/index.html"
   },
   {
-    "revision": "977f208bda25519a0968",
+    "revision": "1c163726c904f724ac1f",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "bf717d2676f22c24b841",
-    "url": "/static/js/2.abba0b59.chunk.js"
+    "revision": "931a6c461a69400fa09c",
+    "url": "/static/js/2.aa26b317.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.abba0b59.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.aa26b317.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "977f208bda25519a0968",
-    "url": "/static/js/main.3e4feee3.chunk.js"
+    "revision": "1c163726c904f724ac1f",
+    "url": "/static/js/main.8dbd0d4b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -602,6 +602,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8f7c48aa3feba666fba9093f909ff4e6",
     "url": "/static/media/franco_kazooie.8f7c48aa.png"
+  },
+  {
+    "revision": "019428886db92fc0360aef05e7834d78",
+    "url": "/static/media/frigodedo_senalador.01942888.png"
+  },
+  {
+    "revision": "19e3866f8083028639188554be91b618",
+    "url": "/static/media/frigodedo_senalador.19e3866f.png"
   },
   {
     "revision": "c0825beccf009d076e61cb23b37dbd98",

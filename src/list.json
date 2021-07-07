@@ -1628,5 +1628,15 @@
             "Estos días la actualidad política española me está dando más asco de lo habitual."
         ],
         "size": "2000x2000"
+    },
+    "vacas_contaminantes": {
+        "name": "Vacas contaminantes",
+        "date": "2021-07-08T00:00",
+        "description": [
+            "Me consta que en Argentina ya están entrando en esa fase."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Garzón"],
+        "parties": ["UP"]
     }
 }

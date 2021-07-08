@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.3f427e92.chunk.js",
-    "main.js.map": "/static/js/main.3f427e92.chunk.js.map",
+    "main.js": "/static/js/main.3c9d88e5.chunk.js",
+    "main.js.map": "/static/js/main.3c9d88e5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7ce98569.chunk.js": "/static/js/2.7ce98569.chunk.js",
-    "static/js/2.7ce98569.chunk.js.map": "/static/js/2.7ce98569.chunk.js.map",
+    "static/js/2.fb821186.chunk.js": "/static/js/2.fb821186.chunk.js",
+    "static/js/2.fb821186.chunk.js.map": "/static/js/2.fb821186.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.58639694cbea2b40e84811c9fb5567ca.js": "/precache-manifest.58639694cbea2b40e84811c9fb5567ca.js",
+    "precache-manifest.9080fe8fb85ba6721ffbed8fbc6307b5.js": "/precache-manifest.9080fe8fb85ba6721ffbed8fbc6307b5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.7ce98569.chunk.js.LICENSE.txt": "/static/js/2.7ce98569.chunk.js.LICENSE.txt",
+    "static/js/2.fb821186.chunk.js.LICENSE.txt": "/static/js/2.fb821186.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -95,6 +95,7 @@
     "static/media/gafas_moradas.png": "/static/media/gafas_moradas.f7a1a331.png",
     "static/media/galanchez.png": "/static/media/galanchez.cd062762.png",
     "static/media/gente_irresponsable.png": "/static/media/gente_irresponsable.7702526b.png",
+    "static/media/gettr.png": "/static/media/gettr.81ad8428.png",
     "static/media/greta.png": "/static/media/greta.c1376d3e.png",
     "static/media/guaido.png": "/static/media/guaido.69f01b39.png",
     "static/media/haren.png": "/static/media/haren.752669a1.png",
@@ -219,8 +220,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7ce98569.chunk.js",
+    "static/js/2.fb821186.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.3f427e92.chunk.js"
+    "static/js/main.3c9d88e5.chunk.js"
   ]
 }

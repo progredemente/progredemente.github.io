@@ -1648,5 +1648,13 @@
         "size": "6000x5000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "bloqueo": {
+        "name": "Bloqueo",
+        "date": "2021-07-14T00:00",
+        "description": [
+            "Los que habláis de bloqueo, hacéoslo mirar."
+        ],
+        "size": "2000x2000"
     }
 }

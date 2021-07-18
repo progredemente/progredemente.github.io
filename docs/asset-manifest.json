@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.9791a3ca.chunk.js",
-    "main.js.map": "/static/js/main.9791a3ca.chunk.js.map",
+    "main.js": "/static/js/main.1a2a6083.chunk.js",
+    "main.js.map": "/static/js/main.1a2a6083.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2e2bb120.chunk.js": "/static/js/2.2e2bb120.chunk.js",
-    "static/js/2.2e2bb120.chunk.js.map": "/static/js/2.2e2bb120.chunk.js.map",
+    "static/js/2.5ed8ad72.chunk.js": "/static/js/2.5ed8ad72.chunk.js",
+    "static/js/2.5ed8ad72.chunk.js.map": "/static/js/2.5ed8ad72.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1ef4cc16b1543643311ec3de3ec4a3f5.js": "/precache-manifest.1ef4cc16b1543643311ec3de3ec4a3f5.js",
+    "precache-manifest.535a90ed04618c49f61f402a5192d1ed.js": "/precache-manifest.535a90ed04618c49f61f402a5192d1ed.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.2e2bb120.chunk.js.LICENSE.txt": "/static/js/2.2e2bb120.chunk.js.LICENSE.txt",
+    "static/js/2.5ed8ad72.chunk.js.LICENSE.txt": "/static/js/2.5ed8ad72.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -125,6 +125,7 @@
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
+    "static/media/matria.png": "/static/media/matria.690ae86a.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
     "static/media/milenio_live.png": "/static/media/milenio_live.7b73573d.png",
@@ -222,8 +223,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2e2bb120.chunk.js",
+    "static/js/2.5ed8ad72.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.9791a3ca.chunk.js"
+    "static/js/main.1a2a6083.chunk.js"
   ]
 }

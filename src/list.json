@@ -1665,5 +1665,15 @@
             "Lo único que tengo que añadir sobre la \"matria\": me vais a comer la molla, hijes de muta."
         ],
         "size": "2000x2000"
+    },
+    "desenterrador": {
+        "name": "El Desenterrador",
+        "date": "2021-07-21T00:00",
+        "description": [
+            "Tienen una filia con la muerte fuera de lo normal, incluso siendo socialistas."
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

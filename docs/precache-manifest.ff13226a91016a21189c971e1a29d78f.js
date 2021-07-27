@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70ed246d04862e72ed63cf0787c1bd21",
+    "revision": "96bed041edf0ae2238d11ec742803d14",
     "url": "/index.html"
   },
   {
-    "revision": "496488f580724f157678",
+    "revision": "37f48d02f85573304bac",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "1a2312573f5d9a08e4d9",
-    "url": "/static/js/2.dca947ea.chunk.js"
+    "revision": "502cd5fd0b3c2cd7273b",
+    "url": "/static/js/2.3bcee879.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.dca947ea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3bcee879.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "496488f580724f157678",
-    "url": "/static/js/main.0a56ebcb.chunk.js"
+    "revision": "37f48d02f85573304bac",
+    "url": "/static/js/main.f25c1165.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -170,6 +170,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "66c919fe4fa016103396184d52c1a57c",
     "url": "/static/media/arde_troya.66c919fe.png"
+  },
+  {
+    "revision": "2a40e24f478a855a7aebfe114e88e1f3",
+    "url": "/static/media/atencion_sanitaria.2a40e24f.png"
+  },
+  {
+    "revision": "607f1c53b185914d3a2bbbe490955455",
+    "url": "/static/media/atencion_sanitaria.607f1c53.png"
   },
   {
     "revision": "261d5d1a69206ce11e6db5a43f54e3ec",

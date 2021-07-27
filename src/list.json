@@ -1675,5 +1675,13 @@
         "size": "4000x4000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "atencion_sanitaria": {
+        "name": "Atención sanitaria",
+        "date": "2021-07-27T00:00",
+        "description": [
+            "La gente apela a la responsabilidad individual solo cuando le conviene."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96bed041edf0ae2238d11ec742803d14",
+    "revision": "8a23547752d9434951f9955b55b82f67",
     "url": "/index.html"
   },
   {
-    "revision": "37f48d02f85573304bac",
+    "revision": "f745291f53bbe9e541b3",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "502cd5fd0b3c2cd7273b",
-    "url": "/static/js/2.3bcee879.chunk.js"
+    "revision": "9f74e6f24a401e193aeb",
+    "url": "/static/js/2.06d4c65a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.3bcee879.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.06d4c65a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37f48d02f85573304bac",
-    "url": "/static/js/main.f25c1165.chunk.js"
+    "revision": "f745291f53bbe9e541b3",
+    "url": "/static/js/main.d591aacc.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -502,6 +502,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b95cceb505405ef5d3ec840730a5cb4c",
     "url": "/static/media/de_compras.b95cceb5.png"
+  },
+  {
+    "revision": "06fe471c185fe6a01b8d8fceb43f8ad4",
+    "url": "/static/media/debilidad_mental.06fe471c.png"
+  },
+  {
+    "revision": "2b0e9d48c06fedd0e44adf783631b340",
+    "url": "/static/media/debilidad_mental.2b0e9d48.png"
   },
   {
     "revision": "2e6aaf0b824da22a3f9681276f54a550",

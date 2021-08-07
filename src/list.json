@@ -1691,5 +1691,13 @@
             "Aúpan a personas que se rinden como si fuesen héroes porque así quieren a la sociedad, sin espíritu luchador, que no se esfuerce, rendida ante el poder."
         ],
         "size": "4000x3000"
+    },
+    "hombre_paja": {
+        "name": "Hombre de paja",
+        "date": "2021-08-07T00:00",
+        "description": [
+            "Si luchas contra hombres de paja, o bien no conoces a tus rivales o bien tus creencias, tus ideas y tus opiniones no aguantan un debate medianamente serio."
+        ],
+        "size": "2000x2000"
     }
 }

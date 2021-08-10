@@ -1699,5 +1699,15 @@
             "Si luchas contra hombres de paja, o bien no conoces a tus rivales o bien tus creencias, tus ideas y tus opiniones no aguantan un debate medianamente serio."
         ],
         "size": "2000x2000"
+    },
+    "matematicas": {
+        "name": "Matemáticas",
+        "date": "2021-08-10T00:00",
+        "description": [
+            "No sé de quién ha sido la genial idea de querer meter la perspectiva de género en las matemáticas, me imagino que el feministerio de la charo jefa habrá tenido algo que ver ahí, por eso la dibujo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

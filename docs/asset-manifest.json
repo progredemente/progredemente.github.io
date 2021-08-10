@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.e567646f.chunk.js",
-    "main.js.map": "/static/js/main.e567646f.chunk.js.map",
+    "main.js": "/static/js/main.9e4816d7.chunk.js",
+    "main.js.map": "/static/js/main.9e4816d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.65aa2792.chunk.js": "/static/js/2.65aa2792.chunk.js",
-    "static/js/2.65aa2792.chunk.js.map": "/static/js/2.65aa2792.chunk.js.map",
+    "static/js/2.e73934a0.chunk.js": "/static/js/2.e73934a0.chunk.js",
+    "static/js/2.e73934a0.chunk.js.map": "/static/js/2.e73934a0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bc7d2ce962c4c4616537fc525806e0ff.js": "/precache-manifest.bc7d2ce962c4c4616537fc525806e0ff.js",
+    "precache-manifest.17216dad95e7a46eaed82f65f8da92b8.js": "/precache-manifest.17216dad95e7a46eaed82f65f8da92b8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.65aa2792.chunk.js.LICENSE.txt": "/static/js/2.65aa2792.chunk.js.LICENSE.txt",
+    "static/js/2.e73934a0.chunk.js.LICENSE.txt": "/static/js/2.e73934a0.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -129,6 +129,7 @@
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
+    "static/media/matematicas.png": "/static/media/matematicas.96bb2f09.png",
     "static/media/matria.png": "/static/media/matria.690ae86a.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
@@ -227,8 +228,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.65aa2792.chunk.js",
+    "static/js/2.e73934a0.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.e567646f.chunk.js"
+    "static/js/main.9e4816d7.chunk.js"
   ]
 }

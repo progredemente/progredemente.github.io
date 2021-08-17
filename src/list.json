@@ -1709,5 +1709,14 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "madrileno": {
+        "name": "El Madrileño",
+        "date": "2021-08-17T00:00",
+        "description": [
+            "La foto que les hubiese gustado a los progres."
+        ],
+        "size": "2500x3000",
+        "celebrities": ["C. Tangana"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.9e4816d7.chunk.js",
-    "main.js.map": "/static/js/main.9e4816d7.chunk.js.map",
+    "main.js": "/static/js/main.28915878.chunk.js",
+    "main.js.map": "/static/js/main.28915878.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e73934a0.chunk.js": "/static/js/2.e73934a0.chunk.js",
-    "static/js/2.e73934a0.chunk.js.map": "/static/js/2.e73934a0.chunk.js.map",
+    "static/js/2.d528801d.chunk.js": "/static/js/2.d528801d.chunk.js",
+    "static/js/2.d528801d.chunk.js.map": "/static/js/2.d528801d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.17216dad95e7a46eaed82f65f8da92b8.js": "/precache-manifest.17216dad95e7a46eaed82f65f8da92b8.js",
+    "precache-manifest.0f801342592dde24b3c883da1f514e0a.js": "/precache-manifest.0f801342592dde24b3c883da1f514e0a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.e73934a0.chunk.js.LICENSE.txt": "/static/js/2.e73934a0.chunk.js.LICENSE.txt",
+    "static/js/2.d528801d.chunk.js.LICENSE.txt": "/static/js/2.d528801d.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -123,6 +123,7 @@
     "static/media/luz_lujo.png": "/static/media/luz_lujo.bc7fb754.png",
     "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
     "static/media/madrid_omnipresente.png": "/static/media/madrid_omnipresente.c1b040c9.png",
+    "static/media/madrileno.png": "/static/media/madrileno.6730b36e.png",
     "static/media/maestro_rata.png": "/static/media/maestro_rata.b2255b0a.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/maquina_humo.png": "/static/media/maquina_humo.8c0fec56.png",
@@ -228,8 +229,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e73934a0.chunk.js",
+    "static/js/2.d528801d.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.9e4816d7.chunk.js"
+    "static/js/main.28915878.chunk.js"
   ]
 }

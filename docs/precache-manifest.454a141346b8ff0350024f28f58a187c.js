@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd810ba680a2da746fd945ea4d8f62c9",
+    "revision": "745aa90db096e30a6140d3b21602d881",
     "url": "/index.html"
   },
   {
-    "revision": "9c428aa4bc324a8b987d",
+    "revision": "3200b85b2674130eefe0",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "c1e1c002e2878d8ca61f",
-    "url": "/static/js/2.d528801d.chunk.js"
+    "revision": "8b3c2e451383a5a3d9b1",
+    "url": "/static/js/2.0d272281.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.d528801d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0d272281.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c428aa4bc324a8b987d",
-    "url": "/static/js/main.28915878.chunk.js"
+    "revision": "3200b85b2674130eefe0",
+    "url": "/static/js/main.25945a35.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1238,6 +1238,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b964f73bfd7505b5ef6f22cbbef26557",
     "url": "/static/media/psoeta.b964f73b.png"
+  },
+  {
+    "revision": "0897711e255e35260f7b40e16ff04e6e",
+    "url": "/static/media/punto_violeta.0897711e.png"
+  },
+  {
+    "revision": "5110faec573493b816d4fad716dec330",
+    "url": "/static/media/punto_violeta.5110faec.png"
   },
   {
     "revision": "b5567ea226cae865723571d146d929e9",

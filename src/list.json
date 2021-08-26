@@ -1726,5 +1726,14 @@
             "Hace casi un siglo señalaron los negocios de la gente a la que consideraban indeseable. Hoy, señala tú mismo tu negocio para que no te consideren indeseable."
         ],
         "size": "3000x2000"
+    },
+    "blanqueo_talibanes": {
+        "name": "Blanqueo de talibanes",
+        "date": "2021-08-26T00:00",
+        "description": [
+            "Para detestar tanto al hombre blanco, bien que les gusta blanquear."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.25945a35.chunk.js",
-    "main.js.map": "/static/js/main.25945a35.chunk.js.map",
+    "main.js": "/static/js/main.7360b235.chunk.js",
+    "main.js.map": "/static/js/main.7360b235.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0d272281.chunk.js": "/static/js/2.0d272281.chunk.js",
-    "static/js/2.0d272281.chunk.js.map": "/static/js/2.0d272281.chunk.js.map",
+    "static/js/2.470395ce.chunk.js": "/static/js/2.470395ce.chunk.js",
+    "static/js/2.470395ce.chunk.js.map": "/static/js/2.470395ce.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.454a141346b8ff0350024f28f58a187c.js": "/precache-manifest.454a141346b8ff0350024f28f58a187c.js",
+    "precache-manifest.2fdc86df76718d0a2d5d1e7f44c4305d.js": "/precache-manifest.2fdc86df76718d0a2d5d1e7f44c4305d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.0d272281.chunk.js.LICENSE.txt": "/static/js/2.0d272281.chunk.js.LICENSE.txt",
+    "static/js/2.470395ce.chunk.js.LICENSE.txt": "/static/js/2.470395ce.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -42,6 +42,7 @@
     "static/media/bici.png": "/static/media/bici.815dbfbb.png",
     "static/media/billy_el_nino.png": "/static/media/billy_el_nino.9cd410db.png",
     "static/media/bisagranos.png": "/static/media/bisagranos.8ba558ca.png",
+    "static/media/blanqueo_talibanes.png": "/static/media/blanqueo_talibanes.f83916c9.png",
     "static/media/bloqueo.png": "/static/media/bloqueo.72dd288d.png",
     "static/media/boot_facha.png": "/static/media/boot_facha.87ffe8f0.png",
     "static/media/borregos.png": "/static/media/borregos.e6a4d770.png",
@@ -230,8 +231,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0d272281.chunk.js",
+    "static/js/2.470395ce.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.25945a35.chunk.js"
+    "static/js/main.7360b235.chunk.js"
   ]
 }

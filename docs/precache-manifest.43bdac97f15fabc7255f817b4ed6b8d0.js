@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2c63966dacc42533588ca511b2d4e2d",
+    "revision": "7c35583ac29fd81b1bb3a8a8550a847f",
     "url": "/index.html"
   },
   {
-    "revision": "a8809ab1047aec853c9b",
+    "revision": "6cd392dc9b1cfb292561",
     "url": "/static/css/main.e59048b8.chunk.css"
   },
   {
-    "revision": "9d05668d8490201cf013",
-    "url": "/static/js/2.470395ce.chunk.js"
+    "revision": "40ea7b07206c0abbe434",
+    "url": "/static/js/2.f22276a4.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.470395ce.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f22276a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8809ab1047aec853c9b",
-    "url": "/static/js/main.7360b235.chunk.js"
+    "revision": "6cd392dc9b1cfb292561",
+    "url": "/static/js/main.7f5b6fc4.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -918,6 +918,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "690ae86a5a284a5cc038fa28786f3e8c",
     "url": "/static/media/matria.690ae86a.png"
+  },
+  {
+    "revision": "2ce64d7fa49d14ee7e150ecaee2b10dd",
+    "url": "/static/media/medallita.2ce64d7f.png"
+  },
+  {
+    "revision": "c495d05e467c45087e41ccbbda722e91",
+    "url": "/static/media/medallita.c495d05e.png"
   },
   {
     "revision": "770c825518095f71ceeb9dfae2c6350a",

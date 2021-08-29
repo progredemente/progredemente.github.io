@@ -1735,5 +1735,15 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "medallita": {
+        "name": "Medallita",
+        "date": "2021-08-29T00:00",
+        "description": [
+            "Imagínate haber escapado a contrarreloj de la muerte y que llegues a tu país y te reciba semejante personaje."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

@@ -1745,5 +1745,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "humor_lazoamarillo": {
+        "name": "Humor Lazoamarillo",
+        "date": "2021-08-31T00:00",
+        "description": [
+            "Imagínate haber escapado a contrarreloj de la muerte y que llegues a tu país y te reciba semejante personaje."
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Ada Colau"],
+        "parties": ["UP"]
     }
 }

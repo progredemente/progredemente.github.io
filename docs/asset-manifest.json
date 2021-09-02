@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e59048b8.chunk.css",
-    "main.js": "/static/js/main.adb85e5a.chunk.js",
-    "main.js.map": "/static/js/main.adb85e5a.chunk.js.map",
+    "main.js": "/static/js/main.3dfa81a1.chunk.js",
+    "main.js.map": "/static/js/main.3dfa81a1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.74e68b8b.chunk.js": "/static/js/2.74e68b8b.chunk.js",
-    "static/js/2.74e68b8b.chunk.js.map": "/static/js/2.74e68b8b.chunk.js.map",
+    "static/js/2.b1d52e96.chunk.js": "/static/js/2.b1d52e96.chunk.js",
+    "static/js/2.b1d52e96.chunk.js.map": "/static/js/2.b1d52e96.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9a846f05a7e6db1c43a27a9f3aecb8a9.js": "/precache-manifest.9a846f05a7e6db1c43a27a9f3aecb8a9.js",
+    "precache-manifest.ab3fa9bccf4a56f388e747827ce92a53.js": "/precache-manifest.ab3fa9bccf4a56f388e747827ce92a53.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e59048b8.chunk.css.map": "/static/css/main.e59048b8.chunk.css.map",
-    "static/js/2.74e68b8b.chunk.js.LICENSE.txt": "/static/js/2.74e68b8b.chunk.js.LICENSE.txt",
+    "static/js/2.b1d52e96.chunk.js.LICENSE.txt": "/static/js/2.b1d52e96.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -134,6 +134,7 @@
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
     "static/media/matematicas.png": "/static/media/matematicas.96bb2f09.png",
     "static/media/matria.png": "/static/media/matria.690ae86a.png",
+    "static/media/matronus.png": "/static/media/matronus.241e43aa.png",
     "static/media/medallita.png": "/static/media/medallita.c495d05e.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
@@ -233,8 +234,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.74e68b8b.chunk.js",
+    "static/js/2.b1d52e96.chunk.js",
     "static/css/main.e59048b8.chunk.css",
-    "static/js/main.adb85e5a.chunk.js"
+    "static/js/main.3dfa81a1.chunk.js"
   ]
 }

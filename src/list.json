@@ -1755,5 +1755,13 @@
         "size": "4000x4000",
         "celebrities": ["Ada Colau"],
         "parties": ["UP"]
+    },
+    "matronus": {
+        "name": "Matronus",
+        "date": "2021-09-02T00:00",
+        "description": [
+            "Inspirado en un tweet e ilustración de Patrick Ojota. Seguidlo en Twitter, es ojota_patrick allí."
+        ],
+        "size": "4000x3000"
     }
 }

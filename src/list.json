@@ -1750,7 +1750,7 @@
         "name": "Humor Lazoamarillo",
         "date": "2021-08-31T00:00",
         "description": [
-            "Imagínate haber escapado a contrarreloj de la muerte y que llegues a tu país y te reciba semejante personaje."
+            "Debe de estar enganchada al Super Mario Maker."
         ],
         "size": "4000x4000",
         "celebrities": ["Ada Colau"],
@@ -1763,5 +1763,14 @@
             "Inspirado en un tweet e ilustración de Patrick Ojota. Seguidlo en Twitter, es ojota_patrick allí."
         ],
         "size": "4000x3000"
+    },
+    "agresiones_deseables": {
+        "name": "Agresiones deseables",
+        "date": "2021-09-08T00:00",
+        "description": [
+            "No están siendo unos días muy buenos para el lobby del abecedario.",
+            "Espero que con el espectáculo bochornoso que se está dando a más de uno se le abran los ojos con respecto a la importancia de la pesunción de inocencia."
+        ],
+        "size": "3800x2000"
     }
 }

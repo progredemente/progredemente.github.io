@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f03f02ab854e208242069ab346f94950",
+    "revision": "50c848771ce82d179310b7103bdb698b",
     "url": "/index.html"
   },
   {
-    "revision": "86ff640985df218fe8c6",
+    "revision": "d3a0c5237bfbd93e7b99",
     "url": "/static/css/main.dfe9f2f3.chunk.css"
   },
   {
-    "revision": "96c6040f15296c189d1e",
-    "url": "/static/js/2.1572d96b.chunk.js"
+    "revision": "c9507f96bb4964d21b71",
+    "url": "/static/js/2.55e42f1c.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.1572d96b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.55e42f1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86ff640985df218fe8c6",
-    "url": "/static/js/main.8fe12dbe.chunk.js"
+    "revision": "d3a0c5237bfbd93e7b99",
+    "url": "/static/js/main.3c8df036.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -778,6 +778,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b407fa101800e44839743a60e6078ed3",
     "url": "/static/media/instagram.b407fa10.png"
+  },
+  {
+    "revision": "8946c4ce98e5cb14e65d01e2b39cc0bf",
+    "url": "/static/media/izquierda_conspiranoica.8946c4ce.png"
+  },
+  {
+    "revision": "bcc3aa05b1ee6e9601f6e4f9981d93a6",
+    "url": "/static/media/izquierda_conspiranoica.bcc3aa05.png"
   },
   {
     "revision": "732231fd560967f10b387b9466e6eb7e",

@@ -1769,8 +1769,16 @@
         "date": "2021-09-08T00:00",
         "description": [
             "No están siendo unos días muy buenos para el lobby del abecedario.",
-            "Espero que con el espectáculo bochornoso que se está dando a más de uno se le abran los ojos con respecto a la importancia de la pesunción de inocencia."
+            "Espero que con el espectáculo bochornoso que se está dando a más de uno se le abran los ojos con respecto a la importancia de la presunción de inocencia."
         ],
         "size": "3800x2000"
+    },
+    "izquierda_conspiranoica": {
+        "name": "Izquierda conspiranoica",
+        "date": "2021-09-09T00:00",
+        "description": [
+            "Está de moda esto de huír hacia adelante ultimamente. Se va a acabar toda la reserva de papel de aluminio de los supermercados del país como sigan así, igualito a lo que pasó con el papel higiénico a principios del 2020."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.dfe9f2f3.chunk.css",
-    "main.js": "/static/js/main.8fe12dbe.chunk.js",
-    "main.js.map": "/static/js/main.8fe12dbe.chunk.js.map",
+    "main.js": "/static/js/main.3c8df036.chunk.js",
+    "main.js.map": "/static/js/main.3c8df036.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.1572d96b.chunk.js": "/static/js/2.1572d96b.chunk.js",
-    "static/js/2.1572d96b.chunk.js.map": "/static/js/2.1572d96b.chunk.js.map",
+    "static/js/2.55e42f1c.chunk.js": "/static/js/2.55e42f1c.chunk.js",
+    "static/js/2.55e42f1c.chunk.js.map": "/static/js/2.55e42f1c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.888ef5da978d315379b426e048a48a77.js": "/precache-manifest.888ef5da978d315379b426e048a48a77.js",
+    "precache-manifest.2d983d963811ee83d558f001b1f8c56c.js": "/precache-manifest.2d983d963811ee83d558f001b1f8c56c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dfe9f2f3.chunk.css.map": "/static/css/main.dfe9f2f3.chunk.css.map",
-    "static/js/2.1572d96b.chunk.js.LICENSE.txt": "/static/js/2.1572d96b.chunk.js.LICENSE.txt",
+    "static/js/2.55e42f1c.chunk.js.LICENSE.txt": "/static/js/2.55e42f1c.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -113,6 +113,7 @@
     "static/media/imanol.png": "/static/media/imanol.e9d6e75f.png",
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
+    "static/media/izquierda_conspiranoica.png": "/static/media/izquierda_conspiranoica.bcc3aa05.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.c578b9ec.png",
     "static/media/juraste_destruir.png": "/static/media/juraste_destruir.a1a21c8d.png",
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
@@ -235,8 +236,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.1572d96b.chunk.js",
+    "static/js/2.55e42f1c.chunk.js",
     "static/css/main.dfe9f2f3.chunk.css",
-    "static/js/main.8fe12dbe.chunk.js"
+    "static/js/main.3c8df036.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.dfe9f2f3.chunk.css",
-    "main.js": "/static/js/main.3c8df036.chunk.js",
-    "main.js.map": "/static/js/main.3c8df036.chunk.js.map",
+    "main.js": "/static/js/main.84a455d2.chunk.js",
+    "main.js.map": "/static/js/main.84a455d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.55e42f1c.chunk.js": "/static/js/2.55e42f1c.chunk.js",
-    "static/js/2.55e42f1c.chunk.js.map": "/static/js/2.55e42f1c.chunk.js.map",
+    "static/js/2.f189db0e.chunk.js": "/static/js/2.f189db0e.chunk.js",
+    "static/js/2.f189db0e.chunk.js.map": "/static/js/2.f189db0e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2d983d963811ee83d558f001b1f8c56c.js": "/precache-manifest.2d983d963811ee83d558f001b1f8c56c.js",
+    "precache-manifest.bf8d7d6924f572b905198bf5ba3c38bc.js": "/precache-manifest.bf8d7d6924f572b905198bf5ba3c38bc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dfe9f2f3.chunk.css.map": "/static/css/main.dfe9f2f3.chunk.css.map",
-    "static/js/2.55e42f1c.chunk.js.LICENSE.txt": "/static/js/2.55e42f1c.chunk.js.LICENSE.txt",
+    "static/js/2.f189db0e.chunk.js.LICENSE.txt": "/static/js/2.f189db0e.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -150,6 +150,7 @@
     "static/media/mudanza.png": "/static/media/mudanza.1fc43fef.png",
     "static/media/nasa_catalana.png": "/static/media/nasa_catalana.ec6a11bb.png",
     "static/media/navidades_patriarcales.png": "/static/media/navidades_patriarcales.bc407c1d.png",
+    "static/media/never_forgetti.png": "/static/media/never_forgetti.94c97b21.png",
     "static/media/notice_me_senpai.png": "/static/media/notice_me_senpai.66f2e9d8.png",
     "static/media/nueva_coalicion.png": "/static/media/nueva_coalicion.f9c6f9f1.png",
     "static/media/observador_internacional.png": "/static/media/observador_internacional.76b9f01b.png",
@@ -236,8 +237,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.55e42f1c.chunk.js",
+    "static/js/2.f189db0e.chunk.js",
     "static/css/main.dfe9f2f3.chunk.css",
-    "static/js/main.3c8df036.chunk.js"
+    "static/js/main.84a455d2.chunk.js"
   ]
 }

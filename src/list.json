@@ -1780,5 +1780,15 @@
             "Está de moda esto de huír hacia adelante ultimamente. Se va a acabar toda la reserva de papel de aluminio de los supermercados del país como sigan así, igualito a lo que pasó con el papel higiénico a principios del 2020."
         ],
         "size": "2000x2000"
+    },
+    "never_forgetti": {
+        "name": "Never forgetti",
+        "date": "2021-09-11T00:00",
+        "description": [
+            "Mom's spaghetti.",
+            "Un pequeño homenaje a los que, en mi opinión, eran los mejores memes de mi época universitaria."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["George W. Bush"]
     }
 }

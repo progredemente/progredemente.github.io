@@ -1801,5 +1801,13 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Joe Biden", "Kamala Harris"]
+    },
+    "iphone_13": {
+        "name": "iPhone 13",
+        "date": "2021-09-18T00:00",
+        "description": [
+            "Apple debería pagarme, seguro que con una campaña publicitaria así se les multiplicarían las ventas por diez como mínimo. A la gente le gusta mucho cabalgar contradicciones."
+        ],
+        "size": "2000x2000"
     }
 }

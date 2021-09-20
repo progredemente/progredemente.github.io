@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.dfe9f2f3.chunk.css",
-    "main.js": "/static/js/main.7fa1f1b8.chunk.js",
-    "main.js.map": "/static/js/main.7fa1f1b8.chunk.js.map",
+    "main.js": "/static/js/main.e46ac88e.chunk.js",
+    "main.js.map": "/static/js/main.e46ac88e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.abee35bd.chunk.js": "/static/js/2.abee35bd.chunk.js",
-    "static/js/2.abee35bd.chunk.js.map": "/static/js/2.abee35bd.chunk.js.map",
+    "static/js/2.dc5ad7d5.chunk.js": "/static/js/2.dc5ad7d5.chunk.js",
+    "static/js/2.dc5ad7d5.chunk.js.map": "/static/js/2.dc5ad7d5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8098c7d27019cbe854d616d7dbe68106.js": "/precache-manifest.8098c7d27019cbe854d616d7dbe68106.js",
+    "precache-manifest.296f27245077f7182905ba73ca0f98c6.js": "/precache-manifest.296f27245077f7182905ba73ca0f98c6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dfe9f2f3.chunk.css.map": "/static/css/main.dfe9f2f3.chunk.css.map",
-    "static/js/2.abee35bd.chunk.js.LICENSE.txt": "/static/js/2.abee35bd.chunk.js.LICENSE.txt",
+    "static/js/2.dc5ad7d5.chunk.js.LICENSE.txt": "/static/js/2.dc5ad7d5.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -75,6 +75,7 @@
     "static/media/control_plagas.png": "/static/media/control_plagas.b7efca5f.png",
     "static/media/coronavirus.png": "/static/media/coronavirus.85f7e91c.png",
     "static/media/cortinas_banderas.png": "/static/media/cortinas_banderas.a8a093a9.png",
+    "static/media/cuatro_gatos.png": "/static/media/cuatro_gatos.ed49446e.png",
     "static/media/cuentos_banner.png": "/static/media/cuentos_banner.783f13f2.png",
     "static/media/cuotas.png": "/static/media/cuotas.788a2cad.png",
     "static/media/curriculum.png": "/static/media/curriculum.83d6a998.png",
@@ -239,8 +240,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.abee35bd.chunk.js",
+    "static/js/2.dc5ad7d5.chunk.js",
     "static/css/main.dfe9f2f3.chunk.css",
-    "static/js/main.7fa1f1b8.chunk.js"
+    "static/js/main.e46ac88e.chunk.js"
   ]
 }

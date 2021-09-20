@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80feb102d26341088a1e4c2fcd4912e8",
+    "revision": "ecbe5725e8b1d965943c4f1b8e68d34e",
     "url": "/index.html"
   },
   {
-    "revision": "9440aa8453c0e90387cc",
+    "revision": "013b80565062b2097a1a",
     "url": "/static/css/main.dfe9f2f3.chunk.css"
   },
   {
-    "revision": "49857beda912ceac5014",
-    "url": "/static/js/2.abee35bd.chunk.js"
+    "revision": "6da0e2f809834059fcc0",
+    "url": "/static/js/2.dc5ad7d5.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.abee35bd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.dc5ad7d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9440aa8453c0e90387cc",
-    "url": "/static/js/main.7fa1f1b8.chunk.js"
+    "revision": "013b80565062b2097a1a",
+    "url": "/static/js/main.e46ac88e.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -498,6 +498,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8a093a9ee9b54cc0b3dc8d8e498622c",
     "url": "/static/media/cortinas_banderas.a8a093a9.png"
+  },
+  {
+    "revision": "03473e3308f14aef604c8a98fdfc20f1",
+    "url": "/static/media/cuatro_gatos.03473e33.png"
+  },
+  {
+    "revision": "ed49446ee2b96cb6e196022cb666db2b",
+    "url": "/static/media/cuatro_gatos.ed49446e.png"
   },
   {
     "revision": "783f13f2e40cf02e64ce935d8e8cb428",

@@ -1809,5 +1809,13 @@
             "Apple debería pagarme, seguro que con una campaña publicitaria así se les multiplicarían las ventas por diez como mínimo. A la gente le gusta mucho cabalgar contradicciones."
         ],
         "size": "2000x2000"
+    },
+    "cuatro_gatos": {
+        "name": "Cuatro gatos",
+        "date": "2021-09-20T00:00",
+        "description": [
+            "A la izquierda le gustan más esos cuatro frikis de lo que los repudia."
+        ],
+        "size": "3000x3000"
     }
 }

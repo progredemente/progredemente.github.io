@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecbe5725e8b1d965943c4f1b8e68d34e",
+    "revision": "feed229f5157a7b1d9f5f420fb05f6f6",
     "url": "/index.html"
   },
   {
-    "revision": "013b80565062b2097a1a",
+    "revision": "ff8ff40c2814f7c2d900",
     "url": "/static/css/main.dfe9f2f3.chunk.css"
   },
   {
-    "revision": "6da0e2f809834059fcc0",
-    "url": "/static/js/2.dc5ad7d5.chunk.js"
+    "revision": "c7c28400e2adae66048d",
+    "url": "/static/js/2.39c28713.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.dc5ad7d5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.39c28713.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "013b80565062b2097a1a",
-    "url": "/static/js/main.e46ac88e.chunk.js"
+    "revision": "ff8ff40c2814f7c2d900",
+    "url": "/static/js/main.f73ba687.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1254,6 +1254,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df1a372beaa199e3d6b913340edae7fa",
     "url": "/static/media/pocos_impuestos.df1a372b.png"
+  },
+  {
+    "revision": "4d751c26555f7e596ac50e4380b225af",
+    "url": "/static/media/pollo.4d751c26.png"
+  },
+  {
+    "revision": "a7e7ca301c7f1029f482f50820f82c93",
+    "url": "/static/media/pollo.a7e7ca30.png"
   },
   {
     "revision": "86c64353828a213c913de1f134828939",

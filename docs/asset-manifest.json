@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.dfe9f2f3.chunk.css",
-    "main.js": "/static/js/main.e46ac88e.chunk.js",
-    "main.js.map": "/static/js/main.e46ac88e.chunk.js.map",
+    "main.js": "/static/js/main.f73ba687.chunk.js",
+    "main.js.map": "/static/js/main.f73ba687.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.dc5ad7d5.chunk.js": "/static/js/2.dc5ad7d5.chunk.js",
-    "static/js/2.dc5ad7d5.chunk.js.map": "/static/js/2.dc5ad7d5.chunk.js.map",
+    "static/js/2.39c28713.chunk.js": "/static/js/2.39c28713.chunk.js",
+    "static/js/2.39c28713.chunk.js.map": "/static/js/2.39c28713.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.296f27245077f7182905ba73ca0f98c6.js": "/precache-manifest.296f27245077f7182905ba73ca0f98c6.js",
+    "precache-manifest.ad2957019a87f4c2c777daeb01b27bba.js": "/precache-manifest.ad2957019a87f4c2c777daeb01b27bba.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.dfe9f2f3.chunk.css.map": "/static/css/main.dfe9f2f3.chunk.css.map",
-    "static/js/2.dc5ad7d5.chunk.js.LICENSE.txt": "/static/js/2.dc5ad7d5.chunk.js.LICENSE.txt",
+    "static/js/2.39c28713.chunk.js.LICENSE.txt": "/static/js/2.39c28713.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -178,6 +178,7 @@
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
     "static/media/pocos_impuestos.png": "/static/media/pocos_impuestos.df1a372b.png",
+    "static/media/pollo.png": "/static/media/pollo.a7e7ca30.png",
     "static/media/portugal_oeste.png": "/static/media/portugal_oeste.86c64353.png",
     "static/media/postales_navidenas_banner.png": "/static/media/postales_navidenas_banner.78d15fa1.png",
     "static/media/presupuestos.png": "/static/media/presupuestos.d1a3bf9a.png",
@@ -240,8 +241,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.dc5ad7d5.chunk.js",
+    "static/js/2.39c28713.chunk.js",
     "static/css/main.dfe9f2f3.chunk.css",
-    "static/js/main.e46ac88e.chunk.js"
+    "static/js/main.f73ba687.chunk.js"
   ]
 }

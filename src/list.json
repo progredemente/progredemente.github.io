@@ -1817,5 +1817,13 @@
             "A la izquierda le gustan más esos cuatro frikis de lo que los repudia."
         ],
         "size": "3000x3000"
+    },
+    "pollo": {
+        "name": "Pollo",
+        "date": "2021-09-21T00:00",
+        "description": [
+            "¿Serán ciertos los señalamientos o solo lo hará para ganar tiempo?"
+        ],
+        "size": "2000x2000"
     }
 }

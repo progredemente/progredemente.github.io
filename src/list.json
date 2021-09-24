@@ -1825,5 +1825,15 @@
             "¿Serán ciertos los señalamientos o solo lo hará para ganar tiempo?"
         ],
         "size": "2000x2000"
+    },
+    "fugitivo": {
+        "name": "Fugitivo",
+        "date": "2021-09-24T00:00",
+        "description": [
+            "Nadie nos toma en serio, pero, visto el panorama, tampoco me sorprende."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Carles Puigdemont"],
+        "parties": ["JxC"]
     }
 }

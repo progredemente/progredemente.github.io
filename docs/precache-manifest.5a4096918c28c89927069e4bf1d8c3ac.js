@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "feed229f5157a7b1d9f5f420fb05f6f6",
+    "revision": "7824d5d82106c885c64956ed8ff2875c",
     "url": "/index.html"
   },
   {
-    "revision": "ff8ff40c2814f7c2d900",
+    "revision": "c6be5c9870de63eab790",
     "url": "/static/css/main.dfe9f2f3.chunk.css"
   },
   {
-    "revision": "c7c28400e2adae66048d",
-    "url": "/static/js/2.39c28713.chunk.js"
+    "revision": "c00ffe0b300804345d07",
+    "url": "/static/js/2.5cb5b8de.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.39c28713.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5cb5b8de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff8ff40c2814f7c2d900",
-    "url": "/static/js/main.f73ba687.chunk.js"
+    "revision": "c6be5c9870de63eab790",
+    "url": "/static/js/main.9736fde2.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -682,6 +682,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da0013e34b6d074d5e5f349d2bbcb7d6",
     "url": "/static/media/frox.da0013e3.png"
+  },
+  {
+    "revision": "2c0ff8628a1b413d433563f2ea70aa83",
+    "url": "/static/media/fugitivo.2c0ff862.png"
+  },
+  {
+    "revision": "72a67ba7b347d0a9ef828d9f9f86a38e",
+    "url": "/static/media/fugitivo.72a67ba7.png"
   },
   {
     "revision": "9d82637075c68ebe2e23209201e11134",

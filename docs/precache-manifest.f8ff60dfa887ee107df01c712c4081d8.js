@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7824d5d82106c885c64956ed8ff2875c",
+    "revision": "cfd3827674b7f94099c8bdb75e5c95d4",
     "url": "/index.html"
   },
   {
-    "revision": "c6be5c9870de63eab790",
+    "revision": "89e5f79068e03823b7ce",
     "url": "/static/css/main.dfe9f2f3.chunk.css"
   },
   {
-    "revision": "c00ffe0b300804345d07",
-    "url": "/static/js/2.5cb5b8de.chunk.js"
+    "revision": "024e31bd952a4c743c90",
+    "url": "/static/js/2.54bfc58c.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.5cb5b8de.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.54bfc58c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6be5c9870de63eab790",
-    "url": "/static/js/main.9736fde2.chunk.js"
+    "revision": "89e5f79068e03823b7ce",
+    "url": "/static/js/main.8ba4d53f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -302,6 +302,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "afd9e34a35dc366796ce8e4493c49b0f",
     "url": "/static/media/brujas.afd9e34a.png"
+  },
+  {
+    "revision": "46203be545e2c6d86761757d5bb131a1",
+    "url": "/static/media/burzelona.46203be5.png"
+  },
+  {
+    "revision": "acd8521ab5779577c98d3249238648fc",
+    "url": "/static/media/burzelona.acd8521a.png"
   },
   {
     "revision": "0a7b450c24097f5346aa66e7eef7b64e",

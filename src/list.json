@@ -1835,5 +1835,13 @@
         "size": "2000x2000",
         "celebrities": ["Carles Puigdemont"],
         "parties": ["JxC"]
+    },
+    "burzelona": {
+        "name": "Burzelona",
+        "date": "2021-09-27T00:00",
+        "description": [
+            "La Barcelona de Varg."
+        ],
+        "size": "2000x2000"
     }
 }

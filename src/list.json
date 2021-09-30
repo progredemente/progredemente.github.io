@@ -1843,5 +1843,14 @@
             "La Barcelona de Varg."
         ],
         "size": "2000x2000"
+    },
+    "blablabla": {
+        "name": "Blablabla",
+        "date": "2021-09-30T00:00",
+        "description": [
+            "Han sacado a Monchito a pasear. La última vez la siguió una pandemia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Greta Thunberg"]
     }
 }

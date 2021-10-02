@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fdc6563d3345c8ac37f4c4313b527a5",
+    "revision": "b9a85cc19cde75652e0a86cdff1d8381",
     "url": "/index.html"
   },
   {
-    "revision": "b5d9a14eb066d5ba1e84",
+    "revision": "ed99a6acf90378a58d76",
     "url": "/static/css/main.dfe9f2f3.chunk.css"
   },
   {
-    "revision": "38e058991f0896531e28",
-    "url": "/static/js/2.6035bf0a.chunk.js"
+    "revision": "bd94f737249611be4eb3",
+    "url": "/static/js/2.8e9624dd.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.6035bf0a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8e9624dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5d9a14eb066d5ba1e84",
-    "url": "/static/js/main.2bb3aa54.chunk.js"
+    "revision": "ed99a6acf90378a58d76",
+    "url": "/static/js/main.7ae25277.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1178,6 +1178,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f51dc631c6ee21ad42daabe636c63016",
     "url": "/static/media/pabluigi.f51dc631.mp3"
+  },
+  {
+    "revision": "4b1219cd3a65dd2b26b208ab988b353c",
+    "url": "/static/media/palmeros.4b1219cd.png"
+  },
+  {
+    "revision": "4f2bc0112dfcdb7268c824131a735518",
+    "url": "/static/media/palmeros.4f2bc011.png"
   },
   {
     "revision": "730173e1a082eac2955be241aadb74d0",

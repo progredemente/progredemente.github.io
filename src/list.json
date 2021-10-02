@@ -1852,5 +1852,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Greta Thunberg"]
+    },
+    "palmeros": {
+        "name": "Palmeros",
+        "date": "2021-10-02T00:00",
+        "description": [
+            "Van sus palmeros antes que nuestros palmeros.",
+            "Portada para El Lunes."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

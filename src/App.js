@@ -80,7 +80,7 @@ class App extends Component{
                             <div className="social">
                                 {
                                     social.map((s) => {
-                                        return <Social page={s}/>
+                                        return <Social key={s.id} page={s}/>
                                     })
                                 }
                             </div>

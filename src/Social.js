@@ -7,7 +7,6 @@ class Social extends Component{
     constructor(props){
         super(props);
         this.state = {
-            showMenu: false,
             load: false
         }
     }

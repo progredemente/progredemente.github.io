@@ -8,6 +8,7 @@ import {Link} from 'react-router-dom';
 import {formatDate} from './utils.js';
 import Loading from './Loading.js';
 import Banner from './Banner';
+import RichText from './RichText.js';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -85,7 +86,7 @@ class Post extends Component {
                     <p className="name">{list_[id].name}</p>
                     <p className="date">{date}</p>
                     {list_[id].description.map((text, index) => {
-                        return <p key={index}>{text}</p>
+                        return <RichText key={index} text={text}/>
                     })}
                     { postSeries.length > 0 &&
                         <div className="series-list">En la{postSeries.length > 1 ? "s" : ""} serie{postSeries.length > 1 ? "s" : ""}: {postSeries.map((s) => {

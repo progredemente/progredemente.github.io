@@ -1,0 +1,36 @@
+{
+    "ojota_patrick": {
+        "name": "Patrick Ojota",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/ojota_patrick"
+            },
+            {
+                "id": "twitch",
+                "url": "https://www.twitch.tv/patrickojota"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/patrickojota/"
+            }
+        ]
+    },
+    "CTercermundista": {
+        "name": "Carnaval Tercermundista",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/CTercermundista"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/carnavaltercermundista/"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/carnavaltercermundista/"
+            }
+        ]
+    }
+}

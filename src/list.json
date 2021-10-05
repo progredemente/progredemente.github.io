@@ -1114,7 +1114,7 @@
         "name": "Parásitos",
         "date": "2021-01-19T00:00",
         "description": [
-            "Me encanta como Carnaval Tercermundista llama a esta gente, los malbañados, porque tener parásitos es un idicativo de falta de higiene. Y estos los tienen y los mantienen."
+            "Me encanta como {contact:CTercermundista} llama a esta gente, los malbañados, porque tener parásitos es un idicativo de falta de higiene. Y estos los tienen y los mantienen."
         ],
         "size": "2000x2000"
     },
@@ -1584,7 +1584,7 @@
         "date": "2021-06-23T00:00",
         "description": [
             "Esta viñeta está inspirada en este artículo:",
-            "https://www.publico.es/politica/mareas-paro-politico-izquierdas-morir-profesionalmente.html"
+            "{https://www.publico.es/politica/mareas-paro-politico-izquierdas-morir-profesionalmente.html}"
         ],
         "size": "2000x2000"
     },
@@ -1760,7 +1760,7 @@
         "name": "Matronus",
         "date": "2021-09-02T00:00",
         "description": [
-            "Inspirado en un tweet e ilustración de Patrick Ojota. Seguidlo en Twitter, es ojota_patrick allí."
+            "Inspirado en un tweet e ilustración de {contact:ojota_patrick}. Seguidlo."
         ],
         "size": "4000x3000"
     },

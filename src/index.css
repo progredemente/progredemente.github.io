@@ -4,6 +4,7 @@
 }
 * {
   --body-width: 900px;
+  --link-color: blue;
 }
 body {
   font-family: ComicTypo;
@@ -43,4 +44,9 @@ h3 {
 
 .hidden {
     display: none !important;
+}
+
+a,
+a:visited {
+  color: var(--link-color);
 }

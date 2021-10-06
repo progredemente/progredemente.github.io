@@ -1863,5 +1863,13 @@
         "size": "3000x3000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "miradas_impudicas": {
+        "name": "Miradas impúdicas",
+        "date": "2021-10-06T00:00",
+        "description": [
+            "Jaque mate, charos. Vamos a tener que empezar a ver normal el llevar gafas de sol en interiores."
+        ],
+        "size": "3000x3000"
     }
 }

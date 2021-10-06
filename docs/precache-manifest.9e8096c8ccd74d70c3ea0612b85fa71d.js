@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "374a51e7408a63ef6e8a407b6e3b2172",
+    "revision": "59e6d6338a4ad7844912f4831f5e4c72",
     "url": "/index.html"
   },
   {
-    "revision": "6c8930ece47a0701690f",
+    "revision": "2285dca7409254ae1934",
     "url": "/static/css/main.bd8b9531.chunk.css"
   },
   {
-    "revision": "60a97bea9ce58be8731c",
-    "url": "/static/js/2.b713a6f7.chunk.js"
+    "revision": "43c64c364442ff9a2978",
+    "url": "/static/js/2.218264d9.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.b713a6f7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.218264d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c8930ece47a0701690f",
-    "url": "/static/js/main.ff23546e.chunk.js"
+    "revision": "2285dca7409254ae1934",
+    "url": "/static/js/main.932a10fb.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1054,6 +1054,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5af402e14ba2cc8023533eadb1d10998",
     "url": "/static/media/minoria_absoluta.5af402e1.png"
+  },
+  {
+    "revision": "a9fd9829f9aea189a31e681fe6abdf5c",
+    "url": "/static/media/miradas_impudicas.a9fd9829.png"
+  },
+  {
+    "revision": "d1fb7ac5fe7f5cd71e3c8d73afe63864",
+    "url": "/static/media/miradas_impudicas.d1fb7ac5.png"
   },
   {
     "revision": "ad480b8c9a82f2d8fe41d40d5c4ced49",

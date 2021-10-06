@@ -1858,7 +1858,7 @@
         "date": "2021-10-02T00:00",
         "description": [
             "Van sus palmeros antes que nuestros palmeros.",
-            "Portada para El Lunes."
+            "Portada para {contact:revista_ellunes}."
         ],
         "size": "3000x3000",
         "celebrities": ["Pedro Sánchez"],

@@ -32,5 +32,18 @@
                 "url": "https://www.instagram.com/carnavaltercermundista/"
             }
         ]
+    },
+    "revista_ellunes": {
+        "name": "El Lunes",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/revista_ellunes"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/revista_ellunes/"
+            }
+        ]
     }
 }

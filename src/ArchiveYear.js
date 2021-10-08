@@ -20,7 +20,7 @@ class ArchiveYear extends Component {
                     {
                         this.props.posts.map((post) => {
                             return (
-                                <Thumbnail post={post} />
+                                <Thumbnail post={post} key={post.id}/>
                             )
                         })
                     }

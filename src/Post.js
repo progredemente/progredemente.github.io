@@ -40,6 +40,7 @@ class Post extends Component {
     }
 
     render() {
+        console.log(this.props.match.path)
         let id = this.props.match.params.id;
         let list_ = list;
         let series = "post";

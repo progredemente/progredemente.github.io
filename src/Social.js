@@ -18,9 +18,11 @@ class Social extends Component{
                 rel="noopener noreferrer"
                 href={this.props.page.url}
                 onClick={() => {
-                    window.gtag('event', 'page_view', {
-                        page_title: this.props.page.id
-                    });
+                    if(this.props.track){
+                        window.gtag('event', 'page_view', {
+                            page_title: this.props.page.id
+                        });
+                    }
                 }}
                 className="social-link"
             >

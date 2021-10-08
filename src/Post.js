@@ -40,19 +40,17 @@ class Post extends Component {
     }
 
     render() {
-        console.log(this.props.match.path)
         let id = this.props.match.params.id;
         let list_ = list;
-        let series = "post";
-        if(this.props.match !== undefined) {
-            series = this.props.match.url.split("/")[1];
-            if(Object.keys(seriesList).includes(series)){
-                if(series === "progremon"){
-                    list_ = filterPosts(list, series, { "name": null, "date": null, "description": [], size: "2000x2000" }, "progremon_0");
-                }
-                else {
-                    list_ = filterPosts(list, series);
-                }
+        let urlSplit = this.props.match.url.split("/");
+        urlSplit.pop();
+        let series = urlSplit[urlSplit.length - 1];
+        if(Object.keys(seriesList).includes(series)){
+            if(series === "progremon"){
+                list_ = filterPosts(list, series, { "name": null, "date": null, "description": [], size: "2000x2000" }, "progremon_0");
+            }
+            else {
+                list_ = filterPosts(list, series);
             }
         }
         let post = list_[id];
@@ -60,13 +58,16 @@ class Post extends Component {
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
         let date = list_[id].date != null ? formatDate(new Date(list_[id].date)): null;
+        let currentUrl = urlSplit.join("/");
+        urlSplit.pop();
+        let parentUrl = urlSplit.join("/")
         return (
             <div className="post-img-container">
                 { series !== "smash" &&
-                    <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg}/>
+                    <PostNavigator currentId={id} list={Object.keys(list_)} url={currentUrl} changeImg={this.changeImg}/>
                 }
                 { series === "smash" &&
-                    <Roster {...this.props} changeImg={this.changeImg}/>
+                    <Roster {...this.props} changeImg={this.changeImg} url={currentUrl}/>
                 }
                 <div
                     className={ `loading-image ${this.state.load ? " hidden": ""}` }
@@ -81,7 +82,7 @@ class Post extends Component {
                         this.setState({ load: true })
                 } }/>
                 { series !== "smash" &&
-                    <PostNavigator currentId={id} list={Object.keys(list_)} series={series} changeImg={this.changeImg}/>
+                    <PostNavigator currentId={id} list={Object.keys(list_)} url={currentUrl} changeImg={this.changeImg}/>
                 }
                 <div>
                     <p className="name">{list_[id].name}</p>
@@ -92,7 +93,7 @@ class Post extends Component {
                     { postSeries.length > 0 &&
                         <div className="series-list">En la{postSeries.length > 1 ? "s" : ""} serie{postSeries.length > 1 ? "s" : ""}: {postSeries.map((s) => {
                             return(
-                                <Link to={`/${s}`} key={s}>
+                                <Link to={`${parentUrl}/${s}`} key={s}>
                                     <Banner id={s} alt={seriesList[s]} key={`series-link-${s}`} />
                                 </Link>
                             ) 
@@ -101,7 +102,7 @@ class Post extends Component {
                     }
                     { postCelebrities.length > 0 &&
                         <div className="celebrity-list">Personaje{postCelebrities.length > 1 ? "s" : ""}: {postCelebrities.map((c, i) => {
-                            return <Link to={`/personaje/${c}`} key={c}>{c}</Link>
+                            return <Link to={`${parentUrl}/personaje/${c}`} key={c}>{c}</Link>
                         })}</div>
                     }
                 </div>

@@ -1,34 +1,42 @@
 [
     {
         "id": "instagram",
+        "name": "Instagram",
         "url": "https://www.instagram.com/progredemente"
     },
     {
         "id": "twitter",
+        "name": "Twitter",
         "url": "https://twitter.com/progredemente"
     },
     {
-        "id": "gab",
-        "url": "https://gab.com/progredemente"
-    },
-    {
         "id": "telegram",
+        "name": "Telegram",
         "url": "https://t.me/progredemente"
     },
     {
         "id": "youtube",
+        "name": "YouTube",
         "url": "https://www.youtube.com/channel/UCZtxGIqOUgIyKxzSLUOgDpA"
     },
     {
-        "id": "parler",
-        "url": "https://parler.com/#/user/Progredemente"
+        "id": "gab",
+        "name": "Gab",
+        "url": "https://gab.com/progredemente"
     },
     {
         "id": "minds",
+        "name": "Minds",
         "url": "https://www.minds.com/progredemente"
     },
     {
         "id": "gettr",
+        "name": "GETTR",
         "url": "https://gettr.com/user/progredemente"
+    },
+    {
+        "id": "parler",
+        "name": "Parler",
+        "url": "https://parler.com/#/user/Progredemente"
     }
 ]

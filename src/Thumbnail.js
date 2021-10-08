@@ -13,7 +13,7 @@ class Thumbnail extends Component {
 
     render() {
         return (
-            <Link to={`/post/${this.props.post.id}`} key={this.props.post.id} className="thumbnail">
+            <Link to={`${this.props.url}/post/${this.props.post.id}`} key={this.props.post.id} className="thumbnail">
                 <div
                     className={ `loading-thumbnail${this.state.load ? " hidden": ""}` }
                 >

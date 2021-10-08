@@ -12,7 +12,7 @@ class Series extends Component {
             <div className="series-container">
                 { Object.keys(series).map((s) => {
                     return (
-                        <Link to={`/${s}`} key={s}>
+                        <Link to={`${this.props.url}/${s}`} key={s}>
                             <Banner id={s} alt={series[s]} key={`series-${s}`} />
                         </Link>
                     );

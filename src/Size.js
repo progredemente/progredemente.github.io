@@ -14,7 +14,7 @@ class Size extends Component {
                 {
                     listKeys.map((key) => {
                         return (
-                            <Link to={`/post/${key}`} key={key}>
+                            <Link to={`${this.props.url}/post/${key}`} key={key}>
                                 <img src={require(`./img/thumbnails/${key}.png`)} alt={list[key].name} title={`${list[key].date} - ${list[key].name}`}/>
                             </Link>
                         )

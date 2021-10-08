@@ -37,7 +37,7 @@ class Archive extends Component {
             {
                 Object.keys(listByYears).sort().reverse().map((year, i) => {
                     return (
-                        <ArchiveYear year={year} posts={listByYears[year]} show={i === 0} key={year}/>
+                        <ArchiveYear year={year} posts={listByYears[year]} show={i === 0} key={year} url={this.props.url}/>
                     )
                 })
             }

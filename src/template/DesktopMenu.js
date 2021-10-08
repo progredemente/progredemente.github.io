@@ -6,12 +6,12 @@ class DesktopMenu extends Component {
     render() {
         return (
             <nav id="desktop-menu">
-                <Link to="/">Inicio</Link>
-                <Link to="/series">Series</Link>
-                <Link to="/animacion">Animación</Link>
-                <Link to="/archivo">Archivo</Link>
-                <Link to="/estadisticas">Estadísticas</Link>
-                <Link to="/sobre_mi">Sobre&nbsp;mí</Link>
+                <Link to={`${this.props.url}`}>Inicio</Link>
+                <Link to={`${this.props.url}/series`}>Series</Link>
+                <Link to={`${this.props.url}/animacion`}>Animación</Link>
+                <Link to={`${this.props.url}/archivo`}>Archivo</Link>
+                <Link to={`${this.props.url}/estadisticas`}>Estadísticas</Link>
+                <Link to={`${this.props.url}/sobre_mi`}>Sobre&nbsp;mí</Link>
             </nav>
         );
     }

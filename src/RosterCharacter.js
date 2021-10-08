@@ -14,7 +14,7 @@ class RosterCharacter extends Component {
     render() {
         return (
             <Link 
-                to={`/smash/${this.props.id}`}
+                to={`${this.props.url}/${this.props.id}`}
                 key={this.props.id}
                 className="character-container"
                 onClick={(e) => {
@@ -30,7 +30,7 @@ class RosterCharacter extends Component {
                     hidden={ this.state.load }
                 />
                 <div
-                    className={ `character${this.state.load ? "": " hidden" }`}
+                    className={`character${this.state.load ? "": " hidden" }`}
                 >
                     <img    
                         src={require(`./img/thumbnails/${this.props.id}.png`)}

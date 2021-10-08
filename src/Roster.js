@@ -21,8 +21,7 @@ class Roster extends Component {
         this.song.volume = .5;
         this.song.loop = true;
         this.song.play();
-        let location = this.props.location.pathname.split("/");
-        let currentPlayer = location[location.length - 1];
+        let currentPlayer = this.props.match.params.id;
         this.changePlayer(currentPlayer);
     }
 
@@ -38,8 +37,7 @@ class Roster extends Component {
             }
             return list[post].series.includes("smash");
         })
-        let location = this.props.location.pathname.split("/");
-        let currentPlayer = location[location.length - 1];
+        let currentPlayer = this.props.match.params.id;
         return (
             <div className="roster">
                 {
@@ -51,6 +49,7 @@ class Roster extends Component {
                                 name={list[player].name}
                                 changePlayer={this.changePlayer}
                                 selected={player === currentPlayer}
+                                url={this.props.url}
                             />
                         )
                     })

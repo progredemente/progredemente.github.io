@@ -37,6 +37,10 @@ class Social extends Component{
                         this.setState({ load: true })
                     }}
                 />
+                {
+                    this.props.name &&
+                    this.props.page.name
+                }
             </a>
         );
     }

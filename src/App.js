@@ -22,6 +22,7 @@ import series from './series.json';
 import list from './list.json';
 import Footer from "./template/Footer";
 import {createBrowserHistory} from 'history';
+import Welcome from './Welcome';
 
 const history = createBrowserHistory();
 
@@ -36,133 +37,111 @@ class App extends Component{
     render() {
         return (
             <Router history={history}>
-                <MainHeader />
-                <DesktopMenu />
-                <section className="sections">
                     <Switch>
-                        <Route exact path="/">
-                            <Redirect to="/post" />
-                        </Route>
-                        <Route exact path="/post">
-                            <Redirect to={`/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>
-                        </Route>
-                        <Route exact path="/post/:id" component={Post}/>
-                        <Route exact path="/series">
-                            <Series />
-                        </Route>
-                        <Route exact path="/archivo">
-                            <Archive />
-                        </Route>
-                        <Route exact path="/progremon">
-                            <Redirect to="/progremon/progremon_0"/>
-                        </Route>
-                        <Route exact path="/progremon/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="progremon" alt={series["progremon"]} key={`banner-progremon`} />
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/smash">
-                            <Redirect to="/smash/captain_falconetti"/>
-                        </Route>
-                        <Route exact path="/smash/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="smash" alt={series["s,ash"]} key={`banner-smash`} />
-                                        <Post { ...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/terf_vs_trans">
-                            <Redirect to="/terf_vs_trans/terf_vs_trans_1"/>
-                        </Route>
-                        <Route exact path="/terf_vs_trans/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="terf_vs_trans" alt={series["terf_vs_trans"]} key={`banner-terf_vs_trans`} />
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/memes">
-                            <Redirect to="/memes/bici"/>
-                        </Route>
-                        <Route exact path="/memes/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="memes" alt={series["memes"]} key={`banner-memes`} />
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/cuentos">
-                            <Redirect to="/cuentos/tres_cerditos"/>
-                        </Route>
-                        <Route exact path="/cuentos/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="cuentos" alt={series["cuentos"]} key={`banner-cuentos`} />
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/el_palmero">
-                            <Redirect to="/el_palmero/oso_machista"/>
-                        </Route>
-                        <Route exact path="/el_palmero/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="el_palmero" alt={series["el_palmero"]} key={`banner-el_palmero`} />
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/postales_navidenas">
-                            <Redirect to="/postales_navidenas/tio_nadal"/>
-                        </Route>
-                        <Route exact path="/postales_navidenas/:id" component={
-                            (props) => {
-                                return (
-                                    <div>
-                                        <Banner id="postales_navidenas" alt={series["postales_navidenas"]} key={`banner-postales_navidenas`} />
-                                        <Post {...props}/>
-                                    </div>
-                                )
-                            }
-                        }/>
-                        <Route exact path="/sobre_mi">
-                            <About />
-                        </Route>
-                        <Route exact path="/animacion">
-                            <Animation />
-                        </Route>
-                        <Route exact path="/estadisticas">
-                            <Stats />
-                        </Route>
-                        <Route exact path="/.estadisticas">
-                            <PageStats />
-                        </Route>
-                        <Route exact path="/personaje/:name" component={Celebrity}>
-                        </Route>
-                        <Route exact path="/.tamano/:size" component={Size}>
+                        <Route exact path="/" component={Welcome} />
+                        <Route path="/web/" render={({ match: { url } }) => (
+                            <>
+                                <MainHeader url={url}/>
+                                <DesktopMenu url={url}/>
+                                <section className="sections">
+                                    <Switch>
+                                        <Redirect exact from={`${url}`} to={`${url}/post`}/>
+                                        <Redirect exact from={`${url}/post`} to={`${url}/post/${Object.keys(list)[Object.keys(list).length - 1]}`}/>
+                                        <Route exact path={`${url}/post/:id`} component={Post}/>
+                                        <Route exact path={`${url}/series`}>
+                                            <Series url={url}/>
+                                        </Route>
+                                        <Route exact path={`${url}/archivo`}>
+                                            <Archive url={url}/>
+                                        </Route>
+                                        <Redirect exact from={`${url}/progremon`} to={`${url}/progremon/progremon_0`}/>
+                                        <Route exact path={`${url}/progremon/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="progremon" alt={series["progremon"]} key={`banner-progremon`} />
+                                                    <Post {...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Redirect exact from={`${url}/smash`} to={`${url}/smash/captain_falconetti`}/>
+                                        <Route exact path={`${url}/smash/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="smash" alt={series["smash"]} key={`banner-smash`} />
+                                                    <Post { ...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Redirect exact from={`${url}/terf_vs_trans`} to={`${url}/terf_vs_trans/terf_vs_trans_1`}/>
+                                        <Route exact path={`${url}/terf_vs_trans/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="terf_vs_trans" alt={series["terf_vs_trans"]} key={`banner-terf_vs_trans`} />
+                                                    <Post {...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Redirect exact from={`${url}/memes`} to={`${url}/memes/bici`}/>
+                                        <Route exact path={`${url}/memes/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="memes" alt={series["memes"]} key={`banner-memes`} />
+                                                    <Post {...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Redirect exact from={`${url}/cuentos`} to={`${url}/cuentos/tres_cerditos`}/>
+                                        <Route exact path={`${url}/cuentos/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="cuentos" alt={series["cuentos"]} key={`banner-cuentos`} />
+                                                    <Post {...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Redirect exact from={`${url}/el_palmero`} to={`${url}/el_palmero/oso_machista`}/>
+                                        <Route exact path={`${url}/el_palmero/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="el_palmero" alt={series["el_palmero"]} key={`banner-el_palmero`} />
+                                                    <Post {...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Redirect exact from={`${url}/postales_navidenas`} to={`${url}/postales_navidenas/tio_nadal`}/>
+                                        <Route exact path={`${url}/postales_navidenas/:id`} render={(props) => {
+                                            return (
+                                                <div>
+                                                    <Banner id="postales_navidenas" alt={series["postales_navidenas"]} key={`banner-postales_navidenas`} />
+                                                    <Post {...props}/>
+                                                </div>
+                                            )
+                                        }}/>
+                                        <Route exact path={`${url}/sobre_mi`}>
+                                            <About />
+                                        </Route>
+                                        <Route exact path={`${url}/animacion`}>
+                                            <Animation />
+                                        </Route>
+                                        <Route exact path={`${url}/estadisticas`}>
+                                            <Stats />
+                                        </Route>
+                                        <Route exact path={`${url}/.estadisticas`}>
+                                            <PageStats />
+                                        </Route>
+                                        <Route exact path={`${url}/personaje/:name`} render={(props) => {
+                                            return <Celebrity {...props} url={url} />
+                                        }}/>
+                                        <Route exact path={`${url}/.tamano/:size`} render={(props) => {
+                                            return <Size {...props} url={url} />
+                                        }}/>
+                                    </Switch>
+                                </section>
+                                <Footer /> 
+                            </>
+                            )}>
                         </Route>
                     </Switch>
-                </section>
-                <Footer />
             </Router>
         );
     }

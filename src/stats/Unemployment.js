@@ -92,8 +92,8 @@ class Unemployment extends Component {
                             <YAxis stroke="black" type="number" domain={["auto", "auto"]} width={100}/>
                             <CartesianGrid strokeDasharray="3 3" />
                             {
-                                unemploymentColors.map((year) => {
-                                    return <Line dataKey={year.key} stroke={year.color} dot={false} />
+                                unemploymentColors.map((year, i) => {
+                                    return <Line dataKey={year.key} stroke={year.color} dot={false} key={i} />
                                 })
                             }
 

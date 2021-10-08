@@ -17,8 +17,8 @@ class MainHeader extends Component {
     render() {
         return (
             <header className="main-header">
-                <PhoneMenu />
-                <Link to="/" className="logo">
+                <PhoneMenu url={this.props.url}/>
+                <Link to={this.props.url} className="logo">
                     <Loading hidden={this.state.logo} />
                     <img
                         src={logo}

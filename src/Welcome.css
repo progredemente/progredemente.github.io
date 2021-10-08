@@ -1,0 +1,74 @@
+.welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    position: relative;
+    box-sizing: border-box;
+}
+.welcome
+.welcome-logo img,
+.welcome-logo .loading {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.welcome-logo {
+    margin: 25px 0 25px 0;
+}
+
+.welcome-links {
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+}
+
+.welcome-links > .social-link {
+    border: 4px solid black;
+    padding: 10px 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    display: flex;
+    width: 400px;
+    height: 50px;
+    text-decoration: none;
+    --link-color: black;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-color: white;
+}
+
+@media all and (max-width: 440px) {
+    .welcome-links,
+    .welcome-links > .social-link {
+        width: 100%;
+    }
+}
+
+.welcome-links > .social-link > img,
+.welcome-links > .social-link > .loading {
+    margin-right: 10px;
+    position: absolute;
+    left: 30px;
+    transform: translateX(-50%);
+}
+
+.welcome-links > .social-link.highlight {
+    font-size: 1.5em;
+    height: 70px;
+}
+
+.welcome-links > .social-link.highlight > img,
+.welcome-links > .social-link.highlight> .loading {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+.welcome-links > .social-link.more {
+    font-size: 1.5em;
+}

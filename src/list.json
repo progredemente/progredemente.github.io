@@ -1871,5 +1871,15 @@
             "Jaque mate, charos. Vamos a tener que empezar a ver normal el llevar gafas de sol en interiores."
         ],
         "size": "3000x3000"
+    },
+    "compra_votos": {
+        "name": "Compra de votos",
+        "date": "2021-10-10T00:00",
+        "description": [
+            "Cuando empiezan con estas cosas no se si alegrarme, por la desesperación que tienen que tener para sacar una medida tan burda con la que arañar unos votos, o asustarme, porque probablemente les funcione."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

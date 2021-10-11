@@ -1881,5 +1881,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "hispanidad": {
+        "name": "Hispanidad",
+        "date": "2021-10-12T00:00",
+        "description": [
+            "No soy una persona especialmente patriota, pero un día es un día."
+        ],
+        "size": "3000x3000"
     }
 }

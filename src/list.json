@@ -1889,5 +1889,15 @@
             "No soy una persona especialmente patriota, pero un día es un día."
         ],
         "size": "3000x3000"
+    },
+    "calamar": {
+        "name": "Calamar",
+        "date": "2021-10-14T00:00",
+        "description": [
+            "Ambos desatan pasiones allá donde van."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pedro Sánchez", "Joe Biden"],
+        "parties": ["PSOE"]
     }
 }

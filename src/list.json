@@ -1898,6 +1898,10 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Pedro Sánchez", "Joe Biden"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

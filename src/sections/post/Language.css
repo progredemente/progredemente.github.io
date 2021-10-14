@@ -1,0 +1,20 @@
+.language {
+    display: flex;
+    align-items: center;
+}
+
+.language span {
+    margin-right: 10px;
+}
+
+.language img {
+    height: 20px;
+    padding: 5px;
+    border: 4px solid transparent;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.language img.selected {
+    border-color: black;
+}

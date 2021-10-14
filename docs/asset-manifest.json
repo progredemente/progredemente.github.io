@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.492577a6.chunk.css",
-    "main.js": "/static/js/main.18979e36.chunk.js",
-    "main.js.map": "/static/js/main.18979e36.chunk.js.map",
+    "main.css": "/static/css/main.5fb944c4.chunk.css",
+    "main.js": "/static/js/main.3d302fe5.chunk.js",
+    "main.js.map": "/static/js/main.3d302fe5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ab35a7a2.chunk.js": "/static/js/2.ab35a7a2.chunk.js",
-    "static/js/2.ab35a7a2.chunk.js.map": "/static/js/2.ab35a7a2.chunk.js.map",
+    "static/js/2.a7e1cea3.chunk.js": "/static/js/2.a7e1cea3.chunk.js",
+    "static/js/2.a7e1cea3.chunk.js.map": "/static/js/2.a7e1cea3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.41268ac2b9669e81cdb4a5443a0c3ba1.js": "/precache-manifest.41268ac2b9669e81cdb4a5443a0c3ba1.js",
+    "precache-manifest.16d213557e3caaf47999424e14779638.js": "/precache-manifest.16d213557e3caaf47999424e14779638.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.492577a6.chunk.css.map": "/static/css/main.492577a6.chunk.css.map",
-    "static/js/2.ab35a7a2.chunk.js.LICENSE.txt": "/static/js/2.ab35a7a2.chunk.js.LICENSE.txt",
+    "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
+    "static/js/2.a7e1cea3.chunk.js.LICENSE.txt": "/static/js/2.a7e1cea3.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -95,6 +95,8 @@
     "static/media/efecto_illa.png": "/static/media/efecto_illa.edf508e5.png",
     "static/media/el_coletas_sapee.png": "/static/media/el_coletas_sapee.d40d694a.png",
     "static/media/el_palmero_banner.png": "/static/media/el_palmero_banner.87d3425f.png",
+    "static/media/en.svg": "/static/media/en.da08e077.svg",
+    "static/media/es.svg": "/static/media/es.489a72f2.svg",
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
     "static/media/fabrica_votantes.png": "/static/media/fabrica_votantes.ce159a07.png",
@@ -250,8 +252,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ab35a7a2.chunk.js",
-    "static/css/main.492577a6.chunk.css",
-    "static/js/main.18979e36.chunk.js"
+    "static/js/2.a7e1cea3.chunk.js",
+    "static/css/main.5fb944c4.chunk.css",
+    "static/js/main.3d302fe5.chunk.js"
   ]
 }

@@ -9,6 +9,7 @@ import {formatDate} from '../../common/utils.js';
 import Loading from '../../common/Loading.js';
 import Banner from '../../common/Banner';
 import RichText from './RichText.js';
+import Language from './Language';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -32,7 +33,10 @@ class Post extends Component {
 
     constructor(props) {
         super(props);
-        this.state = { load: false }
+        this.state = {
+            load: false,
+            currentLang: null
+        }
     }
 
     changeImg = () => {
@@ -60,7 +64,11 @@ class Post extends Component {
         let date = list_[id].date != null ? formatDate(new Date(list_[id].date)): null;
         let currentUrl = urlSplit.join("/");
         urlSplit.pop();
-        let parentUrl = urlSplit.join("/")
+        let parentUrl = urlSplit.join("/");
+        let lang = "";
+        if(post.lang && this.state.currentLang !== null && this.state.currentLang !== post.lang.default) {
+            lang = `.${this.state.currentLang}`;
+        }
         return (
             <div className="post-img-container">
                 { series !== "smash" &&
@@ -78,7 +86,7 @@ class Post extends Component {
                 >
                     <Loading />
                 </div>
-                <img key={id} className={ this.state.load ? "": "hidden" } src={require(`../../img/comic/${id}.png`)} alt={list_[id].name} onLoad={ () => {
+                <img key={id} className={ this.state.load ? "": "hidden" } src={require(`../../img/comic/${id}${lang}.png`)} alt={list_[id].name} onLoad={ () => {
                         this.setState({ load: true })
                 } }/>
                 { series !== "smash" &&
@@ -87,6 +95,12 @@ class Post extends Component {
                 <div>
                     <p className="name">{list_[id].name}</p>
                     <p className="date">{date}</p>
+                    {
+                        post.lang &&
+                        <Language currentLang={this.state.currentLang} langs={post.lang} change={(lang) => {
+                            this.setState({currentLang: lang, load: false})
+                        }}/>
+                    }
                     {list_[id].description.map((text, index) => {
                         return <RichText key={index} text={text}/>
                     })}

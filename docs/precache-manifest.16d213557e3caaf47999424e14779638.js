@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77361b9e7e6a21a3c5d4bcf994b0e956",
+    "revision": "4aaffbc8bb590d93abf8ac441194ea50",
     "url": "/index.html"
   },
   {
-    "revision": "2749ad395025540b8fd6",
-    "url": "/static/css/main.492577a6.chunk.css"
+    "revision": "db8fb9249db3d8bfa963",
+    "url": "/static/css/main.5fb944c4.chunk.css"
   },
   {
-    "revision": "ae41bd9a4f60f7cfe122",
-    "url": "/static/js/2.ab35a7a2.chunk.js"
+    "revision": "bf54cb04d9d010eed56f",
+    "url": "/static/js/2.a7e1cea3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ab35a7a2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a7e1cea3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2749ad395025540b8fd6",
-    "url": "/static/js/main.18979e36.chunk.js"
+    "revision": "db8fb9249db3d8bfa963",
+    "url": "/static/js/main.3d302fe5.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -642,6 +642,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87d3425faf25f2b27c4d248bb01220a1",
     "url": "/static/media/el_palmero_banner.87d3425f.png"
+  },
+  {
+    "revision": "da08e077435d424937ee4c60ec87c261",
+    "url": "/static/media/en.da08e077.svg"
+  },
+  {
+    "revision": "489a72f2d78519e074d46e809a1ac013",
+    "url": "/static/media/es.489a72f2.svg"
   },
   {
     "revision": "398d04035cfb8f8cb95756590a985eb4",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5fb944c4.chunk.css",
-    "main.js": "/static/js/main.cb36810f.chunk.js",
-    "main.js.map": "/static/js/main.cb36810f.chunk.js.map",
+    "main.js": "/static/js/main.c5a1ea49.chunk.js",
+    "main.js.map": "/static/js/main.c5a1ea49.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.63c31f11.chunk.js": "/static/js/2.63c31f11.chunk.js",
-    "static/js/2.63c31f11.chunk.js.map": "/static/js/2.63c31f11.chunk.js.map",
+    "static/js/2.38345bc0.chunk.js": "/static/js/2.38345bc0.chunk.js",
+    "static/js/2.38345bc0.chunk.js.map": "/static/js/2.38345bc0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97d8b8fc4d01c2572aec0a945278d3bf.js": "/precache-manifest.97d8b8fc4d01c2572aec0a945278d3bf.js",
+    "precache-manifest.1ae10e28fac1441bdabb9dc979989573.js": "/precache-manifest.1ae10e28fac1441bdabb9dc979989573.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
-    "static/js/2.63c31f11.chunk.js.LICENSE.txt": "/static/js/2.63c31f11.chunk.js.LICENSE.txt",
+    "static/js/2.38345bc0.chunk.js.LICENSE.txt": "/static/js/2.38345bc0.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -99,6 +99,7 @@
     "static/media/es.svg": "/static/media/es.489a72f2.svg",
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
+    "static/media/evil_cartoonist.png": "/static/media/evil_cartoonist.29214315.png",
     "static/media/fabrica_votantes.png": "/static/media/fabrica_votantes.ce159a07.png",
     "static/media/feliz_2021.png": "/static/media/feliz_2021.fbecfd65.png",
     "static/media/fer_simon.png": "/static/media/fer_simon.eaea6a51.png",
@@ -253,8 +254,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.63c31f11.chunk.js",
+    "static/js/2.38345bc0.chunk.js",
     "static/css/main.5fb944c4.chunk.css",
-    "static/js/main.cb36810f.chunk.js"
+    "static/js/main.c5a1ea49.chunk.js"
   ]
 }

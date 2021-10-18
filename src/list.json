@@ -1903,5 +1903,13 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "rubalcaba": {
+        "name": "Rubalcaba",
+        "date": "2021-10-18T00:00",
+        "description": [
+            "No soy yo precisamente la persona que mejores caricaturas hace, pero al menos lo mío no cuesta la millonada que probablemente haya costado la escultura, que entiendo que ha sido pagada con dinero de origen público."
+        ],
+        "size": "2000x2000"
     }
 }

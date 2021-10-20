@@ -1920,5 +1920,15 @@
         ],
         "size": "2000x2000",
         "series": ["memes"]
+    },
+    "pasado": {
+        "name": "El pasado",
+        "date": "2021-10-21T00:00",
+        "description": [
+            "Inspirado en una viñeta que acabo de ver en la cuenta del Jueves... en fin."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Casado"],
+        "parties": ["PP"]
     }
 }

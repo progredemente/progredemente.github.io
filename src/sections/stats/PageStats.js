@@ -16,6 +16,14 @@ import list from '../../list.json';
  
 class PageStats extends Component {
 
+    constructor(props){
+        super(props);
+        this.state = {
+            characterYear: null,
+            partyYear: null,
+        }
+    }
+
     getMonthData = () => {
         let monthData = [
             { name: "Ene", tootipName: "Enero"},
@@ -50,10 +58,21 @@ class PageStats extends Component {
         }
         return [monthData, yearColors];
     }
+
+    getListKeys(year) {
+        let listKeys = Object.keys(list);
+        if(year !== null) {
+            listKeys = listKeys.filter((key) => {
+                return new Date(list[key].date).getFullYear() === year;
+            })
+        }
+        return listKeys;
+    }
     
     getCelebrityData = () => {
         let celebrityData = [];
-        for(let key of Object.keys(list)) {
+        let listKeys = this.getListKeys(this.state.characterYear);
+        for(let key of listKeys) {
             let post = list[key];
             if(post.celebrities !== undefined) {
                 for(let celName of post.celebrities){
@@ -103,7 +122,8 @@ class PageStats extends Component {
             "ERC": "#ffb018",
             "C's": "#fa5000"
         }
-        for(let key of Object.keys(list)) {
+        let listKeys = this.getListKeys(this.state.partyYear);
+        for(let key of listKeys) {
             let post = list[key];
             if(post.parties !== undefined) {
                 for(let partyName of post.parties){
@@ -139,13 +159,50 @@ class PageStats extends Component {
                         <CartesianGrid strokeDasharray="3 3" />
                         {
                             yearColors.map((year) => {
-                                return <Bar dataKey={year.year} fill={year.color}/>
+                                return <Bar dataKey={year.year} fill={year.color} key={year.year}/>
                             })
                         }
                     </BarChart>
                 </div>
                 <div className="chart">
                     <h2>Personajes públicos por aparición</h2>
+                    <div>
+                        <div
+                            onClick={() =>{
+                                this.setState({characterYear: null})
+                            }}
+                        >
+                            <input
+                                type="radio"
+                                checked={this.state.characterYear === null}
+                                readOnly
+                            />
+                            Todos los años
+                        </div>
+                        {
+                            (() => {
+                                let ret = [];
+                                for(let i = 2020; i <= new Date().getFullYear(); i++){
+                                    ret.push(
+                                        <div
+                                            key={i}
+                                            onClick={() =>{
+                                                this.setState({characterYear: i})
+                                            }}
+                                        >
+                                            <input
+                                                type="radio"
+                                                checked={this.state.characterYear === i}
+                                                readOnly
+                                            />
+                                            {i}
+                                        </div>
+                                    )
+                                }
+                                return <>{ret}</>;
+                            })()
+                        }
+                    </div>
                     <PieChart
                         width={700}
                         height={400}
@@ -168,6 +225,43 @@ class PageStats extends Component {
                 </div>
                 <div className="chart semicircle">
                     <h2>Partidos políticos por aparición</h2>
+                    <div>
+                        <div
+                            onClick={() =>{
+                                this.setState({partyYear: null})
+                            }}
+                        >
+                            <input
+                                type="radio"
+                                checked={this.state.partyYear === null}
+                                readOnly
+                            />
+                            Todos los años
+                        </div>
+                        {
+                            (() => {
+                                let ret = [];
+                                for(let i = 2020; i <= new Date().getFullYear(); i++){
+                                    ret.push(
+                                        <div
+                                            key={i}
+                                            onClick={() =>{
+                                                this.setState({partyYear: i})
+                                            }}
+                                        >
+                                            <input
+                                                type="radio"
+                                                checked={this.state.partyYear === i}
+                                                readOnly
+                                            />
+                                            {i}
+                                        </div>
+                                    )
+                                }
+                                return <>{ret}</>;
+                            })()
+                        }
+                    </div>
                     <PieChart
                         width={700}
                         height={500}

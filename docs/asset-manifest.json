@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5fb944c4.chunk.css",
-    "main.js": "/static/js/main.1b4694c2.chunk.js",
-    "main.js.map": "/static/js/main.1b4694c2.chunk.js.map",
+    "main.js": "/static/js/main.dc87636c.chunk.js",
+    "main.js.map": "/static/js/main.dc87636c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.28599ceb.chunk.js": "/static/js/2.28599ceb.chunk.js",
-    "static/js/2.28599ceb.chunk.js.map": "/static/js/2.28599ceb.chunk.js.map",
+    "static/js/2.4af44cca.chunk.js": "/static/js/2.4af44cca.chunk.js",
+    "static/js/2.4af44cca.chunk.js.map": "/static/js/2.4af44cca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.90079aa703fe768a12681170769e7734.js": "/precache-manifest.90079aa703fe768a12681170769e7734.js",
+    "precache-manifest.fb3f5cad724b97980a509eee5f96e389.js": "/precache-manifest.fb3f5cad724b97980a509eee5f96e389.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
-    "static/js/2.28599ceb.chunk.js.LICENSE.txt": "/static/js/2.28599ceb.chunk.js.LICENSE.txt",
+    "static/js/2.4af44cca.chunk.js.LICENSE.txt": "/static/js/2.4af44cca.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -123,6 +123,7 @@
     "static/media/hombre_paja.png": "/static/media/hombre_paja.e85eb217.png",
     "static/media/humor_lazoamarillo.png": "/static/media/humor_lazoamarillo.edb97eca.png",
     "static/media/imanol.png": "/static/media/imanol.e9d6e75f.png",
+    "static/media/inclusividad_forzada.png": "/static/media/inclusividad_forzada.932b6fc2.png",
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
     "static/media/iphone_13.png": "/static/media/iphone_13.a4aaeca0.png",
@@ -255,8 +256,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.28599ceb.chunk.js",
+    "static/js/2.4af44cca.chunk.js",
     "static/css/main.5fb944c4.chunk.css",
-    "static/js/main.1b4694c2.chunk.js"
+    "static/js/main.dc87636c.chunk.js"
   ]
 }

@@ -1930,5 +1930,13 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Casado"],
         "parties": ["PP"]
+    },
+    "inclusividad_forzada": {
+        "name": "Inclusividad forzada",
+        "date": "2021-10-22T00:00",
+        "description": [
+            "La inclusividad es como los pedos. No voy a seguir desarrollando, ya sabéis a lo que me refiero."
+        ],
+        "size": "2000x2500"
     }
 }

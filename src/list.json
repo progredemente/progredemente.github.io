@@ -1938,5 +1938,15 @@
             "La inclusividad es como los pedos. No voy a seguir desarrollando, ya sabéis a lo que me refiero."
         ],
         "size": "2000x2500"
+    },
+    "granja_separatista": {
+        "name": "Granja separatista",
+        "date": "2021-10-24T00:00",
+        "description": [
+            "Aborregaus están."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Arnaldo Otegi", "Oriol Junqueras"],
+        "parties": ["EH Bildu", "ERC"]
     }
 }

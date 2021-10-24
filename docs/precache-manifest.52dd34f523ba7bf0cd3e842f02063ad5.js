@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae0b19597d939c9b1b2ca3cad310faac",
+    "revision": "074ac1fa8120d90cc7cd09cf2161ee2c",
     "url": "/index.html"
   },
   {
-    "revision": "56cce502ccdcf59c3be7",
+    "revision": "2ef6a96922bb6dca16c0",
     "url": "/static/css/main.5fb944c4.chunk.css"
   },
   {
-    "revision": "5677170f6b4c3812d831",
-    "url": "/static/js/2.4af44cca.chunk.js"
+    "revision": "842c11cb3d705c9c7020",
+    "url": "/static/js/2.9ac843d0.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.4af44cca.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9ac843d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56cce502ccdcf59c3be7",
-    "url": "/static/js/main.dc87636c.chunk.js"
+    "revision": "2ef6a96922bb6dca16c0",
+    "url": "/static/js/main.7210b642.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -778,6 +778,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc5342ab066895679c3dd356c915b6e3",
     "url": "/static/media/gobierno_ideal.cc5342ab.png"
+  },
+  {
+    "revision": "79607959dc3a053602889bc78c9d0e12",
+    "url": "/static/media/granja_separatista.79607959.png"
+  },
+  {
+    "revision": "af821e479e83255c46bee57590b7abf9",
+    "url": "/static/media/granja_separatista.af821e47.png"
   },
   {
     "revision": "6d117979b24f6870d5960ece61213986",

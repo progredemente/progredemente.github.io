@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5fb944c4.chunk.css",
-    "main.js": "/static/js/main.7210b642.chunk.js",
-    "main.js.map": "/static/js/main.7210b642.chunk.js.map",
+    "main.js": "/static/js/main.2f221f52.chunk.js",
+    "main.js.map": "/static/js/main.2f221f52.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9ac843d0.chunk.js": "/static/js/2.9ac843d0.chunk.js",
-    "static/js/2.9ac843d0.chunk.js.map": "/static/js/2.9ac843d0.chunk.js.map",
+    "static/js/2.454a92bd.chunk.js": "/static/js/2.454a92bd.chunk.js",
+    "static/js/2.454a92bd.chunk.js.map": "/static/js/2.454a92bd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.52dd34f523ba7bf0cd3e842f02063ad5.js": "/precache-manifest.52dd34f523ba7bf0cd3e842f02063ad5.js",
+    "precache-manifest.95a06234b4c5bdd7c7568868b320eb34.js": "/precache-manifest.95a06234b4c5bdd7c7568868b320eb34.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
-    "static/js/2.9ac843d0.chunk.js.LICENSE.txt": "/static/js/2.9ac843d0.chunk.js.LICENSE.txt",
+    "static/js/2.454a92bd.chunk.js.LICENSE.txt": "/static/js/2.454a92bd.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -131,6 +131,7 @@
     "static/media/izquierda_conspiranoica.png": "/static/media/izquierda_conspiranoica.bcc3aa05.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.c578b9ec.png",
     "static/media/juraste_destruir.png": "/static/media/juraste_destruir.a1a21c8d.png",
+    "static/media/karlviarx.png": "/static/media/karlviarx.c2ec5d5e.png",
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
     "static/media/koopanique.png": "/static/media/koopanique.a96b220c.png",
     "static/media/la_nueva_subnormalidad.png": "/static/media/la_nueva_subnormalidad.aaa250f6.png",
@@ -257,8 +258,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9ac843d0.chunk.js",
+    "static/js/2.454a92bd.chunk.js",
     "static/css/main.5fb944c4.chunk.css",
-    "static/js/main.7210b642.chunk.js"
+    "static/js/main.2f221f52.chunk.js"
   ]
 }

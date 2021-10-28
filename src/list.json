@@ -1948,5 +1948,14 @@
         "size": "3000x3000",
         "celebrities": ["Arnaldo Otegi", "Oriol Junqueras"],
         "parties": ["EH Bildu", "ERC"]
+    },
+    "karlviarx": {
+        "name": "Karlviarx",
+        "date": "2021-10-28T00:00",
+        "description": [
+            "El caviar de la izquierda caviar. Normal que no les lleguen 200€ al mes para gastos en comida."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Karl Marx"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5fb944c4.chunk.css",
-    "main.js": "/static/js/main.2f221f52.chunk.js",
-    "main.js.map": "/static/js/main.2f221f52.chunk.js.map",
+    "main.js": "/static/js/main.c05b98a6.chunk.js",
+    "main.js.map": "/static/js/main.c05b98a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.454a92bd.chunk.js": "/static/js/2.454a92bd.chunk.js",
-    "static/js/2.454a92bd.chunk.js.map": "/static/js/2.454a92bd.chunk.js.map",
+    "static/js/2.0b51f9e1.chunk.js": "/static/js/2.0b51f9e1.chunk.js",
+    "static/js/2.0b51f9e1.chunk.js.map": "/static/js/2.0b51f9e1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.95a06234b4c5bdd7c7568868b320eb34.js": "/precache-manifest.95a06234b4c5bdd7c7568868b320eb34.js",
+    "precache-manifest.4aeb7dba850c2b6a4ced91a1248f606b.js": "/precache-manifest.4aeb7dba850c2b6a4ced91a1248f606b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
-    "static/js/2.454a92bd.chunk.js.LICENSE.txt": "/static/js/2.454a92bd.chunk.js.LICENSE.txt",
+    "static/js/2.0b51f9e1.chunk.js.LICENSE.txt": "/static/js/2.0b51f9e1.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -156,6 +156,7 @@
     "static/media/medallita.png": "/static/media/medallita.c495d05e.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
+    "static/media/meta.png": "/static/media/meta.491cd660.png",
     "static/media/milenio_live.png": "/static/media/milenio_live.7b73573d.png",
     "static/media/milfs_rat.png": "/static/media/milfs_rat.7157c9f9.png",
     "static/media/minds.png": "/static/media/minds.3a14c638.png",
@@ -258,8 +259,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.454a92bd.chunk.js",
+    "static/js/2.0b51f9e1.chunk.js",
     "static/css/main.5fb944c4.chunk.css",
-    "static/js/main.2f221f52.chunk.js"
+    "static/js/main.c05b98a6.chunk.js"
   ]
 }

@@ -1957,5 +1957,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Karl Marx"]
+    },
+    "meta": {
+        "name": "Meta",
+        "date": "2021-10-29T00:00",
+        "description": [
+            "¡Van a por tus metadatos!"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Mark Zuckerberg"]
     }
 }

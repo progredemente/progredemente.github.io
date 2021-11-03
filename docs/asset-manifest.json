@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5fb944c4.chunk.css",
-    "main.js": "/static/js/main.c05b98a6.chunk.js",
-    "main.js.map": "/static/js/main.c05b98a6.chunk.js.map",
+    "main.js": "/static/js/main.db1fedb5.chunk.js",
+    "main.js.map": "/static/js/main.db1fedb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0b51f9e1.chunk.js": "/static/js/2.0b51f9e1.chunk.js",
-    "static/js/2.0b51f9e1.chunk.js.map": "/static/js/2.0b51f9e1.chunk.js.map",
+    "static/js/2.b52afe97.chunk.js": "/static/js/2.b52afe97.chunk.js",
+    "static/js/2.b52afe97.chunk.js.map": "/static/js/2.b52afe97.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4aeb7dba850c2b6a4ced91a1248f606b.js": "/precache-manifest.4aeb7dba850c2b6a4ced91a1248f606b.js",
+    "precache-manifest.6015415abfc2aff8b664528bc97f4be2.js": "/precache-manifest.6015415abfc2aff8b664528bc97f4be2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
-    "static/js/2.0b51f9e1.chunk.js.LICENSE.txt": "/static/js/2.0b51f9e1.chunk.js.LICENSE.txt",
+    "static/js/2.b52afe97.chunk.js.LICENSE.txt": "/static/js/2.b52afe97.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -78,6 +78,7 @@
     "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
     "static/media/conguitos.png": "/static/media/conguitos.d90cd7e3.png",
     "static/media/control_plagas.png": "/static/media/control_plagas.b7efca5f.png",
+    "static/media/cop26.png": "/static/media/cop26.c60310dd.png",
     "static/media/coronavirus.png": "/static/media/coronavirus.85f7e91c.png",
     "static/media/cortinas_banderas.png": "/static/media/cortinas_banderas.a8a093a9.png",
     "static/media/cuatro_gatos.png": "/static/media/cuatro_gatos.ed49446e.png",
@@ -259,8 +260,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0b51f9e1.chunk.js",
+    "static/js/2.b52afe97.chunk.js",
     "static/css/main.5fb944c4.chunk.css",
-    "static/js/main.c05b98a6.chunk.js"
+    "static/js/main.db1fedb5.chunk.js"
   ]
 }

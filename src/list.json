@@ -1966,5 +1966,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Mark Zuckerberg"]
+    },
+    "cop26": {
+        "name": "COP26",
+        "date": "2021-11-03T00:00",
+        "description": [
+            "Va a comer gusanos vuestra madre, panda de hipócritas."
+        ],
+        "size": "3000x3000"
     }
 }

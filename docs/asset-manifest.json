@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5fb944c4.chunk.css",
-    "main.js": "/static/js/main.db1fedb5.chunk.js",
-    "main.js.map": "/static/js/main.db1fedb5.chunk.js.map",
+    "main.js": "/static/js/main.99c7d037.chunk.js",
+    "main.js.map": "/static/js/main.99c7d037.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b52afe97.chunk.js": "/static/js/2.b52afe97.chunk.js",
-    "static/js/2.b52afe97.chunk.js.map": "/static/js/2.b52afe97.chunk.js.map",
+    "static/js/2.00138b40.chunk.js": "/static/js/2.00138b40.chunk.js",
+    "static/js/2.00138b40.chunk.js.map": "/static/js/2.00138b40.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6015415abfc2aff8b664528bc97f4be2.js": "/precache-manifest.6015415abfc2aff8b664528bc97f4be2.js",
+    "precache-manifest.3d4f704b50ebf5b04a25f04857465f06.js": "/precache-manifest.3d4f704b50ebf5b04a25f04857465f06.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5fb944c4.chunk.css.map": "/static/css/main.5fb944c4.chunk.css.map",
-    "static/js/2.b52afe97.chunk.js.LICENSE.txt": "/static/js/2.b52afe97.chunk.js.LICENSE.txt",
+    "static/js/2.00138b40.chunk.js.LICENSE.txt": "/static/js/2.00138b40.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -167,6 +167,7 @@
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/mitin_negacionista.png": "/static/media/mitin_negacionista.8d6cde5d.png",
     "static/media/mudanza.png": "/static/media/mudanza.1fc43fef.png",
+    "static/media/muros.png": "/static/media/muros.917bb1c6.png",
     "static/media/nasa_catalana.png": "/static/media/nasa_catalana.ec6a11bb.png",
     "static/media/navidades_patriarcales.png": "/static/media/navidades_patriarcales.bc407c1d.png",
     "static/media/never_forgetti.png": "/static/media/never_forgetti.94c97b21.png",
@@ -260,8 +261,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b52afe97.chunk.js",
+    "static/js/2.00138b40.chunk.js",
     "static/css/main.5fb944c4.chunk.css",
-    "static/js/main.db1fedb5.chunk.js"
+    "static/js/main.99c7d037.chunk.js"
   ]
 }

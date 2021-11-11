@@ -1982,5 +1982,13 @@
             "No entiendo como se puede defender una visión del mundo donde, para hacerla realidad, se tienen que establecer mecanismos para que la gente no se escape, como en una cárcel."
         ],
         "size": "3000x3000"
+    },
+    "niepodleglosc": {
+        "name": "Niepodległość",
+        "date": "2021-11-11T00:00",
+        "description": [
+            "Polska górą!"
+        ],
+        "size": "3000x3000"
     }
 }

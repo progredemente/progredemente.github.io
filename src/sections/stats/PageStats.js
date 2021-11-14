@@ -109,7 +109,9 @@ class PageStats extends Component {
             { name: "Vox", count: 0 },
             { name: "EH Bildu", count: 0},
             { name: "ERC", count: 0},
-            { name: "C's", count: 0}
+            { name: "C's", count: 0},
+            { name: "Compromís", count: 0},
+            { name: "MDyC", count: 0}
         ];
         let partyColors = {
             "UP": "#5c3464",
@@ -120,13 +122,16 @@ class PageStats extends Component {
             "Vox": "#7cbd2a",
             "EH Bildu": "#95c11f",
             "ERC": "#ffb018",
-            "C's": "#fa5000"
+            "C's": "#fa5000",
+            "Compromís": "#e65f00",
+            "MDyC": "#05851b"
         }
         let listKeys = this.getListKeys(this.state.partyYear);
         for(let key of listKeys) {
             let post = list[key];
             if(post.parties !== undefined) {
                 for(let partyName of post.parties){
+                    console.log(partyName)
                     partyData.find((party) => party.name === partyName).count++;
                 }
             }

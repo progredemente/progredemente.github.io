@@ -2000,5 +2000,13 @@
         "size": "6000x4000",
         "celebrities": ["Yolanda Díaz", "Ada Colau", "Mónica García", "Mónica Oltra", "Fátima Hamed"],
         "parties": ["UP", "MP", "Compromís", "MDyC"]
+    },
+    "parametros": {
+        "name": "Parámetros",
+        "date": "2021-11-16T00:00",
+        "description": [
+            "Chiste malo para los de mi gremio."
+        ],
+        "size": "2000x2000"
     }
 }

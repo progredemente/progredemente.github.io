@@ -2008,5 +2008,13 @@
             "Chiste malo para los de mi gremio."
         ],
         "size": "2000x2000"
+    },
+    "altavoz_mediatico": {
+        "name": "Altavoz mediático",
+        "date": "2021-11-19T00:00",
+        "description": [
+            "Molaba más cuando a los frikis los llevaban al Diario y no ahora que los pasean para asustar a los borregos."
+        ],
+        "size": "2000x2000"
     }
 }

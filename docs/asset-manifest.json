@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0224dbff.chunk.css",
-    "main.js": "/static/js/main.9b8b3083.chunk.js",
-    "main.js.map": "/static/js/main.9b8b3083.chunk.js.map",
+    "main.js": "/static/js/main.408e8ad2.chunk.js",
+    "main.js.map": "/static/js/main.408e8ad2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ed23db3c.chunk.js": "/static/js/2.ed23db3c.chunk.js",
-    "static/js/2.ed23db3c.chunk.js.map": "/static/js/2.ed23db3c.chunk.js.map",
+    "static/js/2.908c3722.chunk.js": "/static/js/2.908c3722.chunk.js",
+    "static/js/2.908c3722.chunk.js.map": "/static/js/2.908c3722.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.05559e508ba6f49411985fc9fb3de21e.js": "/precache-manifest.05559e508ba6f49411985fc9fb3de21e.js",
+    "precache-manifest.a46673f737b65b7297adbaacb34c24b5.js": "/precache-manifest.a46673f737b65b7297adbaacb34c24b5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0224dbff.chunk.css.map": "/static/css/main.0224dbff.chunk.css.map",
-    "static/js/2.ed23db3c.chunk.js.LICENSE.txt": "/static/js/2.ed23db3c.chunk.js.LICENSE.txt",
+    "static/js/2.908c3722.chunk.js.LICENSE.txt": "/static/js/2.908c3722.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -23,6 +23,7 @@
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.c81e8bb0.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.a5481c75.png",
     "static/media/alerta_antifascista_animado.mp4": "/static/media/alerta_antifascista_animado.2b2190c6.mp4",
+    "static/media/altavoz_mediatico.png": "/static/media/altavoz_mediatico.a377f0bb.png",
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
     "static/media/amenazas.png": "/static/media/amenazas.decc8d55.png",
@@ -264,8 +265,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ed23db3c.chunk.js",
+    "static/js/2.908c3722.chunk.js",
     "static/css/main.0224dbff.chunk.css",
-    "static/js/main.9b8b3083.chunk.js"
+    "static/js/main.408e8ad2.chunk.js"
   ]
 }

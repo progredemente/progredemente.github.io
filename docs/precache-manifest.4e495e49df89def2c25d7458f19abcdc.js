@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "222f96c3836cb82a5b39ff496003c9f7",
+    "revision": "0c5d954c170c6cbdb81dd427d8dd2ae4",
     "url": "/index.html"
   },
   {
-    "revision": "c5bc74deafa692d750e7",
+    "revision": "74ccbfe40cf3f13df73c",
     "url": "/static/css/main.0224dbff.chunk.css"
   },
   {
-    "revision": "0f32c5271bdbbbc5cb3a",
-    "url": "/static/js/2.908c3722.chunk.js"
+    "revision": "9b9c6219d8bca56ab522",
+    "url": "/static/js/2.e5f0bd31.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.908c3722.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e5f0bd31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5bc74deafa692d750e7",
-    "url": "/static/js/main.408e8ad2.chunk.js"
+    "revision": "74ccbfe40cf3f13df73c",
+    "url": "/static/js/main.94bc53cd.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -626,6 +626,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d610d2fb084b9781d646334e3559cd2",
     "url": "/static/media/desenterrador.2d610d2f.png"
+  },
+  {
+    "revision": "8f7c52465aa0b691bcaf720a9dd95aae",
+    "url": "/static/media/desnudo.8f7c5246.png"
+  },
+  {
+    "revision": "f1efc2a1d4a83641d019e619b00a4fc8",
+    "url": "/static/media/desnudo.f1efc2a1.png"
   },
   {
     "revision": "937cee4208165fdcff91d0838609cd76",

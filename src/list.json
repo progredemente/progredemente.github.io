@@ -2016,5 +2016,15 @@
             "Molaba más cuando a los frikis los llevaban al Diario y no ahora que los pasean para asustar a los borregos."
         ],
         "size": "2000x2000"
+    },
+    "desnudo": {
+        "name": "El \"líder\" desnudo",
+        "date": "2021-11-21T00:00",
+        "description": [
+            "¿Lo suyo qué es? ¿El resultado de vivir en una burbuja? ¿Un intento desesperado de aparentar confianza y liderazgo? ¿Una combinación de ambas cosas?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Casado"],
+        "parties": ["PP"]
     }
 }

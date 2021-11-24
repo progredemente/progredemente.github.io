@@ -2026,5 +2026,14 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Casado"],
         "parties": ["PP"]
+    },
+    "fantasmas_izquierda": {
+        "name": "Los fantasmas de la izquierda",
+        "date": "2021-11-24T00:00",
+        "description": [
+            "Parece que se están quedando sin enemigos imaginarios porque han fichado a uno nuevo.",
+            "A ver cuando la gente deja de echarle la culpa de sus propios errores a agentes externos."
+        ],
+        "size": "6000x4000"
     }
 }

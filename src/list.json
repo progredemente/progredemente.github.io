@@ -2035,5 +2035,13 @@
             "A ver cuando la gente deja de echarle la culpa de sus propios errores a agentes externos."
         ],
         "size": "6000x4000"
+    },
+    "meritocracia": {
+        "name": "Meritocracia",
+        "date": "2021-12-01T00:00",
+        "description": [
+            "Ya hay que ser limitado como para creer que la meritocracia es un timo solo porque alguien ha heredado algo y no lo ha conseguido con su propio esfuerzo. Limitado o malintencionado."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -2043,5 +2043,14 @@
             "Ya hay que ser limitado como para creer que la meritocracia es un timo solo porque alguien ha heredado algo y no lo ha conseguido con su propio esfuerzo. Limitado o malintencionado."
         ],
         "size": "2000x2000"
+    },
+    "herencia": {
+        "name": "Herencia",
+        "date": "2021-12-02T00:00",
+        "description": [
+            "Esta gente parece que exige un sector privado inmaculado mientras que en el sector público todo vale para ellos. El mundo al revés, financiado con dinero del contribuyente."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"]
     }
 }

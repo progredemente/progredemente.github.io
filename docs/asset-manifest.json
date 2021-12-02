@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0224dbff.chunk.css",
-    "main.js": "/static/js/main.6b04346e.chunk.js",
-    "main.js.map": "/static/js/main.6b04346e.chunk.js.map",
+    "main.js": "/static/js/main.f843642c.chunk.js",
+    "main.js.map": "/static/js/main.f843642c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e2956a23.chunk.js": "/static/js/2.e2956a23.chunk.js",
-    "static/js/2.e2956a23.chunk.js.map": "/static/js/2.e2956a23.chunk.js.map",
+    "static/js/2.a90dc64a.chunk.js": "/static/js/2.a90dc64a.chunk.js",
+    "static/js/2.a90dc64a.chunk.js.map": "/static/js/2.a90dc64a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.18769a3222066f7b5697898ed7dfa9fe.js": "/precache-manifest.18769a3222066f7b5697898ed7dfa9fe.js",
+    "precache-manifest.5dea1517f824ef766e816dfa9a6a6412.js": "/precache-manifest.5dea1517f824ef766e816dfa9a6a6412.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0224dbff.chunk.css.map": "/static/css/main.0224dbff.chunk.css.map",
-    "static/js/2.e2956a23.chunk.js.LICENSE.txt": "/static/js/2.e2956a23.chunk.js.LICENSE.txt",
+    "static/js/2.a90dc64a.chunk.js.LICENSE.txt": "/static/js/2.a90dc64a.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -123,6 +123,7 @@
     "static/media/greta.png": "/static/media/greta.c1376d3e.png",
     "static/media/guaido.png": "/static/media/guaido.69f01b39.png",
     "static/media/haren.png": "/static/media/haren.752669a1.png",
+    "static/media/herencia.png": "/static/media/herencia.2843f0c5.png",
     "static/media/hijxs.png": "/static/media/hijxs.ce323ed5.png",
     "static/media/hipocresia_climatica.png": "/static/media/hipocresia_climatica.639bb7dd.png",
     "static/media/hispanidad.png": "/static/media/hispanidad.c3f2790c.png",
@@ -268,8 +269,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e2956a23.chunk.js",
+    "static/js/2.a90dc64a.chunk.js",
     "static/css/main.0224dbff.chunk.css",
-    "static/js/main.6b04346e.chunk.js"
+    "static/js/main.f843642c.chunk.js"
   ]
 }

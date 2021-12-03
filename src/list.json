@@ -2052,5 +2052,15 @@
         ],
         "size": "2000x2000",
         "series": ["memes"]
+    },
+    "burbujas": {
+        "name": "Burbujas",
+        "date": "2021-12-03T00:00",
+        "description": [
+            "Hay una palabra para describir a este tipo de personas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gabriel Rufián"],
+        "parties": ["ERC"]
     }
 }

@@ -2062,5 +2062,16 @@
         "size": "2000x2000",
         "celebrities": ["Gabriel Rufián"],
         "parties": ["ERC"]
+    },
+    "christmas_tree": {
+        "name": "Christmas tree",
+        "date": "2021-12-06T00:00",
+        "description": [
+            "Merry Christmas!",
+            "¡Enviadle esta postal navideña a vuestros amigos británicos!",
+            "Este año, como el anterior, voy a ir haciendo postales navideñas en diferentes idiomas. El año pasado me centré en las lenguas oficiales de España, este año van en algunas más."
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"]
     }
 }

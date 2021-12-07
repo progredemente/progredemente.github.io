@@ -13,6 +13,7 @@ class Welcome extends Component {
         this.state = {
             logo: false,
             favicon: false,
+            perroflautum: false,
             showAllSocialNetworks: false
         }
     }
@@ -44,6 +45,19 @@ class Welcome extends Component {
                             }}
                         /> Web
                     </Link>
+                    <a href="/perroflautum" className="social-link">
+                        <Loading
+                            hidden={this.state.perroflautum}
+                        />
+                        <img
+                            src={'./perroflautum.png'}
+                            alt={'perroflautum'}
+                            className={this.state.perroflautum ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ perroflautum: true})
+                            }}
+                        /> Perro Flautum
+                    </a>
                     <p>Sígueme en</p>
                     {
                         social2.map((s) => {

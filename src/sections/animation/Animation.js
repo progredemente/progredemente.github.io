@@ -1,17 +1,37 @@
 import React, { Component } from 'react';
+import { formatDate } from '../../common/utils';
+import PostNavigator from '../post/PostNavigator';
+import RichText from '../post/RichText';
 import './Animation.css';
-import alertaAntifascista from '../../video/alerta_antifascista_animado.mp4'
+import videos from './videos.json';
  
 class Animation extends Component {
     render() {
+        let id = this.props.match.params.id;
+        let video = videos[id];
+        let date = video.date != null ? formatDate(new Date(video.date)) : null;
+        let currentUrl = this.props.match.url.split("/");
+        currentUrl.pop();
+        currentUrl = currentUrl.join("/");
         return (
             <>
-            <video controls>
-                <source src={alertaAntifascista} type="video/mp4"/>
-            </video>
-            <p className="name">Alerta antifascista</p>
-            <p className="date">2020/04/20</p>
-            <p>He animado una de mis primeras viñetas. Me ha llevado casi una semana hacer 17 segundos de vídeo, no se si habrá merecido la pena. No creo que vuelva a hacer otra animación.</p>
+            <div className="video">
+                <iframe
+                    width="560"
+                    height="315"
+                    src={video.url}
+                    title="YouTube video player"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                ></iframe>
+            </div>
+            <PostNavigator currentId={id} list={Object.keys(videos)} url={currentUrl} changeImg={() => {}} />
+            <p className="name">{video.name}</p>
+            <p className="date">{date}</p>
+            {video.description.map((text, index) => {
+                return <RichText key={index} text={text}/>
+            })}
             </>
         );
     }

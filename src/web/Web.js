@@ -20,6 +20,7 @@ import Size from "../sections/size/Size";
 import series from '../series.json';
 import list from '../list.json';
 import Footer from "./Footer";
+import videos from '../sections/animation/videos.json';
 
 class Web extends Component{
 
@@ -105,9 +106,8 @@ class Web extends Component{
                         <Route exact path={`${this.props.match.url}/sobre_mi`}>
                             <About />
                         </Route>
-                        <Route exact path={`${this.props.match.url}/animacion`}>
-                            <Animation />
-                        </Route>
+                        <Redirect exact from={`${this.props.match.url}/animacion`} to={`${this.props.match.url}/animacion/${Object.keys(videos)[Object.keys(videos).length - 1]}`}/>
+                        <Route exact path={`${this.props.match.url}/animacion/:id`} component={Animation}/>
                         <Route exact path={`${this.props.match.url}/estadisticas`}>
                             <Stats />
                         </Route>

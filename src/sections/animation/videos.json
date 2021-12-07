@@ -1,0 +1,23 @@
+{
+    "alerta_antifascista": {
+        "name": "Alerta antifascista",
+        "date": "2020-04-20T00:00",
+        "description": [
+            "He animado una de mis primeras viñetas. Me ha llevado casi una semana hacer 17 segundos de vídeo, no se si habrá merecido la pena. No creo que vuelva a hacer otra animación."
+        ],
+        "url": "https://www.youtube.com/embed/k4EcIRQs3Lc"
+    },
+    "perroflautum": {
+        "name": "Alerta antifascista",
+        "date": "2020-04-20T00:00",
+        "description": [
+            "El generador de lorem ipsum en perroflautés. Visita la web en:",
+            "{https://progredemente.com/perroflautum/}",
+            "Música de fondo",
+            "\"Breaktime\" por Kevin MacLeod",
+            "Enlace: {https://incompetech.filmmusic.io/song/3457-breaktime}",
+            "Licencia: {https://filmmusic.io/standard-license}"
+        ],
+        "url": "https://www.youtube.com/embed/df8dLSvxItk"
+    }
+}

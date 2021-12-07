@@ -1,3 +1,4 @@
-video {
-    max-width: 100%;
+.video {
+    display: flex;
+    justify-content: center;
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f58980b5e0e802c6011436377b706804",
+    "revision": "1d498afdfbffef44013e815c4657bf29",
     "url": "/index.html"
   },
   {
-    "revision": "af8eb71fe75924e34eab",
-    "url": "/static/css/main.0224dbff.chunk.css"
+    "revision": "411be1ed09dfc1e1693c",
+    "url": "/static/css/main.ba22973c.chunk.css"
   },
   {
-    "revision": "295c60b93d0cb1c119ff",
-    "url": "/static/js/2.da630d05.chunk.js"
+    "revision": "aba78e63b59e43ae3e38",
+    "url": "/static/js/2.8b3c9bca.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.da630d05.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8b3c9bca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af8eb71fe75924e34eab",
-    "url": "/static/js/main.90606368.chunk.js"
+    "revision": "411be1ed09dfc1e1693c",
+    "url": "/static/js/main.35c62f71.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -98,10 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a5481c75e0912446ab2a66e13fcc6e09",
     "url": "/static/media/alerta_antifascista.a5481c75.png"
-  },
-  {
-    "revision": "2b2190c680327297f3cba0f514df5e3b",
-    "url": "/static/media/alerta_antifascista_animado.2b2190c6.mp4"
   },
   {
     "revision": "3241f90eeeb760ddbe55fe487f27b3e1",

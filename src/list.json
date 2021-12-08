@@ -2073,5 +2073,15 @@
         ],
         "size": "2000x2000",
         "series": ["postales_navidenas"]
+    },
+    "arbre_noel": {
+        "name": "Arbre de Noël",
+        "date": "2021-12-08T00:00",
+        "description": [
+            "Joyeux Noël!",
+            "¡Enviadle esta postal navideña a vuestros amigos franceses!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"]
     }
 }

@@ -2083,5 +2083,13 @@
         ],
         "size": "2000x2000",
         "series": ["postales_navidenas"]
+    },
+    "huelga_juguetes": {
+        "name": "#HuelgaDeJuguetes",
+        "date": "2021-12-09T00:00",
+        "description": [
+            "El único juguete con motivos para hacer huelga. Es la primera viñeta que hago que espero que no entendáis. Inspirada en una viñeta de {contact:stonetoss} de hace año y medio."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.567c9def.chunk.js",
-    "main.js.map": "/static/js/main.567c9def.chunk.js.map",
+    "main.js": "/static/js/main.1a89ec67.chunk.js",
+    "main.js.map": "/static/js/main.1a89ec67.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c15fbe19.chunk.js": "/static/js/2.c15fbe19.chunk.js",
-    "static/js/2.c15fbe19.chunk.js.map": "/static/js/2.c15fbe19.chunk.js.map",
+    "static/js/2.0b2304e7.chunk.js": "/static/js/2.0b2304e7.chunk.js",
+    "static/js/2.0b2304e7.chunk.js.map": "/static/js/2.0b2304e7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d6bdd94abb3d2c5a2d322141e81acaef.js": "/precache-manifest.d6bdd94abb3d2c5a2d322141e81acaef.js",
+    "precache-manifest.7d2db1d0c8fea4fb386081e5db33f63a.js": "/precache-manifest.7d2db1d0c8fea4fb386081e5db33f63a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.c15fbe19.chunk.js.LICENSE.txt": "/static/js/2.c15fbe19.chunk.js.LICENSE.txt",
+    "static/js/2.0b2304e7.chunk.js.LICENSE.txt": "/static/js/2.0b2304e7.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -130,6 +130,7 @@
     "static/media/hipocresia_climatica.png": "/static/media/hipocresia_climatica.639bb7dd.png",
     "static/media/hispanidad.png": "/static/media/hispanidad.c3f2790c.png",
     "static/media/hombre_paja.png": "/static/media/hombre_paja.e85eb217.png",
+    "static/media/huelga_juguetes.png": "/static/media/huelga_juguetes.4626b404.png",
     "static/media/humor_lazoamarillo.png": "/static/media/humor_lazoamarillo.edb97eca.png",
     "static/media/imanol.png": "/static/media/imanol.e9d6e75f.png",
     "static/media/inclusividad_forzada.png": "/static/media/inclusividad_forzada.932b6fc2.png",
@@ -271,8 +272,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c15fbe19.chunk.js",
+    "static/js/2.0b2304e7.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.567c9def.chunk.js"
+    "static/js/main.1a89ec67.chunk.js"
   ]
 }

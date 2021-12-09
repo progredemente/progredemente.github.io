@@ -45,5 +45,30 @@
                 "url": "https://www.instagram.com/revista_ellunes/"
             }
         ]
+    },
+    "stonetoss": {
+        "name": "StoneToss",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/stone_toss"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/stonetoss/"
+            },
+            {
+                "id": "gab",
+                "url": "https://gab.com/stonetoss"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/StoneTossArt/"
+            },
+            {
+                "id": "telegram",
+                "url": "https://t.me/stone_toss"
+            }
+        ]
     }
 }

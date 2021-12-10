@@ -15,12 +15,13 @@ import About from '../sections/about/About';
 import Animation from "../sections/animation/Animation";
 import Stats from '../sections/stats/Stats';
 import PageStats from "../sections/stats/PageStats";
-import Celebrity from "../sections/celebrity/Celebrity";
-import Size from "../sections/size/Size";
 import series from '../series.json';
 import list from '../list.json';
 import Footer from "./Footer";
 import videos from '../sections/animation/videos.json';
+import Tag from '../sections/search/Tag';
+import Celebrity from '../sections/search/Celebrity';
+import Size from '../sections/search/Size';
 
 class Web extends Component{
 
@@ -114,11 +115,14 @@ class Web extends Component{
                         <Route exact path={`${this.props.match.url}/.estadisticas`}>
                             <PageStats />
                         </Route>
-                        <Route exact path={`${this.props.match.url}/personaje/:name`} render={(props) => {
+                        <Route exact path={`${this.props.match.url}/personaje/:searchText`} render={(props) => {
                             return <Celebrity {...props} url={this.props.match.url} />
                         }}/>
-                        <Route exact path={`${this.props.match.url}/.tamano/:size`} render={(props) => {
+                        <Route exact path={`${this.props.match.url}/.tamano/:searchText`} render={(props) => {
                             return <Size {...props} url={this.props.match.url} />
+                        }}/>
+                        <Route exact path={`${this.props.match.url}/.etiqueta/:searchText`} render={(props) => {
+                            return <Tag {...props} url={this.props.match.url} />
                         }}/>
                     </Switch>
                 </section>

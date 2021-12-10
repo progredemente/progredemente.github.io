@@ -1116,7 +1116,8 @@
         "description": [
             "Me encanta como {contact:CTercermundista} llama a esta gente, los malbañados, porque tener parásitos es un idicativo de falta de higiene. Y estos los tienen y los mantienen."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["cristal"]
     },
     "efecto_illa": {
         "name": "El efecto Illa",
@@ -1586,7 +1587,8 @@
             "Esta viñeta está inspirada en este artículo:",
             "{https://www.publico.es/politica/mareas-paro-politico-izquierdas-morir-profesionalmente.html}"
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["cristal"]
     },
     "castillo_naipes": {
         "name": "Se cae el castillo de naipes",
@@ -1725,7 +1727,8 @@
         "description": [
             "Hace casi un siglo señalaron los negocios de la gente a la que consideraban indeseable. Hoy, señala tú mismo tu negocio para que no te consideren indeseable."
         ],
-        "size": "3000x2000"
+        "size": "3000x2000",
+        "tags": ["cristal"]
     },
     "blanqueo_talibanes": {
         "name": "Blanqueo de talibanes",
@@ -1816,7 +1819,8 @@
         "description": [
             "A la izquierda le gustan más esos cuatro frikis de lo que los repudia."
         ],
-        "size": "3000x3000"
+        "size": "3000x3000",
+        "tags": ["cristal"]
     },
     "pollo": {
         "name": "Pollo",
@@ -2025,7 +2029,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Casado"],
-        "parties": ["PP"]
+        "parties": ["PP"],
+        "tags": ["cristal"]
     },
     "fantasmas_izquierda": {
         "name": "Los fantasmas de la izquierda",
@@ -2090,6 +2095,7 @@
         "description": [
             "El único juguete con motivos para hacer huelga. Es la primera viñeta que hago que espero que no entendáis. Inspirada en una viñeta de {contact:stonetoss} de hace año y medio."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["cristal"]
     }
 }

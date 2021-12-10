@@ -2097,5 +2097,15 @@
         ],
         "size": "2000x2000",
         "tags": ["cristal"]
+    },
+    "arvore_natal": {
+        "name": "Árvore de Natal",
+        "date": "2021-12-10T00:00",
+        "description": [
+            "Feliz Natal!",
+            "¡Enviadle esta postal navideña a vuestros amigos portugueses!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"]
     }
 }

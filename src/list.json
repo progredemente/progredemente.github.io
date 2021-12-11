@@ -2077,7 +2077,8 @@
             "Este año, como el anterior, voy a ir haciendo postales navideñas en diferentes idiomas. El año pasado me centré en las lenguas oficiales de España, este año van en algunas más."
         ],
         "size": "2000x2000",
-        "series": ["postales_navidenas"]
+        "series": ["postales_navidenas"],
+        "tags": ["madera", "ue", "árbol", "bandera"]
     },
     "arbre_noel": {
         "name": "Arbre de Noël",
@@ -2087,7 +2088,8 @@
             "¡Enviadle esta postal navideña a vuestros amigos franceses!"
         ],
         "size": "2000x2000",
-        "series": ["postales_navidenas"]
+        "series": ["postales_navidenas"],
+        "tags": ["madera", "oro", "árbol"]
     },
     "huelga_juguetes": {
         "name": "#HuelgaDeJuguetes",
@@ -2106,6 +2108,17 @@
             "¡Enviadle esta postal navideña a vuestros amigos portugueses!"
         ],
         "size": "2000x2000",
-        "series": ["postales_navidenas"]
+        "series": ["postales_navidenas"],
+        "tags": ["madera"]
+
+    },
+    "iii_regne": {
+        "name": "III Regne",
+        "date": "2021-12-11T00:00",
+        "description": [
+            "El català us fa lliures."
+        ],
+        "size": "2000x2000",
+        "tags": ["niño", "lágrima", "cataluña", "españa", "bandera", "estelada", "hierba", "cielo", "edificio"]
     }
 }

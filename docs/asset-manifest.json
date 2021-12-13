@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.38cc8140.chunk.js",
-    "main.js.map": "/static/js/main.38cc8140.chunk.js.map",
+    "main.js": "/static/js/main.4af7bb9e.chunk.js",
+    "main.js.map": "/static/js/main.4af7bb9e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6099f3f3.chunk.js": "/static/js/2.6099f3f3.chunk.js",
-    "static/js/2.6099f3f3.chunk.js.map": "/static/js/2.6099f3f3.chunk.js.map",
+    "static/js/2.b0394293.chunk.js": "/static/js/2.b0394293.chunk.js",
+    "static/js/2.b0394293.chunk.js.map": "/static/js/2.b0394293.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e93039ec61ff9a42ebbbc6a8f9a7f432.js": "/precache-manifest.e93039ec61ff9a42ebbbc6a8f9a7f432.js",
+    "precache-manifest.7eb04a97925641a063392b40efa38c43.js": "/precache-manifest.7eb04a97925641a063392b40efa38c43.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.6099f3f3.chunk.js.LICENSE.txt": "/static/js/2.6099f3f3.chunk.js.LICENSE.txt",
+    "static/js/2.b0394293.chunk.js.LICENSE.txt": "/static/js/2.b0394293.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -73,6 +73,7 @@
     "static/media/cenicienta.png": "/static/media/cenicienta.ef8e984c.png",
     "static/media/charo_rangers.png": "/static/media/charo_rangers.d198048b.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
+    "static/media/choinka.png": "/static/media/choinka.f7f96514.png",
     "static/media/christmas_tree.png": "/static/media/christmas_tree.a99b115c.png",
     "static/media/cielo_tierra.png": "/static/media/cielo_tierra.d951c36d.png",
     "static/media/cigarra_hormiga.png": "/static/media/cigarra_hormiga.bfa5608a.png",
@@ -274,8 +275,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6099f3f3.chunk.js",
+    "static/js/2.b0394293.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.38cc8140.chunk.js"
+    "static/js/main.4af7bb9e.chunk.js"
   ]
 }

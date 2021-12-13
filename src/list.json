@@ -2120,5 +2120,17 @@
         ],
         "size": "2000x2000",
         "tags": ["niño", "lágrima", "cataluña", "españa", "bandera", "estelada", "hierba", "cielo", "edificio"]
+    },
+    "choinka": {
+        "name": "Choinka",
+        "date": "2021-12-13T00:00",
+        "description": [
+            "Wesołych Świąt!",
+            "¡Enviadle esta postal navideña a vuestros amigos polacos!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"],
+        "tags": ["madera"]
+
     }
 }

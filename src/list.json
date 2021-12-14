@@ -2131,6 +2131,16 @@
         "size": "2000x2000",
         "series": ["postales_navidenas"],
         "tags": ["madera"]
-
+    },
+    "donaciones": {
+        "name": "Donaciones",
+        "date": "2021-12-14T00:00",
+        "description": [
+            "Ya no saben ni de dónde sacarte el dinero."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["María Jesús Montero"],
+        "parties": ["PSOE"],
+        "tags": ["niño", "plátano", "basura", "manzana", "abuela", "cristal"]
     }
 }

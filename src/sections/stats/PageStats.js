@@ -131,7 +131,6 @@ class PageStats extends Component {
             let post = list[key];
             if(post.parties !== undefined) {
                 for(let partyName of post.parties){
-                    console.log(partyName)
                     partyData.find((party) => party.name === partyName).count++;
                 }
             }
@@ -140,10 +139,26 @@ class PageStats extends Component {
         return [partyData, partyColors];
     }
 
+    getYearData() {
+        let yearDataObj = {};
+        for(let key of Object.keys(list)) {
+            let post = list[key];
+            let year = new Date(post.date).getFullYear().toString();
+            if(!(year in yearDataObj)){
+                yearDataObj[year] = { name: year , posts: 1 }
+            }
+            else {
+                yearDataObj[year].posts++;
+            }
+        }
+        return Object.keys(yearDataObj).sort((a, b) => b - a).map((key) => yearDataObj[key]);
+    }
+
     render() {
         let [monthData, yearColors] = this.getMonthData();
         let [celebrityData, celebColors] = this.getCelebrityData();
         let [partyData, partyColors] = this.getPartyData();
+        let yearData = this.getYearData();
         return (
             <div>
                 <h1 className="section-title">Estadísticas de la página</h1>
@@ -167,6 +182,27 @@ class PageStats extends Component {
                                 return <Bar dataKey={year.year} fill={year.color} key={year.year}/>
                             })
                         }
+                    </BarChart>
+                </div>
+                <div className="chart">
+                    <h2>Númeor de posts por año</h2>
+                    <BarChart
+                        data={yearData}
+                        width={700}
+                        height={60 * yearData.length}
+                        layout="vertical"
+                    >
+                        <XAxis stroke="black" type="number" />
+                        <Tooltip
+                            cursor={{ fill: "#EEEEEE"}}
+                        />
+                        <YAxis stroke="black" dataKey="name" type="category" />
+                        <CartesianGrid strokeDasharray="3 3" />
+                        <Bar dataKey="posts">
+                            {
+                                yearData.map((year) => <Cell key={`cell-${year.year}`} fill={yearColors.find((y) => y.year === parseInt(year.name)).color}/>)
+                            }
+                        </Bar>
                     </BarChart>
                 </div>
                 <div className="chart">

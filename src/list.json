@@ -2142,5 +2142,16 @@
         "celebrities": ["María Jesús Montero"],
         "parties": ["PSOE"],
         "tags": ["niño", "plátano", "basura", "manzana", "abuela", "cristal"]
+    },
+    "joulupuu": {
+        "name": "Joulupuu",
+        "date": "2021-12-15T00:00",
+        "description": [
+            "Hyvää Joulua!",
+            "¡Enviadle esta postal navideña a vuestros amigos fineses!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"],
+        "tags": ["madera", "nieve", "láser"]
     }
 }

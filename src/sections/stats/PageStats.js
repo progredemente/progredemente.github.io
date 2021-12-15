@@ -185,7 +185,7 @@ class PageStats extends Component {
                     </BarChart>
                 </div>
                 <div className="chart">
-                    <h2>Númeor de posts por año</h2>
+                    <h2>Número de posts por año</h2>
                     <BarChart
                         data={yearData}
                         width={700}

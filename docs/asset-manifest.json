@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.9fc3c9c7.chunk.js",
-    "main.js.map": "/static/js/main.9fc3c9c7.chunk.js.map",
+    "main.js": "/static/js/main.618ea77b.chunk.js",
+    "main.js.map": "/static/js/main.618ea77b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.affcc509.chunk.js": "/static/js/2.affcc509.chunk.js",
-    "static/js/2.affcc509.chunk.js.map": "/static/js/2.affcc509.chunk.js.map",
+    "static/js/2.3c90d60e.chunk.js": "/static/js/2.3c90d60e.chunk.js",
+    "static/js/2.3c90d60e.chunk.js.map": "/static/js/2.3c90d60e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a5a90e758e9f78972bd04777bc585191.js": "/precache-manifest.a5a90e758e9f78972bd04777bc585191.js",
+    "precache-manifest.fdda8b3ca3989d999e702bb0351a6e2b.js": "/precache-manifest.fdda8b3ca3989d999e702bb0351a6e2b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.affcc509.chunk.js.LICENSE.txt": "/static/js/2.affcc509.chunk.js.LICENSE.txt",
+    "static/js/2.3c90d60e.chunk.js.LICENSE.txt": "/static/js/2.3c90d60e.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -261,6 +261,7 @@
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
     "static/media/tres_cerditos.png": "/static/media/tres_cerditos.dc465660.png",
     "static/media/tristan.png": "/static/media/tristan.fb07ea66.png",
+    "static/media/trolliano.png": "/static/media/trolliano.b8752d30.png",
     "static/media/vacas_contaminantes.png": "/static/media/vacas_contaminantes.6a11bc86.png",
     "static/media/vacunarse_publicamente.png": "/static/media/vacunarse_publicamente.6ae8a95d.png",
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
@@ -277,8 +278,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.affcc509.chunk.js",
+    "static/js/2.3c90d60e.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.9fc3c9c7.chunk.js"
+    "static/js/main.618ea77b.chunk.js"
   ]
 }

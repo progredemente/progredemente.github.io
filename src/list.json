@@ -2153,5 +2153,16 @@
         "size": "2000x2000",
         "series": ["postales_navidenas"],
         "tags": ["madera", "nieve", "láser"]
+    },
+    "trolliano": {
+        "name": "Trolliano",
+        "date": "2021-12-15T01:00",
+        "description": [
+            "Sí, he hecho un meme de trollface en 2021, casi 2022."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Mariano Rajoy"],
+        "parties": ["PP"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14b5b33a2f1f8a91955b5a82935e24b0",
+    "revision": "a026f7444cb0167cd929df220d69bc4d",
     "url": "/index.html"
   },
   {
-    "revision": "b66168641bfaaea0f2d7",
+    "revision": "be2c3a192c6b7b247492",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "88ef88e721dfb80e5105",
-    "url": "/static/js/2.3c90d60e.chunk.js"
+    "revision": "9c27d1e7f1cdcfeed8a6",
+    "url": "/static/js/2.63e1b35b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.3c90d60e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.63e1b35b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b66168641bfaaea0f2d7",
-    "url": "/static/js/main.618ea77b.chunk.js"
+    "revision": "be2c3a192c6b7b247492",
+    "url": "/static/js/main.2abe7705.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -698,6 +698,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db3e25c1a2a16f4ebec352d99bc5188f",
     "url": "/static/media/duquemar.db3e25c1.mp3"
+  },
+  {
+    "revision": "3affe9cb738a0b759e9293daa835a1ca",
+    "url": "/static/media/ecografia.3affe9cb.png"
+  },
+  {
+    "revision": "b604eceb566e1e651866af97519a61be",
+    "url": "/static/media/ecografia.b604eceb.png"
   },
   {
     "revision": "b3881c489328d8dc263effb5352b21b7",

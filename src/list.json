@@ -2164,5 +2164,14 @@
         "series": ["memes"],
         "celebrities": ["Mariano Rajoy"],
         "parties": ["PP"]
+    },
+    "ecografia": {
+        "name": "Ecografía",
+        "date": "2021-12-16T00:00",
+        "description": [
+            "¡Vamos, Irene, a por los 24 millones!"
+        ],
+        "size": "2000x2000",
+        "tags": ["rubio de bote", "pelirrojo", "ojos azules"]
     }
 }

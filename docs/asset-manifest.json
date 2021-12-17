@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.2abe7705.chunk.js",
-    "main.js.map": "/static/js/main.2abe7705.chunk.js.map",
+    "main.js": "/static/js/main.49512eb4.chunk.js",
+    "main.js.map": "/static/js/main.49512eb4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.63e1b35b.chunk.js": "/static/js/2.63e1b35b.chunk.js",
-    "static/js/2.63e1b35b.chunk.js.map": "/static/js/2.63e1b35b.chunk.js.map",
+    "static/js/2.6114e96f.chunk.js": "/static/js/2.6114e96f.chunk.js",
+    "static/js/2.6114e96f.chunk.js.map": "/static/js/2.6114e96f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9bd6e1e56ff20fd284e8aee1cd41619a.js": "/precache-manifest.9bd6e1e56ff20fd284e8aee1cd41619a.js",
+    "precache-manifest.2f422e4af1b0a2c85cc1a7ac03551f49.js": "/precache-manifest.2f422e4af1b0a2c85cc1a7ac03551f49.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.63e1b35b.chunk.js.LICENSE.txt": "/static/js/2.63e1b35b.chunk.js.LICENSE.txt",
+    "static/js/2.6114e96f.chunk.js.LICENSE.txt": "/static/js/2.6114e96f.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -32,6 +32,7 @@
     "static/media/apalpador.png": "/static/media/apalpador.6a213c0f.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
     "static/media/apropiacion_simbolos.png": "/static/media/apropiacion_simbolos.ac63ad70.png",
+    "static/media/arbre_nadal.png": "/static/media/arbre_nadal.b6f9ffb6.png",
     "static/media/arbre_noel.png": "/static/media/arbre_noel.733d75c0.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/arvore_natal.png": "/static/media/arvore_natal.e6364771.png",
@@ -279,8 +280,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.63e1b35b.chunk.js",
+    "static/js/2.6114e96f.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.2abe7705.chunk.js"
+    "static/js/main.49512eb4.chunk.js"
   ]
 }

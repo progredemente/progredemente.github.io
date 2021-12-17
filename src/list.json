@@ -2173,5 +2173,16 @@
         ],
         "size": "2000x2000",
         "tags": ["rubio de bote", "pelirrojo", "ojos azules"]
+    },
+    "arbre_nadal": {
+        "name": "Arbre de Nadal",
+        "date": "2021-12-17T00:00",
+        "description": [
+            "Bon Nadal!",
+            "¡Enviadle esta postal navideña a vuestros amigos catalanes!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"],
+        "tags": ["fuego", "contenedor"]
     }
 }

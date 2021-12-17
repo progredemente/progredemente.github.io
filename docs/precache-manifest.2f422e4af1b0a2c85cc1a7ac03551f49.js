@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a026f7444cb0167cd929df220d69bc4d",
+    "revision": "e0290a557d5bdfa1b5298ddec9dd29ce",
     "url": "/index.html"
   },
   {
-    "revision": "be2c3a192c6b7b247492",
+    "revision": "9a6f4eb3898a2395a64e",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "9c27d1e7f1cdcfeed8a6",
-    "url": "/static/js/2.63e1b35b.chunk.js"
+    "revision": "ca906a4e81b9becec270",
+    "url": "/static/js/2.6114e96f.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.63e1b35b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6114e96f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be2c3a192c6b7b247492",
-    "url": "/static/js/main.2abe7705.chunk.js"
+    "revision": "9a6f4eb3898a2395a64e",
+    "url": "/static/js/main.49512eb4.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -174,6 +174,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac63ad703e3b64e36400f63362ebf248",
     "url": "/static/media/apropiacion_simbolos.ac63ad70.png"
+  },
+  {
+    "revision": "8fd7bd3579dfcf1a64bebb75f60289e2",
+    "url": "/static/media/arbre_nadal.8fd7bd35.png"
+  },
+  {
+    "revision": "b6f9ffb672191fe672542525dcbb8d8c",
+    "url": "/static/media/arbre_nadal.b6f9ffb6.png"
   },
   {
     "revision": "5f09be4fb628622e113995bda4fc90d2",

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0290a557d5bdfa1b5298ddec9dd29ce",
+    "revision": "790dde7fe6a7fcd052da9937cd9176f2",
     "url": "/index.html"
   },
   {
-    "revision": "9a6f4eb3898a2395a64e",
+    "revision": "45a803209d8284c77179",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "ca906a4e81b9becec270",
-    "url": "/static/js/2.6114e96f.chunk.js"
+    "revision": "006b5d44d6aa21f2cb95",
+    "url": "/static/js/2.194e92a0.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.6114e96f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.194e92a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a6f4eb3898a2395a64e",
-    "url": "/static/js/main.49512eb4.chunk.js"
+    "revision": "45a803209d8284c77179",
+    "url": "/static/js/main.8d7b9b6c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -842,6 +842,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72a67ba7b347d0a9ef828d9f9f86a38e",
     "url": "/static/media/fugitivo.72a67ba7.png"
+  },
+  {
+    "revision": "03a1e77beb1b71adb3f6f339dfd07eef",
+    "url": "/static/media/gabonetako_zuhaitza.03a1e77b.png"
+  },
+  {
+    "revision": "d056b59eedff96bd1c16f453ab7684bb",
+    "url": "/static/media/gabonetako_zuhaitza.d056b59e.png"
   },
   {
     "revision": "9d82637075c68ebe2e23209201e11134",

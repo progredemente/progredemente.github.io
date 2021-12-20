@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.49512eb4.chunk.js",
-    "main.js.map": "/static/js/main.49512eb4.chunk.js.map",
+    "main.js": "/static/js/main.8d7b9b6c.chunk.js",
+    "main.js.map": "/static/js/main.8d7b9b6c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6114e96f.chunk.js": "/static/js/2.6114e96f.chunk.js",
-    "static/js/2.6114e96f.chunk.js.map": "/static/js/2.6114e96f.chunk.js.map",
+    "static/js/2.194e92a0.chunk.js": "/static/js/2.194e92a0.chunk.js",
+    "static/js/2.194e92a0.chunk.js.map": "/static/js/2.194e92a0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2f422e4af1b0a2c85cc1a7ac03551f49.js": "/precache-manifest.2f422e4af1b0a2c85cc1a7ac03551f49.js",
+    "precache-manifest.66f89b7a2303ec704def5302f3172a85.js": "/precache-manifest.66f89b7a2303ec704def5302f3172a85.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.6114e96f.chunk.js.LICENSE.txt": "/static/js/2.6114e96f.chunk.js.LICENSE.txt",
+    "static/js/2.194e92a0.chunk.js.LICENSE.txt": "/static/js/2.194e92a0.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -121,6 +121,7 @@
     "static/media/frigodedo_senalador.png": "/static/media/frigodedo_senalador.19e3866f.png",
     "static/media/frox.png": "/static/media/frox.da0013e3.png",
     "static/media/fugitivo.png": "/static/media/fugitivo.72a67ba7.png",
+    "static/media/gabonetako_zuhaitza.png": "/static/media/gabonetako_zuhaitza.d056b59e.png",
     "static/media/gafas_moradas.png": "/static/media/gafas_moradas.f7a1a331.png",
     "static/media/galanchez.png": "/static/media/galanchez.cd062762.png",
     "static/media/gente_irresponsable.png": "/static/media/gente_irresponsable.7702526b.png",
@@ -280,8 +281,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6114e96f.chunk.js",
+    "static/js/2.194e92a0.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.49512eb4.chunk.js"
+    "static/js/main.8d7b9b6c.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.8d7b9b6c.chunk.js",
-    "main.js.map": "/static/js/main.8d7b9b6c.chunk.js.map",
+    "main.js": "/static/js/main.2f6c22de.chunk.js",
+    "main.js.map": "/static/js/main.2f6c22de.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.194e92a0.chunk.js": "/static/js/2.194e92a0.chunk.js",
-    "static/js/2.194e92a0.chunk.js.map": "/static/js/2.194e92a0.chunk.js.map",
+    "static/js/2.708a782d.chunk.js": "/static/js/2.708a782d.chunk.js",
+    "static/js/2.708a782d.chunk.js.map": "/static/js/2.708a782d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.66f89b7a2303ec704def5302f3172a85.js": "/precache-manifest.66f89b7a2303ec704def5302f3172a85.js",
+    "precache-manifest.bcefdf2fa12f071ce25dae32afe70701.js": "/precache-manifest.bcefdf2fa12f071ce25dae32afe70701.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.194e92a0.chunk.js.LICENSE.txt": "/static/js/2.194e92a0.chunk.js.LICENSE.txt",
+    "static/js/2.708a782d.chunk.js.LICENSE.txt": "/static/js/2.708a782d.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -51,6 +51,7 @@
     "static/media/bloqueo.png": "/static/media/bloqueo.72dd288d.png",
     "static/media/boo_iden.png": "/static/media/boo_iden.f7778d8b.png",
     "static/media/boot_facha.png": "/static/media/boot_facha.87ffe8f0.png",
+    "static/media/boric.png": "/static/media/boric.d48a3fb9.png",
     "static/media/borregos.png": "/static/media/borregos.e6a4d770.png",
     "static/media/borreguistas.png": "/static/media/borreguistas.bca6b22d.png",
     "static/media/brujas.png": "/static/media/brujas.afd9e34a.png",
@@ -281,8 +282,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.194e92a0.chunk.js",
+    "static/js/2.708a782d.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.8d7b9b6c.chunk.js"
+    "static/js/main.2f6c22de.chunk.js"
   ]
 }

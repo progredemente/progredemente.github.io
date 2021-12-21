@@ -2195,5 +2195,16 @@
         "size": "2000x2000",
         "series": ["postales_navidenas"],
         "tags": ["madera"]
+    },
+    "boric": {
+        "name": "Boric",
+        "date": "2021-12-21T00:00",
+        "description": [
+            "Dime con quién andas, o, en este caso, quién te felicita.",
+            "Fuerza Chile."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Gabriel Boric", "Miguel Díaz-Canel", "Nicolás Maduro"],
+        "tags": ["sangre", "bandera", "venezuela"]
     }
 }

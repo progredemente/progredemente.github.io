@@ -2206,5 +2206,16 @@
         "size": "3000x2000",
         "celebrities": ["Gabriel Boric", "Miguel Díaz-Canel", "Nicolás Maduro"],
         "tags": ["sangre", "bandera", "venezuela"]
+    },
+    "arbore_nadal": {
+        "name": "Árbore de Nadal",
+        "date": "2021-12-22T00:00",
+        "description": [
+            "Bo Nadal!",
+            "¡Enviadle esta postal navideña a vuestros amigos gallegos!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"],
+        "tags": ["madera"]
     }
 }

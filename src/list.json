@@ -2217,5 +2217,14 @@
         "size": "2000x2000",
         "series": ["postales_navidenas"],
         "tags": ["madera"]
+    },
+    "obediencia_ciega": {
+        "name": "Obediencia ciega",
+        "date": "2021-12-23T00:00",
+        "description": [
+            "Como dice Soziedad Alkoholika: \"pauso bat desobedientzirantz\"."
+        ],
+        "size": "2000x2000",
+        "tags": ["mascarilla", "hierba", "cielo"]
     }
 }

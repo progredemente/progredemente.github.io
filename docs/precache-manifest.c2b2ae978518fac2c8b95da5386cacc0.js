@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a211a926ac25ff91db95c317b9a8edc",
+    "revision": "333423839e5283ecf3877d0612867010",
     "url": "/index.html"
   },
   {
-    "revision": "02304e56ad355e0f23f7",
+    "revision": "d2f088edfc3a56884c7b",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "560d44762affa5e05e51",
-    "url": "/static/js/2.a0c0a8c7.chunk.js"
+    "revision": "068cdc625017002b0c86",
+    "url": "/static/js/2.e47e9514.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a0c0a8c7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e47e9514.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02304e56ad355e0f23f7",
-    "url": "/static/js/main.9633a995.chunk.js"
+    "revision": "d2f088edfc3a56884c7b",
+    "url": "/static/js/main.6482a42c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1382,6 +1382,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9c6f9f193e357306e7ac4f55fa67484",
     "url": "/static/media/nueva_coalicion.f9c6f9f1.png"
+  },
+  {
+    "revision": "9c3913244c03681f97d2385b296cc104",
+    "url": "/static/media/obediencia_ciega.9c391324.png"
+  },
+  {
+    "revision": "ff43e015f579f22bcadab0b6f0384256",
+    "url": "/static/media/obediencia_ciega.ff43e015.png"
   },
   {
     "revision": "0751c4b96787652eb3f482de83f09880",

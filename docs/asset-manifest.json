@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.9633a995.chunk.js",
-    "main.js.map": "/static/js/main.9633a995.chunk.js.map",
+    "main.js": "/static/js/main.6482a42c.chunk.js",
+    "main.js.map": "/static/js/main.6482a42c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a0c0a8c7.chunk.js": "/static/js/2.a0c0a8c7.chunk.js",
-    "static/js/2.a0c0a8c7.chunk.js.map": "/static/js/2.a0c0a8c7.chunk.js.map",
+    "static/js/2.e47e9514.chunk.js": "/static/js/2.e47e9514.chunk.js",
+    "static/js/2.e47e9514.chunk.js.map": "/static/js/2.e47e9514.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a77218761fb81af9b18e75a60aa7c2c1.js": "/precache-manifest.a77218761fb81af9b18e75a60aa7c2c1.js",
+    "precache-manifest.c2b2ae978518fac2c8b95da5386cacc0.js": "/precache-manifest.c2b2ae978518fac2c8b95da5386cacc0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.a0c0a8c7.chunk.js.LICENSE.txt": "/static/js/2.a0c0a8c7.chunk.js.LICENSE.txt",
+    "static/js/2.e47e9514.chunk.js.LICENSE.txt": "/static/js/2.e47e9514.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -193,6 +193,7 @@
     "static/media/niepodleglosc.png": "/static/media/niepodleglosc.cd307a07.png",
     "static/media/notice_me_senpai.png": "/static/media/notice_me_senpai.66f2e9d8.png",
     "static/media/nueva_coalicion.png": "/static/media/nueva_coalicion.f9c6f9f1.png",
+    "static/media/obediencia_ciega.png": "/static/media/obediencia_ciega.ff43e015.png",
     "static/media/observador_internacional.png": "/static/media/observador_internacional.76b9f01b.png",
     "static/media/olentzero.png": "/static/media/olentzero.f9d946e6.png",
     "static/media/olentzero_etxera.png": "/static/media/olentzero_etxera.2b3aa4b4.png",
@@ -283,8 +284,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a0c0a8c7.chunk.js",
+    "static/js/2.e47e9514.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.9633a995.chunk.js"
+    "static/js/main.6482a42c.chunk.js"
   ]
 }

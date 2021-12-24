@@ -2226,5 +2226,16 @@
         ],
         "size": "2000x2000",
         "tags": ["mascarilla", "hierba", "cielo"]
+    },
+    "arbol_navidad": {
+        "name": "Árbol de Navidad",
+        "date": "2021-12-24T00:00",
+        "description": [
+            "¡Feliz Navidad!",
+            "¡Enviadle esta postal navideña a vuestros amigos españoles!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"],
+        "tags": ["madera", "bandera", "galicia", "cataluña", "euskadi", "navarra", "cantabria", "asturias", "aragón", "castilla y león", "la rioja", "madrid", "castilla-la mancha", "murcia", "extremadura", "andalucía", "baleares", "canarias", "ceuta", "melilla", "valencia"]
     }
 }

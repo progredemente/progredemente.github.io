@@ -2237,5 +2237,17 @@
         "size": "2000x2000",
         "series": ["postales_navidenas"],
         "tags": ["madera", "bandera", "galicia", "cataluña", "euskadi", "navarra", "cantabria", "asturias", "aragón", "castilla y león", "la rioja", "madrid", "castilla-la mancha", "murcia", "extremadura", "andalucía", "baleares", "canarias", "ceuta", "melilla", "valencia"]
+    },
+    "fichado": {
+        "name": "Fichado",
+        "date": "2021-12-28T00:00",
+        "description": [
+            "Os anuncio que me han fichado los de la revista El Jueves. Aquí mi aportación para el número de esta semana.",
+            "😉"
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Isabel Díaz Ayuso"],
+        "parties": ["PP"],
+        "tags": ["fuego", "demonio", "negro", "rubio", "moreno", "ojos verdes", "ojos negros", "vaqueros"]
     }
 }

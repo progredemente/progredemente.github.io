@@ -2249,5 +2249,16 @@
         "celebrities": ["Isabel Díaz Ayuso"],
         "parties": ["PP"],
         "tags": ["fuego", "demonio", "negro", "rubio", "moreno", "ojos verdes", "ojos negros", "vaqueros"]
+    },
+    "feijitler": {
+        "name": "Feijitler",
+        "date": "2021-12-29T00:00",
+        "description": [
+            "Unha nación, unha terra, un presidente."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Núñez Feijóo"],
+        "parties": ["PP"],
+        "tags": ["galicia", "bandera"]
     }
 }

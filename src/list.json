@@ -2260,5 +2260,15 @@
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"],
         "tags": ["galicia", "bandera"]
+    },
+    "feliz_2022": {
+        "name": "¡Feliz 2022!",
+        "date": "2021-12-31T00:00",
+        "description": [
+            "¡Que tengáis un feliz 2022!",
+            "Parece que ya se empieza a ver la luz al final del túnel, aunque es azul e intermitente. Espero que este año que entra nos traiga más sentido común y dejemos de matar moscas a cañonazos."
+        ],
+        "size": "2000x2000",
+        "tags": ["estrella", "2030", "pato"]
     }
 }

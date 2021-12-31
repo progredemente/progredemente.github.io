@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.f5f49e21.chunk.js",
-    "main.js.map": "/static/js/main.f5f49e21.chunk.js.map",
+    "main.js": "/static/js/main.6a4e88f1.chunk.js",
+    "main.js.map": "/static/js/main.6a4e88f1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.aaa0ab3e.chunk.js": "/static/js/2.aaa0ab3e.chunk.js",
-    "static/js/2.aaa0ab3e.chunk.js.map": "/static/js/2.aaa0ab3e.chunk.js.map",
+    "static/js/2.bda49a30.chunk.js": "/static/js/2.bda49a30.chunk.js",
+    "static/js/2.bda49a30.chunk.js.map": "/static/js/2.bda49a30.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6acc089bfa5f349bec7650181ccebfbd.js": "/precache-manifest.6acc089bfa5f349bec7650181ccebfbd.js",
+    "precache-manifest.d3821088153a756e4ae817bb8a058606.js": "/precache-manifest.d3821088153a756e4ae817bb8a058606.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.aaa0ab3e.chunk.js.LICENSE.txt": "/static/js/2.aaa0ab3e.chunk.js.LICENSE.txt",
+    "static/js/2.bda49a30.chunk.js.LICENSE.txt": "/static/js/2.bda49a30.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -118,6 +118,7 @@
     "static/media/fantasmas_izquierda.png": "/static/media/fantasmas_izquierda.edf8e525.png",
     "static/media/feijitler.png": "/static/media/feijitler.8f7a5bb4.png",
     "static/media/feliz_2021.png": "/static/media/feliz_2021.fbecfd65.png",
+    "static/media/feliz_2022.png": "/static/media/feliz_2022.6d615ca5.png",
     "static/media/fer_simon.png": "/static/media/fer_simon.eaea6a51.png",
     "static/media/fichado.png": "/static/media/fichado.40feb3b0.png",
     "static/media/fodemos.png": "/static/media/fodemos.6c281782.png",
@@ -287,8 +288,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.aaa0ab3e.chunk.js",
+    "static/js/2.bda49a30.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.f5f49e21.chunk.js"
+    "static/js/main.6a4e88f1.chunk.js"
   ]
 }

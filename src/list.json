@@ -2270,5 +2270,14 @@
         ],
         "size": "2000x2000",
         "tags": ["estrella", "2030", "pato"]
+    },
+    "energia_verde": {
+        "name": "Energía verde",
+        "date": "2022-01-03T00:00",
+        "description": [
+            "El criterio de los de la ciencia científica."
+        ],
+        "size": "2000x2000",
+        "tags": ["multitud", "muchedumbre", "cielo"]
     }
 }

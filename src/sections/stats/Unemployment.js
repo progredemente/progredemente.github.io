@@ -38,7 +38,7 @@ class Unemployment extends Component {
         if(this.state.includeErtes){
             for(let month of unemploymentClone){
                 for(let i = 2020; i <= currentYear; i++){
-                    if(erte[i][month.name]){
+                    if(erte[i] && erte[i][month.name]){
                         month[i] += erte[i][month.name];
                     }
                 }

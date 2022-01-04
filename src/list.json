@@ -2279,5 +2279,15 @@
         ],
         "size": "2000x2000",
         "tags": ["multitud", "muchedumbre", "cielo"]
+    },
+    "nariz": {
+        "name": "Nariz",
+        "date": "2022-01-04T00:00",
+        "description": [
+            "Huele a cambio en Podemos."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["UP"]
     }
 }

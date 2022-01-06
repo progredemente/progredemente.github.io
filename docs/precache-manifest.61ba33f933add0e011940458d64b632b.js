@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2c519a972ba9af115b10dc68952408d",
+    "revision": "d2af7fb6d7081213fc5176d3d19c03f9",
     "url": "/index.html"
   },
   {
-    "revision": "f7cc3a6f9ee40a5897c6",
+    "revision": "031bad7ccfbfa0b185ff",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "84b178709de812df94c3",
-    "url": "/static/js/2.34155b05.chunk.js"
+    "revision": "8ba0b52a948fbce4ce0a",
+    "url": "/static/js/2.51132f7a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.34155b05.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.51132f7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7cc3a6f9ee40a5897c6",
-    "url": "/static/js/main.e73642dc.chunk.js"
+    "revision": "031bad7ccfbfa0b185ff",
+    "url": "/static/js/main.bfafafa8.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -230,6 +230,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "607f1c53b185914d3a2bbbe490955455",
     "url": "/static/media/atencion_sanitaria.607f1c53.png"
+  },
+  {
+    "revision": "41d5096bfa481c4ca44e1d4189a68cec",
+    "url": "/static/media/atlas.41d5096b.png"
+  },
+  {
+    "revision": "79072fd9b975538593cccb46aeae6c8e",
+    "url": "/static/media/atlas.79072fd9.png"
+  },
+  {
+    "revision": "e82c6e83ef37fcf0a2fee618969535c8",
+    "url": "/static/media/atlas.en.e82c6e83.png"
   },
   {
     "revision": "261d5d1a69206ce11e6db5a43f54e3ec",

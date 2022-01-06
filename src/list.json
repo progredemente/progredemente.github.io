@@ -2289,5 +2289,18 @@
         "size": "3000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["UP"]
+    },
+    "atlas": {
+        "name": "Atlas",
+        "date": "2022-01-06T00:00",
+        "description": [
+            "¿Qué es lo más pesado del universo?",
+            "Inspirada en una viñeta de {contact:stonetoss} sobre el día internacional del hombre."
+        ],
+        "size": "3000x3000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

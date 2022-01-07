@@ -2301,6 +2301,18 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["espacio", "agua", "hierba", "hielo", "oro", "arena", "madera", "cuerda", "edificio"]
+    },
+    "milei_cyrus": {
+        "name": "Milei Cyrus",
+        "date": "2022-01-07T00:00",
+        "description": [
+            "¡El peluca sapee!",
+            "¿A nadie se le ocurrió esto antes?"
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Javier Milei"],
+        "tags": ["hierro", "edificio", "cuero"]
     }
 }

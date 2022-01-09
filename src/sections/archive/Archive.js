@@ -1,8 +1,16 @@
 import React, { Component } from 'react';
+import { getStoredValue, setStoredValue } from '../../common/utils';
 import list from '../../list.json';
 import ArchiveYear from './ArchiveYear';
  
 class Archive extends Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
+            years: getStoredValue('archiveYears')
+        }
+    }
 
     listByYears = function() {
         let ret = {};
@@ -36,7 +44,18 @@ class Archive extends Component {
             {
                 Object.keys(listByYears).sort().reverse().map((year, i) => {
                     return (
-                        <ArchiveYear year={year} posts={listByYears[year]} show={i === 0} key={year} url={this.props.url}/>
+                        <ArchiveYear
+                            year={year}
+                            posts={listByYears[year]}
+                            show={this.state.years[year]}
+                            key={year}
+                            url={this.props.url}
+                            changeVisibility={() => {
+                                this.setState({ years: {...this.state.years, [year]: !this.state.years[year]} }, () => {
+                                    setStoredValue('archiveYears', this.state.years);
+                                });
+                            }}
+                        />
                     )
                 })
             }

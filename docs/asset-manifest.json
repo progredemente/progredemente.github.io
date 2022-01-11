@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.20e6da32.chunk.js",
-    "main.js.map": "/static/js/main.20e6da32.chunk.js.map",
+    "main.js": "/static/js/main.7c921a0f.chunk.js",
+    "main.js.map": "/static/js/main.7c921a0f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6b6dc099.chunk.js": "/static/js/2.6b6dc099.chunk.js",
-    "static/js/2.6b6dc099.chunk.js.map": "/static/js/2.6b6dc099.chunk.js.map",
+    "static/js/2.4fcc0590.chunk.js": "/static/js/2.4fcc0590.chunk.js",
+    "static/js/2.4fcc0590.chunk.js.map": "/static/js/2.4fcc0590.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.630427a61ff573956620211c4ea294a6.js": "/precache-manifest.630427a61ff573956620211c4ea294a6.js",
+    "precache-manifest.abac03c519444a06820f6011b5f54aeb.js": "/precache-manifest.abac03c519444a06820f6011b5f54aeb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.6b6dc099.chunk.js.LICENSE.txt": "/static/js/2.6b6dc099.chunk.js.LICENSE.txt",
+    "static/js/2.4fcc0590.chunk.js.LICENSE.txt": "/static/js/2.4fcc0590.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -153,6 +153,8 @@
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
     "static/media/iphone_13.png": "/static/media/iphone_13.a4aaeca0.png",
+    "static/media/irenkling.png": "/static/media/irenkling.2ffd2c5a.png",
+    "static/media/irenkling.mp3": "/static/media/irenkling.25cb2a86.mp3",
     "static/media/izquierda_conspiranoica.png": "/static/media/izquierda_conspiranoica.bcc3aa05.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.c578b9ec.png",
     "static/media/joulupuu.png": "/static/media/joulupuu.780e7ee5.png",
@@ -293,8 +295,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6b6dc099.chunk.js",
+    "static/js/2.4fcc0590.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.20e6da32.chunk.js"
+    "static/js/main.7c921a0f.chunk.js"
   ]
 }

@@ -2314,5 +2314,16 @@
         "size": "4000x3000",
         "celebrities": ["Javier Milei"],
         "tags": ["hierro", "edificio", "cuero"]
+    },
+    "irenkling": {
+        "name": "Irenkling",
+        "date": "2022-01-11T00:00",
+        "description": [
+            "¡Irenkling se une al plantel!"
+        ],
+        "size": "2000x2000",
+        "series": ["smash"],
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.7c921a0f.chunk.js",
-    "main.js.map": "/static/js/main.7c921a0f.chunk.js.map",
+    "main.js": "/static/js/main.bad72439.chunk.js",
+    "main.js.map": "/static/js/main.bad72439.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4fcc0590.chunk.js": "/static/js/2.4fcc0590.chunk.js",
-    "static/js/2.4fcc0590.chunk.js.map": "/static/js/2.4fcc0590.chunk.js.map",
+    "static/js/2.fe80a120.chunk.js": "/static/js/2.fe80a120.chunk.js",
+    "static/js/2.fe80a120.chunk.js.map": "/static/js/2.fe80a120.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.abac03c519444a06820f6011b5f54aeb.js": "/precache-manifest.abac03c519444a06820f6011b5f54aeb.js",
+    "precache-manifest.5a13541193145eee30d7884136756d5d.js": "/precache-manifest.5a13541193145eee30d7884136756d5d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.4fcc0590.chunk.js.LICENSE.txt": "/static/js/2.4fcc0590.chunk.js.LICENSE.txt",
+    "static/js/2.fe80a120.chunk.js.LICENSE.txt": "/static/js/2.fe80a120.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -125,6 +125,7 @@
     "static/media/fer_simon.png": "/static/media/fer_simon.eaea6a51.png",
     "static/media/fichado.png": "/static/media/fichado.40feb3b0.png",
     "static/media/fodemos.png": "/static/media/fodemos.6c281782.png",
+    "static/media/fr.svg": "/static/media/fr.85556bea.svg",
     "static/media/franco_kazooie.png": "/static/media/franco_kazooie.8f7c48aa.png",
     "static/media/franco_kazooie.mp3": "/static/media/franco_kazooie.50e60ed0.mp3",
     "static/media/frigodedo_senalador.png": "/static/media/frigodedo_senalador.19e3866f.png",
@@ -163,6 +164,10 @@
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
     "static/media/koopanique.png": "/static/media/koopanique.a96b220c.png",
     "static/media/la_nueva_subnormalidad.png": "/static/media/la_nueva_subnormalidad.aaa250f6.png",
+    "static/media/laberinto.png": "/static/media/laberinto.beca6d14.png",
+    "static/media/laberinto.en.png": "/static/media/laberinto.en.e73330e6.png",
+    "static/media/laberinto.fr.png": "/static/media/laberinto.fr.ceceb548.png",
+    "static/media/laberinto.pt.png": "/static/media/laberinto.pt.b7ab5412.png",
     "static/media/lagrimas_autonomo.png": "/static/media/lagrimas_autonomo.af1fc19f.png",
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
@@ -241,6 +246,7 @@
     "static/media/progremon_3.png": "/static/media/progremon_3.5c14cafe.png",
     "static/media/progremon_banner.png": "/static/media/progremon_banner.ccc50836.png",
     "static/media/psoeta.png": "/static/media/psoeta.b964f73b.png",
+    "static/media/pt.svg": "/static/media/pt.8399d871.svg",
     "static/media/punto_violeta.png": "/static/media/punto_violeta.5110faec.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
     "static/media/rapunzel.png": "/static/media/rapunzel.57e96611.png",
@@ -295,8 +301,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4fcc0590.chunk.js",
+    "static/js/2.fe80a120.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.7c921a0f.chunk.js"
+    "static/js/main.bad72439.chunk.js"
   ]
 }

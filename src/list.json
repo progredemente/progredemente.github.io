@@ -2325,5 +2325,17 @@
         "series": ["smash"],
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "laberinto": {
+        "name": "Irenkling",
+        "date": "2022-01-12T00:00",
+        "description": [
+            "No deberíamos permitir que se entregasen carnets de buen o mal ciudadano conforme a si se cumple o no con los caprichos arbitrarios de quienes están en el poder. Los motivos de hoy pueden parecer estar justificados, los de mañana puede que no lo estén."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "fr", "pt"]
+        }
     }
 }

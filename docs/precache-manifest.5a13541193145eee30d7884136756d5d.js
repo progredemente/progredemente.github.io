@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f308b08c90857c5b679ebcde5e7288b8",
+    "revision": "dfd1c89c4d443b58e4acd401ab01b8fa",
     "url": "/index.html"
   },
   {
-    "revision": "5217542b72aa4c236195",
+    "revision": "26c63e03845a12da7e02",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "97b4f429b8579c840205",
-    "url": "/static/js/2.4fcc0590.chunk.js"
+    "revision": "d6e23fe5f452b9b832a5",
+    "url": "/static/js/2.fe80a120.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.4fcc0590.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fe80a120.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5217542b72aa4c236195",
-    "url": "/static/js/main.7c921a0f.chunk.js"
+    "revision": "26c63e03845a12da7e02",
+    "url": "/static/js/main.bad72439.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -876,6 +876,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fodemos.6c281782.png"
   },
   {
+    "revision": "85556bea9c9ec51954bfea42eb238434",
+    "url": "/static/media/fr.85556bea.svg"
+  },
+  {
     "revision": "263e5bc96a925ca4e89d6bb30d8d30ea",
     "url": "/static/media/franco_kazooie.263e5bc9.png"
   },
@@ -1158,6 +1162,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aaa250f6dc5e30e1ad12a6a52ea3910f",
     "url": "/static/media/la_nueva_subnormalidad.aaa250f6.png"
+  },
+  {
+    "revision": "38e47be7ef7912a30d3fa957809b6a43",
+    "url": "/static/media/laberinto.38e47be7.png"
+  },
+  {
+    "revision": "beca6d14c3a9eed71463ff06d0bd8837",
+    "url": "/static/media/laberinto.beca6d14.png"
+  },
+  {
+    "revision": "e73330e60213f038fcd5728125423ca5",
+    "url": "/static/media/laberinto.en.e73330e6.png"
+  },
+  {
+    "revision": "ceceb548a085624d09047acd171cdc4d",
+    "url": "/static/media/laberinto.fr.ceceb548.png"
+  },
+  {
+    "revision": "b7ab541278225a3f6b0b5f4c02f15169",
+    "url": "/static/media/laberinto.pt.b7ab5412.png"
   },
   {
     "revision": "796d0867ef2eed515f39f519332121cd",
@@ -1726,6 +1750,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b964f73bfd7505b5ef6f22cbbef26557",
     "url": "/static/media/psoeta.b964f73b.png"
+  },
+  {
+    "revision": "8399d871b0102e3df032cc9f69ca06aa",
+    "url": "/static/media/pt.8399d871.svg"
   },
   {
     "revision": "0897711e255e35260f7b40e16ff04e6e",

@@ -2347,5 +2347,13 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["UP"]
+    },
+    "cumplir": {
+        "name": "Cumplir",
+        "date": "2022-01-15T00:00",
+        "description": [
+            "Van a calzón quitado."
+        ],
+        "size": "2000x2000"
     }
 }

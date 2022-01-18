@@ -2355,5 +2355,14 @@
             "Van a calzón quitado."
         ],
         "size": "2000x2000"
+    },
+    "antisistema": {
+        "name": "Antisistema",
+        "date": "2022-01-18T00:00",
+        "description": [
+            "No hay nada más punk que ser parte del rebaño.",
+            "Fuera coñas, si tuviese los medios para hacerme un chaleco de este estilo, me lo haría para ir de punki en carnavales."
+        ],
+        "size": "2000x2000"
     }
 }

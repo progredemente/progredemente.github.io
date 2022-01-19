@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5cb2f6d28b631f10577992520bdf329",
+    "revision": "8f7e23804a169ec6301078e5a5dda46f",
     "url": "/index.html"
   },
   {
-    "revision": "897e44971ee66a7dfbe3",
+    "revision": "b306e823c1b5b07efc8a",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "17c25ca06e3c830de177",
-    "url": "/static/js/2.291f22e9.chunk.js"
+    "revision": "b1e4d2fbb63a98044ffa",
+    "url": "/static/js/2.1355b779.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.291f22e9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1355b779.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "897e44971ee66a7dfbe3",
-    "url": "/static/js/main.02402541.chunk.js"
+    "revision": "b306e823c1b5b07efc8a",
+    "url": "/static/js/main.21f2203b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -270,6 +270,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6989e994d38fc0e1b8089d9caef3b395",
     "url": "/static/media/bajada_iva.6989e994.png"
+  },
+  {
+    "revision": "6fc7940229c5a5382bb451933534eb99",
+    "url": "/static/media/bandera_galibertaria.6fc79402.png"
+  },
+  {
+    "revision": "a0d9e4277dc5d9784c19c3ef734ef907",
+    "url": "/static/media/bandera_galibertaria.a0d9e427.png"
   },
   {
     "revision": "e5e51a7a0d6cecdb49cb33309daa8bcd",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.02402541.chunk.js",
-    "main.js.map": "/static/js/main.02402541.chunk.js.map",
+    "main.js": "/static/js/main.21f2203b.chunk.js",
+    "main.js.map": "/static/js/main.21f2203b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.291f22e9.chunk.js": "/static/js/2.291f22e9.chunk.js",
-    "static/js/2.291f22e9.chunk.js.map": "/static/js/2.291f22e9.chunk.js.map",
+    "static/js/2.1355b779.chunk.js": "/static/js/2.1355b779.chunk.js",
+    "static/js/2.1355b779.chunk.js.map": "/static/js/2.1355b779.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.055707dd71e10636d8e4d03ae810c335.js": "/precache-manifest.055707dd71e10636d8e4d03ae810c335.js",
+    "precache-manifest.2c7efec8fd4c474f4d91bb2c78912239.js": "/precache-manifest.2c7efec8fd4c474f4d91bb2c78912239.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.291f22e9.chunk.js.LICENSE.txt": "/static/js/2.291f22e9.chunk.js.LICENSE.txt",
+    "static/js/2.1355b779.chunk.js.LICENSE.txt": "/static/js/2.1355b779.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -45,6 +45,7 @@
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/index.css": "/static/media/comic_typo.14eb6106.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
+    "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bella_durmiente.png": "/static/media/bella_durmiente.c60a25fd.png",
@@ -304,8 +305,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.291f22e9.chunk.js",
+    "static/js/2.1355b779.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.02402541.chunk.js"
+    "static/js/main.21f2203b.chunk.js"
   ]
 }

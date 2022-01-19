@@ -2364,5 +2364,14 @@
             "Fuera coñas, si tuviese los medios para hacerme un chaleco de este estilo, me lo haría para ir de punki en carnavales."
         ],
         "size": "2000x2000"
+    },
+    "bandera_galibertaria": {
+        "name": "Bandera Galibertaria",
+        "date": "2022-01-19T00:00",
+        "description": [
+            "No fondo, todos temos esta ideoloxía.",
+            "{https://www.lavozdegalicia.es/noticia/carballo/cerceda/2022/01/17/jubilado-usa-catana-pelea-pensionista-lindes-cerceda/0003_202201C17C2994.htm}"
+        ],
+        "size": "3000x2000"
     }
 }

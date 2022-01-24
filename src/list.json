@@ -2373,5 +2373,16 @@
             "{https://www.lavozdegalicia.es/noticia/carballo/cerceda/2022/01/17/jubilado-usa-catana-pelea-pensionista-lindes-cerceda/0003_202201C17C2994.htm}"
         ],
         "size": "3000x2000"
+    },
+    "gunchez": {
+        "name": "Günchez",
+        "date": "2022-01-24T00:00",
+        "description": [
+            "Esto quedaba mejor en fotomontaje, pero no sé hacerlos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "tags": ["madera", "mesa", "cuero", "oro"]
     }
 }

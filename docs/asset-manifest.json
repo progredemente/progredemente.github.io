@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.97c26ac0.chunk.js",
-    "main.js.map": "/static/js/main.97c26ac0.chunk.js.map",
+    "main.js": "/static/js/main.6c77a56a.chunk.js",
+    "main.js.map": "/static/js/main.6c77a56a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4dbdcbc9.chunk.js": "/static/js/2.4dbdcbc9.chunk.js",
-    "static/js/2.4dbdcbc9.chunk.js.map": "/static/js/2.4dbdcbc9.chunk.js.map",
+    "static/js/2.4b724295.chunk.js": "/static/js/2.4b724295.chunk.js",
+    "static/js/2.4b724295.chunk.js.map": "/static/js/2.4b724295.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6a27d45c45413c868c260a2fd93a087e.js": "/precache-manifest.6a27d45c45413c868c260a2fd93a087e.js",
+    "precache-manifest.779a9c59fc586bd1ba56ed98a39d2560.js": "/precache-manifest.779a9c59fc586bd1ba56ed98a39d2560.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.4dbdcbc9.chunk.js.LICENSE.txt": "/static/js/2.4dbdcbc9.chunk.js.LICENSE.txt",
+    "static/js/2.4b724295.chunk.js.LICENSE.txt": "/static/js/2.4b724295.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -218,6 +218,7 @@
     "static/media/observador_internacional.png": "/static/media/observador_internacional.76b9f01b.png",
     "static/media/olentzero.png": "/static/media/olentzero.f9d946e6.png",
     "static/media/olentzero_etxera.png": "/static/media/olentzero_etxera.2b3aa4b4.png",
+    "static/media/onlycis.png": "/static/media/onlycis.db648f57.png",
     "static/media/ortega_snake.png": "/static/media/ortega_snake.8dc98014.png",
     "static/media/ortega_snake.mp3": "/static/media/ortega_snake.9334dbd6.mp3",
     "static/media/oso_machista.png": "/static/media/oso_machista.e57e96d3.png",
@@ -306,8 +307,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4dbdcbc9.chunk.js",
+    "static/js/2.4b724295.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.97c26ac0.chunk.js"
+    "static/js/main.6c77a56a.chunk.js"
   ]
 }

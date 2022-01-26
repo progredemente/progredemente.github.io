@@ -2384,5 +2384,15 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "tags": ["madera", "mesa", "cuero", "oro"]
+    },
+    "onlycis": {
+        "name": "OnlyCIS",
+        "date": "2022-01-26T00:00",
+        "description": [
+            "Ahora con un descuento especial usando el código promocional: \"CLOACAS\", no dejes escapar esta oportunidad."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

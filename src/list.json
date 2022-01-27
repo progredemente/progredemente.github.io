@@ -2394,5 +2394,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "booric": {
+        "name": "Booric",
+        "date": "2022-01-27T00:00",
+        "description": [
+            "Los munchies."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gabriel Boric"],
+        "series": ["latino_ball"]
     }
 }

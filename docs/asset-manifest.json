@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.a545a338.chunk.js",
-    "main.js.map": "/static/js/main.a545a338.chunk.js.map",
+    "main.js": "/static/js/main.5eb18bd5.chunk.js",
+    "main.js.map": "/static/js/main.5eb18bd5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.d29f655a.chunk.js": "/static/js/2.d29f655a.chunk.js",
-    "static/js/2.d29f655a.chunk.js.map": "/static/js/2.d29f655a.chunk.js.map",
+    "static/js/2.b47ffffc.chunk.js": "/static/js/2.b47ffffc.chunk.js",
+    "static/js/2.b47ffffc.chunk.js.map": "/static/js/2.b47ffffc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ca12593fdc0d89bed0a5b88560142144.js": "/precache-manifest.ca12593fdc0d89bed0a5b88560142144.js",
+    "precache-manifest.2d1d571f039ef5d0008ded8e0cc7be08.js": "/precache-manifest.2d1d571f039ef5d0008ded8e0cc7be08.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.d29f655a.chunk.js.LICENSE.txt": "/static/js/2.d29f655a.chunk.js.LICENSE.txt",
+    "static/js/2.b47ffffc.chunk.js.LICENSE.txt": "/static/js/2.b47ffffc.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -258,6 +258,7 @@
     "static/media/punto_violeta.png": "/static/media/punto_violeta.5110faec.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
     "static/media/rapunzel.png": "/static/media/rapunzel.57e96611.png",
+    "static/media/rebano.png": "/static/media/rebano.ea2c6348.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.df988713.png",
     "static/media/respeto_constitucion.png": "/static/media/respeto_constitucion.703151fb.png",
     "static/media/reyes_magos.png": "/static/media/reyes_magos.e3fb7914.png",
@@ -309,8 +310,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.d29f655a.chunk.js",
+    "static/js/2.b47ffffc.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.a545a338.chunk.js"
+    "static/js/main.5eb18bd5.chunk.js"
   ]
 }

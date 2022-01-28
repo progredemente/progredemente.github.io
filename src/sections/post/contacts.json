@@ -70,5 +70,31 @@
                 "url": "https://t.me/stone_toss"
             }
         ]
+    },
+    "janogarcia_": {
+        "name": "Jano García",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/janogarcia_"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/ellibrepensador/"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/janogarciaesp/"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/channel/UCb2TOOLwTwgAfJ7OeGyAwVw"
+            },
+            {
+                "id": "ivoox",
+                "url": "https://www.ivoox.com/podcast-en-libertad_sq_f1781509_1.html"
+            }
+        ]
+
     }
 }

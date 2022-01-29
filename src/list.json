@@ -2414,5 +2414,15 @@
         ],
         "size": "6000x6000",
         "tags": ["cielo", "árbol", "hierba", "edificio", "fuego", "muchedumbre", "multitud", "oveja"]
+    },
+    "kriptonita": {
+        "name": "Kriptonita",
+        "date": "2022-01-29T00:00",
+        "description": [
+            "La corrección política es la kriptonita del arte. Ya sabéis lo que dicen: #getwokegobroke"
+        ],
+        "size": "3000x3000",
+        "series": ["memes"],
+        "tags": ["cielo", "ladrillo", "nube", "bandera", "lgbt"]
     }
 }

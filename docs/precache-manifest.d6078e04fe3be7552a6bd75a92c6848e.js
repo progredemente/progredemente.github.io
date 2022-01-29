@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72f2709e618bc4a712ac3c5e434d7ee6",
+    "revision": "27f09f8a100cfe433fea52667cd6a9fb",
     "url": "/index.html"
   },
   {
-    "revision": "07f563d3a0b73ad0c1d7",
+    "revision": "5207db4aaa4eff55ae79",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "08886c35141962c215ac",
-    "url": "/static/js/2.b47ffffc.chunk.js"
+    "revision": "427f31b8b38225b3950f",
+    "url": "/static/js/2.2265a860.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.b47ffffc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2265a860.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07f563d3a0b73ad0c1d7",
-    "url": "/static/js/main.5eb18bd5.chunk.js"
+    "revision": "5207db4aaa4eff55ae79",
+    "url": "/static/js/main.b43ae601.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1198,6 +1198,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a96b220cb3659800806f63c185262c38",
     "url": "/static/media/koopanique.a96b220c.png"
+  },
+  {
+    "revision": "d1d07a963c6eee9beee67838de948c31",
+    "url": "/static/media/kriptonita.d1d07a96.png"
+  },
+  {
+    "revision": "ef0b063578072a3eb1e3f7d398b0c6ac",
+    "url": "/static/media/kriptonita.ef0b0635.png"
   },
   {
     "revision": "83e42ceccdec7da690ed4d712a0c18d2",

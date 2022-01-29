@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.b43ae601.chunk.js",
-    "main.js.map": "/static/js/main.b43ae601.chunk.js.map",
+    "main.js": "/static/js/main.8978da73.chunk.js",
+    "main.js.map": "/static/js/main.8978da73.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2265a860.chunk.js": "/static/js/2.2265a860.chunk.js",
-    "static/js/2.2265a860.chunk.js.map": "/static/js/2.2265a860.chunk.js.map",
+    "static/js/2.06c0fed2.chunk.js": "/static/js/2.06c0fed2.chunk.js",
+    "static/js/2.06c0fed2.chunk.js.map": "/static/js/2.06c0fed2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d6078e04fe3be7552a6bd75a92c6848e.js": "/precache-manifest.d6078e04fe3be7552a6bd75a92c6848e.js",
+    "precache-manifest.db473870cc1ad862631b8c3f76cdaef4.js": "/precache-manifest.db473870cc1ad862631b8c3f76cdaef4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.2265a860.chunk.js.LICENSE.txt": "/static/js/2.2265a860.chunk.js.LICENSE.txt",
+    "static/js/2.06c0fed2.chunk.js.LICENSE.txt": "/static/js/2.06c0fed2.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -288,6 +288,7 @@
     "static/media/terf_vs_trans_3.png": "/static/media/terf_vs_trans_3.7e2f6664.png",
     "static/media/terf_vs_trans_4.png": "/static/media/terf_vs_trans_4.8ce2defc.png",
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
+    "static/media/tetas.png": "/static/media/tetas.f165612a.png",
     "static/media/tio_nadal.png": "/static/media/tio_nadal.5ad41069.png",
     "static/media/toque_de_queda.png": "/static/media/toque_de_queda.d1faf70d.png",
     "static/media/transicion_energetica.png": "/static/media/transicion_energetica.3f75e4ce.png",
@@ -311,8 +312,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2265a860.chunk.js",
+    "static/js/2.06c0fed2.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.b43ae601.chunk.js"
+    "static/js/main.8978da73.chunk.js"
   ]
 }

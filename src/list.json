@@ -2424,5 +2424,14 @@
         "size": "3000x3000",
         "series": ["memes"],
         "tags": ["cielo", "ladrillo", "nube", "bandera", "lgbt"]
+    },
+    "tetas": {
+        "name": "Tetas",
+        "date": "2022-01-29T01:00",
+        "description": [
+            "¡SOCORRO! ¡VIENEN A POR MÍ!"
+        ],
+        "size": "2000x2000",
+        "tags": ["sangre", "hierro"]
     }
 }

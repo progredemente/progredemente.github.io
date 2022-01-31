@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5aaac6d8f02a74803d02a8a22bf7a8a",
+    "revision": "764e5304bac430d91930a08744c96dc7",
     "url": "/index.html"
   },
   {
-    "revision": "d90c1ed53d8b82ed5cd1",
+    "revision": "62fed599856852957454",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "81d99520faa876eb3440",
-    "url": "/static/js/2.06c0fed2.chunk.js"
+    "revision": "4a8a5fc4d0e7c821bcb0",
+    "url": "/static/js/2.a7745156.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.06c0fed2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a7745156.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d90c1ed53d8b82ed5cd1",
-    "url": "/static/js/main.8978da73.chunk.js"
+    "revision": "62fed599856852957454",
+    "url": "/static/js/main.a9c8ce5f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -258,6 +258,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be29c1df76569f401297531f8b55bd",
     "url": "/static/media/autoridad_sanitaria.52be29c1.png"
+  },
+  {
+    "revision": "d99f31d9ab1f061228c94f477a26562f",
+    "url": "/static/media/avestrudeau.d99f31d9.png"
+  },
+  {
+    "revision": "f4d342797a6403e79beb3c61d585bb90",
+    "url": "/static/media/avestrudeau.f4d34279.png"
   },
   {
     "revision": "5c1476f6f4032fcb14ad6f3264e1a588",

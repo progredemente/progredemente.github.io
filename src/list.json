@@ -2433,5 +2433,15 @@
         ],
         "size": "2000x2000",
         "tags": ["sangre", "hierro"]
+    },
+    "avestrudeau": {
+        "name": "Avestrudeau",
+        "date": "2022-01-31T00:00",
+        "description": [
+            "Huír de los problemas como ideología."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Fidel Castro", "Justin Trudeau"],
+        "tags": ["hierba", "tierra", "cueva", "infierno", "fuego", "hierro", "cielo"]
     }
 }

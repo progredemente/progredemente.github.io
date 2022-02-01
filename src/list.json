@@ -2098,6 +2098,7 @@
             "El único juguete con motivos para hacer huelga. Es la primera viñeta que hago que espero que no entendáis. Inspirada en una viñeta de {contact:stonetoss} de hace año y medio."
         ],
         "size": "2000x2000",
+        "series": ["memes"],
         "tags": ["cristal"]
     },
     "arvore_natal": {
@@ -2443,5 +2444,15 @@
         "size": "3000x3000",
         "celebrities": ["Fidel Castro", "Justin Trudeau"],
         "tags": ["hierba", "tierra", "cueva", "infierno", "fuego", "hierro", "cielo"]
+    },
+    "persona_embarazada": {
+        "name": "Persona embarazada",
+        "date": "2022-02-01T00:00",
+        "description": [
+            "The real inclusion.",
+            "Otro post inspirado en el lienzo en blanco que es internet para la gente a la que le falta un hervor."
+        ],
+        "size": "3000x2000",
+        "series": ["memes"]
     }
 }

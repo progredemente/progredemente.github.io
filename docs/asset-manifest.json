@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.a9c8ce5f.chunk.js",
-    "main.js.map": "/static/js/main.a9c8ce5f.chunk.js.map",
+    "main.js": "/static/js/main.0b8ac1ca.chunk.js",
+    "main.js.map": "/static/js/main.0b8ac1ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a7745156.chunk.js": "/static/js/2.a7745156.chunk.js",
-    "static/js/2.a7745156.chunk.js.map": "/static/js/2.a7745156.chunk.js.map",
+    "static/js/2.f728b496.chunk.js": "/static/js/2.f728b496.chunk.js",
+    "static/js/2.f728b496.chunk.js.map": "/static/js/2.f728b496.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97e43ffe169ad45160003b61c949c7bd.js": "/precache-manifest.97e43ffe169ad45160003b61c949c7bd.js",
+    "precache-manifest.e011dcc538bf1a60bbdf58673678abdf.js": "/precache-manifest.e011dcc538bf1a60bbdf58673678abdf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.a7745156.chunk.js.LICENSE.txt": "/static/js/2.a7745156.chunk.js.LICENSE.txt",
+    "static/js/2.f728b496.chunk.js.LICENSE.txt": "/static/js/2.f728b496.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -241,6 +241,7 @@
     "static/media/payasos.png": "/static/media/payasos.683628eb.png",
     "static/media/pepe.png": "/static/media/pepe.55d65e52.png",
     "static/media/pero.png": "/static/media/pero.f46845c0.png",
+    "static/media/persona_embarazada.png": "/static/media/persona_embarazada.f6854f9c.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.ef2679b2.png",
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
@@ -313,8 +314,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a7745156.chunk.js",
+    "static/js/2.f728b496.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.a9c8ce5f.chunk.js"
+    "static/js/main.0b8ac1ca.chunk.js"
   ]
 }

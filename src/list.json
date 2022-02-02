@@ -2373,7 +2373,8 @@
             "No fondo, todos temos esta ideoloxía.",
             "{https://www.lavozdegalicia.es/noticia/carballo/cerceda/2022/01/17/jubilado-usa-catana-pelea-pensionista-lindes-cerceda/0003_202201C17C2994.htm}"
         ],
-        "size": "3000x2000"
+        "size": "3000x2000",
+        "series": ["banderas"]
     },
     "gunchez": {
         "name": "Günchez",
@@ -2454,5 +2455,16 @@
         ],
         "size": "3000x2000",
         "series": ["memes"]
+    },
+    "bandera_galenazi": {
+        "name": "Bandera Galenazi",
+        "date": "2022-02-02T00:00",
+        "description": [
+            "Hace unos días os compartí la bandera galibertaria, hoy toca la galenazi, de la cual ya hice un diseño inicial con otro tipo de trisquel en una viñeta del año pasado.",
+            "Probablemente se vengan más aberraciones de este tipo en un futuro, y cuando digo problablemente quiero decir que ya tengo algunas hechas y las iré publicando pronto."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "galicia"]
     }
 }

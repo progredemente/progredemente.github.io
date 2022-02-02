@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.0b8ac1ca.chunk.js",
-    "main.js.map": "/static/js/main.0b8ac1ca.chunk.js.map",
+    "main.js": "/static/js/main.6d284e57.chunk.js",
+    "main.js.map": "/static/js/main.6d284e57.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f728b496.chunk.js": "/static/js/2.f728b496.chunk.js",
-    "static/js/2.f728b496.chunk.js.map": "/static/js/2.f728b496.chunk.js.map",
+    "static/js/2.a5ae98b0.chunk.js": "/static/js/2.a5ae98b0.chunk.js",
+    "static/js/2.a5ae98b0.chunk.js.map": "/static/js/2.a5ae98b0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e011dcc538bf1a60bbdf58673678abdf.js": "/precache-manifest.e011dcc538bf1a60bbdf58673678abdf.js",
+    "precache-manifest.0d0623511c47b5ae3b5dc9a1617a1c23.js": "/precache-manifest.0d0623511c47b5ae3b5dc9a1617a1c23.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.f728b496.chunk.js.LICENSE.txt": "/static/js/2.f728b496.chunk.js.LICENSE.txt",
+    "static/js/2.a5ae98b0.chunk.js.LICENSE.txt": "/static/js/2.a5ae98b0.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -46,7 +46,9 @@
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
     "static/media/index.css": "/static/media/comic_typo.14eb6106.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
+    "static/media/bandera_galenazi.png": "/static/media/bandera_galenazi.c969387a.png",
     "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
+    "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bella_durmiente.png": "/static/media/bella_durmiente.c60a25fd.png",
@@ -314,8 +316,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f728b496.chunk.js",
+    "static/js/2.a5ae98b0.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.0b8ac1ca.chunk.js"
+    "static/js/main.6d284e57.chunk.js"
   ]
 }

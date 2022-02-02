@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05488204044b1a8d816b2c9e021e1561",
+    "revision": "c7161c0795070acd6a218fde3b00c5a1",
     "url": "/index.html"
   },
   {
-    "revision": "81f5de03f73a8a6c0a14",
+    "revision": "58ffffa85b27e26650e4",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "56861e65412566e52413",
-    "url": "/static/js/2.f728b496.chunk.js"
+    "revision": "b5e84eb171b8db9270f2",
+    "url": "/static/js/2.a5ae98b0.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.f728b496.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a5ae98b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81f5de03f73a8a6c0a14",
-    "url": "/static/js/main.0b8ac1ca.chunk.js"
+    "revision": "58ffffa85b27e26650e4",
+    "url": "/static/js/main.6d284e57.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -280,12 +280,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bajada_iva.6989e994.png"
   },
   {
+    "revision": "191e1963f2bd8f5ef59d80174e6879d0",
+    "url": "/static/media/bandera_galenazi.191e1963.png"
+  },
+  {
+    "revision": "c969387a25ddd9c7ecb84ca921529c0c",
+    "url": "/static/media/bandera_galenazi.c969387a.png"
+  },
+  {
     "revision": "6fc7940229c5a5382bb451933534eb99",
     "url": "/static/media/bandera_galibertaria.6fc79402.png"
   },
   {
     "revision": "a0d9e4277dc5d9784c19c3ef734ef907",
     "url": "/static/media/bandera_galibertaria.a0d9e427.png"
+  },
+  {
+    "revision": "e9380d54128340e7c3054bdac73bcc59",
+    "url": "/static/media/banderas_banner.e9380d54.png"
   },
   {
     "revision": "e5e51a7a0d6cecdb49cb33309daa8bcd",

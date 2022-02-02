@@ -104,6 +104,15 @@ class Web extends Component{
                                 </div>
                             )
                         }}/>
+                        <Redirect exact from={`${this.props.match.url}/banderas`} to={`${this.props.match.url}/banderas/bandera_galibertaria`}/>
+                        <Route exact path={`${this.props.match.url}/banderas/:id`} render={(props) => {
+                            return (
+                                <div>
+                                    <Banner id="banderas" alt={series["banderas"]} key={`banner-banderas`} />
+                                    <Post { ...props}/>
+                                </div>
+                            )
+                        }}/>
                         <Redirect exact from={`${this.props.match.url}/latino_ball`} to={`${this.props.match.url}/latino_ball/booric`}/>
                         <Route exact path={`${this.props.match.url}/latino_ball/:id`} render={(props) => {
                             return (

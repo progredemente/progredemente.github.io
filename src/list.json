@@ -2466,5 +2466,15 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "galicia"]
+    },
+    "tanxugueiras": {
+        "name": "Tanxugueiras",
+        "date": "2022-02-02T01:00",
+        "description": [
+            "Se la pusieron durísima a los del Bloque con las banderitas de la estrella y la del Starbucks.",
+            "Mi opinión sobre la canción: no me gusta y la parte en la que le meten las frases en los otros idiomas es muy cringe, ocurrencia nivel grupo de punk de instituto cuyos integrantes tontean con el nacionalismo, con el comunismo y con las drogas."
+        ],
+        "size": "3800x2000",
+        "tags": ["bandera", "galicia", "oro", "pelo marrón", "ojos marrones oscuros"]
     }
 }

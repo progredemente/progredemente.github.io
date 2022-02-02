@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.6d284e57.chunk.js",
-    "main.js.map": "/static/js/main.6d284e57.chunk.js.map",
+    "main.js": "/static/js/main.d314ccf2.chunk.js",
+    "main.js.map": "/static/js/main.d314ccf2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a5ae98b0.chunk.js": "/static/js/2.a5ae98b0.chunk.js",
-    "static/js/2.a5ae98b0.chunk.js.map": "/static/js/2.a5ae98b0.chunk.js.map",
+    "static/js/2.e75095d3.chunk.js": "/static/js/2.e75095d3.chunk.js",
+    "static/js/2.e75095d3.chunk.js.map": "/static/js/2.e75095d3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0d0623511c47b5ae3b5dc9a1617a1c23.js": "/precache-manifest.0d0623511c47b5ae3b5dc9a1617a1c23.js",
+    "precache-manifest.3947e9eaedca0d9651dda0420fcbdcee.js": "/precache-manifest.3947e9eaedca0d9651dda0420fcbdcee.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.a5ae98b0.chunk.js.LICENSE.txt": "/static/js/2.a5ae98b0.chunk.js.LICENSE.txt",
+    "static/js/2.e75095d3.chunk.js.LICENSE.txt": "/static/js/2.e75095d3.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -285,6 +285,7 @@
     "static/media/suicidio_politico.png": "/static/media/suicidio_politico.d92d5ffb.png",
     "static/media/super_pablo.png": "/static/media/super_pablo.e8281f3d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
+    "static/media/tanxugueiras.png": "/static/media/tanxugueiras.501781ae.png",
     "static/media/techo_gasto.png": "/static/media/techo_gasto.91f2d34c.png",
     "static/media/telegram.png": "/static/media/telegram.2c84be4c.png",
     "static/media/terf_vs_trans_1.png": "/static/media/terf_vs_trans_1.d980a893.png",
@@ -316,8 +317,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a5ae98b0.chunk.js",
+    "static/js/2.e75095d3.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.6d284e57.chunk.js"
+    "static/js/main.d314ccf2.chunk.js"
   ]
 }

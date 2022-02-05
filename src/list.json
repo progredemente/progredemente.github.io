@@ -2486,5 +2486,14 @@
         ],
         "size": "2000x2000",
         "series": ["memes"]
+    },
+    "blancanieves": {
+        "name": "Blancanieves",
+        "date": "2022-02-05T01:00",
+        "description": [
+            "Y tú, ¿también eres daltónico o eres un racista?"
+        ],
+        "size": "3000x2000",
+        "series": ["cuentos"]
     }
 }

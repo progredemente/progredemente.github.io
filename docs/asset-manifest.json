@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.d314ccf2.chunk.js",
-    "main.js.map": "/static/js/main.d314ccf2.chunk.js.map",
+    "main.js": "/static/js/main.08ef13ea.chunk.js",
+    "main.js.map": "/static/js/main.08ef13ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e75095d3.chunk.js": "/static/js/2.e75095d3.chunk.js",
-    "static/js/2.e75095d3.chunk.js.map": "/static/js/2.e75095d3.chunk.js.map",
+    "static/js/2.d5aab95d.chunk.js": "/static/js/2.d5aab95d.chunk.js",
+    "static/js/2.d5aab95d.chunk.js.map": "/static/js/2.d5aab95d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3947e9eaedca0d9651dda0420fcbdcee.js": "/precache-manifest.3947e9eaedca0d9651dda0420fcbdcee.js",
+    "precache-manifest.510faebbd7e6d4fb97ddc1c441e6f282.js": "/precache-manifest.510faebbd7e6d4fb97ddc1c441e6f282.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.e75095d3.chunk.js.LICENSE.txt": "/static/js/2.e75095d3.chunk.js.LICENSE.txt",
+    "static/js/2.d5aab95d.chunk.js.LICENSE.txt": "/static/js/2.d5aab95d.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -150,7 +150,7 @@
     "static/media/guaido.png": "/static/media/guaido.69f01b39.png",
     "static/media/gunchez.png": "/static/media/gunchez.d5db3fab.png",
     "static/media/haren.png": "/static/media/haren.752669a1.png",
-    "static/media/herencia.png": "/static/media/herencia.2843f0c5.png",
+    "static/media/herencia.png": "/static/media/herencia.3a8c73f3.png",
     "static/media/hijxs.png": "/static/media/hijxs.ce323ed5.png",
     "static/media/hipocresia_climatica.png": "/static/media/hipocresia_climatica.639bb7dd.png",
     "static/media/hispanidad.png": "/static/media/hispanidad.c3f2790c.png",
@@ -295,6 +295,7 @@
     "static/media/terf_vs_trans_banner.png": "/static/media/terf_vs_trans_banner.ad2a1df1.png",
     "static/media/tetas.png": "/static/media/tetas.f165612a.png",
     "static/media/tio_nadal.png": "/static/media/tio_nadal.5ad41069.png",
+    "static/media/tongo.png": "/static/media/tongo.c2693ce4.png",
     "static/media/toque_de_queda.png": "/static/media/toque_de_queda.d1faf70d.png",
     "static/media/transicion_energetica.png": "/static/media/transicion_energetica.3f75e4ce.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
@@ -317,8 +318,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e75095d3.chunk.js",
+    "static/js/2.d5aab95d.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.d314ccf2.chunk.js"
+    "static/js/main.08ef13ea.chunk.js"
   ]
 }

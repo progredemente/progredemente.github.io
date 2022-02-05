@@ -2476,5 +2476,15 @@
         ],
         "size": "3800x2000",
         "tags": ["bandera", "galicia", "oro", "pelo marrón", "ojos marrones oscuros"]
+    },
+    "tongo": {
+        "name": "Tongo",
+        "date": "2022-02-05T00:00",
+        "description": [
+            "Los que vinieron a regenerar la política y la democracia tienen claras sus prioridades.",
+            "Como dicen Los Muertos de Cristo: \"Y si el pueblo quiere despertar, el Estado nos ofrece pan y circo a reventar\". El circo continúa, sigamos haciéndole caso."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"]
     }
 }

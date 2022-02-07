@@ -2495,5 +2495,16 @@
         ],
         "size": "3000x2000",
         "series": ["cuentos"]
+    },
+    "mr_patan": {
+        "name": "Mr. Patán",
+        "date": "2022-02-07T00:00",
+        "description": [
+            "Y tú, ¿también eres daltónico o eres un racista?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nicolás Maduro"],
+        "series": ["latino_ball"],
+        "tags": ["sangre", "cielo", "edificio", "tierra", "ojos marrones oscuros"]
     }
 }

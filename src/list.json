@@ -2500,11 +2500,22 @@
         "name": "Mr. Patán",
         "date": "2022-02-07T00:00",
         "description": [
-            "Y tú, ¿también eres daltónico o eres un racista?"
+            "El buséroe del pueblo.",
+            "Para este no se me ocurrió ningún juego de palabras."
         ],
         "size": "2000x2000",
         "celebrities": ["Nicolás Maduro"],
         "series": ["latino_ball"],
         "tags": ["sangre", "cielo", "edificio", "tierra", "ojos marrones oscuros"]
+    },
+    "licor_cafe": {
+        "name": "Licor café",
+        "date": "2022-02-08T00:00",
+        "description": [
+            "Cuando vi el vídeo de la comunistra diciendo que se acostó muy tarde el jueves y se levantó muy temprano el viernes no pude evitar pensar en que se fue de fiesta y se le fue la mano con el licorka.",
+            "Qué nostalgia el licor café, las buenas taquicardias a las cinco de la mañana después de dormir dos horas y pasarse el resto del día desvelado intentando sobrevivir."
+        ],
+        "size": "2000x2000",
+        "tags": ["noche", "cielo", "oscuridad", "pelo negro", "ojos marrones oscuros"]
     }
 }

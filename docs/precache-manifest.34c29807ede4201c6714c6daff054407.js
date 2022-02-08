@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0e051110bd5044872b48430857e9dbd",
+    "revision": "c07178adf8e1c77edac1f5c43811e2c4",
     "url": "/index.html"
   },
   {
-    "revision": "19e081e847185fcb2ee5",
+    "revision": "bb72c2ba6824bd216710",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "200886acfeb8f3803767",
-    "url": "/static/js/2.1c870ca7.chunk.js"
+    "revision": "7de773fe6dc355b42186",
+    "url": "/static/js/2.d65697c3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.1c870ca7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d65697c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19e081e847185fcb2ee5",
-    "url": "/static/js/main.5bfe5438.chunk.js"
+    "revision": "bb72c2ba6824bd216710",
+    "url": "/static/js/main.5db43cc4.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1274,6 +1274,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7b63093e5c7739b2110d795e1353b4f1",
     "url": "/static/media/latino_ball_banner.7b63093e.png"
+  },
+  {
+    "revision": "2c6dfeaa8daff55d9ca24e395f31f9eb",
+    "url": "/static/media/licor_cafe.2c6dfeaa.png"
+  },
+  {
+    "revision": "a0892d31e37daf947da0ae244ba96cd1",
+    "url": "/static/media/licor_cafe.a0892d31.png"
   },
   {
     "revision": "347b55a8f67a097d682f705c3377ef35",

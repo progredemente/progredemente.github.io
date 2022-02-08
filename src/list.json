@@ -2517,5 +2517,15 @@
         ],
         "size": "2000x2000",
         "tags": ["noche", "cielo", "oscuridad", "pelo negro", "ojos marrones oscuros"]
+    },
+    "disciplina_partido": {
+        "name": "Disciplina de partido",
+        "date": "2022-02-08T01:00",
+        "description": [
+            "Leer entre líneas es muy fácil con este personaje, creo que su capacidad para engañar ya solo afecta a los más limitados. El problema es la proporción de limitados con respecto a los que no lo son."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

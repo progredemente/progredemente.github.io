@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ca6106cdaf24c7535fd20c9011ca135",
+    "revision": "caf69b1e64d916069ee96af24fa202a3",
     "url": "/index.html"
   },
   {
-    "revision": "16e26de86c1861a0a4ae",
+    "revision": "2cf9ee0e82519a199027",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "f220b6c6ff6d9da35edf",
-    "url": "/static/js/2.a4dea5c9.chunk.js"
+    "revision": "d4a836a14380d516008f",
+    "url": "/static/js/2.d974e384.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a4dea5c9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d974e384.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16e26de86c1861a0a4ae",
-    "url": "/static/js/main.ffcf64b2.chunk.js"
+    "revision": "2cf9ee0e82519a199027",
+    "url": "/static/js/main.29a65681.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -278,6 +278,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6989e994d38fc0e1b8089d9caef3b395",
     "url": "/static/media/bajada_iva.6989e994.png"
+  },
+  {
+    "revision": "12854132a644fb824ed4e31d58a155e8",
+    "url": "/static/media/bandera_euskonazi.12854132.png"
+  },
+  {
+    "revision": "42efc766be60646fc9626707f47ea91c",
+    "url": "/static/media/bandera_euskonazi.42efc766.png"
   },
   {
     "revision": "191e1963f2bd8f5ef59d80174e6879d0",

@@ -2527,5 +2527,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "bandera_euskonazi": {
+        "name": "Bandera Euskonazi",
+        "date": "2022-02-09T00:00",
+        "description": [
+            "Para la siguiente aberración nos movemos dos comunidades autónomas hacia el este pero mantenemos la esencia ideológica."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "euskadi"]
     }
 }

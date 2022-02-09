@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.ffcf64b2.chunk.js",
-    "main.js.map": "/static/js/main.ffcf64b2.chunk.js.map",
+    "main.js": "/static/js/main.29a65681.chunk.js",
+    "main.js.map": "/static/js/main.29a65681.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a4dea5c9.chunk.js": "/static/js/2.a4dea5c9.chunk.js",
-    "static/js/2.a4dea5c9.chunk.js.map": "/static/js/2.a4dea5c9.chunk.js.map",
+    "static/js/2.d974e384.chunk.js": "/static/js/2.d974e384.chunk.js",
+    "static/js/2.d974e384.chunk.js.map": "/static/js/2.d974e384.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ac5e6d9fa7671e412ea8d8e5d61ef09e.js": "/precache-manifest.ac5e6d9fa7671e412ea8d8e5d61ef09e.js",
+    "precache-manifest.faa4f5dc878127066889a3d968617b0b.js": "/precache-manifest.faa4f5dc878127066889a3d968617b0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.a4dea5c9.chunk.js.LICENSE.txt": "/static/js/2.a4dea5c9.chunk.js.LICENSE.txt",
+    "static/js/2.d974e384.chunk.js.LICENSE.txt": "/static/js/2.d974e384.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -46,6 +46,7 @@
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
     "static/media/index.css": "/static/media/comic_typo.14eb6106.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
+    "static/media/bandera_euskonazi.png": "/static/media/bandera_euskonazi.42efc766.png",
     "static/media/bandera_galenazi.png": "/static/media/bandera_galenazi.c969387a.png",
     "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
@@ -322,8 +323,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a4dea5c9.chunk.js",
+    "static/js/2.d974e384.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.ffcf64b2.chunk.js"
+    "static/js/main.29a65681.chunk.js"
   ]
 }

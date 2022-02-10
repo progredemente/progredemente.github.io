@@ -2537,5 +2537,14 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "euskadi"]
+    },
+    "kirby": {
+        "name": "Kirby",
+        "date": "2022-02-10T00:00",
+        "description": [
+            "Tiene buena pinta el juego."
+        ],
+        "size": "2000x2000",
+        "tags": ["mierda", "cielo"]
     }
 }

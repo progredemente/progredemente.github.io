@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.b6a28abf.chunk.js",
-    "main.js.map": "/static/js/main.b6a28abf.chunk.js.map",
+    "main.js": "/static/js/main.e9f758ec.chunk.js",
+    "main.js.map": "/static/js/main.e9f758ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.20c1db62.chunk.js": "/static/js/2.20c1db62.chunk.js",
-    "static/js/2.20c1db62.chunk.js.map": "/static/js/2.20c1db62.chunk.js.map",
+    "static/js/2.ca4d22dc.chunk.js": "/static/js/2.ca4d22dc.chunk.js",
+    "static/js/2.ca4d22dc.chunk.js.map": "/static/js/2.ca4d22dc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6589df9126c1afa2699691410d41bffc.js": "/precache-manifest.6589df9126c1afa2699691410d41bffc.js",
+    "precache-manifest.f993f8334a7087b267220f31c4d50982.js": "/precache-manifest.f993f8334a7087b267220f31c4d50982.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.20c1db62.chunk.js.LICENSE.txt": "/static/js/2.20c1db62.chunk.js.LICENSE.txt",
+    "static/js/2.ca4d22dc.chunk.js.LICENSE.txt": "/static/js/2.ca4d22dc.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -195,6 +195,8 @@
     "static/media/madrileno.png": "/static/media/madrileno.6730b36e.png",
     "static/media/maestro_rata.png": "/static/media/maestro_rata.b2255b0a.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
+    "static/media/manspreading.png": "/static/media/manspreading.d6d8f193.png",
+    "static/media/manspreading.en.png": "/static/media/manspreading.en.41d4ffa6.png",
     "static/media/maquina_humo.png": "/static/media/maquina_humo.8c0fec56.png",
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
@@ -324,8 +326,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.20c1db62.chunk.js",
+    "static/js/2.ca4d22dc.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.b6a28abf.chunk.js"
+    "static/js/main.e9f758ec.chunk.js"
   ]
 }

@@ -2546,5 +2546,18 @@
         ],
         "size": "2000x2000",
         "tags": ["mierda", "cielo"]
+    },
+    "manspreading": {
+        "name": "Manspreading",
+        "date": "2022-02-11T00:00",
+        "description": [
+            "Problemas del primer mundo para dejar de serlo."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
+        "tags": ["metal", "cristal", "pelo rubio", "pelo rubio de bote", "kebab", "meo", "vaqueros", "ojos azules", "ojos marrones claros"]
     }
 }

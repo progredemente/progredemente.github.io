@@ -2559,5 +2559,14 @@
             "available": ["en"]
         },
         "tags": ["metal", "cristal", "pelo rubio", "pelo rubio de bote", "kebab", "meo", "vaqueros", "ojos azules", "ojos marrones claros"]
+    },
+    "goya": {
+        "name": "Goya",
+        "date": "2022-02-14T00:00",
+        "description": [
+            "Si me invitasen a los Goya iría con el traje de velcro de la película de Brüno."
+        ],
+        "size": "2000x2000",
+        "tags": ["naranja", "ojos azules", "oro"]
     }
 }

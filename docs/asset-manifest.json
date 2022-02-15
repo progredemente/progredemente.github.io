@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.4b3f45ce.chunk.js",
-    "main.js.map": "/static/js/main.4b3f45ce.chunk.js.map",
+    "main.js": "/static/js/main.6776bbd1.chunk.js",
+    "main.js.map": "/static/js/main.6776bbd1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7c65a7df.chunk.js": "/static/js/2.7c65a7df.chunk.js",
-    "static/js/2.7c65a7df.chunk.js.map": "/static/js/2.7c65a7df.chunk.js.map",
+    "static/js/2.e47b7b3b.chunk.js": "/static/js/2.e47b7b3b.chunk.js",
+    "static/js/2.e47b7b3b.chunk.js.map": "/static/js/2.e47b7b3b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.056c611eeaebf566e14fc7f10dd98027.js": "/precache-manifest.056c611eeaebf566e14fc7f10dd98027.js",
+    "precache-manifest.9ae8e0572ed65e0682efe434bf956e00.js": "/precache-manifest.9ae8e0572ed65e0682efe434bf956e00.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.7c65a7df.chunk.js.LICENSE.txt": "/static/js/2.7c65a7df.chunk.js.LICENSE.txt",
+    "static/js/2.e47b7b3b.chunk.js.LICENSE.txt": "/static/js/2.e47b7b3b.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -159,6 +159,7 @@
     "static/media/hipocresia_climatica.png": "/static/media/hipocresia_climatica.639bb7dd.png",
     "static/media/hispanidad.png": "/static/media/hispanidad.c3f2790c.png",
     "static/media/hombre_paja.png": "/static/media/hombre_paja.e85eb217.png",
+    "static/media/honkey_kong.png": "/static/media/honkey_kong.fd2f1d74.png",
     "static/media/huelga_juguetes.png": "/static/media/huelga_juguetes.4626b404.png",
     "static/media/humor_lazoamarillo.png": "/static/media/humor_lazoamarillo.edb97eca.png",
     "static/media/iii_regne.png": "/static/media/iii_regne.23e3e6a0.png",
@@ -327,8 +328,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7c65a7df.chunk.js",
+    "static/js/2.e47b7b3b.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.4b3f45ce.chunk.js"
+    "static/js/main.6776bbd1.chunk.js"
   ]
 }

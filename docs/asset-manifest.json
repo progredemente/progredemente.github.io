@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.6776bbd1.chunk.js",
-    "main.js.map": "/static/js/main.6776bbd1.chunk.js.map",
+    "main.js": "/static/js/main.d3987a20.chunk.js",
+    "main.js.map": "/static/js/main.d3987a20.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e47b7b3b.chunk.js": "/static/js/2.e47b7b3b.chunk.js",
-    "static/js/2.e47b7b3b.chunk.js.map": "/static/js/2.e47b7b3b.chunk.js.map",
+    "static/js/2.4be140e6.chunk.js": "/static/js/2.4be140e6.chunk.js",
+    "static/js/2.4be140e6.chunk.js.map": "/static/js/2.4be140e6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9ae8e0572ed65e0682efe434bf956e00.js": "/precache-manifest.9ae8e0572ed65e0682efe434bf956e00.js",
+    "precache-manifest.73190281c86edfdcd13bc1a77c9572bf.js": "/precache-manifest.73190281c86edfdcd13bc1a77c9572bf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.e47b7b3b.chunk.js.LICENSE.txt": "/static/js/2.e47b7b3b.chunk.js.LICENSE.txt",
+    "static/js/2.4be140e6.chunk.js.LICENSE.txt": "/static/js/2.4be140e6.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -51,6 +51,7 @@
     "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
+    "static/media/barra_corazon.png": "/static/media/barra_corazon.f07a13f3.png",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bella_durmiente.png": "/static/media/bella_durmiente.c60a25fd.png",
     "static/media/bici.png": "/static/media/bici.815dbfbb.png",
@@ -328,8 +329,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e47b7b3b.chunk.js",
+    "static/js/2.4be140e6.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.6776bbd1.chunk.js"
+    "static/js/main.d3987a20.chunk.js"
   ]
 }

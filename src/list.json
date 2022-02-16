@@ -2580,5 +2580,13 @@
         "size": "5000x3000",
         "celebrities": ["Justin Trudeau"],
         "tags": ["bandera", "canada", "oro", "cielo", "hierba", "árbol", "metal"]
+    },
+    "barra_corazon": {
+        "name": "Barra corazón",
+        "date": "2022-02-16T00:00",
+        "description": [
+            "Por si quieren rediseñar su logo, yo les propongo este."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -2588,5 +2588,16 @@
             "Por si quieren rediseñar su logo, yo les propongo este."
         ],
         "size": "2000x2000"
+    },
+    "upa_morales": {
+        "name": "Upa Morales",
+        "date": "2022-02-17T00:00",
+        "description": [
+            "Una vez conocí a una chica boliviana que le aterraba la idea de volver a Bolivia aunque solo fuese de visita."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Evo Morales"],
+        "series": ["latino_ball"],
+        "tags": ["coca", "cielo", "whipala", "tierra"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88e4072f54bc01e4fc425326c63f37a7",
+    "revision": "f6b591d25ece891584c3debff05dfedc",
     "url": "/index.html"
   },
   {
-    "revision": "52bf801ad8818a47d25c",
+    "revision": "1d02547d9195a4e48cb9",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "4eaea1704e99c606c948",
-    "url": "/static/js/2.4be140e6.chunk.js"
+    "revision": "8836c6ad83caa880f130",
+    "url": "/static/js/2.3e8cec53.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.4be140e6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3e8cec53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52bf801ad8818a47d25c",
-    "url": "/static/js/main.d3987a20.chunk.js"
+    "revision": "1d02547d9195a4e48cb9",
+    "url": "/static/js/main.2122c28f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2250,6 +2250,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8752d30f6d04f72538135c394a8a1c2",
     "url": "/static/media/trolliano.b8752d30.png"
+  },
+  {
+    "revision": "477b0b60cee54f068eb8deff40ac073d",
+    "url": "/static/media/upa_morales.477b0b60.png"
+  },
+  {
+    "revision": "b9a4604da1b4190ec8d67f07d37cf447",
+    "url": "/static/media/upa_morales.b9a4604d.png"
   },
   {
     "revision": "18300eaaef1c6696cda22b6472cec3c4",

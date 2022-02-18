@@ -2599,5 +2599,16 @@
         "celebrities": ["Evo Morales"],
         "series": ["latino_ball"],
         "tags": ["coca", "cielo", "whipala", "tierra"]
+    },
+    "pepemon": {
+        "name": "Pepémon",
+        "date": "2022-02-18T00:00",
+        "description": [
+            "Decid misión, cobardes."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Teodoro García Egea"],
+        "parties": ["PP"],
+        "tags": ["pelo marrón"]
     }
 }

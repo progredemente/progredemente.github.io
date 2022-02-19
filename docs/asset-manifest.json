@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.8c5938d4.chunk.js",
-    "main.js.map": "/static/js/main.8c5938d4.chunk.js.map",
+    "main.js": "/static/js/main.ab42797e.chunk.js",
+    "main.js.map": "/static/js/main.ab42797e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.37d20853.chunk.js": "/static/js/2.37d20853.chunk.js",
-    "static/js/2.37d20853.chunk.js.map": "/static/js/2.37d20853.chunk.js.map",
+    "static/js/2.2fe50617.chunk.js": "/static/js/2.2fe50617.chunk.js",
+    "static/js/2.2fe50617.chunk.js.map": "/static/js/2.2fe50617.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.90ecd82172bac0ffbebb67f38d3b86bd.js": "/precache-manifest.90ecd82172bac0ffbebb67f38d3b86bd.js",
+    "precache-manifest.94bee7ddee3214ec112b8ec50721b1a6.js": "/precache-manifest.94bee7ddee3214ec112b8ec50721b1a6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.37d20853.chunk.js.LICENSE.txt": "/static/js/2.37d20853.chunk.js.LICENSE.txt",
+    "static/js/2.2fe50617.chunk.js.LICENSE.txt": "/static/js/2.2fe50617.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -249,6 +249,7 @@
     "static/media/parasitos.png": "/static/media/parasitos.d270d045.png",
     "static/media/parking.png": "/static/media/parking.23e2c94c.png",
     "static/media/pasado.png": "/static/media/pasado.91693951.png",
+    "static/media/pasar_aro.png": "/static/media/pasar_aro.b23ec93c.png",
     "static/media/pateador.png": "/static/media/pateador.335bf8d7.png",
     "static/media/paulo.png": "/static/media/paulo.b74b3eb4.png",
     "static/media/payasos.png": "/static/media/payasos.683628eb.png",
@@ -331,8 +332,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.37d20853.chunk.js",
+    "static/js/2.2fe50617.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.8c5938d4.chunk.js"
+    "static/js/main.ab42797e.chunk.js"
   ]
 }

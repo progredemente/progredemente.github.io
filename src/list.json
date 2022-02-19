@@ -2606,9 +2606,19 @@
         "description": [
             "Decid misión, cobardes."
         ],
-        "size": "2000x2000",
+        "size": "3000x2500",
         "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Teodoro García Egea"],
         "parties": ["PP"],
         "tags": ["pelo marrón"]
+    },
+    "pasar_aro": {
+        "name": "Pepémon",
+        "date": "2022-02-19T00:00",
+        "description": [
+            "Decid misión, cobardes."
+        ],
+        "size": "5000x3000",
+        "celebrities": ["Ursula von der Leyen"],
+        "tags": ["bandera", "unión europea", "hungría", "polonia", "arena", "oro", "circo"]
     }
 }

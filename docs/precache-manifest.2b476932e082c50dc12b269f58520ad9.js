@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e2f5a99aa8bfafe0c2ef86958060395",
+    "revision": "03719272eacd3ae889defcff4873b82a",
     "url": "/index.html"
   },
   {
-    "revision": "ce393b17bb0d09599574",
+    "revision": "b8213000e828f09c2a57",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "705e18718e0a81cbaeca",
-    "url": "/static/js/2.2fe50617.chunk.js"
+    "revision": "aa5854dd3684748373d1",
+    "url": "/static/js/2.94374450.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.2fe50617.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.94374450.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce393b17bb0d09599574",
-    "url": "/static/js/main.ab42797e.chunk.js"
+    "revision": "b8213000e828f09c2a57",
+    "url": "/static/js/main.807f6d3e.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -278,6 +278,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6989e994d38fc0e1b8089d9caef3b395",
     "url": "/static/media/bajada_iva.6989e994.png"
+  },
+  {
+    "revision": "2426a3be8508339164f65d6fdb335a6a",
+    "url": "/static/media/bandera_canadazi.2426a3be.png"
   },
   {
     "revision": "12854132a644fb824ed4e31d58a155e8",

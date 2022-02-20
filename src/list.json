@@ -2620,5 +2620,15 @@
         "size": "5000x3000",
         "celebrities": ["Ursula von der Leyen"],
         "tags": ["bandera", "unión europea", "hungría", "polonia", "arena", "oro", "circo"]
+    },
+    "bandera_canadazi": {
+        "name": "Bandera Canadazi",
+        "date": "2022-02-20T00:00",
+        "description": [
+            "El diseño de la bandera de la viñeta del otro día."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "canadá"]
     }
 }

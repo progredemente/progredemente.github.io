@@ -2630,5 +2630,16 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "canadá"]
+    },
+    "idangelion": {
+        "name": "Idangelion",
+        "date": "2022-02-21T00:00",
+        "description": [
+            "¿Os gusta mi diseño del IDA-01?"
+        ],
+        "size": "6000x4000",
+        "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Alberto Núñez Feijóo"],
+        "parties": ["PP"],
+        "tags": ["cielo", "metal", "árbol", "edificio", "humo"]
     }
 }

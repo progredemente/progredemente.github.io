@@ -2641,5 +2641,16 @@
         "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Alberto Núñez Feijóo"],
         "parties": ["PP"],
         "tags": ["cielo", "metal", "árbol", "edificio", "humo"]
+    },
+    "nayeta": {
+        "name": "Nayeta",
+        "date": "2022-02-22T00:00",
+        "description": [
+            "Una vez conocí a una chica boliviana que le aterraba la idea de volver a Bolivia aunque solo fuese de visita."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nayib Bukele"],
+        "series": ["latino_ball"],
+        "tags": ["cielo", "arena", "hierba"]
     }
 }

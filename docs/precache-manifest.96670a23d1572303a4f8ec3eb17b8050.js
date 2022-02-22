@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71c1c98a9c54c4471b921f1180aa2cef",
+    "revision": "b9cab5178b54ec1adebfb7ec82130501",
     "url": "/index.html"
   },
   {
-    "revision": "162e9c6f39b6167482d3",
+    "revision": "a58c67021f0343d4ee7d",
     "url": "/static/css/main.04d1e50b.chunk.css"
   },
   {
-    "revision": "71e8351c6f3d0b78a71a",
-    "url": "/static/js/2.fcb594ef.chunk.js"
+    "revision": "7497c6ae5885d67bb408",
+    "url": "/static/js/2.92e721c6.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.fcb594ef.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.92e721c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "162e9c6f39b6167482d3",
-    "url": "/static/js/main.b0ea35b1.chunk.js"
+    "revision": "a58c67021f0343d4ee7d",
+    "url": "/static/js/main.930259d6.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1626,6 +1626,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc407c1d6f509171e2d491301d2eb825",
     "url": "/static/media/navidades_patriarcales.bc407c1d.png"
+  },
+  {
+    "revision": "87ae1b8621520ad40664a23dd168719b",
+    "url": "/static/media/nayeta.87ae1b86.png"
+  },
+  {
+    "revision": "f61a63af3f21c734c27fad30dc795eaa",
+    "url": "/static/media/nayeta.f61a63af.png"
   },
   {
     "revision": "3df01455b5d7856e2c4c194e8d901507",

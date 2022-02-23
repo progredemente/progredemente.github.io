@@ -2652,5 +2652,16 @@
         "celebrities": ["Nayib Bukele"],
         "series": ["latino_ball"],
         "tags": ["cielo", "arena", "hierba"]
+    },
+    "loro": {
+        "name": "Loro",
+        "date": "2022-02-23T00:00",
+        "description": [
+            "La metamorfosis de rata a loro. Sin duda, si no ha funcionado hasta ahora es porque no fue verdadera repetición hasta la saturación de que viene el lobo, de esta vez sí que funciona. Que sigan así, que nunca sabrán por donde les vienen los golpes."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"],
+        "tags": ["cielo", "aluminio", "pipas"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.930259d6.chunk.js",
-    "main.js.map": "/static/js/main.930259d6.chunk.js.map",
+    "main.js": "/static/js/main.1455d0c4.chunk.js",
+    "main.js.map": "/static/js/main.1455d0c4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.92e721c6.chunk.js": "/static/js/2.92e721c6.chunk.js",
-    "static/js/2.92e721c6.chunk.js.map": "/static/js/2.92e721c6.chunk.js.map",
+    "static/js/2.2721e595.chunk.js": "/static/js/2.2721e595.chunk.js",
+    "static/js/2.2721e595.chunk.js.map": "/static/js/2.2721e595.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.96670a23d1572303a4f8ec3eb17b8050.js": "/precache-manifest.96670a23d1572303a4f8ec3eb17b8050.js",
+    "precache-manifest.dbe8cefa444459dcfb36c416421b7211.js": "/precache-manifest.dbe8cefa444459dcfb36c416421b7211.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.92e721c6.chunk.js.LICENSE.txt": "/static/js/2.92e721c6.chunk.js.LICENSE.txt",
+    "static/js/2.2721e595.chunk.js.LICENSE.txt": "/static/js/2.2721e595.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -194,6 +194,7 @@
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
     "static/media/llibert.png": "/static/media/llibert.3f705388.png",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
+    "static/media/loro.png": "/static/media/loro.dceb3b54.png",
     "static/media/luz_lujo.png": "/static/media/luz_lujo.bc7fb754.png",
     "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
     "static/media/madrid_omnipresente.png": "/static/media/madrid_omnipresente.c1b040c9.png",
@@ -335,8 +336,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.92e721c6.chunk.js",
+    "static/js/2.2721e595.chunk.js",
     "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.930259d6.chunk.js"
+    "static/js/main.1455d0c4.chunk.js"
   ]
 }

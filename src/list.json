@@ -2663,5 +2663,14 @@
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"],
         "tags": ["cielo", "aluminio", "pipas"]
+    },
+    "pero_otan": {
+        "name": "Pero la OTAN",
+        "date": "2022-02-24T00:00",
+        "description": [
+            "Por favor, no seáis este tipo de gente."
+        ],
+        "size": "2000x2000",
+        "tags": ["fuego", "guerra", "nube"]
     }
 }

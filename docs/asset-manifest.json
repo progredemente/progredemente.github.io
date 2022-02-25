@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.04d1e50b.chunk.css",
-    "main.js": "/static/js/main.c4774024.chunk.js",
-    "main.js.map": "/static/js/main.c4774024.chunk.js.map",
+    "main.css": "/static/css/main.2ac9043e.chunk.css",
+    "main.js": "/static/js/main.e3836895.chunk.js",
+    "main.js.map": "/static/js/main.e3836895.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.40a8933b.chunk.js": "/static/js/2.40a8933b.chunk.js",
-    "static/js/2.40a8933b.chunk.js.map": "/static/js/2.40a8933b.chunk.js.map",
+    "static/js/2.15c36552.chunk.js": "/static/js/2.15c36552.chunk.js",
+    "static/js/2.15c36552.chunk.js.map": "/static/js/2.15c36552.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.06a71dafbbc511bc1822bf7ca483709a.js": "/precache-manifest.06a71dafbbc511bc1822bf7ca483709a.js",
+    "precache-manifest.38d3f7800d1d9a90412ddf345983cd63.js": "/precache-manifest.38d3f7800d1d9a90412ddf345983cd63.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.04d1e50b.chunk.css.map": "/static/css/main.04d1e50b.chunk.css.map",
-    "static/js/2.40a8933b.chunk.js.LICENSE.txt": "/static/js/2.40a8933b.chunk.js.LICENSE.txt",
+    "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
+    "static/js/2.15c36552.chunk.js.LICENSE.txt": "/static/js/2.15c36552.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -44,7 +44,7 @@
     "static/media/atlas.en.png": "/static/media/atlas.en.e82c6e83.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
-    "static/media/index.css": "/static/media/comic_typo.14eb6106.ttf",
+    "static/media/index.css": "/static/media/comic_typo.65dcf897.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
     "static/media/bandera_canadazi.png": "/static/media/bandera_canadazi.2426a3be.png",
     "static/media/bandera_euskonazi.png": "/static/media/bandera_euskonazi.42efc766.png",
@@ -227,6 +227,7 @@
     "static/media/mr_patan.png": "/static/media/mr_patan.74860df4.png",
     "static/media/mudanza.png": "/static/media/mudanza.1fc43fef.png",
     "static/media/muros.png": "/static/media/muros.917bb1c6.png",
+    "static/media/nacom.png": "/static/media/nacom.b0c4ae3c.png",
     "static/media/nariz.png": "/static/media/nariz.ecce5282.png",
     "static/media/nasa_catalana.png": "/static/media/nasa_catalana.ec6a11bb.png",
     "static/media/navidades_patriarcales.png": "/static/media/navidades_patriarcales.bc407c1d.png",
@@ -338,8 +339,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.40a8933b.chunk.js",
-    "static/css/main.04d1e50b.chunk.css",
-    "static/js/main.c4774024.chunk.js"
+    "static/js/2.15c36552.chunk.js",
+    "static/css/main.2ac9043e.chunk.css",
+    "static/js/main.e3836895.chunk.js"
   ]
 }

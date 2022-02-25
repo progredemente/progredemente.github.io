@@ -2671,6 +2671,20 @@
             "Por favor, no seáis este tipo de gente."
         ],
         "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
         "tags": ["fuego", "guerra", "nube"]
+    },
+    "nacom": {
+        "name": "Naçom",
+        "date": "2022-02-25T00:00",
+        "description": [
+            "No sabía como reflejar esta idea mejor que con un meme de estos."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "tags": ["bandera", "galicia"]
     }
 }

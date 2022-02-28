@@ -2686,5 +2686,15 @@
         "size": "2000x2000",
         "series": ["memes"],
         "tags": ["bandera", "galicia"]
+    },
+    "bandera_rusonazi": {
+        "name": "Bandera Rusonazi",
+        "date": "2022-02-28T00:00",
+        "description": [
+            "Esta bandera no tiene nada que ver con los eventos que están sucediendo recientemente."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "rusia"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f32cae1b981b03db6b1781a4847baa68",
+    "revision": "cb407e8531d3540678a7e93efe1d243e",
     "url": "/index.html"
   },
   {
-    "revision": "f93a727badf5b796cf70",
+    "revision": "b5cef351537c7ac2599a",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "aab9a48e365707ee6839",
-    "url": "/static/js/2.15c36552.chunk.js"
+    "revision": "97d664f609a2ea8611d3",
+    "url": "/static/js/2.d4b38279.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.15c36552.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d4b38279.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f93a727badf5b796cf70",
-    "url": "/static/js/main.e3836895.chunk.js"
+    "revision": "b5cef351537c7ac2599a",
+    "url": "/static/js/main.f40c383e.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -306,6 +306,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0d9e4277dc5d9784c19c3ef734ef907",
     "url": "/static/media/bandera_galibertaria.a0d9e427.png"
+  },
+  {
+    "revision": "45ccd46cf49e6992f60594841441b516",
+    "url": "/static/media/bandera_rusonazi.45ccd46c.png"
+  },
+  {
+    "revision": "e810931ef82aea96cad3c7214aa45992",
+    "url": "/static/media/bandera_rusonazi.e810931e.png"
   },
   {
     "revision": "e9380d54128340e7c3054bdac73bcc59",

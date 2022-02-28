@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.e3836895.chunk.js",
-    "main.js.map": "/static/js/main.e3836895.chunk.js.map",
+    "main.js": "/static/js/main.f40c383e.chunk.js",
+    "main.js.map": "/static/js/main.f40c383e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.15c36552.chunk.js": "/static/js/2.15c36552.chunk.js",
-    "static/js/2.15c36552.chunk.js.map": "/static/js/2.15c36552.chunk.js.map",
+    "static/js/2.d4b38279.chunk.js": "/static/js/2.d4b38279.chunk.js",
+    "static/js/2.d4b38279.chunk.js.map": "/static/js/2.d4b38279.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.38d3f7800d1d9a90412ddf345983cd63.js": "/precache-manifest.38d3f7800d1d9a90412ddf345983cd63.js",
+    "precache-manifest.d7d82aa95b064eb5e5c723b32017f07d.js": "/precache-manifest.d7d82aa95b064eb5e5c723b32017f07d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.15c36552.chunk.js.LICENSE.txt": "/static/js/2.15c36552.chunk.js.LICENSE.txt",
+    "static/js/2.d4b38279.chunk.js.LICENSE.txt": "/static/js/2.d4b38279.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -50,6 +50,7 @@
     "static/media/bandera_euskonazi.png": "/static/media/bandera_euskonazi.42efc766.png",
     "static/media/bandera_galenazi.png": "/static/media/bandera_galenazi.c969387a.png",
     "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
+    "static/media/bandera_rusonazi.png": "/static/media/bandera_rusonazi.e810931e.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
     "static/media/barra_corazon.png": "/static/media/barra_corazon.f07a13f3.png",
@@ -339,8 +340,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.15c36552.chunk.js",
+    "static/js/2.d4b38279.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.e3836895.chunk.js"
+    "static/js/main.f40c383e.chunk.js"
   ]
 }

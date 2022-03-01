@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.f40c383e.chunk.js",
-    "main.js.map": "/static/js/main.f40c383e.chunk.js.map",
+    "main.js": "/static/js/main.654722ec.chunk.js",
+    "main.js.map": "/static/js/main.654722ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.d4b38279.chunk.js": "/static/js/2.d4b38279.chunk.js",
-    "static/js/2.d4b38279.chunk.js.map": "/static/js/2.d4b38279.chunk.js.map",
+    "static/js/2.1c2db151.chunk.js": "/static/js/2.1c2db151.chunk.js",
+    "static/js/2.1c2db151.chunk.js.map": "/static/js/2.1c2db151.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d7d82aa95b064eb5e5c723b32017f07d.js": "/precache-manifest.d7d82aa95b064eb5e5c723b32017f07d.js",
+    "precache-manifest.7afc3e6b17f56e581b02fe285b6503d0.js": "/precache-manifest.7afc3e6b17f56e581b02fe285b6503d0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.d4b38279.chunk.js.LICENSE.txt": "/static/js/2.d4b38279.chunk.js.LICENSE.txt",
+    "static/js/2.1c2db151.chunk.js.LICENSE.txt": "/static/js/2.1c2db151.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -326,6 +326,7 @@
     "static/media/upa_morales.png": "/static/media/upa_morales.b9a4604d.png",
     "static/media/vacas_contaminantes.png": "/static/media/vacas_contaminantes.6a11bc86.png",
     "static/media/vacunarse_publicamente.png": "/static/media/vacunarse_publicamente.6ae8a95d.png",
+    "static/media/vectores.png": "/static/media/vectores.94a4999a.png",
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
     "static/media/ventana_overton.png": "/static/media/ventana_overton.d1c4177e.png",
     "static/media/vodkuna.png": "/static/media/vodkuna.23526259.png",
@@ -340,8 +341,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.d4b38279.chunk.js",
+    "static/js/2.1c2db151.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.f40c383e.chunk.js"
+    "static/js/main.654722ec.chunk.js"
   ]
 }

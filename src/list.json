@@ -2696,5 +2696,13 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "rusia"]
+    },
+    "vectores": {
+        "name": "Vectores",
+        "date": "2022-03-01T00:00",
+        "description": [
+            "No hay lenguaje más universal que el de las matemáticas."
+        ],
+        "size": "2000x2000"
     }
 }

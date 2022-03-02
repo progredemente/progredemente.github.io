@@ -2704,5 +2704,16 @@
             "No hay lenguaje más universal que el de las matemáticas."
         ],
         "size": "2000x2000"
+    },
+    "mileiku": {
+        "name": "mileiku",
+        "date": "2022-03-02T00:00",
+        "description": [
+            "Una vez conocí a una chica boliviana que le aterraba la idea de volver a Bolivia aunque solo fuese de visita."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Javier Milei"],
+        "series": ["latino_ball"],
+        "tags": ["cielo", "edificio", "humo", "metal"]
     }
 }

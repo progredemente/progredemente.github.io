@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e546854ec2c3b8159ac8b94960640b5",
+    "revision": "40dd96b5eee8aa3c9a8833b5df69622f",
     "url": "/index.html"
   },
   {
-    "revision": "f7a8114e9f5b800b429c",
+    "revision": "e583b8a1ab1bd3262aec",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "47e633f1c482f95787b5",
-    "url": "/static/js/2.1c2db151.chunk.js"
+    "revision": "38fcfd991fc5c9329b5f",
+    "url": "/static/js/2.113a7f1b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.1c2db151.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.113a7f1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7a8114e9f5b800b429c",
-    "url": "/static/js/main.654722ec.chunk.js"
+    "revision": "e583b8a1ab1bd3262aec",
+    "url": "/static/js/main.37e1fb5f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1534,6 +1534,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8db9dfa25b0c917a4eb9968f13e3e95",
     "url": "/static/media/milei_cyrus.a8db9dfa.png"
+  },
+  {
+    "revision": "519d22b7893bfaae571befa1c0a00423",
+    "url": "/static/media/mileiku.519d22b7.png"
+  },
+  {
+    "revision": "d8409faaed5155ee501235439aa29759",
+    "url": "/static/media/mileiku.d8409faa.png"
   },
   {
     "revision": "73baec82183f5afc7d2d7eb64222d320",

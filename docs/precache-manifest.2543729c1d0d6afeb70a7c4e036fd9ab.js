@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40dd96b5eee8aa3c9a8833b5df69622f",
+    "revision": "5d6d3e9614b9cbb7a21ed27cbbe1b3ab",
     "url": "/index.html"
   },
   {
-    "revision": "e583b8a1ab1bd3262aec",
+    "revision": "463750c8f1c0f8dbd73d",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "38fcfd991fc5c9329b5f",
-    "url": "/static/js/2.113a7f1b.chunk.js"
+    "revision": "3fe925c9a41011e9e2d3",
+    "url": "/static/js/2.178c34b3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.113a7f1b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.178c34b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e583b8a1ab1bd3262aec",
-    "url": "/static/js/main.37e1fb5f.chunk.js"
+    "revision": "463750c8f1c0f8dbd73d",
+    "url": "/static/js/main.bba5c29d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2018,6 +2018,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5110faec573493b816d4fad716dec330",
     "url": "/static/media/punto_violeta.5110faec.png"
+  },
+  {
+    "revision": "222ac6d85abdd98d1e2eb6af61a8eac2",
+    "url": "/static/media/putin_lukashenko.222ac6d8.png"
+  },
+  {
+    "revision": "f9123c67d20e7098376a148ff8fe4a59",
+    "url": "/static/media/putin_lukashenko.f9123c67.png"
   },
   {
     "revision": "b5567ea226cae865723571d146d929e9",

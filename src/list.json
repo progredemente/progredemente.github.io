@@ -2706,7 +2706,7 @@
         "size": "2000x2000"
     },
     "mileiku": {
-        "name": "mileiku",
+        "name": "Mileiku",
         "date": "2022-03-02T00:00",
         "description": [
             "Una vez conocí a una chica boliviana que le aterraba la idea de volver a Bolivia aunque solo fuese de visita."
@@ -2715,5 +2715,15 @@
         "celebrities": ["Javier Milei"],
         "series": ["latino_ball"],
         "tags": ["cielo", "edificio", "humo", "metal"]
+    },
+    "putin_lukashenko": {
+        "name": "Путин и Лукашенко",
+        "date": "2022-03-03T00:00",
+        "description": [
+            "Una de las series que echaban en la tele cuando era pequeño iba sobre dos ratas que intentaban conquistar el mundo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Vladimir Putin", "Aleksandr Lukashenko"],
+        "tags": ["rubio canoso"]
     }
 }

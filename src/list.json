@@ -2725,5 +2725,14 @@
         "size": "2000x2000",
         "celebrities": ["Vladimir Putin", "Aleksandr Lukashenko"],
         "tags": ["rubio canoso"]
+    },
+    "nacionacringe": {
+        "name": "Nacionacringe",
+        "date": "2022-03-04T00:00",
+        "description": [
+            "Viñeta basada en una que hice hace unos meses e inspirada por la vergüenza ajena que está dando el Bloque."
+        ],
+        "size": "3000x3000",
+        "tags": ["lluvia", "cielo gris", "nube", "bandera", "galicia"]
     }
 }

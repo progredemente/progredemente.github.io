@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.bba5c29d.chunk.js",
-    "main.js.map": "/static/js/main.bba5c29d.chunk.js.map",
+    "main.js": "/static/js/main.28447f65.chunk.js",
+    "main.js.map": "/static/js/main.28447f65.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.178c34b3.chunk.js": "/static/js/2.178c34b3.chunk.js",
-    "static/js/2.178c34b3.chunk.js.map": "/static/js/2.178c34b3.chunk.js.map",
+    "static/js/2.2f15040b.chunk.js": "/static/js/2.2f15040b.chunk.js",
+    "static/js/2.2f15040b.chunk.js.map": "/static/js/2.2f15040b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2543729c1d0d6afeb70a7c4e036fd9ab.js": "/precache-manifest.2543729c1d0d6afeb70a7c4e036fd9ab.js",
+    "precache-manifest.df2a111b3a74495e7288e02e392edc48.js": "/precache-manifest.df2a111b3a74495e7288e02e392edc48.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.178c34b3.chunk.js.LICENSE.txt": "/static/js/2.178c34b3.chunk.js.LICENSE.txt",
+    "static/js/2.2f15040b.chunk.js.LICENSE.txt": "/static/js/2.2f15040b.chunk.js.LICENSE.txt",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
     "static/media/abstencion_activa.png": "/static/media/abstencion_activa.f2c17143.png",
@@ -229,6 +229,7 @@
     "static/media/mr_patan.png": "/static/media/mr_patan.74860df4.png",
     "static/media/mudanza.png": "/static/media/mudanza.1fc43fef.png",
     "static/media/muros.png": "/static/media/muros.917bb1c6.png",
+    "static/media/nacionacringe.png": "/static/media/nacionacringe.4a08bbe1.png",
     "static/media/nacom.png": "/static/media/nacom.b0c4ae3c.png",
     "static/media/nariz.png": "/static/media/nariz.ecce5282.png",
     "static/media/nasa_catalana.png": "/static/media/nasa_catalana.ec6a11bb.png",
@@ -343,8 +344,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.178c34b3.chunk.js",
+    "static/js/2.2f15040b.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.bba5c29d.chunk.js"
+    "static/js/main.28447f65.chunk.js"
   ]
 }

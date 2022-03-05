@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c04a64251fc3c504f77940a31ea83a75",
+    "revision": "80567d85924416d0c3e12c888b496961",
     "url": "/index.html"
   },
   {
-    "revision": "8e2a69567a47c415552e",
+    "revision": "d4490dc825b0b076ec2f",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "13929486194f04441f05",
-    "url": "/static/js/2.2f15040b.chunk.js"
+    "revision": "b5527c1dade2a2fa7e15",
+    "url": "/static/js/2.a756276e.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.2f15040b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a756276e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e2a69567a47c415552e",
-    "url": "/static/js/main.28447f65.chunk.js"
+    "revision": "d4490dc825b0b076ec2f",
+    "url": "/static/js/main.ed874187.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1942,6 +1942,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df1a372beaa199e3d6b913340edae7fa",
     "url": "/static/media/pocos_impuestos.df1a372b.png"
+  },
+  {
+    "revision": "233c8003c05f1cd5351e3086167dfb68",
+    "url": "/static/media/pokemon_espana.233c8003.png"
+  },
+  {
+    "revision": "cee10b9b0d21bbb3c15cb640969c3b9c",
+    "url": "/static/media/pokemon_espana.cee10b9b.png"
   },
   {
     "revision": "4d751c26555f7e596ac50e4380b225af",

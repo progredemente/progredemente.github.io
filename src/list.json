@@ -2734,5 +2734,14 @@
         ],
         "size": "3000x3000",
         "tags": ["lluvia", "cielo gris", "nube", "bandera", "galicia"]
+    },
+    "pokemon_espana": {
+        "name": "Pokémon España",
+        "date": "2022-03-05T00:00",
+        "description": [
+            "Os traigo unos avances del nuevo Pokémon basado en Españita.",
+            "Game Freak, necesitáis mi ayuda."
+        ],
+        "size": "2000x2000"
     }
 }

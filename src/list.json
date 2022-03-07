@@ -2743,5 +2743,15 @@
             "Game Freak, necesitáis mi ayuda."
         ],
         "size": "2000x2000"
+    },
+    "bandera_euskalibertaria": {
+        "name": "Bandera Euskalibertaria",
+        "date": "2022-03-07T00:00",
+        "description": [
+            "Quizás se me haya ido la olla un poco de más con esta."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "gadsden"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80567d85924416d0c3e12c888b496961",
+    "revision": "b11b9567924de14868ad7eec6661d1fc",
     "url": "/index.html"
   },
   {
-    "revision": "d4490dc825b0b076ec2f",
+    "revision": "995880b0c1e923109473",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "b5527c1dade2a2fa7e15",
-    "url": "/static/js/2.a756276e.chunk.js"
+    "revision": "8c7f10d584f537884a5b",
+    "url": "/static/js/2.a15cc687.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a756276e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a15cc687.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4490dc825b0b076ec2f",
-    "url": "/static/js/main.ed874187.chunk.js"
+    "revision": "995880b0c1e923109473",
+    "url": "/static/js/main.9907f55f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -282,6 +282,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2426a3be8508339164f65d6fdb335a6a",
     "url": "/static/media/bandera_canadazi.2426a3be.png"
+  },
+  {
+    "revision": "ebd8664d78a22f2ef211992b2c0f4fb0",
+    "url": "/static/media/bandera_euskalibertaria.ebd8664d.png"
+  },
+  {
+    "revision": "f0bcb6ca799ddafc03a4981cd29fe357",
+    "url": "/static/media/bandera_euskalibertaria.f0bcb6ca.png"
   },
   {
     "revision": "12854132a644fb824ed4e31d58a155e8",

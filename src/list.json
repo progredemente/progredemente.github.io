@@ -2753,5 +2753,13 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "gadsden"]
+    },
+    "horda_feminista": {
+        "name": "Horda feminista",
+        "date": "2022-03-08T00:00",
+        "description": [
+            "¡Llegó el día! ¡La CharoCon 2022!"
+        ],
+        "size": "2000x2000"
     }
 }

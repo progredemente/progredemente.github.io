@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b11b9567924de14868ad7eec6661d1fc",
+    "revision": "f43d2bef383961797e2868c48c79f54a",
     "url": "/index.html"
   },
   {
-    "revision": "995880b0c1e923109473",
+    "revision": "82a5f9fe6ea12422d044",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "8c7f10d584f537884a5b",
-    "url": "/static/js/2.a15cc687.chunk.js"
+    "revision": "e1824dfa5bf97d781f48",
+    "url": "/static/js/2.e8e2dad7.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a15cc687.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e8e2dad7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "995880b0c1e923109473",
-    "url": "/static/js/main.9907f55f.chunk.js"
+    "revision": "82a5f9fe6ea12422d044",
+    "url": "/static/js/main.2e433e6b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1162,6 +1162,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fd2f1d74e6bc6444c8e692ab6707e77a",
     "url": "/static/media/honkey_kong.fd2f1d74.png"
+  },
+  {
+    "revision": "8384ce6db1fccb52b015fd063ffce538",
+    "url": "/static/media/horda_feminista.8384ce6d.png"
+  },
+  {
+    "revision": "b12391e32465db8576f1d0828add4639",
+    "url": "/static/media/horda_feminista.b12391e3.png"
   },
   {
     "revision": "2649735641b18044a5dba79a1537c5d5",

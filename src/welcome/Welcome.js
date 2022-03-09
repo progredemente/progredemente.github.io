@@ -14,6 +14,7 @@ class Welcome extends Component {
             logo: false,
             favicon: false,
             perroflautum: false,
+            strawman: false,
             showAllSocialNetworks: false
         }
     }
@@ -57,6 +58,19 @@ class Welcome extends Component {
                                 this.setState({ perroflautum: true})
                             }}
                         /> Perro Flautum
+                    </a>
+                    <a href="/strawman" className="social-link">
+                        <Loading
+                            hidden={this.state.strawman}
+                        />
+                        <img
+                            src={'./strawman.png'}
+                            alt={'strawman'}
+                            className={this.state.strawman ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ strawman: true})
+                            }}
+                        /> Hombre de paja/Straw man
                     </a>
                     <p>Sígueme en</p>
                     {

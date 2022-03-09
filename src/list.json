@@ -2761,5 +2761,15 @@
             "¡Llegó el día! ¡La CharoCon 2022!"
         ],
         "size": "2000x2000"
+    },
+    "20319000000": {
+        "name": "20.319.000.000€",
+        "date": "2022-03-09T00:00",
+        "description": [
+            "Poco me parece."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["UP"]
     }
 }

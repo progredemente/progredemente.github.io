@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.82617c48.chunk.js",
-    "main.js.map": "/static/js/main.82617c48.chunk.js.map",
+    "main.js": "/static/js/main.e7eab76f.chunk.js",
+    "main.js.map": "/static/js/main.e7eab76f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.38ccc0d9.chunk.js": "/static/js/2.38ccc0d9.chunk.js",
-    "static/js/2.38ccc0d9.chunk.js.map": "/static/js/2.38ccc0d9.chunk.js.map",
+    "static/js/2.e34686df.chunk.js": "/static/js/2.e34686df.chunk.js",
+    "static/js/2.e34686df.chunk.js.map": "/static/js/2.e34686df.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bf694824843a65a5a53818286466ee54.js": "/precache-manifest.bf694824843a65a5a53818286466ee54.js",
+    "precache-manifest.57f2792c7ea9d1147a4ee171cfac191f.js": "/precache-manifest.57f2792c7ea9d1147a4ee171cfac191f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.38ccc0d9.chunk.js.LICENSE.txt": "/static/js/2.38ccc0d9.chunk.js.LICENSE.txt",
+    "static/js/2.e34686df.chunk.js.LICENSE.txt": "/static/js/2.e34686df.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -278,6 +278,7 @@
     "static/media/pollo.png": "/static/media/pollo.a7e7ca30.png",
     "static/media/portugal_oeste.png": "/static/media/portugal_oeste.86c64353.png",
     "static/media/postales_navidenas_banner.png": "/static/media/postales_navidenas_banner.78d15fa1.png",
+    "static/media/preferencias.png": "/static/media/preferencias.5a911cd1.png",
     "static/media/presupuestos.png": "/static/media/presupuestos.d1a3bf9a.png",
     "static/media/progrebranding_1.png": "/static/media/progrebranding_1.c478ff72.png",
     "static/media/progremon_0.png": "/static/media/progremon_0.61cb08bd.png",
@@ -348,8 +349,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.38ccc0d9.chunk.js",
+    "static/js/2.e34686df.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.82617c48.chunk.js"
+    "static/js/main.e7eab76f.chunk.js"
   ]
 }

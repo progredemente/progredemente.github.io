@@ -2771,5 +2771,14 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["UP"]
+    },
+    "preferencias": {
+        "name": "Preferencias",
+        "date": "2022-03-11T00:00",
+        "description": [
+            "Aprendiendo a dibujar con noticias de actualidad. Hoy: manos."
+        ],
+        "size": "2000x2000",
+        "tags": ["sangre"]
     }
 }

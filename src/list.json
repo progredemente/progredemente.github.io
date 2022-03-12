@@ -2780,5 +2780,18 @@
         ],
         "size": "2000x2000",
         "tags": ["sangre"]
+    },
+    "strawman": {
+        "name": "Straw man",
+        "date": "2022-03-12T00:00",
+        "description": [
+            "¿Harto de debatir con gente que no sabe contraargumentar y que pone palabras en tu boca que no has dicho? ¡Regálales un hombre de paja personalizado! ¿Eres tú de ese tipo de gente y estas cansado de quedar en evidencia? ¡Hazte el tuyo propio!",
+            "{https://progredemente.com/strawman}"
+        ],
+        "size": "3000x3000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

@@ -2793,5 +2793,15 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "amistad": {
+        "name": "Amistad",
+        "date": "2022-03-13T00:00",
+        "description": [
+            "¿Veremos el \"friendship regain\" algún día?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Joe Biden", "Nicolás Maduro", "Vladimir Putin"],
+        "series": ["memes"]
     }
 }

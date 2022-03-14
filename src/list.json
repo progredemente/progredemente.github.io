@@ -2803,5 +2803,15 @@
         "size": "2000x2000",
         "celebrities": ["Joe Biden", "Nicolás Maduro", "Vladimir Putin"],
         "series": ["memes"]
+    },
+    "bandera_castenazi": {
+        "name": "Bandera Castenazi",
+        "date": "2022-03-14T00:00",
+        "description": [
+            "La nueva bandera de Castilla y León para los progres."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "castilla y león"]
     }
 }

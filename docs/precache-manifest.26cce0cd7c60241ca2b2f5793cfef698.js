@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "470afb830e9ba42a3f2734bb41d32ae8",
+    "revision": "329c3884b27e63e6e5cfd56c99d1c01b",
     "url": "/index.html"
   },
   {
-    "revision": "8869be4badde04e0fd3b",
+    "revision": "78e5f56b5b3808109014",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "45f72bfcedd680d7dd0b",
-    "url": "/static/js/2.5ef01283.chunk.js"
+    "revision": "ccb246239c2692b08ffd",
+    "url": "/static/js/2.9786290e.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.5ef01283.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9786290e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8869be4badde04e0fd3b",
-    "url": "/static/js/main.3b50131a.chunk.js"
+    "revision": "78e5f56b5b3808109014",
+    "url": "/static/js/main.b3b5cca0.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -298,6 +298,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2426a3be8508339164f65d6fdb335a6a",
     "url": "/static/media/bandera_canadazi.2426a3be.png"
+  },
+  {
+    "revision": "98e5e1f784227652c58e503ff3247ba5",
+    "url": "/static/media/bandera_castenazi.98e5e1f7.png"
+  },
+  {
+    "revision": "99facf80de8029f8fece454f08f73846",
+    "url": "/static/media/bandera_castenazi.99facf80.png"
   },
   {
     "revision": "ebd8664d78a22f2ef211992b2c0f4fb0",

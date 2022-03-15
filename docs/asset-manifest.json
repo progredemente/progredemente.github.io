@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.b3b5cca0.chunk.js",
-    "main.js.map": "/static/js/main.b3b5cca0.chunk.js.map",
+    "main.js": "/static/js/main.5baf16b7.chunk.js",
+    "main.js.map": "/static/js/main.5baf16b7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9786290e.chunk.js": "/static/js/2.9786290e.chunk.js",
-    "static/js/2.9786290e.chunk.js.map": "/static/js/2.9786290e.chunk.js.map",
+    "static/js/2.7ab82efa.chunk.js": "/static/js/2.7ab82efa.chunk.js",
+    "static/js/2.7ab82efa.chunk.js.map": "/static/js/2.7ab82efa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.26cce0cd7c60241ca2b2f5793cfef698.js": "/precache-manifest.26cce0cd7c60241ca2b2f5793cfef698.js",
+    "precache-manifest.ef7cc05109d253d446ceb92359bdfcfe.js": "/precache-manifest.ef7cc05109d253d446ceb92359bdfcfe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.9786290e.chunk.js.LICENSE.txt": "/static/js/2.9786290e.chunk.js.LICENSE.txt",
+    "static/js/2.7ab82efa.chunk.js.LICENSE.txt": "/static/js/2.7ab82efa.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -310,6 +310,8 @@
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
     "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
+    "static/media/starlink.png": "/static/media/starlink.690a8711.png",
+    "static/media/starlink.en.png": "/static/media/starlink.en.e6bb99e4.png",
     "static/media/strawman.png": "/static/media/strawman.ebadc313.png",
     "static/media/strawman.en.png": "/static/media/strawman.en.e0c46830.png",
     "static/media/sube_el_contador.png": "/static/media/sube_el_contador.d22180a3.png",
@@ -353,8 +355,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9786290e.chunk.js",
+    "static/js/2.7ab82efa.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.b3b5cca0.chunk.js"
+    "static/js/main.5baf16b7.chunk.js"
   ]
 }

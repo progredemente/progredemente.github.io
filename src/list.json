@@ -2813,5 +2813,20 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "castilla y león"]
+    },
+    "starlink": {
+        "name": "Starlink",
+        "date": "2022-03-15T00:00",
+        "description": [
+            "La delgada línea que separa lo basado de lo colgado.",
+            "Para quien no lo pille, es una referencia a la serie de videojuegos \"Gears of War\"."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elon Musk"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
+        "tags": ["agua", "nube", "espacio"]
     }
 }

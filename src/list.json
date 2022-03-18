@@ -2828,5 +2828,14 @@
             "available": ["en"]
         },
         "tags": ["agua", "nube", "espacio"]
+    },
+    "camioneros": {
+        "name": "Camioneros",
+        "date": "2022-03-18T00:00",
+        "description": [
+            "Quitadles el lastre, panda de chupópteros."
+        ],
+        "size": "2000x2000",
+        "tags": ["metal"]
     }
 }

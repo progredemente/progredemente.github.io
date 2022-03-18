@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40d52ab0a5bb51aa3a2f34d49f2073e1",
+    "revision": "06ffd10313bcedd73f10bd0baf7c6e54",
     "url": "/index.html"
   },
   {
-    "revision": "07044ed317c534a92a6b",
+    "revision": "f08552065b667d391615",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "70f4a87e18ef7c4ca383",
-    "url": "/static/js/2.7ab82efa.chunk.js"
+    "revision": "9f970d347ffa6b97a5ee",
+    "url": "/static/js/2.0de995f5.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.7ab82efa.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0de995f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07044ed317c534a92a6b",
-    "url": "/static/js/main.5baf16b7.chunk.js"
+    "revision": "f08552065b667d391615",
+    "url": "/static/js/main.00311264.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -546,6 +546,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc93a31bd1bb29178fc8567611ce7e1e",
     "url": "/static/media/calamar.en.fc93a31b.png"
+  },
+  {
+    "revision": "0bd99a2ba3d6e77c9c51f20b153a820e",
+    "url": "/static/media/camioneros.0bd99a2b.png"
+  },
+  {
+    "revision": "f8b17f8c7b759ceb8d32113b3dbbf5a2",
+    "url": "/static/media/camioneros.f8b17f8c.png"
   },
   {
     "revision": "33e48cd94a290b951687292f42d58670",

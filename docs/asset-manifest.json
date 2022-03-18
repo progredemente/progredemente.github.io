@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.5baf16b7.chunk.js",
-    "main.js.map": "/static/js/main.5baf16b7.chunk.js.map",
+    "main.js": "/static/js/main.00311264.chunk.js",
+    "main.js.map": "/static/js/main.00311264.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7ab82efa.chunk.js": "/static/js/2.7ab82efa.chunk.js",
-    "static/js/2.7ab82efa.chunk.js.map": "/static/js/2.7ab82efa.chunk.js.map",
+    "static/js/2.0de995f5.chunk.js": "/static/js/2.0de995f5.chunk.js",
+    "static/js/2.0de995f5.chunk.js.map": "/static/js/2.0de995f5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ef7cc05109d253d446ceb92359bdfcfe.js": "/precache-manifest.ef7cc05109d253d446ceb92359bdfcfe.js",
+    "precache-manifest.4a8a546762d851f21b0da074cafa4503.js": "/precache-manifest.4a8a546762d851f21b0da074cafa4503.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.7ab82efa.chunk.js.LICENSE.txt": "/static/js/2.7ab82efa.chunk.js.LICENSE.txt",
+    "static/js/2.0de995f5.chunk.js.LICENSE.txt": "/static/js/2.0de995f5.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -82,6 +82,7 @@
     "static/media/caja_s.png": "/static/media/caja_s.77f8d21d.png",
     "static/media/calamar.png": "/static/media/calamar.d0491b65.png",
     "static/media/calamar.en.png": "/static/media/calamar.en.fc93a31b.png",
+    "static/media/camioneros.png": "/static/media/camioneros.f8b17f8c.png",
     "static/media/caperucita.png": "/static/media/caperucita.c3a5dc99.png",
     "static/media/captain_falconetti.png": "/static/media/captain_falconetti.f415b350.png",
     "static/media/captain_falconetti.mp3": "/static/media/captain_falconetti.d21fee2d.mp3",
@@ -355,8 +356,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7ab82efa.chunk.js",
+    "static/js/2.0de995f5.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.5baf16b7.chunk.js"
+    "static/js/main.00311264.chunk.js"
   ]
 }

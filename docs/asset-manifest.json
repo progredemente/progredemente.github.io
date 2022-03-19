@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.00311264.chunk.js",
-    "main.js.map": "/static/js/main.00311264.chunk.js.map",
+    "main.js": "/static/js/main.a49b0883.chunk.js",
+    "main.js.map": "/static/js/main.a49b0883.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0de995f5.chunk.js": "/static/js/2.0de995f5.chunk.js",
-    "static/js/2.0de995f5.chunk.js.map": "/static/js/2.0de995f5.chunk.js.map",
+    "static/js/2.fd2660a6.chunk.js": "/static/js/2.fd2660a6.chunk.js",
+    "static/js/2.fd2660a6.chunk.js.map": "/static/js/2.fd2660a6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4a8a546762d851f21b0da074cafa4503.js": "/precache-manifest.4a8a546762d851f21b0da074cafa4503.js",
+    "precache-manifest.cd859df0c2e1ffb7e6c8635dd9b5e8db.js": "/precache-manifest.cd859df0c2e1ffb7e6c8635dd9b5e8db.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.0de995f5.chunk.js.LICENSE.txt": "/static/js/2.0de995f5.chunk.js.LICENSE.txt",
+    "static/js/2.fd2660a6.chunk.js.LICENSE.txt": "/static/js/2.fd2660a6.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -46,6 +46,7 @@
     "static/media/atlas.en.png": "/static/media/atlas.en.e82c6e83.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
+    "static/media/avispero.png": "/static/media/avispero.0ac3625c.png",
     "static/media/index.css": "/static/media/comic_typo.65dcf897.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
     "static/media/bandera_canadazi.png": "/static/media/bandera_canadazi.2426a3be.png",
@@ -356,8 +357,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0de995f5.chunk.js",
+    "static/js/2.fd2660a6.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.00311264.chunk.js"
+    "static/js/main.a49b0883.chunk.js"
   ]
 }

@@ -2837,5 +2837,16 @@
         ],
         "size": "2000x2000",
         "tags": ["metal"]
+    },
+    "avispero": {
+        "name": "Avispero",
+        "date": "2022-03-19T00:00",
+        "description": [
+            "No tengo yo una postura clara con respecto al asunto del Sáhara, pero creo que quizás no sea ahora el momento."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "tags": ["madera", "árbol", "hierba", "cielo", "panal", "abeja"]
     }
 }

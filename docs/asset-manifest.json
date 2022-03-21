@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.a49b0883.chunk.js",
-    "main.js.map": "/static/js/main.a49b0883.chunk.js.map",
+    "main.js": "/static/js/main.66160d26.chunk.js",
+    "main.js.map": "/static/js/main.66160d26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.fd2660a6.chunk.js": "/static/js/2.fd2660a6.chunk.js",
-    "static/js/2.fd2660a6.chunk.js.map": "/static/js/2.fd2660a6.chunk.js.map",
+    "static/js/2.a79f7bc0.chunk.js": "/static/js/2.a79f7bc0.chunk.js",
+    "static/js/2.a79f7bc0.chunk.js.map": "/static/js/2.a79f7bc0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cd859df0c2e1ffb7e6c8635dd9b5e8db.js": "/precache-manifest.cd859df0c2e1ffb7e6c8635dd9b5e8db.js",
+    "precache-manifest.a96ec68d866813f321c99559ad1f6834.js": "/precache-manifest.a96ec68d866813f321c99559ad1f6834.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.fd2660a6.chunk.js.LICENSE.txt": "/static/js/2.fd2660a6.chunk.js.LICENSE.txt",
+    "static/js/2.a79f7bc0.chunk.js.LICENSE.txt": "/static/js/2.a79f7bc0.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -308,6 +308,7 @@
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
     "static/media/seriefilo.png": "/static/media/seriefilo.edf45dd4.png",
     "static/media/shingeki_no_muajin.png": "/static/media/shingeki_no_muajin.b26f007f.png",
+    "static/media/silla.png": "/static/media/silla.f3d31cd1.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
@@ -357,8 +358,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.fd2660a6.chunk.js",
+    "static/js/2.a79f7bc0.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.a49b0883.chunk.js"
+    "static/js/main.66160d26.chunk.js"
   ]
 }

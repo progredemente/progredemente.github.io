@@ -2848,5 +2848,16 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "tags": ["madera", "árbol", "hierba", "cielo", "panal", "abeja"]
+    },
+    "silla": {
+        "name": "Hazlo por la silla",
+        "date": "2022-03-21T00:00",
+        "description": [
+            "No quieren irse a Sevilla."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero", "Yolanda Díaz", "Ione Belarra"],
+        "parties": ["UP"],
+        "tags": ["orina", "ojos azules", "pelo marrón", "ojos marrones claros"]
     }
 }

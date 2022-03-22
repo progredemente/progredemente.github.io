@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f43a8655f292c693422c3cef534a89c8",
+    "revision": "9382b987663102973bc1c0484da7ebec",
     "url": "/index.html"
   },
   {
-    "revision": "6cc08d3a926df10dd21c",
+    "revision": "d7c7687b861a4e7b03bd",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "aef933ba88b51b51acfc",
-    "url": "/static/js/2.a79f7bc0.chunk.js"
+    "revision": "9b7e55c3977d384fe9ac",
+    "url": "/static/js/2.ff31c022.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a79f7bc0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ff31c022.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cc08d3a926df10dd21c",
-    "url": "/static/js/main.66160d26.chunk.js"
+    "revision": "d7c7687b861a4e7b03bd",
+    "url": "/static/js/main.800d5df3.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -314,6 +314,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "99facf80de8029f8fece454f08f73846",
     "url": "/static/media/bandera_castenazi.99facf80.png"
+  },
+  {
+    "revision": "65464a19dedcf6524fb1f24771b2d662",
+    "url": "/static/media/bandera_estats_units_catalans.65464a19.png"
+  },
+  {
+    "revision": "e80b0e9f68b9a5f146446df223f58c07",
+    "url": "/static/media/bandera_estats_units_catalans.e80b0e9f.png"
   },
   {
     "revision": "ebd8664d78a22f2ef211992b2c0f4fb0",

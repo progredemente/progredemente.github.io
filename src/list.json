@@ -2859,5 +2859,15 @@
         "celebrities": ["Irene Montero", "Yolanda Díaz", "Ione Belarra"],
         "parties": ["UP"],
         "tags": ["orina", "ojos azules", "pelo marrón", "ojos marrones claros"]
+    },
+    "bandera_estats_units_catalans": {
+        "name": "Bandera de los Estats Units Catalans",
+        "date": "2022-03-22T00:00",
+        "description": [
+            "El sueño húmedo de los indepes."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "cataluña"]
     }
 }

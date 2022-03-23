@@ -2869,5 +2869,14 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "cataluña"]
+    },
+    "carballelo": {
+        "name": "Carballelo",
+        "date": "2022-03-23T00:00",
+        "description": [
+            "Quien mucho abarca..."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["César Carballo"]
     }
 }

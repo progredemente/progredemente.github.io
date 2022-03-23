@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.800d5df3.chunk.js",
-    "main.js.map": "/static/js/main.800d5df3.chunk.js.map",
+    "main.js": "/static/js/main.7f9c2ef6.chunk.js",
+    "main.js.map": "/static/js/main.7f9c2ef6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ff31c022.chunk.js": "/static/js/2.ff31c022.chunk.js",
-    "static/js/2.ff31c022.chunk.js.map": "/static/js/2.ff31c022.chunk.js.map",
+    "static/js/2.cd0e937a.chunk.js": "/static/js/2.cd0e937a.chunk.js",
+    "static/js/2.cd0e937a.chunk.js.map": "/static/js/2.cd0e937a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c1563356c82ffff8084d8a1829d6949b.js": "/precache-manifest.c1563356c82ffff8084d8a1829d6949b.js",
+    "precache-manifest.1de3d73e8c8a5efaf2a0eaef8a6dde73.js": "/precache-manifest.1de3d73e8c8a5efaf2a0eaef8a6dde73.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.ff31c022.chunk.js.LICENSE.txt": "/static/js/2.ff31c022.chunk.js.LICENSE.txt",
+    "static/js/2.cd0e937a.chunk.js.LICENSE.txt": "/static/js/2.cd0e937a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -88,6 +88,7 @@
     "static/media/caperucita.png": "/static/media/caperucita.c3a5dc99.png",
     "static/media/captain_falconetti.png": "/static/media/captain_falconetti.f415b350.png",
     "static/media/captain_falconetti.mp3": "/static/media/captain_falconetti.d21fee2d.mp3",
+    "static/media/carballelo.png": "/static/media/carballelo.36f6f80b.png",
     "static/media/carencias.png": "/static/media/carencias.f8208257.png",
     "static/media/carrera_revolucionaria.png": "/static/media/carrera_revolucionaria.fbf50aa1.png",
     "static/media/carroneros.png": "/static/media/carroneros.6df3bd74.png",
@@ -359,8 +360,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ff31c022.chunk.js",
+    "static/js/2.cd0e937a.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.800d5df3.chunk.js"
+    "static/js/main.7f9c2ef6.chunk.js"
   ]
 }

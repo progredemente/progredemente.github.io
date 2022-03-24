@@ -2878,5 +2878,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["César Carballo"]
+    },
+    "antonio": {
+        "name": "Antonio",
+        "date": "2022-03-24T00:00",
+        "description": [
+            "Pedro I el Irrelevante."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pedro Sánchez", "Mario Draghi", "Ursula von der Leyen", "Joe Biden", "Emmanuel Macron"],
+        "parties": ["PSOE"],
+        "series": ["memes"]
     }
 }

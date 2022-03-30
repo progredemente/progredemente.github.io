@@ -2889,5 +2889,14 @@
         "celebrities": ["Pedro Sánchez", "Mario Draghi", "Ursula von der Leyen", "Joe Biden", "Emmanuel Macron"],
         "parties": ["PSOE"],
         "series": ["memes"]
+    },
+    "educacion_estatal": {
+        "name": "Educación estatal",
+        "date": "2022-03-30T00:00",
+        "description": [
+            "Ayuda a tus hijos a salir de la caverna estatal."
+        ],
+        "size": "4000x3000",
+        "tags": ["fuego", "cueva", "madera", "metal"]
     }
 }

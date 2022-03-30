@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.71e2e9fd.chunk.js",
-    "main.js.map": "/static/js/main.71e2e9fd.chunk.js.map",
+    "main.js": "/static/js/main.f3e29a69.chunk.js",
+    "main.js.map": "/static/js/main.f3e29a69.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ce5a155a.chunk.js": "/static/js/2.ce5a155a.chunk.js",
-    "static/js/2.ce5a155a.chunk.js.map": "/static/js/2.ce5a155a.chunk.js.map",
+    "static/js/2.aceaa017.chunk.js": "/static/js/2.aceaa017.chunk.js",
+    "static/js/2.aceaa017.chunk.js.map": "/static/js/2.aceaa017.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c94bf5d9b733cf5b1aa38b32d12e71b6.js": "/precache-manifest.c94bf5d9b733cf5b1aa38b32d12e71b6.js",
+    "precache-manifest.06640d7bf938baac7f0a03aba801dc94.js": "/precache-manifest.06640d7bf938baac7f0a03aba801dc94.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.ce5a155a.chunk.js.LICENSE.txt": "/static/js/2.ce5a155a.chunk.js.LICENSE.txt",
+    "static/js/2.aceaa017.chunk.js.LICENSE.txt": "/static/js/2.aceaa017.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -130,6 +130,7 @@
     "static/media/duquemar.png": "/static/media/duquemar.b4a333ad.png",
     "static/media/duquemar.mp3": "/static/media/duquemar.db3e25c1.mp3",
     "static/media/ecografia.png": "/static/media/ecografia.b604eceb.png",
+    "static/media/educacion_estatal.png": "/static/media/educacion_estatal.621bafde.png",
     "static/media/efecto_illa.png": "/static/media/efecto_illa.edf508e5.png",
     "static/media/el_coletas_sapee.png": "/static/media/el_coletas_sapee.d40d694a.png",
     "static/media/el_palmero_banner.png": "/static/media/el_palmero_banner.87d3425f.png",
@@ -361,8 +362,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ce5a155a.chunk.js",
+    "static/js/2.aceaa017.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.71e2e9fd.chunk.js"
+    "static/js/main.f3e29a69.chunk.js"
   ]
 }

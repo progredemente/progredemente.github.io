@@ -2898,5 +2898,14 @@
         ],
         "size": "4000x3000",
         "tags": ["fuego", "cueva", "madera", "metal"]
+    },
+    "color_carne": {
+        "name": "Color carne",
+        "date": "2022-04-02T00:00",
+        "description": [
+            "Estuve hablando con amigos y familiares estos días sobre la situación en los colegios y he decidido hilar lo del vídeo del profesor negándoles la realidad a unos niños con unas conclusiones a las que he llegado: el adoctrinamiento en las escuelas es mayor que en mi época de estudiante pero el mensaje no termina de calar, pues al fin y al cabo no dejan de ser funcionarios, gente sin vocación ni talento en la mayor parte de los casos, y la rebeldía es propia de la juventud. Quiero ser optimista a pesar de que creo que va a costar mucho tiempo y esfuerzo reconstruir lo que están destruyendo."
+        ],
+        "size": "3000x2000",
+        "tags": ["encerado", "madera", "pelo rubio"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.ef281387.chunk.js",
-    "main.js.map": "/static/js/main.ef281387.chunk.js.map",
+    "main.js": "/static/js/main.1d5a8063.chunk.js",
+    "main.js.map": "/static/js/main.1d5a8063.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.38a5693b.chunk.js": "/static/js/2.38a5693b.chunk.js",
-    "static/js/2.38a5693b.chunk.js.map": "/static/js/2.38a5693b.chunk.js.map",
+    "static/js/2.796d234d.chunk.js": "/static/js/2.796d234d.chunk.js",
+    "static/js/2.796d234d.chunk.js.map": "/static/js/2.796d234d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4f6870a207b3c470830833898d2b7325.js": "/precache-manifest.4f6870a207b3c470830833898d2b7325.js",
+    "precache-manifest.8726ddd56ff7b60badb3441660286165.js": "/precache-manifest.8726ddd56ff7b60badb3441660286165.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.38a5693b.chunk.js.LICENSE.txt": "/static/js/2.38a5693b.chunk.js.LICENSE.txt",
+    "static/js/2.796d234d.chunk.js.LICENSE.txt": "/static/js/2.796d234d.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -312,6 +312,7 @@
     "static/media/sanchezcracia.png": "/static/media/sanchezcracia.9a7935f9.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
     "static/media/seriefilo.png": "/static/media/seriefilo.edf45dd4.png",
+    "static/media/servilleta.png": "/static/media/servilleta.92785c74.png",
     "static/media/shingeki_no_muajin.png": "/static/media/shingeki_no_muajin.b26f007f.png",
     "static/media/silla.png": "/static/media/silla.f3d31cd1.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
@@ -363,8 +364,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.38a5693b.chunk.js",
+    "static/js/2.796d234d.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.ef281387.chunk.js"
+    "static/js/main.1d5a8063.chunk.js"
   ]
 }

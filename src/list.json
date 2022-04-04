@@ -2907,5 +2907,13 @@
         ],
         "size": "3000x2000",
         "tags": ["encerado", "madera", "pelo rubio"]
+    },
+    "servilleta": {
+        "name": "Servilleta",
+        "date": "2022-04-04T00:00",
+        "description": [
+            "Versión española de la prueba del pañuelo catarí."
+        ],
+        "size": "2000x2000"
     }
 }

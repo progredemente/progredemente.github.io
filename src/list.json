@@ -2915,5 +2915,13 @@
             "Versión española de la prueba del pañuelo catarí."
         ],
         "size": "2000x2000"
+    },
+    "kaputxa": {
+        "name": "kaputxa",
+        "date": "2022-04-05T00:00",
+        "description": [
+            "La versión vasca. Se me ocurrió en la ducha."
+        ],
+        "size": "2000x2000"
     }
 }

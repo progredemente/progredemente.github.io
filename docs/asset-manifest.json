@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.4f2cae09.chunk.js",
-    "main.js.map": "/static/js/main.4f2cae09.chunk.js.map",
+    "main.js": "/static/js/main.3efc2f78.chunk.js",
+    "main.js.map": "/static/js/main.3efc2f78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0ec4d9db.chunk.js": "/static/js/2.0ec4d9db.chunk.js",
-    "static/js/2.0ec4d9db.chunk.js.map": "/static/js/2.0ec4d9db.chunk.js.map",
+    "static/js/2.6fc898ee.chunk.js": "/static/js/2.6fc898ee.chunk.js",
+    "static/js/2.6fc898ee.chunk.js.map": "/static/js/2.6fc898ee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3bcc411ff2348c99d76d6bef87a4486a.js": "/precache-manifest.3bcc411ff2348c99d76d6bef87a4486a.js",
+    "precache-manifest.76094c9f5e1089cdd90cf7d5363570a3.js": "/precache-manifest.76094c9f5e1089cdd90cf7d5363570a3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.0ec4d9db.chunk.js.LICENSE.txt": "/static/js/2.0ec4d9db.chunk.js.LICENSE.txt",
+    "static/js/2.6fc898ee.chunk.js.LICENSE.txt": "/static/js/2.6fc898ee.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -32,6 +32,7 @@
     "static/media/ano_rata.png": "/static/media/ano_rata.d1768431.png",
     "static/media/antisistema.png": "/static/media/antisistema.531d1be5.png",
     "static/media/antonio.png": "/static/media/antonio.a170b2be.png",
+    "static/media/antonium.png": "/static/media/antonium.72a71b4e.png",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/apalpador.png": "/static/media/apalpador.6a213c0f.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
@@ -365,8 +366,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0ec4d9db.chunk.js",
+    "static/js/2.6fc898ee.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.4f2cae09.chunk.js"
+    "static/js/main.3efc2f78.chunk.js"
   ]
 }

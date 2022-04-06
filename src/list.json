@@ -2923,5 +2923,15 @@
             "La versión vasca. Se me ocurrió en la ducha."
         ],
         "size": "2000x2000"
+    },
+    "antonium": {
+        "name": "Antonium",
+        "date": "2022-04-06T00:00",
+        "description": [
+            "Nuevo elemento de la tabla periódica. Cuidado, aparte de su dureza es remarcable su toxicidad."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

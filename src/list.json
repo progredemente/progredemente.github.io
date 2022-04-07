@@ -2933,5 +2933,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "inversion": {
+        "name": "Inversión",
+        "date": "2022-04-07T00:00",
+        "description": [
+            "Tremendo océano azul."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

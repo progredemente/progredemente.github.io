@@ -2943,5 +2943,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "bandera_rss_asturias": {
+        "name": "Bandera de la RSS de Asturias",
+        "date": "2022-04-08T00:00",
+        "description": [
+            "Cambiando un poco de ideología, que parece que siempre utilizo la misma."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"]
     }
 }

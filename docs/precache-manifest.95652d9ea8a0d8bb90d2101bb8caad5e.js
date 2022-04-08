@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bab9d0703f71588791e4057af31e8e38",
+    "revision": "ecf66da00a00f5a1965b6c5b435835a5",
     "url": "/index.html"
   },
   {
-    "revision": "10df71a72377846552b3",
+    "revision": "75d68920c7a47cdf0cf7",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "2d5cd79e60fae99ef494",
-    "url": "/static/js/2.317ea537.chunk.js"
+    "revision": "fff29e39faaf63ffa4d7",
+    "url": "/static/js/2.1da5b003.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.317ea537.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1da5b003.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10df71a72377846552b3",
-    "url": "/static/js/main.12403b34.chunk.js"
+    "revision": "75d68920c7a47cdf0cf7",
+    "url": "/static/js/main.4ab87a6d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -370,6 +370,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a0d9e4277dc5d9784c19c3ef734ef907",
     "url": "/static/media/bandera_galibertaria.a0d9e427.png"
+  },
+  {
+    "revision": "81f05f77c8084bf858c3c67dc9663efd",
+    "url": "/static/media/bandera_rss_asturias.81f05f77.png"
+  },
+  {
+    "revision": "e67dda4fc94eb9a47d88d9cfa5728e1d",
+    "url": "/static/media/bandera_rss_asturias.e67dda4f.png"
   },
   {
     "revision": "45ccd46cf49e6992f60594841441b516",

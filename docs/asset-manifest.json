@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.12403b34.chunk.js",
-    "main.js.map": "/static/js/main.12403b34.chunk.js.map",
+    "main.js": "/static/js/main.4ab87a6d.chunk.js",
+    "main.js.map": "/static/js/main.4ab87a6d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.317ea537.chunk.js": "/static/js/2.317ea537.chunk.js",
-    "static/js/2.317ea537.chunk.js.map": "/static/js/2.317ea537.chunk.js.map",
+    "static/js/2.1da5b003.chunk.js": "/static/js/2.1da5b003.chunk.js",
+    "static/js/2.1da5b003.chunk.js.map": "/static/js/2.1da5b003.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ccc656328ffb2cf6e12a05028076c2a6.js": "/precache-manifest.ccc656328ffb2cf6e12a05028076c2a6.js",
+    "precache-manifest.95652d9ea8a0d8bb90d2101bb8caad5e.js": "/precache-manifest.95652d9ea8a0d8bb90d2101bb8caad5e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.317ea537.chunk.js.LICENSE.txt": "/static/js/2.317ea537.chunk.js.LICENSE.txt",
+    "static/js/2.1da5b003.chunk.js.LICENSE.txt": "/static/js/2.1da5b003.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -58,6 +58,7 @@
     "static/media/bandera_euskonazi.png": "/static/media/bandera_euskonazi.42efc766.png",
     "static/media/bandera_galenazi.png": "/static/media/bandera_galenazi.c969387a.png",
     "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
+    "static/media/bandera_rss_asturias.png": "/static/media/bandera_rss_asturias.e67dda4f.png",
     "static/media/bandera_rusonazi.png": "/static/media/bandera_rusonazi.e810931e.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
@@ -367,8 +368,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.317ea537.chunk.js",
+    "static/js/2.1da5b003.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.12403b34.chunk.js"
+    "static/js/main.4ab87a6d.chunk.js"
   ]
 }

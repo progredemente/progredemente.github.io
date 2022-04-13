@@ -2952,5 +2952,15 @@
         ],
         "size": "3000x2000",
         "series": ["banderas"]
+    },
+    "chachas": {
+        "name": "Chachas",
+        "date": "2022-04-13T00:00",
+        "description": [
+            "Las charos y sus chacharos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

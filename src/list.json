@@ -2962,5 +2962,14 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "sacandosela": {
+        "name": "Sacándosela",
+        "date": "2022-04-14T00:00",
+        "description": [
+            "Me cae bien este señor."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elon Musk"]
     }
 }

@@ -2971,5 +2971,17 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Elon Musk"]
+    },
+    "raposa": {
+        "name": "A raposa dos Peares",
+        "date": "2022-04-18T00:00",
+        "description": [
+            "Cuando se enfada le sale el chakra rojo.",
+            "El mote se lo oí al gran {contact:salidarvuelta}."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Núñez Feijóo"],
+        "parties": ["PP"],
+        "tags": ["agua", "tierra"]
     }
 }

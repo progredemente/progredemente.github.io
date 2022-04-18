@@ -96,5 +96,23 @@
             }
         ]
 
+    },
+    "salidarvuelta": {
+        "name": "Fabián C. Barrio",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/salidarvuelta"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/fabian.c.barrio/"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/c/fabiancbarrio"
+            }
+        ]
+
     }
 }

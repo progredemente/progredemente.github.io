@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.d0b29a64.chunk.js",
-    "main.js.map": "/static/js/main.d0b29a64.chunk.js.map",
+    "main.js": "/static/js/main.071ea78c.chunk.js",
+    "main.js.map": "/static/js/main.071ea78c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c113ce34.chunk.js": "/static/js/2.c113ce34.chunk.js",
-    "static/js/2.c113ce34.chunk.js.map": "/static/js/2.c113ce34.chunk.js.map",
+    "static/js/2.c3e204fe.chunk.js": "/static/js/2.c3e204fe.chunk.js",
+    "static/js/2.c3e204fe.chunk.js.map": "/static/js/2.c3e204fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.da754d5ff19a1e7c4d3f951051548044.js": "/precache-manifest.da754d5ff19a1e7c4d3f951051548044.js",
+    "precache-manifest.0668ab51fcaa23851dac3ddc3abc1037.js": "/precache-manifest.0668ab51fcaa23851dac3ddc3abc1037.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.c113ce34.chunk.js.LICENSE.txt": "/static/js/2.c113ce34.chunk.js.LICENSE.txt",
+    "static/js/2.c3e204fe.chunk.js.LICENSE.txt": "/static/js/2.c3e204fe.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -305,6 +305,7 @@
     "static/media/punto_violeta.png": "/static/media/punto_violeta.5110faec.png",
     "static/media/putin_lukashenko.png": "/static/media/putin_lukashenko.f9123c67.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
+    "static/media/raposa.png": "/static/media/raposa.e54d3e71.png",
     "static/media/rapunzel.png": "/static/media/rapunzel.57e96611.png",
     "static/media/rebano.png": "/static/media/rebano.ea2c6348.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.df988713.png",
@@ -370,8 +371,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c113ce34.chunk.js",
+    "static/js/2.c3e204fe.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.d0b29a64.chunk.js"
+    "static/js/main.071ea78c.chunk.js"
   ]
 }

@@ -2983,5 +2983,15 @@
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"],
         "tags": ["agua", "tierra"]
+    },
+    "alicio": {
+        "name": "Alicio",
+        "date": "2022-04-20T00:00",
+        "description": [
+            "Solo por humanidad, que alguien saque a este señor de ahí."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Joe Biden", "Kamala Harris", "Hunter Biden"],
+        "tags": ["hierba", "seta", "árbol"]
     }
 }

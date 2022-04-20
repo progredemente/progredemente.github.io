@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49b7f932ab8390b63eba8a1103c29eef",
+    "revision": "6a91e8e71d67baedc6c31dc5b0958e87",
     "url": "/index.html"
   },
   {
-    "revision": "bcd7e1298f80497bce27",
+    "revision": "4701e0c0e00247e1326b",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "f31746b6b7556e24488b",
-    "url": "/static/js/2.c3e204fe.chunk.js"
+    "revision": "c387a05f608b24760465",
+    "url": "/static/js/2.5e62590b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.c3e204fe.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5e62590b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcd7e1298f80497bce27",
-    "url": "/static/js/main.071ea78c.chunk.js"
+    "revision": "4701e0c0e00247e1326b",
+    "url": "/static/js/main.b5bca4ed.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -106,6 +106,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a5481c75e0912446ab2a66e13fcc6e09",
     "url": "/static/media/alerta_antifascista.a5481c75.png"
+  },
+  {
+    "revision": "60bf8b2db77eb4c10b1d1fe4e4c20c2b",
+    "url": "/static/media/alicio.60bf8b2d.png"
+  },
+  {
+    "revision": "76410b2248ecf3913340148c3ff5f5be",
+    "url": "/static/media/alicio.76410b22.png"
   },
   {
     "revision": "3241f90eeeb760ddbe55fe487f27b3e1",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.e4cfa234.chunk.js",
-    "main.js.map": "/static/js/main.e4cfa234.chunk.js.map",
+    "main.js": "/static/js/main.ce254709.chunk.js",
+    "main.js.map": "/static/js/main.ce254709.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ef0c97f8.chunk.js": "/static/js/2.ef0c97f8.chunk.js",
-    "static/js/2.ef0c97f8.chunk.js.map": "/static/js/2.ef0c97f8.chunk.js.map",
+    "static/js/2.c8a093b4.chunk.js": "/static/js/2.c8a093b4.chunk.js",
+    "static/js/2.c8a093b4.chunk.js.map": "/static/js/2.c8a093b4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dc63713a9e9238f540734a2f872e20b9.js": "/precache-manifest.dc63713a9e9238f540734a2f872e20b9.js",
+    "precache-manifest.63da4edd346d352522933495163c3b7e.js": "/precache-manifest.63da4edd346d352522933495163c3b7e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.ef0c97f8.chunk.js.LICENSE.txt": "/static/js/2.ef0c97f8.chunk.js.LICENSE.txt",
+    "static/js/2.c8a093b4.chunk.js.LICENSE.txt": "/static/js/2.c8a093b4.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -165,6 +165,7 @@
     "static/media/galanchez.png": "/static/media/galanchez.cd062762.png",
     "static/media/gente_irresponsable.png": "/static/media/gente_irresponsable.7702526b.png",
     "static/media/gettr.png": "/static/media/gettr.81ad8428.png",
+    "static/media/gila.png": "/static/media/gila.3a0eb38a.png",
     "static/media/gobierno_ideal.png": "/static/media/gobierno_ideal.cc5342ab.png",
     "static/media/goya.png": "/static/media/goya.fef045de.png",
     "static/media/granja_separatista.png": "/static/media/granja_separatista.af821e47.png",
@@ -372,8 +373,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ef0c97f8.chunk.js",
+    "static/js/2.c8a093b4.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.e4cfa234.chunk.js"
+    "static/js/main.ce254709.chunk.js"
   ]
 }

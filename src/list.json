@@ -2612,10 +2612,10 @@
         "tags": ["pelo marrón"]
     },
     "pasar_aro": {
-        "name": "Pepémon",
+        "name": "Pasar por el aro",
         "date": "2022-02-19T00:00",
         "description": [
-            "Decid misión, cobardes."
+            "Hay que cumplir con el estado de derecho, siempre y cuando no hayamos pasado ya por el aro, en ese caso ya va dando un poco igual."
         ],
         "size": "5000x3000",
         "celebrities": ["Ursula von der Leyen"],
@@ -2993,5 +2993,16 @@
         "size": "4000x3000",
         "celebrities": ["Joe Biden", "Kamala Harris", "Hunter Biden"],
         "tags": ["hierba", "seta", "árbol"]
+    },
+    "gila": {
+        "name": "Gila",
+        "date": "2022-04-22T00:00",
+        "description": [
+            "¿Qué os creíais, que no iba a fardar del despliegue de medios?."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "tags": ["saco"]
     }
 }

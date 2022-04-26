@@ -3004,5 +3004,15 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "tags": ["saco"]
+    },
+    "bandera_galenazi_2": {
+        "name": "Bandera Galenazi 2",
+        "date": "2022-04-26T00:00",
+        "description": [
+            "Otra versión de la bandera galenazi, esta vez inspirada en la bandera de la Kriegsmarine, un clásico ya en mis diseños."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "galicia"]
     }
 }

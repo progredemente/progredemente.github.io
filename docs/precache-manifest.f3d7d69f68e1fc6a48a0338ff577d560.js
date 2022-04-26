@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "850baaed93db5165952662c290eb6f73",
+    "revision": "9a5fa01b9890640ea3da95c9bfbeeeef",
     "url": "/index.html"
   },
   {
-    "revision": "97121f8911cae6b174ab",
+    "revision": "ac907f7cd4a865654de5",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "bb9392c1c01a11c2e1b7",
-    "url": "/static/js/2.c8a093b4.chunk.js"
+    "revision": "e0f2199ba5537ad172cb",
+    "url": "/static/js/2.0e8dafcd.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.c8a093b4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0e8dafcd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97121f8911cae6b174ab",
-    "url": "/static/js/main.ce254709.chunk.js"
+    "revision": "ac907f7cd4a865654de5",
+    "url": "/static/js/main.1185dfa7.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -370,6 +370,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c969387a25ddd9c7ecb84ca921529c0c",
     "url": "/static/media/bandera_galenazi.c969387a.png"
+  },
+  {
+    "revision": "0c28f2ab06e10e60bcdd8f9534a80fb3",
+    "url": "/static/media/bandera_galenazi_2.0c28f2ab.png"
+  },
+  {
+    "revision": "98476b74359fb57b52abf12ca60a8fc8",
+    "url": "/static/media/bandera_galenazi_2.98476b74.png"
   },
   {
     "revision": "6fc7940229c5a5382bb451933534eb99",

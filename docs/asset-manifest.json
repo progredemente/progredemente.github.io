@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.ce254709.chunk.js",
-    "main.js.map": "/static/js/main.ce254709.chunk.js.map",
+    "main.js": "/static/js/main.1185dfa7.chunk.js",
+    "main.js.map": "/static/js/main.1185dfa7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c8a093b4.chunk.js": "/static/js/2.c8a093b4.chunk.js",
-    "static/js/2.c8a093b4.chunk.js.map": "/static/js/2.c8a093b4.chunk.js.map",
+    "static/js/2.0e8dafcd.chunk.js": "/static/js/2.0e8dafcd.chunk.js",
+    "static/js/2.0e8dafcd.chunk.js.map": "/static/js/2.0e8dafcd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63da4edd346d352522933495163c3b7e.js": "/precache-manifest.63da4edd346d352522933495163c3b7e.js",
+    "precache-manifest.f3d7d69f68e1fc6a48a0338ff577d560.js": "/precache-manifest.f3d7d69f68e1fc6a48a0338ff577d560.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.c8a093b4.chunk.js.LICENSE.txt": "/static/js/2.c8a093b4.chunk.js.LICENSE.txt",
+    "static/js/2.0e8dafcd.chunk.js.LICENSE.txt": "/static/js/2.0e8dafcd.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -58,6 +58,7 @@
     "static/media/bandera_euskalibertaria.png": "/static/media/bandera_euskalibertaria.f0bcb6ca.png",
     "static/media/bandera_euskonazi.png": "/static/media/bandera_euskonazi.42efc766.png",
     "static/media/bandera_galenazi.png": "/static/media/bandera_galenazi.c969387a.png",
+    "static/media/bandera_galenazi_2.png": "/static/media/bandera_galenazi_2.98476b74.png",
     "static/media/bandera_galibertaria.png": "/static/media/bandera_galibertaria.a0d9e427.png",
     "static/media/bandera_rss_asturias.png": "/static/media/bandera_rss_asturias.e67dda4f.png",
     "static/media/bandera_rusonazi.png": "/static/media/bandera_rusonazi.e810931e.png",
@@ -373,8 +374,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c8a093b4.chunk.js",
+    "static/js/2.0e8dafcd.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.ce254709.chunk.js"
+    "static/js/main.1185dfa7.chunk.js"
   ]
 }

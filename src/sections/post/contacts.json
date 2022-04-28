@@ -114,5 +114,23 @@
             }
         ]
 
+    },
+    "merimonas": {
+        "name": "Merino",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/merimonas/"
+            },
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/meri_monas"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/merimonas/"
+            }
+        ]
+
     }
 }

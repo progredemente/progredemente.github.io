@@ -2019,7 +2019,8 @@
         "description": [
             "Molaba más cuando a los frikis los llevaban al Diario y no ahora que los pasean para asustar a los borregos."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "celebrities": ["Isabel Peralta"]
     },
     "desnudo": {
         "name": "El \"líder\" desnudo",
@@ -3014,5 +3015,15 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "galicia"]
+    },
+    "donde_simon": {
+        "name": "¿Dónde está Fernando Simón?",
+        "date": "2022-04-28T00:00",
+        "description": [
+            "Quería sacar esta viñeta después de ver una que hizo {contact:merimonas} relacionada con la desaparición de este personaje, pero me llevó hacerla bastante más de lo que creí en un principio."
+        ],
+        "size": "8000x6000",
+        "celebrities": ["Fernando Simón", "Mariano Rajoy", "C. Tangana", "Juan Carlos I", "Pedro Sánchez", "Risto Mejide", "Arnaldo Otegi", "Fernando Grande-Marlaska", "Mohamed VI", "César Carballo", "Pablo Iglesias", "Pamela Palenciano", "Alán Barroso", "Gabriel Rufián", "Elon Musk", "María Jesús Montero", "Teodoro García Egea", "Pablo Casado", "Isabel Díaz Ayuso", "Alberto Núñez Feijóo", "Mónica García", "Cayetana Álvarez de Toledo", "Isabel Celaá", "Ada Colau", "Mónica Oltra", "Iván Redondo", "Rubén Gisbert", "Carmen Calvo", "Yolanda Díaz", "Oriol Junqueras", "Pablo Echenique", "Íñigo Errejón", "Inés Arrimadas", "Irene Montero", "Ione Belarra", "Alberto Garzón", "Carles Puigdemont", "José Luis Ábalos", "Lilith Verstrynge", "Dina Bousselham", "Eduardo Casanova", "Iker Jiménez", "Carmen Porter", "Isabel Peralta", "Francisco Franco", "Santiago Abascal", "Rocío Monasterio"],
+        "parties": ["EH Bildu", "PSOE", "PP", "ERC", "UP", "MP", "Compromís", "C's", "JxC", "Vox"]
     }
 }

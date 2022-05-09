@@ -3025,5 +3025,13 @@
         "size": "8000x6000",
         "celebrities": ["Fernando Simón", "Mariano Rajoy", "C. Tangana", "Juan Carlos I", "Pedro Sánchez", "Risto Mejide", "Arnaldo Otegi", "Fernando Grande-Marlaska", "Mohamed VI", "César Carballo", "Pablo Iglesias", "Pamela Palenciano", "Alán Barroso", "Gabriel Rufián", "Elon Musk", "María Jesús Montero", "Teodoro García Egea", "Pablo Casado", "Isabel Díaz Ayuso", "Alberto Núñez Feijóo", "Mónica García", "Cayetana Álvarez de Toledo", "Isabel Celaá", "Ada Colau", "Mónica Oltra", "Iván Redondo", "Rubén Gisbert", "Carmen Calvo", "Yolanda Díaz", "Oriol Junqueras", "Pablo Echenique", "Íñigo Errejón", "Inés Arrimadas", "Irene Montero", "Ione Belarra", "Alberto Garzón", "Carles Puigdemont", "José Luis Ábalos", "Lilith Verstrynge", "Dina Bousselham", "Eduardo Casanova", "Iker Jiménez", "Carmen Porter", "Isabel Peralta", "Francisco Franco", "Santiago Abascal", "Rocío Monasterio"],
         "parties": ["EH Bildu", "PSOE", "PP", "ERC", "UP", "MP", "Compromís", "C's", "JxC", "Vox"]
+    },
+    "sede_ugt": {
+        "name": "Sede de UGT",
+        "date": "2022-05-09T00:00",
+        "description": [
+            "Chiste tonto sobre lo de UGT y los okupas para alimentar un poco al algoritmo."
+        ],
+        "size": "2000x2000"
     }
 }

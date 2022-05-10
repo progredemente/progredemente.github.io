@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.20f7de04.chunk.js",
-    "main.js.map": "/static/js/main.20f7de04.chunk.js.map",
+    "main.js": "/static/js/main.9cc5d3bc.chunk.js",
+    "main.js.map": "/static/js/main.9cc5d3bc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b9f9ebbe.chunk.js": "/static/js/2.b9f9ebbe.chunk.js",
-    "static/js/2.b9f9ebbe.chunk.js.map": "/static/js/2.b9f9ebbe.chunk.js.map",
+    "static/js/2.17032ba2.chunk.js": "/static/js/2.17032ba2.chunk.js",
+    "static/js/2.17032ba2.chunk.js.map": "/static/js/2.17032ba2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4247d9f804f297b0492dc4b8ad7ec659.js": "/precache-manifest.4247d9f804f297b0492dc4b8ad7ec659.js",
+    "precache-manifest.a9c728d8221beb111161f06779ab0c08.js": "/precache-manifest.a9c728d8221beb111161f06779ab0c08.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.b9f9ebbe.chunk.js.LICENSE.txt": "/static/js/2.b9f9ebbe.chunk.js.LICENSE.txt",
+    "static/js/2.17032ba2.chunk.js.LICENSE.txt": "/static/js/2.17032ba2.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -327,6 +327,7 @@
     "static/media/servilleta.png": "/static/media/servilleta.92785c74.png",
     "static/media/shingeki_no_muajin.png": "/static/media/shingeki_no_muajin.b26f007f.png",
     "static/media/silla.png": "/static/media/silla.f3d31cd1.png",
+    "static/media/sindikato.png": "/static/media/sindikato.46a46769.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
@@ -376,8 +377,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b9f9ebbe.chunk.js",
+    "static/js/2.17032ba2.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.20f7de04.chunk.js"
+    "static/js/main.9cc5d3bc.chunk.js"
   ]
 }

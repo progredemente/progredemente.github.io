@@ -3033,5 +3033,14 @@
             "Chiste tonto sobre lo de UGT y los okupas para alimentar un poco al algoritmo."
         ],
         "size": "2000x2000"
+    },
+    "sindikato": {
+        "name": "Sindikato no Langostin",
+        "date": "2022-05-10T00:00",
+        "description": [
+            "Quería intentar usar un estilo de dibujo que le quedase mejor a esta idea."
+        ],
+        "size": "5000x4000",
+        "celebrities": ["Pepe Álvarez"]
     }
 }

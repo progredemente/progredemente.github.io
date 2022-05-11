@@ -3042,5 +3042,14 @@
         ],
         "size": "5000x4000",
         "celebrities": ["Pepe Álvarez"]
+    },
+    "pegasus": {
+        "name": "Pegasus",
+        "date": "2022-05-11T00:00",
+        "description": [
+            "El gobierno más transparente del mundo, pero para nuestros enemigos.",
+            "Quise hacer esta viñeta la semana pasada pero estuve bastante indispuesto."
+        ],
+        "size": "2000x2000"
     }
 }

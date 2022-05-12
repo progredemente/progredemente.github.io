@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.94ae0cfb.chunk.js",
-    "main.js.map": "/static/js/main.94ae0cfb.chunk.js.map",
+    "main.js": "/static/js/main.5dd659f4.chunk.js",
+    "main.js.map": "/static/js/main.5dd659f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.63e0930d.chunk.js": "/static/js/2.63e0930d.chunk.js",
-    "static/js/2.63e0930d.chunk.js.map": "/static/js/2.63e0930d.chunk.js.map",
+    "static/js/2.63520901.chunk.js": "/static/js/2.63520901.chunk.js",
+    "static/js/2.63520901.chunk.js.map": "/static/js/2.63520901.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.078817fa3095a1481e24586fe92bf430.js": "/precache-manifest.078817fa3095a1481e24586fe92bf430.js",
+    "precache-manifest.5d8963c7e26286b11a98e2f3f24d56e4.js": "/precache-manifest.5d8963c7e26286b11a98e2f3f24d56e4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.63e0930d.chunk.js.LICENSE.txt": "/static/js/2.63e0930d.chunk.js.LICENSE.txt",
+    "static/js/2.63520901.chunk.js.LICENSE.txt": "/static/js/2.63520901.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -321,6 +321,7 @@
     "static/media/runner.png": "/static/media/runner.a0b2f2d8.png",
     "static/media/sacandosela.png": "/static/media/sacandosela.e38d6448.png",
     "static/media/saltar_barco.png": "/static/media/saltar_barco.8b4e6e25.png",
+    "static/media/salud_mental.png": "/static/media/salud_mental.19062cb4.png",
     "static/media/sanchezcracia.png": "/static/media/sanchezcracia.9a7935f9.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
     "static/media/sede_ugt.png": "/static/media/sede_ugt.de47eddf.png",
@@ -378,8 +379,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.63e0930d.chunk.js",
+    "static/js/2.63520901.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.94ae0cfb.chunk.js"
+    "static/js/main.5dd659f4.chunk.js"
   ]
 }

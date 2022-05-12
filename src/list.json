@@ -3051,5 +3051,15 @@
             "Quise hacer esta viñeta la semana pasada pero estuve bastante indispuesto."
         ],
         "size": "2000x2000"
+    },
+    "salud_mental": {
+        "name": "Salud mental",
+        "date": "2022-05-12T00:00",
+        "description": [
+            "El compromiso de la izquierda con tratar la salud mental con respeto y seriedad termina en cuanto toca descalificar al contrario. Y así con todo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Mónica García"],
+        "parties": ["MP"]
     }
 }

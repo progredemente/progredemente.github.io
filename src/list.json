@@ -3061,5 +3061,15 @@
         "size": "2000x2000",
         "celebrities": ["Mónica García"],
         "parties": ["MP"]
+    },
+    "fotos": {
+        "name": "Fotos",
+        "date": "2022-05-13T00:00",
+        "description": [
+            "Una charo más."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nadia Calviño", "Irene Montero"],
+        "parties": ["PSOE", "UP"]
     }
 }

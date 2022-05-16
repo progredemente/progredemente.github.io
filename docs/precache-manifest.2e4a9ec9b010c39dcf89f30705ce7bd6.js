@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81fb4d828330c8a8843f3ef88ffc9d9f",
+    "revision": "7ac91b1fadadf36d2c38475d660bf158",
     "url": "/index.html"
   },
   {
-    "revision": "0666e794b0793c1188d6",
+    "revision": "94529c8622e503614189",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "41e20db951229568e054",
-    "url": "/static/js/2.272ece28.chunk.js"
+    "revision": "c53a6107f6a042e364ac",
+    "url": "/static/js/2.9dbedc2a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.272ece28.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9dbedc2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0666e794b0793c1188d6",
-    "url": "/static/js/main.ac284467.chunk.js"
+    "revision": "94529c8622e503614189",
+    "url": "/static/js/main.d35b4271.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -338,6 +338,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "99facf80de8029f8fece454f08f73846",
     "url": "/static/media/bandera_castenazi.99facf80.png"
+  },
+  {
+    "revision": "08482cfe0ffbea565acbd928391960eb",
+    "url": "/static/media/bandera_estats_confederats_valencians.08482cfe.png"
+  },
+  {
+    "revision": "2ca009896b74be986ecb1dff2ab62bb3",
+    "url": "/static/media/bandera_estats_confederats_valencians.2ca00989.png"
   },
   {
     "revision": "65464a19dedcf6524fb1f24771b2d662",

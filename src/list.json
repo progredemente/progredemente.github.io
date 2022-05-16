@@ -3080,5 +3080,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Chanel Terrero"]
+    },
+    "bandera_estats_confederats_valencians": {
+        "name": "Bandera de los Estats Confederats Valencians",
+        "date": "2022-05-16T00:00",
+        "description": [
+            "La verdad es que en mi cabeza se veía mejor..."
+        ],
+        "size": "3000x2000",
+        "series": ["banderas"],
+        "tags": ["bandera", "valencia"]
     }
 }

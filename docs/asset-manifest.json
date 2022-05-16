@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.ac284467.chunk.js",
-    "main.js.map": "/static/js/main.ac284467.chunk.js.map",
+    "main.js": "/static/js/main.d35b4271.chunk.js",
+    "main.js.map": "/static/js/main.d35b4271.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.272ece28.chunk.js": "/static/js/2.272ece28.chunk.js",
-    "static/js/2.272ece28.chunk.js.map": "/static/js/2.272ece28.chunk.js.map",
+    "static/js/2.9dbedc2a.chunk.js": "/static/js/2.9dbedc2a.chunk.js",
+    "static/js/2.9dbedc2a.chunk.js.map": "/static/js/2.9dbedc2a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5445e86cc951b7004fcdfff204e75880.js": "/precache-manifest.5445e86cc951b7004fcdfff204e75880.js",
+    "precache-manifest.2e4a9ec9b010c39dcf89f30705ce7bd6.js": "/precache-manifest.2e4a9ec9b010c39dcf89f30705ce7bd6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.272ece28.chunk.js.LICENSE.txt": "/static/js/2.272ece28.chunk.js.LICENSE.txt",
+    "static/js/2.9dbedc2a.chunk.js.LICENSE.txt": "/static/js/2.9dbedc2a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -54,6 +54,7 @@
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
     "static/media/bandera_canadazi.png": "/static/media/bandera_canadazi.2426a3be.png",
     "static/media/bandera_castenazi.png": "/static/media/bandera_castenazi.99facf80.png",
+    "static/media/bandera_estats_confederats_valencians.png": "/static/media/bandera_estats_confederats_valencians.2ca00989.png",
     "static/media/bandera_estats_units_catalans.png": "/static/media/bandera_estats_units_catalans.e80b0e9f.png",
     "static/media/bandera_euskalibertaria.png": "/static/media/bandera_euskalibertaria.f0bcb6ca.png",
     "static/media/bandera_euskonazi.png": "/static/media/bandera_euskonazi.42efc766.png",
@@ -381,8 +382,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.272ece28.chunk.js",
+    "static/js/2.9dbedc2a.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.ac284467.chunk.js"
+    "static/js/main.d35b4271.chunk.js"
   ]
 }

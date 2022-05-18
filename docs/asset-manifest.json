@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.d35b4271.chunk.js",
-    "main.js.map": "/static/js/main.d35b4271.chunk.js.map",
+    "main.js": "/static/js/main.4286c31b.chunk.js",
+    "main.js.map": "/static/js/main.4286c31b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9dbedc2a.chunk.js": "/static/js/2.9dbedc2a.chunk.js",
-    "static/js/2.9dbedc2a.chunk.js.map": "/static/js/2.9dbedc2a.chunk.js.map",
+    "static/js/2.557c6754.chunk.js": "/static/js/2.557c6754.chunk.js",
+    "static/js/2.557c6754.chunk.js.map": "/static/js/2.557c6754.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2e4a9ec9b010c39dcf89f30705ce7bd6.js": "/precache-manifest.2e4a9ec9b010c39dcf89f30705ce7bd6.js",
+    "precache-manifest.0dff7725643ebfcc3ba855e6825ffb0b.js": "/precache-manifest.0dff7725643ebfcc3ba855e6825ffb0b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.9dbedc2a.chunk.js.LICENSE.txt": "/static/js/2.9dbedc2a.chunk.js.LICENSE.txt",
+    "static/js/2.557c6754.chunk.js.LICENSE.txt": "/static/js/2.557c6754.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -169,6 +169,7 @@
     "static/media/gafas_moradas.png": "/static/media/gafas_moradas.f7a1a331.png",
     "static/media/galanchez.png": "/static/media/galanchez.cd062762.png",
     "static/media/gente_irresponsable.png": "/static/media/gente_irresponsable.7702526b.png",
+    "static/media/gestacion_subrogada.png": "/static/media/gestacion_subrogada.5d3b626f.png",
     "static/media/gettr.png": "/static/media/gettr.81ad8428.png",
     "static/media/gila.png": "/static/media/gila.3a0eb38a.png",
     "static/media/gobierno_ideal.png": "/static/media/gobierno_ideal.cc5342ab.png",
@@ -382,8 +383,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9dbedc2a.chunk.js",
+    "static/js/2.557c6754.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.d35b4271.chunk.js"
+    "static/js/main.4286c31b.chunk.js"
   ]
 }

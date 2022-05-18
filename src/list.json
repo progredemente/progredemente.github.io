@@ -3090,5 +3090,14 @@
         "size": "3000x2000",
         "series": ["banderas"],
         "tags": ["bandera", "valencia"]
+    },
+    "gestacion_subrogada": {
+        "name": "Gestación subrogada",
+        "date": "2022-05-18T00:00",
+        "description": [
+            "Decide por ti misma, pero decide en concordancia con el charismo."
+        ],
+        "size": "2000x2000",
+        "tags": ["madera", "edificio"]
     }
 }

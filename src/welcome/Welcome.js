@@ -72,6 +72,19 @@ class Welcome extends Component {
                             }}
                         /> Hombre de paja/Straw man
                     </a>
+                    <a href="/cable" className="social-link">
+                        <Loading
+                            hidden={this.state.cable}
+                        />
+                        <img
+                            src={'./cable.png'}
+                            alt={'cable'}
+                            className={this.state.cable ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ cable: true})
+                            }}
+                        /> Recoge cable
+                    </a>
                     <p>Sígueme en</p>
                     {
                         social2.map((s) => {

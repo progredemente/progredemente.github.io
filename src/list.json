@@ -3099,5 +3099,15 @@
         ],
         "size": "2000x2000",
         "tags": ["madera", "edificio"]
+    },
+    "burro": {
+        "name": "Burro",
+        "date": "2022-05-20T00:00",
+        "description": [
+            "Otra cortina de humo, señores..."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Juan Carlos I"],
+        "tags": ["madera", "metal", "zanahoria", "hierba", "tierra", "cielo"]
     }
 }

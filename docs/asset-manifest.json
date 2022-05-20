@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.097ebb9f.chunk.js",
-    "main.js.map": "/static/js/main.097ebb9f.chunk.js.map",
+    "main.js": "/static/js/main.7d976245.chunk.js",
+    "main.js.map": "/static/js/main.7d976245.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.557c6754.chunk.js": "/static/js/2.557c6754.chunk.js",
-    "static/js/2.557c6754.chunk.js.map": "/static/js/2.557c6754.chunk.js.map",
+    "static/js/2.a3cf301a.chunk.js": "/static/js/2.a3cf301a.chunk.js",
+    "static/js/2.a3cf301a.chunk.js.map": "/static/js/2.a3cf301a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9431a2a4cc1abbb602516f2a7bb401af.js": "/precache-manifest.9431a2a4cc1abbb602516f2a7bb401af.js",
+    "precache-manifest.49926ce03d7807d0a8493f9554abe8af.js": "/precache-manifest.49926ce03d7807d0a8493f9554abe8af.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.557c6754.chunk.js.LICENSE.txt": "/static/js/2.557c6754.chunk.js.LICENSE.txt",
+    "static/js/2.a3cf301a.chunk.js.LICENSE.txt": "/static/js/2.a3cf301a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -83,6 +83,7 @@
     "static/media/borreguistas.png": "/static/media/borreguistas.bca6b22d.png",
     "static/media/brujas.png": "/static/media/brujas.afd9e34a.png",
     "static/media/burbujas.png": "/static/media/burbujas.5837d732.png",
+    "static/media/burro.png": "/static/media/burro.523fdce8.png",
     "static/media/burzelona.png": "/static/media/burzelona.acd8521a.png",
     "static/media/c2_ingles.png": "/static/media/c2_ingles.ee620a02.png",
     "static/media/cables.png": "/static/media/cables.5f8ff309.png",
@@ -383,8 +384,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.557c6754.chunk.js",
+    "static/js/2.a3cf301a.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.097ebb9f.chunk.js"
+    "static/js/main.7d976245.chunk.js"
   ]
 }

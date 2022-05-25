@@ -3109,5 +3109,16 @@
         "size": "4000x3000",
         "celebrities": ["Juan Carlos I"],
         "tags": ["madera", "metal", "zanahoria", "hierba", "tierra", "cielo"]
+    },
+    "sumar": {
+        "name": "Sumar",
+        "date": "2022-05-25T00:00",
+        "description": [
+            "La expersión de esta señora me recuerda al vendedor de máscaras de los Zeldas de la 64 (también me recuerda a Tingle, pero por otros motivos). He intentado imitar el estilo del artwork del Majora's Mask. Tengo que aprender a usar luces y sombras.",
+            "Otra vez, el mote se lo oí al gran {contact:salidarvuelta}."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["UP"]
     }
 }

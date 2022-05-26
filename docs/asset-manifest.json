@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.e760ae44.chunk.js",
-    "main.js.map": "/static/js/main.e760ae44.chunk.js.map",
+    "main.js": "/static/js/main.7ef04bb4.chunk.js",
+    "main.js.map": "/static/js/main.7ef04bb4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.62b012de.chunk.js": "/static/js/2.62b012de.chunk.js",
-    "static/js/2.62b012de.chunk.js.map": "/static/js/2.62b012de.chunk.js.map",
+    "static/js/2.9565edf3.chunk.js": "/static/js/2.9565edf3.chunk.js",
+    "static/js/2.9565edf3.chunk.js.map": "/static/js/2.9565edf3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a0e5324d3456018ba8e2b41ed1008057.js": "/precache-manifest.a0e5324d3456018ba8e2b41ed1008057.js",
+    "precache-manifest.5617a51797c9ab35faec49efe5ef791d.js": "/precache-manifest.5617a51797c9ab35faec49efe5ef791d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.62b012de.chunk.js.LICENSE.txt": "/static/js/2.62b012de.chunk.js.LICENSE.txt",
+    "static/js/2.9565edf3.chunk.js.LICENSE.txt": "/static/js/2.9565edf3.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -194,6 +194,7 @@
     "static/media/imanol.png": "/static/media/imanol.e9d6e75f.png",
     "static/media/inclusividad_forzada.png": "/static/media/inclusividad_forzada.932b6fc2.png",
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
+    "static/media/indulto.png": "/static/media/indulto.8d0e9568.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
     "static/media/inversion.png": "/static/media/inversion.bec718db.png",
     "static/media/iphone_13.png": "/static/media/iphone_13.a4aaeca0.png",
@@ -385,8 +386,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.62b012de.chunk.js",
+    "static/js/2.9565edf3.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.e760ae44.chunk.js"
+    "static/js/main.7ef04bb4.chunk.js"
   ]
 }

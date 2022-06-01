@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd2c7ffc281c8f4ea6215d125fb6e6b7",
+    "revision": "ba9e094a0e121535cdb29621cf93e4b3",
     "url": "/index.html"
   },
   {
-    "revision": "04a440dc074559f5cd50",
+    "revision": "76dd97e8248673f8685f",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "49f1bab1f0b965ff35fe",
-    "url": "/static/js/2.d03c7de1.chunk.js"
+    "revision": "37ac9eed3652ef757b65",
+    "url": "/static/js/2.d0dcf787.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.d03c7de1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d0dcf787.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04a440dc074559f5cd50",
-    "url": "/static/js/main.57fc808c.chunk.js"
+    "revision": "76dd97e8248673f8685f",
+    "url": "/static/js/main.4dd50aa0.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -918,6 +918,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "73325288b3883abe2f76e4a4e9313a81",
     "url": "/static/media/derechos_humanos.73325288.png"
+  },
+  {
+    "revision": "1b1a78ae881cfb25dc6dd09697f0b46b",
+    "url": "/static/media/descarados.1b1a78ae.png"
+  },
+  {
+    "revision": "e3800af0caf3a7ac818ec01fa7f5f5f7",
+    "url": "/static/media/descarados.e3800af0.png"
   },
   {
     "revision": "02e444319e7f701a0c629348270447cd",

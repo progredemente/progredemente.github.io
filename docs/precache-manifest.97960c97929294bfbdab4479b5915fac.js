@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba9e094a0e121535cdb29621cf93e4b3",
+    "revision": "ac6105f26443742cc0650292879d1b0e",
     "url": "/index.html"
   },
   {
-    "revision": "76dd97e8248673f8685f",
+    "revision": "81790693ebbf7888ad2a",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "37ac9eed3652ef757b65",
-    "url": "/static/js/2.d0dcf787.chunk.js"
+    "revision": "300d25a9b12763368729",
+    "url": "/static/js/2.83c378ce.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.d0dcf787.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.83c378ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76dd97e8248673f8685f",
-    "url": "/static/js/main.4dd50aa0.chunk.js"
+    "revision": "81790693ebbf7888ad2a",
+    "url": "/static/js/main.36e84bfd.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -414,6 +414,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e9380d54128340e7c3054bdac73bcc59",
     "url": "/static/media/banderas_banner.e9380d54.png"
+  },
+  {
+    "revision": "58f76fbdcbb8b1ed9498c776ee9e9869",
+    "url": "/static/media/barbie.58f76fbd.png"
+  },
+  {
+    "revision": "9ae6fddb455b0d3f88f82887288a97e4",
+    "url": "/static/media/barbie.9ae6fddb.png"
+  },
+  {
+    "revision": "651e5116d35791ae9ac9940d81e22aec",
+    "url": "/static/media/barbie.en.651e5116.png"
   },
   {
     "revision": "e5e51a7a0d6cecdb49cb33309daa8bcd",
@@ -1690,6 +1702,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e5ec12816373c7e4a24d4c3c819a346",
     "url": "/static/media/marianic.7e5ec128.mp3"
+  },
+  {
+    "revision": "00508ee1ab9c52b976ac9f10e3916f51",
+    "url": "/static/media/marketing.00508ee1.png"
+  },
+  {
+    "revision": "1955ef9acfb91ee077955e0ee1b81d14",
+    "url": "/static/media/marketing.1955ef9a.png"
+  },
+  {
+    "revision": "17c1985508a409c597b47acf0ca4fe11",
+    "url": "/static/media/marketing.en.17c19855.png"
   },
   {
     "revision": "510b8863096893df5b89b46458f5f9c2",

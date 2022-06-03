@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.4dd50aa0.chunk.js",
-    "main.js.map": "/static/js/main.4dd50aa0.chunk.js.map",
+    "main.js": "/static/js/main.36e84bfd.chunk.js",
+    "main.js.map": "/static/js/main.36e84bfd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.d0dcf787.chunk.js": "/static/js/2.d0dcf787.chunk.js",
-    "static/js/2.d0dcf787.chunk.js.map": "/static/js/2.d0dcf787.chunk.js.map",
+    "static/js/2.83c378ce.chunk.js": "/static/js/2.83c378ce.chunk.js",
+    "static/js/2.83c378ce.chunk.js.map": "/static/js/2.83c378ce.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4cbb2eff3a0c2829ac58713a57442155.js": "/precache-manifest.4cbb2eff3a0c2829ac58713a57442155.js",
+    "precache-manifest.97960c97929294bfbdab4479b5915fac.js": "/precache-manifest.97960c97929294bfbdab4479b5915fac.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.d0dcf787.chunk.js.LICENSE.txt": "/static/js/2.d0dcf787.chunk.js.LICENSE.txt",
+    "static/js/2.83c378ce.chunk.js.LICENSE.txt": "/static/js/2.83c378ce.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -64,6 +64,8 @@
     "static/media/bandera_rss_asturias.png": "/static/media/bandera_rss_asturias.e67dda4f.png",
     "static/media/bandera_rusonazi.png": "/static/media/bandera_rusonazi.e810931e.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
+    "static/media/barbie.png": "/static/media/barbie.9ae6fddb.png",
+    "static/media/barbie.en.png": "/static/media/barbie.en.651e5116.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
     "static/media/barra_corazon.png": "/static/media/barra_corazon.f07a13f3.png",
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
@@ -236,6 +238,8 @@
     "static/media/maquina_humo.png": "/static/media/maquina_humo.8c0fec56.png",
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
+    "static/media/marketing.png": "/static/media/marketing.1955ef9a.png",
+    "static/media/marketing.en.png": "/static/media/marketing.en.17c19855.png",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
     "static/media/matematicas.png": "/static/media/matematicas.96bb2f09.png",
     "static/media/matria.png": "/static/media/matria.690ae86a.png",
@@ -388,8 +392,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.d0dcf787.chunk.js",
+    "static/js/2.83c378ce.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.4dd50aa0.chunk.js"
+    "static/js/main.36e84bfd.chunk.js"
   ]
 }

@@ -3148,5 +3148,21 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["UP"]
+    },
+    "marketing": {
+        "name": "Marketing",
+        "date": "2022-06-02T00:00",
+        "description": [
+            "La política es un mercado más."
+        ],
+        "size": "2000x2000"
+    },
+    "barbie": {
+        "name": "Barbie",
+        "date": "2022-06-03T00:00",
+        "description": [
+            "Pobre Ken..."
+        ],
+        "size": "2000x2000"
     }
 }

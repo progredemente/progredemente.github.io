@@ -18,7 +18,7 @@ class Unemployment extends Component {
     constructor(props){
         super(props);
         this.state = {
-            unemploymentYears: Object.keys(unemployment[0]).filter((key) => /^\d+$/.test(key)).sort().map((year) => {return {year: year, checked: year > "2015"}}),
+            unemploymentYears: Object.keys(unemployment[0]).filter((key) => /^\d+$/.test(key)).sort().map((year) => {return {year: year, checked: year > "2018"}}),
             show: false,
             includeErtes: false
         };

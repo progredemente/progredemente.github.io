@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac6105f26443742cc0650292879d1b0e",
+    "revision": "33e3946f14b9bc977cbe0c8bd265de65",
     "url": "/index.html"
   },
   {
-    "revision": "81790693ebbf7888ad2a",
+    "revision": "2de20fd8930bbcc75965",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "300d25a9b12763368729",
-    "url": "/static/js/2.83c378ce.chunk.js"
+    "revision": "59c6a5ce1a5f272d60b5",
+    "url": "/static/js/2.7ead803b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.83c378ce.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7ead803b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81790693ebbf7888ad2a",
-    "url": "/static/js/main.36e84bfd.chunk.js"
+    "revision": "2de20fd8930bbcc75965",
+    "url": "/static/js/main.ab478a6e.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1042,6 +1042,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87d3425faf25f2b27c4d248bb01220a1",
     "url": "/static/media/el_palmero_banner.87d3425f.png"
+  },
+  {
+    "revision": "1efedfeafe164352c44cf5276de3aeb3",
+    "url": "/static/media/empape.1efedfea.png"
+  },
+  {
+    "revision": "a5c0a4f42baa190522cef6607fff99f5",
+    "url": "/static/media/empape.a5c0a4f4.png"
   },
   {
     "revision": "da08e077435d424937ee4c60ec87c261",

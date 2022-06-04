@@ -3164,5 +3164,14 @@
             "Pobre Ken..."
         ],
         "size": "2000x2000"
+    },
+    "empape": {
+        "name": "¡Que empape!",
+        "date": "2022-06-04T00:00",
+        "description": [
+            "Fué lo primero que me vino a la cabeza cuando vi el avance de los nuevos Pokémon basados en la península."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Ginés Corregüela"]
     }
 }

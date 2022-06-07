@@ -3173,5 +3173,15 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Ginés Corregüela"]
+    },
+    "calor_gente": {
+        "name": "El calor de la gente",
+        "date": "2022-06-07T00:00",
+        "description": [
+            "Que vas a acercarte tú a los pequeños comercios, Antonio, que no tienen parking para el Falcon..."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

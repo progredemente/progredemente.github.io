@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33e3946f14b9bc977cbe0c8bd265de65",
+    "revision": "07aeb91d9c84eabfa3225ad288f9ae15",
     "url": "/index.html"
   },
   {
-    "revision": "2de20fd8930bbcc75965",
+    "revision": "0af549a30e4eb205f191",
     "url": "/static/css/main.2ac9043e.chunk.css"
   },
   {
-    "revision": "59c6a5ce1a5f272d60b5",
-    "url": "/static/js/2.7ead803b.chunk.js"
+    "revision": "fe62e4100f0a4624a53b",
+    "url": "/static/js/2.66c32d37.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.7ead803b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.66c32d37.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2de20fd8930bbcc75965",
-    "url": "/static/js/main.ab478a6e.chunk.js"
+    "revision": "0af549a30e4eb205f191",
+    "url": "/static/js/main.64ca0ef9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -630,6 +630,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc93a31bd1bb29178fc8567611ce7e1e",
     "url": "/static/media/calamar.en.fc93a31b.png"
+  },
+  {
+    "revision": "1380c036ba86465996f63a88f505c52d",
+    "url": "/static/media/calor_gente.1380c036.png"
+  },
+  {
+    "revision": "a99c84fb21ff5b5acd07833e1d73f823",
+    "url": "/static/media/calor_gente.a99c84fb.png"
   },
   {
     "revision": "0bd99a2ba3d6e77c9c51f20b153a820e",

@@ -312,7 +312,8 @@
         "description": [
             "Portugal não é Brasil, senhora."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     },
     "billy_el_nino": {
         "name": "Billy \"El Niño\"",
@@ -627,7 +628,8 @@
         "description": [
             "Les iría mejor (y a nosotros también) si se dedicasen al negocio de las citas en vez de a la política."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["UP"]
     },
     "franco_kazooie": {
         "name": "Franco & Kazooie",
@@ -1082,7 +1084,7 @@
         ],
         "size": "4000x4000",
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["UP", "PSOE"]
     },
     "ano_marmota": {
         "name": "El año de la marmota",
@@ -1125,7 +1127,8 @@
         "description": [
             "Pocos les parecen."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     },
     "racismo_disney": {
         "name": "El racismo en Disney",
@@ -1255,7 +1258,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Isabel Díaz Ayuso"],
-        "parties": ["PP"]
+        "parties": ["PP", "UP"]
     },
     "tristan": {
         "name": "Tristán Verrugosa de los Batracios",
@@ -1629,7 +1632,8 @@
         "description": [
             "Estos días la actualidad política española me está dando más asco de lo habitual."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["UP", "Vox"]
     },
     "vacas_contaminantes": {
         "name": "Vacas contaminantes",
@@ -1914,7 +1918,8 @@
         "description": [
             "No soy yo precisamente la persona que mejores caricaturas hace, pero al menos lo mío no cuesta la millonada que probablemente haya costado la escultura, que entiendo que ha sido pagada con dinero de origen público."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     },
     "evil_cartoonist": {
         "name": "Evil talented cartoonist be like:",
@@ -2011,7 +2016,8 @@
         "description": [
             "Chiste malo para los de mi gremio."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["Vox"]
     },
     "altavoz_mediatico": {
         "name": "Altavoz mediático",
@@ -2057,7 +2063,8 @@
             "Esta gente parece que exige un sector privado inmaculado mientras que en el sector público todo vale para ellos. El mundo al revés, financiado con dinero del contribuyente."
         ],
         "size": "2000x2000",
-        "series": ["memes"]
+        "series": ["memes"],
+        "parties": ["UP", "MP"]
     },
     "burbujas": {
         "name": "Burbujas",
@@ -2356,7 +2363,8 @@
         "description": [
             "Van a calzón quitado."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     },
     "antisistema": {
         "name": "Antisistema",
@@ -2365,7 +2373,8 @@
             "No hay nada más punk que ser parte del rebaño.",
             "Fuera coñas, si tuviese los medios para hacerme un chaleco de este estilo, me lo haría para ir de punki en carnavales."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["UP", "PSOE"]
     },
     "bandera_galibertaria": {
         "name": "Bandera Galibertaria",
@@ -2486,7 +2495,8 @@
             "Como dicen Los Muertos de Cristo: \"Y si el pueblo quiere despertar, el Estado nos ofrece pan y circo a reventar\". El circo continúa, sigamos haciéndole caso."
         ],
         "size": "2000x2000",
-        "series": ["memes"]
+        "series": ["memes"],
+        "parties": ["UP"]
     },
     "blancanieves": {
         "name": "Blancanieves",
@@ -2588,7 +2598,8 @@
         "description": [
             "Por si quieren rediseñar su logo, yo les propongo este."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["PP"]
     },
     "upa_morales": {
         "name": "Upa Morales",
@@ -2640,7 +2651,7 @@
         ],
         "size": "6000x4000",
         "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Alberto Núñez Feijóo"],
-        "parties": ["PP"],
+        "parties": ["PP", "PSOE", "UP"],
         "tags": ["cielo", "metal", "árbol", "edificio", "humo"]
     },
     "nayeta": {
@@ -2780,7 +2791,8 @@
             "Aprendiendo a dibujar con noticias de actualidad. Hoy: manos."
         ],
         "size": "2000x2000",
-        "tags": ["sangre"]
+        "tags": ["sangre"],
+        "parties": ["Vox"]
     },
     "strawman": {
         "name": "Straw man",
@@ -3050,7 +3062,8 @@
             "El gobierno más transparente del mundo, pero para nuestros enemigos.",
             "Quise hacer esta viñeta la semana pasada pero estuve bastante indispuesto."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     },
     "salud_mental": {
         "name": "Salud mental",
@@ -3079,7 +3092,8 @@
             "No les han quedado más huevos que sacar la banderita."
         ],
         "size": "2000x2000",
-        "celebrities": ["Chanel Terrero"]
+        "celebrities": ["Chanel Terrero"],
+        "parties": ["UP"]
     },
     "bandera_estats_confederats_valencians": {
         "name": "Bandera de los Estats Confederats Valencians",
@@ -3108,6 +3122,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Juan Carlos I"],
+        "parties": ["UP", "PSOE", "EH Bildu", "ERC", "BNG"],
         "tags": ["madera", "metal", "zanahoria", "hierba", "tierra", "cielo"]
     },
     "sumar": {
@@ -3128,6 +3143,7 @@
             "El gobierno de los delincuentes."
         ],
         "size": "2000x2000",
+        "parties": ["UP", "PSOE"],
         "series": ["memes"]
     },
     "lingua": {

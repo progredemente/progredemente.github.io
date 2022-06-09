@@ -111,7 +111,8 @@ class PageStats extends Component {
             { name: "ERC", count: 0},
             { name: "C's", count: 0},
             { name: "Compromís", count: 0},
-            { name: "MDyC", count: 0}
+            { name: "MDyC", count: 0},
+            { name: "BNG", count: 0}
         ];
         let partyColors = {
             "UP": "#5c3464",
@@ -124,7 +125,8 @@ class PageStats extends Component {
             "ERC": "#ffb018",
             "C's": "#fa5000",
             "Compromís": "#e65f00",
-            "MDyC": "#05851b"
+            "MDyC": "#05851b",
+            "BNG": "#76b3dd"
         }
         let listKeys = this.getListKeys(this.state.partyYear);
         for(let key of listKeys) {

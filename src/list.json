@@ -3155,7 +3155,11 @@
         "description": [
             "La política es un mercado más."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     },
     "barbie": {
         "name": "Barbie",
@@ -3163,7 +3167,11 @@
         "description": [
             "Pobre Ken..."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     },
     "empape": {
         "name": "¡Que empape!",
@@ -3183,5 +3191,17 @@
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "discapacitada": {
+        "name": "discapacitada",
+        "date": "2022-06-09T00:00",
+        "description": [
+            "Que vas a acercarte tú a los pequeños comercios, Antonio, que no tienen parking para el Falcon..."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.64ca0ef9.chunk.js",
-    "main.js.map": "/static/js/main.64ca0ef9.chunk.js.map",
+    "main.js": "/static/js/main.9a7cb2ce.chunk.js",
+    "main.js.map": "/static/js/main.9a7cb2ce.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.66c32d37.chunk.js": "/static/js/2.66c32d37.chunk.js",
-    "static/js/2.66c32d37.chunk.js.map": "/static/js/2.66c32d37.chunk.js.map",
+    "static/js/2.c7528109.chunk.js": "/static/js/2.c7528109.chunk.js",
+    "static/js/2.c7528109.chunk.js.map": "/static/js/2.c7528109.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.83d85758515b520ecd0db9797162853e.js": "/precache-manifest.83d85758515b520ecd0db9797162853e.js",
+    "precache-manifest.552487d39d81cb465c213d1a3d0b8b8d.js": "/precache-manifest.552487d39d81cb465c213d1a3d0b8b8d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.66c32d37.chunk.js.LICENSE.txt": "/static/js/2.66c32d37.chunk.js.LICENSE.txt",
+    "static/js/2.c7528109.chunk.js.LICENSE.txt": "/static/js/2.c7528109.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -137,6 +137,8 @@
     "static/media/descoletado.png": "/static/media/descoletado.d6e5676b.png",
     "static/media/desenterrador.png": "/static/media/desenterrador.2d610d2f.png",
     "static/media/desnudo.png": "/static/media/desnudo.f1efc2a1.png",
+    "static/media/discapacitada.png": "/static/media/discapacitada.932d86a9.png",
+    "static/media/discapacitada.en.png": "/static/media/discapacitada.en.18e0577f.png",
     "static/media/disciplina_partido.png": "/static/media/disciplina_partido.c329d699.png",
     "static/media/doble_vara.png": "/static/media/doble_vara.eb52f66d.png",
     "static/media/donaciones.png": "/static/media/donaciones.d4ad9fd9.png",
@@ -394,8 +396,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.66c32d37.chunk.js",
+    "static/js/2.c7528109.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.64ca0ef9.chunk.js"
+    "static/js/main.9a7cb2ce.chunk.js"
   ]
 }

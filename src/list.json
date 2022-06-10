@@ -3212,12 +3212,23 @@
         "name": "discapacitada",
         "date": "2022-06-09T00:00",
         "description": [
-            "Que vas a acercarte tú a los pequeños comercios, Antonio, que no tienen parking para el Falcon..."
+            "La Eurocharocracia ya está aquí.",
+            "Si veis alguna traducción que esté mal, decídmelo, que hice lo que pude buscando en diferentes páginas las que no me sabía."
         ],
         "size": "2000x2000",
         "lang": {
             "default": "es",
             "available": ["en"]
         }
+    },
+    "pensiones": {
+        "name": "Pensiones",
+        "date": "2022-06-10T00:00",
+        "description": [
+            "Compran votos a base de exprimir a los contribuyentes y endeudar a las futuras generaciones, cuando el sistema caiga aún habrá gente que se pregunte cómo ha podido pasar."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

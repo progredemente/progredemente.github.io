@@ -132,5 +132,18 @@
             }
         ]
 
+    },
+    "dontomasserrano": {
+        "name": "Tomás Serrano",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/dontomasserrano/"
+            },
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/donTomasSerrano"
+            }
+        ]
     }
 }

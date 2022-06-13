@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2ac9043e.chunk.css",
-    "main.js": "/static/js/main.6afed09f.chunk.js",
-    "main.js.map": "/static/js/main.6afed09f.chunk.js.map",
+    "main.js": "/static/js/main.3713e6bc.chunk.js",
+    "main.js.map": "/static/js/main.3713e6bc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.5f54fe81.chunk.js": "/static/js/2.5f54fe81.chunk.js",
-    "static/js/2.5f54fe81.chunk.js.map": "/static/js/2.5f54fe81.chunk.js.map",
+    "static/js/2.0621f23f.chunk.js": "/static/js/2.0621f23f.chunk.js",
+    "static/js/2.0621f23f.chunk.js.map": "/static/js/2.0621f23f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8a360bbd955a54c130d7a5604e49541a.js": "/precache-manifest.8a360bbd955a54c130d7a5604e49541a.js",
+    "precache-manifest.9d238d525e9184ff2216b24cb907362f.js": "/precache-manifest.9d238d525e9184ff2216b24cb907362f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2ac9043e.chunk.css.map": "/static/css/main.2ac9043e.chunk.css.map",
-    "static/js/2.5f54fe81.chunk.js.LICENSE.txt": "/static/js/2.5f54fe81.chunk.js.LICENSE.txt",
+    "static/js/2.0621f23f.chunk.js.LICENSE.txt": "/static/js/2.0621f23f.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -156,6 +156,7 @@
     "static/media/es.svg": "/static/media/es.489a72f2.svg",
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
+    "static/media/etagoblikon.png": "/static/media/etagoblikon.a6d19ecd.png",
     "static/media/evil_cartoonist.png": "/static/media/evil_cartoonist.29214315.png",
     "static/media/exprimidor.png": "/static/media/exprimidor.d3f14a56.png",
     "static/media/fabrica_votantes.png": "/static/media/fabrica_votantes.ce159a07.png",
@@ -397,8 +398,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.5f54fe81.chunk.js",
+    "static/js/2.0621f23f.chunk.js",
     "static/css/main.2ac9043e.chunk.css",
-    "static/js/main.6afed09f.chunk.js"
+    "static/js/main.3713e6bc.chunk.js"
   ]
 }

@@ -3230,5 +3230,16 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "etagoblikon": {
+        "name": "Etagoblikon",
+        "date": "2022-06-12T00:00",
+        "description": [
+            "Hay una banda de metal que tiene a un goblin como mascota. Hay otra banda que también, pero no hace música.",
+            "Inspirado en las caricaturas de {contact:dontomasserrano} de esta señora."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Mertxe Aizpurua"],
+        "parties": ["EH Bildu"]
     }
 }

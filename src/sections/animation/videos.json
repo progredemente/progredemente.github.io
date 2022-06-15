@@ -27,5 +27,13 @@
             "Una pequeña animación sobre el ridículo que hizo la señora vicepresidenta el otro día e inspirada en una escena de una serie de ciencia ficción muy popular."
         ],
         "url": "https://www.youtube.com/embed/6Mg8cPpU1b8"
+    },
+    "franco": {
+        "name": "Franco",
+        "date": "2022-06-15T00:00",
+        "description": [
+            "Sacar el Francomodín es bonito."
+        ],
+        "url": "https://www.youtube.com/embed/7esHjBvCxCk"
     }
 }

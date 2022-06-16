@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bbbc793c7eb85523263605c245b0696",
+    "revision": "2576a416e75600c4b373a40013a95d61",
     "url": "/index.html"
   },
   {
-    "revision": "634ac3373a3fcbb2f6a3",
-    "url": "/static/css/main.2ac9043e.chunk.css"
+    "revision": "4c22d5c532388c73e7d1",
+    "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "c0795baa41d624f9fc67",
-    "url": "/static/js/2.99e21077.chunk.js"
+    "revision": "b499492ef53e7eab9607",
+    "url": "/static/js/2.344ad9db.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.99e21077.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.344ad9db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "634ac3373a3fcbb2f6a3",
-    "url": "/static/js/main.b39b6c50.chunk.js"
+    "revision": "4c22d5c532388c73e7d1",
+    "url": "/static/js/main.6ab05a68.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -106,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a5481c75e0912446ab2a66e13fcc6e09",
     "url": "/static/media/alerta_antifascista.a5481c75.png"
+  },
+  {
+    "revision": "7368691f844524b0cc2005452f19fcb7",
+    "url": "/static/media/alerta_antifascista_animado.7368691f.png"
   },
   {
     "revision": "60bf8b2db77eb4c10b1d1fe4e4c20c2b",
@@ -638,6 +642,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a99c84fb21ff5b5acd07833e1d73f823",
     "url": "/static/media/calor_gente.a99c84fb.png"
+  },
+  {
+    "revision": "b5967d702fe262b16aa63c339e866e49",
+    "url": "/static/media/calvino_ino_ih.b5967d70.png"
   },
   {
     "revision": "0bd99a2ba3d6e77c9c51f20b153a820e",
@@ -1210,6 +1218,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85556bea9c9ec51954bfea42eb238434",
     "url": "/static/media/fr.85556bea.svg"
+  },
+  {
+    "revision": "93ccd9b62c2087789a6dc6af21e8d089",
+    "url": "/static/media/franco.93ccd9b6.png"
   },
   {
     "revision": "263e5bc96a925ca4e89d6bb30d8d30ea",
@@ -2218,6 +2230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f1ad92f2b8b8a10ac089d45ab2102cfe",
     "url": "/static/media/pero_otan.f1ad92f2.png"
+  },
+  {
+    "revision": "76362ce62676de1e2c287d381b54cd26",
+    "url": "/static/media/perroflautum.76362ce6.png"
   },
   {
     "revision": "b333c809717ef64aaa224e3388d0e3cd",

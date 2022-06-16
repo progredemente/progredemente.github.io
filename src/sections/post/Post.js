@@ -58,7 +58,7 @@ class Post extends Component {
             }
         }
         let post = list_[id];
-        let size = post.size.split("x");
+        let size = post.size?.split("x");
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
         let date = list_[id].date != null ? formatDate(new Date(list_[id].date)): null;
@@ -77,18 +77,37 @@ class Post extends Component {
                 { series === "smash" &&
                     <Roster {...this.props} changeImg={this.changeImg} url={currentUrl}/>
                 }
-                <div
-                    className={ `loading-image ${this.state.load ? " hidden": ""}` }
-                    style={{
-                        "--width": `${size[0]}`, 
-                        "--height": `${size[1]}`
-                    }}
-                >
-                    <Loading />
-                </div>
-                <img key={id} className={ this.state.load ? "": "hidden" } src={require(`../../img/comic/${id}${lang}.png`)} alt={list_[id].name} onLoad={ () => {
-                        this.setState({ load: true })
-                } }/>
+                {
+                    !post.url &&
+                    <>
+                        <div
+                            className={ `loading-image ${this.state.load ? " hidden": ""}` }
+                            style={{
+                                "--width": `${size[0]}`, 
+                                "--height": `${size[1]}`
+                            }}
+                        >
+                            <Loading />
+                        </div>
+                        <img key={id} className={ this.state.load ? "": "hidden" } src={require(`../../img/comic/${id}${lang}.png`)} alt={list_[id].name} onLoad={ () => {
+                                this.setState({ load: true })
+                        } }/>
+                    </>
+                }
+                {
+                    post.url &&
+                    <div className="video">
+                        <iframe
+                            width="560"
+                            height="315"
+                            src={post.url}
+                            title="YouTube video player"
+                            frameBorder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen
+                        ></iframe>
+                    </div>
+                }
                 { series !== "smash" &&
                     <PostNavigator currentId={id} list={Object.keys(list_)} url={currentUrl} changeImg={this.changeImg}/>
                 }

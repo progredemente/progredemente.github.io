@@ -247,6 +247,16 @@
         ],
         "size": "2000x2000"
     },
+    "alerta_antifascista_animado": {
+        "name": "Alerta antifascista animado",
+        "date": "2020-04-20T00:00",
+        "description": [
+            "He animado una de mis primeras viñetas. Me ha llevado casi una semana hacer 17 segundos de vídeo, no se si habrá merecido la pena. No creo que vuelva a hacer otra animación."
+        ],
+        "url": "https://www.youtube.com/embed/k4EcIRQs3Lc",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
+    },
     "veleta": {
         "name": "Veleta",
         "date": "2020-04-20T00:00",
@@ -2088,6 +2098,21 @@
         "series": ["postales_navidenas"],
         "tags": ["madera", "ue", "árbol", "bandera"]
     },
+    "perroflautum": {
+        "name": "Perro Flautum",
+        "date": "2021-12-07T00:00",
+        "description": [
+            "El generador de lorem ipsum en perroflautés. Visita la web en:",
+            "{https://progredemente.com/perroflautum/}",
+            "Música de fondo",
+            "\"Breaktime\" por Kevin MacLeod",
+            "Enlace: {https://incompetech.filmmusic.io/song/3457-breaktime}",
+            "Licencia: {https://filmmusic.io/standard-license}"
+        ],
+        "url": "https://www.youtube.com/embed/df8dLSvxItk",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
+    },
     "arbre_noel": {
         "name": "Arbre de Noël",
         "date": "2021-12-08T00:00",
@@ -3085,6 +3110,16 @@
         "celebrities": ["Nadia Calviño", "Irene Montero"],
         "parties": ["PSOE", "UP"]
     },
+    "calvino_ino_ih": {
+        "name": "¡Calviño iño ih!",
+        "date": "2022-05-14T00:00",
+        "description": [
+            "Una pequeña animación sobre el ridículo que hizo la señora vicepresidenta el otro día e inspirada en una escena de una serie de ciencia ficción muy popular."
+        ],
+        "url": "https://www.youtube.com/embed/6Mg8cPpU1b8",
+        "celebrities": ["Nadia Calviño"],
+        "parties": ["PSOE"]
+    },
     "chanel": {
         "name": "Chanel",
         "date": "2022-05-15T00:00",
@@ -3241,6 +3276,16 @@
         "size": "3000x3000",
         "celebrities": ["Mertxe Aizpurua"],
         "parties": ["EH Bildu"]
+    },
+    "franco": {
+        "name": "Franco",
+        "date": "2022-06-15T00:00",
+        "description": [
+            "Sacar el Francomodín es bonito."
+        ],
+        "url": "https://www.youtube.com/embed/7esHjBvCxCk",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["UP"]
     },
     "charo_boss": {
         "name": "Charo boss",

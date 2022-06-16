@@ -12,13 +12,11 @@ import Series from "../sections/series/Series";
 import DesktopMenu from "./DesktopMenu";
 import MainHeader from "./MainHeader";
 import About from '../sections/about/About';
-import Animation from "../sections/animation/Animation";
 import Stats from '../sections/stats/Stats';
 import PageStats from "../sections/stats/PageStats";
 import series from '../series.json';
 import list from '../list.json';
 import Footer from "./Footer";
-import videos from '../sections/animation/videos.json';
 import Tag from '../sections/search/Tag';
 import Celebrity from '../sections/search/Celebrity';
 import Size from '../sections/search/Size';
@@ -125,8 +123,6 @@ class Web extends Component{
                         <Route exact path={`${this.props.match.url}/sobre_mi`}>
                             <About />
                         </Route>
-                        <Redirect exact from={`${this.props.match.url}/animacion`} to={`${this.props.match.url}/animacion/${Object.keys(videos)[Object.keys(videos).length - 1]}`}/>
-                        <Route exact path={`${this.props.match.url}/animacion/:id`} component={Animation}/>
                         <Route exact path={`${this.props.match.url}/estadisticas`}>
                             <Stats />
                         </Route>

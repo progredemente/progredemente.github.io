@@ -71,3 +71,8 @@
     margin: 5px 5px;
     font-size: .75em;
 }
+
+.video {
+    display: flex;
+    justify-content: center;
+}

@@ -22,7 +22,6 @@ class PhoneMenu extends Component {
                     <nav className="phone-menu-list" onClick={() => this.setState({showMenu: false})}>
                         <Link to={`${this.props.url}`}>Inicio</Link>
                         <Link to={`${this.props.url}/series`}>Series</Link>
-                        <Link to={`${this.props.url}/animacion`}>Animación</Link>
                         <Link to={`${this.props.url}/archivo`}>Archivo</Link>
                         <Link to={`${this.props.url}/estadisticas`}>Estadísticas</Link>
                         <Link to={`${this.props.url}/sobre_mi`}>Sobre&nbsp;mí</Link>

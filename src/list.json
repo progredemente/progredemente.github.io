@@ -254,12 +254,13 @@
             "He animado una de mis primeras viñetas. Me ha llevado casi una semana hacer 17 segundos de vídeo, no se si habrá merecido la pena. No creo que vuelva a hacer otra animación."
         ],
         "url": "https://www.youtube.com/embed/k4EcIRQs3Lc",
+        "series": ["animacion"],
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
     },
     "veleta": {
         "name": "Veleta",
-        "date": "2020-04-20T00:00",
+        "date": "2020-04-20T01:00",
         "description": [
             "¡Hacia donde sople el viento!"
         ],
@@ -2110,6 +2111,7 @@
             "Licencia: {https://filmmusic.io/standard-license}"
         ],
         "url": "https://www.youtube.com/embed/df8dLSvxItk",
+        "series": ["animacion"],
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
     },
@@ -3117,6 +3119,7 @@
             "Una pequeña animación sobre el ridículo que hizo la señora vicepresidenta el otro día e inspirada en una escena de una serie de ciencia ficción muy popular."
         ],
         "url": "https://www.youtube.com/embed/6Mg8cPpU1b8",
+        "series": ["animacion"],
         "celebrities": ["Nadia Calviño"],
         "parties": ["PSOE"]
     },
@@ -3284,6 +3287,7 @@
             "Sacar el Francomodín es bonito."
         ],
         "url": "https://www.youtube.com/embed/7esHjBvCxCk",
+        "series": ["animacion"],
         "celebrities": ["Yolanda Díaz"],
         "parties": ["UP"]
     },

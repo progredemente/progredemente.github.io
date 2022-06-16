@@ -58,7 +58,7 @@ class Post extends Component {
             }
         }
         let post = list_[id];
-        let size = post.size?.split("x");
+        let size = post.size ? post.size.split("x") : null;
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
         let date = list_[id].date != null ? formatDate(new Date(list_[id].date)): null;

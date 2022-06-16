@@ -3241,5 +3241,15 @@
         "size": "3000x3000",
         "celebrities": ["Mertxe Aizpurua"],
         "parties": ["EH Bildu"]
+    },
+    "charo_boss": {
+        "name": "Charo boss",
+        "date": "2022-06-16T00:00",
+        "description": [
+            "Tremendo boss de la charía que tiene el PSOE y que han sacado para amenazar a los andaluces."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Adriana Lastra"],
+        "parties": ["PSOE"]
     }
 }

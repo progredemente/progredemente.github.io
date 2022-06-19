@@ -3300,5 +3300,16 @@
         "size": "2000x2000",
         "celebrities": ["Adriana Lastra"],
         "parties": ["PSOE"]
+    },
+    "monica": {
+        "name": "La monica",
+        "date": "2022-06-19T00:00",
+        "description": [
+            "La infanta Cristina postpandémica.",
+            "Recordemos que esta señora es inocente hasta que se demuestre lo contrario, a pesar de lo turbio del caso, lo cual no le impide dimitir según los principios que hasta hace poco esgrimía."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Mónica Oltra"],
+        "parties": ["Compromís"]
     }
 }

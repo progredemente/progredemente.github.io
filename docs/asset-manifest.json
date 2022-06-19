@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.5c1f0b77.chunk.js",
-    "main.js.map": "/static/js/main.5c1f0b77.chunk.js.map",
+    "main.js": "/static/js/main.63855bfb.chunk.js",
+    "main.js.map": "/static/js/main.63855bfb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c839e16e.chunk.js": "/static/js/2.c839e16e.chunk.js",
-    "static/js/2.c839e16e.chunk.js.map": "/static/js/2.c839e16e.chunk.js.map",
+    "static/js/2.a70a164e.chunk.js": "/static/js/2.a70a164e.chunk.js",
+    "static/js/2.a70a164e.chunk.js.map": "/static/js/2.a70a164e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.781cbf4eae28e53880677ed1d62648b2.js": "/precache-manifest.781cbf4eae28e53880677ed1d62648b2.js",
+    "precache-manifest.2c157679e6bf32d22eeaa5d7f22d9141.js": "/precache-manifest.2c157679e6bf32d22eeaa5d7f22d9141.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.c839e16e.chunk.js.LICENSE.txt": "/static/js/2.c839e16e.chunk.js.LICENSE.txt",
+    "static/js/2.a70a164e.chunk.js.LICENSE.txt": "/static/js/2.a70a164e.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -269,6 +269,7 @@
     "static/media/miradas_impudicas.png": "/static/media/miradas_impudicas.d1fb7ac5.png",
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/mitin_negacionista.png": "/static/media/mitin_negacionista.8d6cde5d.png",
+    "static/media/monica.png": "/static/media/monica.d4705342.png",
     "static/media/mr_patan.png": "/static/media/mr_patan.74860df4.png",
     "static/media/mudanza.png": "/static/media/mudanza.1fc43fef.png",
     "static/media/muros.png": "/static/media/muros.917bb1c6.png",
@@ -404,8 +405,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c839e16e.chunk.js",
+    "static/js/2.a70a164e.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.5c1f0b77.chunk.js"
+    "static/js/main.63855bfb.chunk.js"
   ]
 }

@@ -3311,5 +3311,15 @@
         "size": "2000x2000",
         "celebrities": ["Mónica Oltra"],
         "parties": ["Compromís"]
+    },
+    "rodamoh": {
+        "name": "¡Rodamoh!",
+        "date": "2022-06-20T00:00",
+        "description": [
+            "Odio dibujar bicicletas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Joe Biden"],
+        "series": ["memes"]
     }
 }

@@ -3321,5 +3321,13 @@
         "size": "2000x2000",
         "celebrities": ["Joe Biden"],
         "series": ["memes"]
+    },
+    "grune_energie": {
+        "name": "Grüne Energie",
+        "date": "2022-06-21T00:00",
+        "description": [
+            "El carbón ecosostenible, resiliente y con perspectiva de género alemán."
+        ],
+        "size": "2000x2000"
     }
 }

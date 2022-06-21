@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.8169ebad.chunk.js",
-    "main.js.map": "/static/js/main.8169ebad.chunk.js.map",
+    "main.js": "/static/js/main.bee95b9b.chunk.js",
+    "main.js.map": "/static/js/main.bee95b9b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2a336727.chunk.js": "/static/js/2.2a336727.chunk.js",
-    "static/js/2.2a336727.chunk.js.map": "/static/js/2.2a336727.chunk.js.map",
+    "static/js/2.8ab67d6e.chunk.js": "/static/js/2.8ab67d6e.chunk.js",
+    "static/js/2.8ab67d6e.chunk.js.map": "/static/js/2.8ab67d6e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bce1bf7f70c673b5351f7fd1baa6d926.js": "/precache-manifest.bce1bf7f70c673b5351f7fd1baa6d926.js",
+    "precache-manifest.ddff143679191d432aa2be15c7968277.js": "/precache-manifest.ddff143679191d432aa2be15c7968277.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.2a336727.chunk.js.LICENSE.txt": "/static/js/2.2a336727.chunk.js.LICENSE.txt",
+    "static/js/2.8ab67d6e.chunk.js.LICENSE.txt": "/static/js/2.8ab67d6e.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -190,6 +190,7 @@
     "static/media/goya.png": "/static/media/goya.fef045de.png",
     "static/media/granja_separatista.png": "/static/media/granja_separatista.af821e47.png",
     "static/media/greta.png": "/static/media/greta.c1376d3e.png",
+    "static/media/grune_energie.png": "/static/media/grune_energie.8fb32dd6.png",
     "static/media/guaido.png": "/static/media/guaido.69f01b39.png",
     "static/media/gunchez.png": "/static/media/gunchez.d5db3fab.png",
     "static/media/haren.png": "/static/media/haren.752669a1.png",
@@ -406,8 +407,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2a336727.chunk.js",
+    "static/js/2.8ab67d6e.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.8169ebad.chunk.js"
+    "static/js/main.bee95b9b.chunk.js"
   ]
 }

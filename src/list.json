@@ -3329,5 +3329,16 @@
             "El carbón ecosostenible, resiliente y con perspectiva de género alemán."
         ],
         "size": "2000x2000"
+    },
+    "luenga": {
+        "name": "Luenga",
+        "date": "2022-06-22T00:00",
+        "description": [
+            "Dejad de politizar las lenguas, la vergüenza ajena que dais haciéndolo las salpica y hace que la gente les pierda el respeto."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pablo Echenique"],
+        "parties": ["UP"]
+        
     }
 }

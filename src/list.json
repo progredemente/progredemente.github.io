@@ -3340,5 +3340,16 @@
         "celebrities": ["Pablo Echenique"],
         "parties": ["UP"]
         
+    },
+    "they_them": {
+        "name": "They/them",
+        "date": "2022-06-24T00:00",
+        "description": [
+            "Si ya es ridículo el lenguaje inclusivo en español, imaginaos en inglés, una lengua sin género gramatical.",
+            "Voy a estar menos activo durante este verano, empezando por la semana que viene, que tengo que ir a beber cerveza, a escuchar música y a empujarme con melenudos. Normalmente para este tipo de situaciones tengo viñetas de reserva, pero ultimamente estoy bastante carentente de inspiración por lo que tengo la reserva vacía."
+        ],
+        "size": "3000x2000",
+        "tags": ["metal"]
+        
     }
 }

@@ -3350,6 +3350,16 @@
         ],
         "size": "3000x2000",
         "tags": ["metal"]
-        
+    },
+    "chu_churinguito": {
+        "name": "El Chu-Churinguito",
+        "date": "2022-07-05T00:00",
+        "description": [
+            "He vuelto de mi primera semana de vacaciones, pero por lo menos me las costeo yo."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"],
+        "tags": ["metal", "madera", "hierba", "cielo", "fuego", "humo", "dinero"]
     }
 }

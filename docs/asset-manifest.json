@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.d662a744.chunk.js",
-    "main.js.map": "/static/js/main.d662a744.chunk.js.map",
+    "main.js": "/static/js/main.5512ca3f.chunk.js",
+    "main.js.map": "/static/js/main.5512ca3f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6fd4d81d.chunk.js": "/static/js/2.6fd4d81d.chunk.js",
-    "static/js/2.6fd4d81d.chunk.js.map": "/static/js/2.6fd4d81d.chunk.js.map",
+    "static/js/2.e9e867ea.chunk.js": "/static/js/2.e9e867ea.chunk.js",
+    "static/js/2.e9e867ea.chunk.js.map": "/static/js/2.e9e867ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.39849562b4c7c1cb7be5107c98c6255c.js": "/precache-manifest.39849562b4c7c1cb7be5107c98c6255c.js",
+    "precache-manifest.05644e16af4d0748ac17582b8e1489c9.js": "/precache-manifest.05644e16af4d0748ac17582b8e1489c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.6fd4d81d.chunk.js.LICENSE.txt": "/static/js/2.6fd4d81d.chunk.js.LICENSE.txt",
+    "static/js/2.e9e867ea.chunk.js.LICENSE.txt": "/static/js/2.e9e867ea.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -20,6 +20,7 @@
     "static/media/adoctrinamiento.png": "/static/media/adoctrinamiento.3e3a43a1.png",
     "static/media/adoquines.png": "/static/media/adoquines.bfa7eb72.png",
     "static/media/agresiones_deseables.png": "/static/media/agresiones_deseables.ac6dbb65.png",
+    "static/media/ahorro.png": "/static/media/ahorro.b6c27769.png",
     "static/media/al_menos.png": "/static/media/al_menos.e98b0b56.png",
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.c81e8bb0.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.a5481c75.png",
@@ -410,8 +411,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6fd4d81d.chunk.js",
+    "static/js/2.e9e867ea.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.d662a744.chunk.js"
+    "static/js/main.5512ca3f.chunk.js"
   ]
 }

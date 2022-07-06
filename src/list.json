@@ -3361,5 +3361,15 @@
         "celebrities": ["Irene Montero"],
         "parties": ["UP"],
         "tags": ["metal", "madera", "hierba", "cielo", "fuego", "humo", "dinero"]
+    },
+    "ahorro": {
+        "name": "Ahorro",
+        "date": "2022-07-06T00:00",
+        "description": [
+            "Cuando la generan los suyos no es pobreza, es ahorro ecosostenible o cualquier otra chorrada en neolengua."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"],
+        "tags": ["lombriz"]
     }
 }

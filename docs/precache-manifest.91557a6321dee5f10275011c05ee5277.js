@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a6f3d7587c2d0302c4a826b9e2d4284",
+    "revision": "5d9a3071eb0881f5a7bc1221e7037c00",
     "url": "/index.html"
   },
   {
-    "revision": "69786b04e9e1dbe88ca1",
+    "revision": "8fc70ec8e50295a13650",
     "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "2b14a3d10d4a82439cda",
-    "url": "/static/js/2.e9e867ea.chunk.js"
+    "revision": "6be9f6c9f2cd77323e15",
+    "url": "/static/js/2.8d7a1d27.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.e9e867ea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8d7a1d27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69786b04e9e1dbe88ca1",
-    "url": "/static/js/main.5512ca3f.chunk.js"
+    "revision": "8fc70ec8e50295a13650",
+    "url": "/static/js/main.c1d88217.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2922,6 +2922,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "582d007baaa4cfe7fad01ca670dba05c",
     "url": "/static/media/ye_grave.582d007b.png"
+  },
+  {
+    "revision": "533e8eb347155128f1f956ab059b2796",
+    "url": "/static/media/yoli_burns.533e8eb3.png"
+  },
+  {
+    "revision": "a887f9c5854aae144d6eb7e887640cf0",
+    "url": "/static/media/yoli_burns.a887f9c5.png"
   },
   {
     "revision": "6e7bce0e1a9c357658cff5df1fef37b7",

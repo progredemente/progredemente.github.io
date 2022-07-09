@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.5512ca3f.chunk.js",
-    "main.js.map": "/static/js/main.5512ca3f.chunk.js.map",
+    "main.js": "/static/js/main.c1d88217.chunk.js",
+    "main.js.map": "/static/js/main.c1d88217.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e9e867ea.chunk.js": "/static/js/2.e9e867ea.chunk.js",
-    "static/js/2.e9e867ea.chunk.js.map": "/static/js/2.e9e867ea.chunk.js.map",
+    "static/js/2.8d7a1d27.chunk.js": "/static/js/2.8d7a1d27.chunk.js",
+    "static/js/2.8d7a1d27.chunk.js.map": "/static/js/2.8d7a1d27.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.05644e16af4d0748ac17582b8e1489c9.js": "/precache-manifest.05644e16af4d0748ac17582b8e1489c9.js",
+    "precache-manifest.91557a6321dee5f10275011c05ee5277.js": "/precache-manifest.91557a6321dee5f10275011c05ee5277.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.e9e867ea.chunk.js.LICENSE.txt": "/static/js/2.e9e867ea.chunk.js.LICENSE.txt",
+    "static/js/2.8d7a1d27.chunk.js.LICENSE.txt": "/static/js/2.8d7a1d27.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -404,6 +404,7 @@
     "static/media/wabalos.png": "/static/media/wabalos.1cc94c86.png",
     "static/media/wabalos.mp3": "/static/media/wabalos.f48ce022.mp3",
     "static/media/ye_grave.png": "/static/media/ye_grave.582d007b.png",
+    "static/media/yoli_burns.png": "/static/media/yoli_burns.a887f9c5.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.930350c4.png",
     "static/media/young_inigo.mp3": "/static/media/young_inigo.e573cc5a.mp3",
     "static/media/youtube.png": "/static/media/youtube.1fb4fd8e.png",
@@ -411,8 +412,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e9e867ea.chunk.js",
+    "static/js/2.8d7a1d27.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.5512ca3f.chunk.js"
+    "static/js/main.c1d88217.chunk.js"
   ]
 }

@@ -3371,5 +3371,16 @@
         "size": "2000x2000",
         "series": ["el_palmero"],
         "tags": ["lombriz"]
+    },
+    "yoli_burns": {
+        "name": "Yoli Burns",
+        "date": "2022-07-09T00:00",
+        "description": [
+            "En vez de \"Sumar\", podría haberlo llamado \"Fumar\" por los tremendos porrazos que parece que lleva encima a la hora de hablar. Es la Hierbas de la política española."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["UP"],
+        "tags": ["noche", "madera"]
     }
 }

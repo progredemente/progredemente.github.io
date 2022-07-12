@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.c1d88217.chunk.js",
-    "main.js.map": "/static/js/main.c1d88217.chunk.js.map",
+    "main.js": "/static/js/main.bcc37bc7.chunk.js",
+    "main.js.map": "/static/js/main.bcc37bc7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.8d7a1d27.chunk.js": "/static/js/2.8d7a1d27.chunk.js",
-    "static/js/2.8d7a1d27.chunk.js.map": "/static/js/2.8d7a1d27.chunk.js.map",
+    "static/js/2.1e7b8844.chunk.js": "/static/js/2.1e7b8844.chunk.js",
+    "static/js/2.1e7b8844.chunk.js.map": "/static/js/2.1e7b8844.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.91557a6321dee5f10275011c05ee5277.js": "/precache-manifest.91557a6321dee5f10275011c05ee5277.js",
+    "precache-manifest.aa3ac25759b4c0b478baa2dceb875274.js": "/precache-manifest.aa3ac25759b4c0b478baa2dceb875274.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.8d7a1d27.chunk.js.LICENSE.txt": "/static/js/2.8d7a1d27.chunk.js.LICENSE.txt",
+    "static/js/2.1e7b8844.chunk.js.LICENSE.txt": "/static/js/2.1e7b8844.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -344,6 +344,7 @@
     "static/media/rebano.png": "/static/media/rebano.ea2c6348.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.df988713.png",
     "static/media/respeto_constitucion.png": "/static/media/respeto_constitucion.703151fb.png",
+    "static/media/rey_ratas.png": "/static/media/rey_ratas.f7368cd5.png",
     "static/media/reyes_magos.png": "/static/media/reyes_magos.e3fb7914.png",
     "static/media/rodamoh.png": "/static/media/rodamoh.de2f6288.png",
     "static/media/rolex.png": "/static/media/rolex.7c779579.png",
@@ -412,8 +413,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.8d7a1d27.chunk.js",
+    "static/js/2.1e7b8844.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.c1d88217.chunk.js"
+    "static/js/main.bcc37bc7.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d9a3071eb0881f5a7bc1221e7037c00",
+    "revision": "f66cb2e2d6f5c95ff232cc270bd3edc8",
     "url": "/index.html"
   },
   {
-    "revision": "8fc70ec8e50295a13650",
+    "revision": "6dc7b462c8120937ab9d",
     "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "6be9f6c9f2cd77323e15",
-    "url": "/static/js/2.8d7a1d27.chunk.js"
+    "revision": "5d615ba3605910824058",
+    "url": "/static/js/2.1e7b8844.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.8d7a1d27.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1e7b8844.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fc70ec8e50295a13650",
-    "url": "/static/js/main.c1d88217.chunk.js"
+    "revision": "6dc7b462c8120937ab9d",
+    "url": "/static/js/main.bcc37bc7.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2474,6 +2474,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "703151fb0113171724ba0c4318dcf640",
     "url": "/static/media/respeto_constitucion.703151fb.png"
+  },
+  {
+    "revision": "9f00f2063278292b42081b3047b46030",
+    "url": "/static/media/rey_ratas.9f00f206.png"
+  },
+  {
+    "revision": "f7368cd5ce58b5bd52e8ada1dea6e9f8",
+    "url": "/static/media/rey_ratas.f7368cd5.png"
   },
   {
     "revision": "7b7c545abeaa9d6671490952692d2001",

@@ -3382,5 +3382,16 @@
         "celebrities": ["Yolanda Díaz"],
         "parties": ["UP"],
         "tags": ["noche", "madera"]
+    },
+    "rey_ratas": {
+        "name": "Rey de las ratas",
+        "date": "2022-07-12T00:00",
+        "description": [
+            "Menuda pelea de inválidos."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pablo Iglesias", "José Manuel Villarejo", "Antonio García Ferreras", "Eduardo Inda"],
+        "parties": ["UP"],
+        "tags": ["mierda", "rata", "alcantarilla"]
     }
 }

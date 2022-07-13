@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f66cb2e2d6f5c95ff232cc270bd3edc8",
+    "revision": "bb0bf6867059835a8d3e804f774fe23f",
     "url": "/index.html"
   },
   {
-    "revision": "6dc7b462c8120937ab9d",
+    "revision": "76683458d68b078d9133",
     "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "5d615ba3605910824058",
-    "url": "/static/js/2.1e7b8844.chunk.js"
+    "revision": "35c93782aed1e06ff802",
+    "url": "/static/js/2.f5f50f44.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.1e7b8844.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f5f50f44.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dc7b462c8120937ab9d",
-    "url": "/static/js/main.bcc37bc7.chunk.js"
+    "revision": "76683458d68b078d9133",
+    "url": "/static/js/main.7400a238.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2154,6 +2154,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "91665119a7c6fe094f76a9da4bc6aaf9",
     "url": "/static/media/palos_de_golf.91665119.png"
+  },
+  {
+    "revision": "01eff603a82e18e5a8808b589b23feeb",
+    "url": "/static/media/pan.01eff603.png"
+  },
+  {
+    "revision": "43c5152b5fdf10c8e471eb7679b8f4b7",
+    "url": "/static/media/pan.43c5152b.png"
   },
   {
     "revision": "053972fc4c7aa4535438f35d8d67d2f6",

@@ -3393,5 +3393,16 @@
         "celebrities": ["Pablo Iglesias", "José Manuel Villarejo", "Antonio García Ferreras", "Eduardo Inda"],
         "parties": ["UP"],
         "tags": ["mierda", "rata", "alcantarilla"]
+    },
+    "pan": {
+        "name": "Pan",
+        "date": "2022-07-13T00:00",
+        "description": [
+            "Creo que ya lo dije en otra ocasión, lo de que lo van a pagar los ricos no se está entendiendo bien."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "tags": ["pan"]
     }
 }

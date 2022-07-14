@@ -3404,5 +3404,14 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "tags": ["pan"]
+    },
+    "pge2022": {
+        "name": "PGE 2022",
+        "date": "2022-07-14T00:00",
+        "description": [
+            "Le vamos a pagar la defensa a la señorita. Sanidad y educación..."
+        ],
+        "size": "2000x2000",
+        "parties": ["UP"]
     }
 }

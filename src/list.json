@@ -3413,5 +3413,15 @@
         ],
         "size": "2000x2000",
         "parties": ["UP"]
+    },
+    "bano": {
+        "name": "Baño",
+        "date": "2022-07-25T00:00",
+        "description": [
+            "A ver si por lo menos ahora dice lo de \"España, mañana, será republicana\" con un poquito más de sangre."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Lilith Verstrynge"],
+        "parties": ["UP"]
     }
 }

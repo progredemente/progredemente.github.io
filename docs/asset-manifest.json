@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.09fd59f1.chunk.js",
-    "main.js.map": "/static/js/main.09fd59f1.chunk.js.map",
+    "main.js": "/static/js/main.7e6acc4a.chunk.js",
+    "main.js.map": "/static/js/main.7e6acc4a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4ed25d78.chunk.js": "/static/js/2.4ed25d78.chunk.js",
-    "static/js/2.4ed25d78.chunk.js.map": "/static/js/2.4ed25d78.chunk.js.map",
+    "static/js/2.47416d03.chunk.js": "/static/js/2.47416d03.chunk.js",
+    "static/js/2.47416d03.chunk.js.map": "/static/js/2.47416d03.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9c7a0047a85adf5f445c7a29e5ce928f.js": "/precache-manifest.9c7a0047a85adf5f445c7a29e5ce928f.js",
+    "precache-manifest.dbe720845f435270b7eba35f0e6d00dc.js": "/precache-manifest.dbe720845f435270b7eba35f0e6d00dc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.4ed25d78.chunk.js.LICENSE.txt": "/static/js/2.4ed25d78.chunk.js.LICENSE.txt",
+    "static/js/2.47416d03.chunk.js.LICENSE.txt": "/static/js/2.47416d03.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -67,6 +67,7 @@
     "static/media/bandera_rss_asturias.png": "/static/media/bandera_rss_asturias.e67dda4f.png",
     "static/media/bandera_rusonazi.png": "/static/media/bandera_rusonazi.e810931e.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
+    "static/media/bano.png": "/static/media/bano.bebe1547.png",
     "static/media/barbie.png": "/static/media/barbie.9ae6fddb.png",
     "static/media/barbie.en.png": "/static/media/barbie.en.651e5116.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
@@ -415,8 +416,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4ed25d78.chunk.js",
+    "static/js/2.47416d03.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.09fd59f1.chunk.js"
+    "static/js/main.7e6acc4a.chunk.js"
   ]
 }

@@ -3423,5 +3423,14 @@
         "size": "2000x2000",
         "celebrities": ["Lilith Verstrynge"],
         "parties": ["UP"]
+    },
+    "eres": {
+        "name": "EREs",
+        "date": "2022-07-27T00:00",
+        "description": [
+            "No, si aún vamos a tener que darles las gracias..."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

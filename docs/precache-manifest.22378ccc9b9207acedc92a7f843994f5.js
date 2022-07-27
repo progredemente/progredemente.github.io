@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7135568c1dc50147f8f67bdb032241a9",
+    "revision": "f7c79ea661e5ae6b8681c50a2a7e07bd",
     "url": "/index.html"
   },
   {
-    "revision": "f7c6bffd0e3cd608a374",
+    "revision": "509b1c29afc995167fd9",
     "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "e537600415ccdcb15b0a",
-    "url": "/static/js/2.47416d03.chunk.js"
+    "revision": "c557234029c9c118464e",
+    "url": "/static/js/2.42a14d3d.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.47416d03.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.42a14d3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7c6bffd0e3cd608a374",
-    "url": "/static/js/main.7e6acc4a.chunk.js"
+    "revision": "509b1c29afc995167fd9",
+    "url": "/static/js/main.7628a7ef.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1126,6 +1126,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b55245bdf58b3793456d4d5a11ff796e",
     "url": "/static/media/energia_verde.b55245bd.png"
+  },
+  {
+    "revision": "83e2b149c4da6e85302bbd9b7a2f93f5",
+    "url": "/static/media/eres.83e2b149.png"
+  },
+  {
+    "revision": "f45e3c175f46624b4ae5fce58741b779",
+    "url": "/static/media/eres.f45e3c17.png"
   },
   {
     "revision": "489a72f2d78519e074d46e809a1ac013",

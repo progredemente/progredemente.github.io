@@ -3432,5 +3432,13 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "totem": {
+        "name": "Tótem",
+        "date": "2022-07-28T00:00",
+        "description": [
+            "Un pequeño experimento con una de las herramientas de Krita, el programa de dibujo que uso, e inspirado en la bajada de pantalones del Papa ante la wokada el otro día en Canadá."
+        ],
+        "size": "3000x3000"
     }
 }

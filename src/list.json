@@ -3440,5 +3440,15 @@
             "Un pequeño experimento con una de las herramientas de Krita, el programa de dibujo que uso, e inspirado en la bajada de pantalones del Papa ante la wokada el otro día en Canadá."
         ],
         "size": "3000x3000"
+    },
+    "monederos": {
+        "name": "Monederos",
+        "date": "2022-07-29T00:00",
+        "description": [
+            "Hace tiempo que quería dibujar a este personaje."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Juan Carlos Monedero"],
+        "parties": ["UP"]
     }
 }

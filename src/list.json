@@ -3450,5 +3450,15 @@
         "size": "2000x2000",
         "celebrities": ["Juan Carlos Monedero"],
         "parties": ["UP"]
+    },
+    "hipnosis": {
+        "name": "Hipnosis",
+        "date": "2022-07-30T00:00",
+        "description": [
+            "No caigamos, otra vez, en sus trampas."
+        ],
+        "url": "https://www.youtube.com/embed/U4pzIKuXeLQ",
+        "series": ["animacion"],
+        "parties": ["PSOE"]
     }
 }

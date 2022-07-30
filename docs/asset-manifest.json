@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.3151df94.chunk.js",
-    "main.js.map": "/static/js/main.3151df94.chunk.js.map",
+    "main.js": "/static/js/main.e96e76d5.chunk.js",
+    "main.js.map": "/static/js/main.e96e76d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.31987f5f.chunk.js": "/static/js/2.31987f5f.chunk.js",
-    "static/js/2.31987f5f.chunk.js.map": "/static/js/2.31987f5f.chunk.js.map",
+    "static/js/2.d541e259.chunk.js": "/static/js/2.d541e259.chunk.js",
+    "static/js/2.d541e259.chunk.js.map": "/static/js/2.d541e259.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5423b547862b149d75b0a8c63cbe357c.js": "/precache-manifest.5423b547862b149d75b0a8c63cbe357c.js",
+    "precache-manifest.02c18e0ed4758d236e3f5db01f5503a8.js": "/precache-manifest.02c18e0ed4758d236e3f5db01f5503a8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.31987f5f.chunk.js.LICENSE.txt": "/static/js/2.31987f5f.chunk.js.LICENSE.txt",
+    "static/js/2.d541e259.chunk.js.LICENSE.txt": "/static/js/2.d541e259.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -200,6 +200,7 @@
     "static/media/haren.png": "/static/media/haren.752669a1.png",
     "static/media/herencia.png": "/static/media/herencia.3a8c73f3.png",
     "static/media/hijxs.png": "/static/media/hijxs.ce323ed5.png",
+    "static/media/hipnosis.png": "/static/media/hipnosis.a2d6eb08.png",
     "static/media/hipocresia_climatica.png": "/static/media/hipocresia_climatica.639bb7dd.png",
     "static/media/hispanidad.png": "/static/media/hispanidad.c3f2790c.png",
     "static/media/hombre_paja.png": "/static/media/hombre_paja.e85eb217.png",
@@ -419,8 +420,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.31987f5f.chunk.js",
+    "static/js/2.d541e259.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.3151df94.chunk.js"
+    "static/js/main.e96e76d5.chunk.js"
   ]
 }

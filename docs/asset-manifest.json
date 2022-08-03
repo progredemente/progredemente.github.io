@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.167dfe7f.chunk.js",
-    "main.js.map": "/static/js/main.167dfe7f.chunk.js.map",
+    "main.js": "/static/js/main.dd363162.chunk.js",
+    "main.js.map": "/static/js/main.dd363162.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.56c3fe8a.chunk.js": "/static/js/2.56c3fe8a.chunk.js",
-    "static/js/2.56c3fe8a.chunk.js.map": "/static/js/2.56c3fe8a.chunk.js.map",
+    "static/js/2.088273cd.chunk.js": "/static/js/2.088273cd.chunk.js",
+    "static/js/2.088273cd.chunk.js.map": "/static/js/2.088273cd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b6cc50355509585327f436c94cd69745.js": "/precache-manifest.b6cc50355509585327f436c94cd69745.js",
+    "precache-manifest.a86967e6ca1d0e7d1f896c621d066b29.js": "/precache-manifest.a86967e6ca1d0e7d1f896c621d066b29.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.56c3fe8a.chunk.js.LICENSE.txt": "/static/js/2.56c3fe8a.chunk.js.LICENSE.txt",
+    "static/js/2.088273cd.chunk.js.LICENSE.txt": "/static/js/2.088273cd.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -111,6 +111,7 @@
     "static/media/castillo_naipes.png": "/static/media/castillo_naipes.9a1ca709.png",
     "static/media/celaa_de_vil.png": "/static/media/celaa_de_vil.c12a8382.png",
     "static/media/cenicienta.png": "/static/media/cenicienta.ef8e984c.png",
+    "static/media/cetitan.png": "/static/media/cetitan.b376801f.png",
     "static/media/chachas.png": "/static/media/chachas.fc9ea9d2.png",
     "static/media/chanel.png": "/static/media/chanel.4a3b2c1c.png",
     "static/media/charo_boss.png": "/static/media/charo_boss.924d58de.png",
@@ -421,8 +422,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.56c3fe8a.chunk.js",
+    "static/js/2.088273cd.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.167dfe7f.chunk.js"
+    "static/js/main.dd363162.chunk.js"
   ]
 }

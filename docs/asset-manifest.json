@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.dd363162.chunk.js",
-    "main.js.map": "/static/js/main.dd363162.chunk.js.map",
+    "main.js": "/static/js/main.1dc4d643.chunk.js",
+    "main.js.map": "/static/js/main.1dc4d643.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.088273cd.chunk.js": "/static/js/2.088273cd.chunk.js",
-    "static/js/2.088273cd.chunk.js.map": "/static/js/2.088273cd.chunk.js.map",
+    "static/js/2.44b069ea.chunk.js": "/static/js/2.44b069ea.chunk.js",
+    "static/js/2.44b069ea.chunk.js.map": "/static/js/2.44b069ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a86967e6ca1d0e7d1f896c621d066b29.js": "/precache-manifest.a86967e6ca1d0e7d1f896c621d066b29.js",
+    "precache-manifest.aeeeaa81f9452350aa75c27688d344cf.js": "/precache-manifest.aeeeaa81f9452350aa75c27688d344cf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.088273cd.chunk.js.LICENSE.txt": "/static/js/2.088273cd.chunk.js.LICENSE.txt",
+    "static/js/2.44b069ea.chunk.js.LICENSE.txt": "/static/js/2.44b069ea.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -382,6 +382,7 @@
     "static/media/subida_impuestos.png": "/static/media/subida_impuestos.e462ed5d.png",
     "static/media/suicidio_politico.png": "/static/media/suicidio_politico.d92d5ffb.png",
     "static/media/sumar.png": "/static/media/sumar.ec4fb43a.png",
+    "static/media/sumision.png": "/static/media/sumision.7d39d107.png",
     "static/media/super_pablo.png": "/static/media/super_pablo.e8281f3d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
     "static/media/tanxugueiras.png": "/static/media/tanxugueiras.501781ae.png",
@@ -422,8 +423,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.088273cd.chunk.js",
+    "static/js/2.44b069ea.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.dd363162.chunk.js"
+    "static/js/main.1dc4d643.chunk.js"
   ]
 }

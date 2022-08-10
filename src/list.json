@@ -3485,5 +3485,15 @@
             "¿Cuál os preocupa más?"
         ],
         "size": "2000x2000"
+    },
+    "ofensa_real": {
+        "name": "Ofensa real",
+        "date": "2022-08-10T00:00",
+        "description": [
+            "Which offense, western man?"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Felipe VI"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b17af4f03210624759aa4642f37fce70",
+    "revision": "fb7e0c11ca80c8916f82444d6c48b508",
     "url": "/index.html"
   },
   {
-    "revision": "83d919ddbc2ef7ad5884",
+    "revision": "6fb071eb075a9f5b1307",
     "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "aa9249aebf1806e30022",
-    "url": "/static/js/2.44b069ea.chunk.js"
+    "revision": "2e8dac9788ab50534187",
+    "url": "/static/js/2.d1746b21.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.44b069ea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d1746b21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83d919ddbc2ef7ad5884",
-    "url": "/static/js/main.1dc4d643.chunk.js"
+    "revision": "6fb071eb075a9f5b1307",
+    "url": "/static/js/main.750e2669.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2122,6 +2122,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76b9f01b42fd1bfefb328fae3a4f8d9d",
     "url": "/static/media/observador_internacional.76b9f01b.png"
+  },
+  {
+    "revision": "255722d6c87efaf295d124f6d4f50576",
+    "url": "/static/media/ofensa_real.255722d6.png"
+  },
+  {
+    "revision": "a2073480cb1b8b8b78dd96041d74d0f9",
+    "url": "/static/media/ofensa_real.a2073480.png"
   },
   {
     "revision": "8c2d4c4990f96769508e6dd366b19824",

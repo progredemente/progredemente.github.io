@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.1dc4d643.chunk.js",
-    "main.js.map": "/static/js/main.1dc4d643.chunk.js.map",
+    "main.js": "/static/js/main.750e2669.chunk.js",
+    "main.js.map": "/static/js/main.750e2669.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.44b069ea.chunk.js": "/static/js/2.44b069ea.chunk.js",
-    "static/js/2.44b069ea.chunk.js.map": "/static/js/2.44b069ea.chunk.js.map",
+    "static/js/2.d1746b21.chunk.js": "/static/js/2.d1746b21.chunk.js",
+    "static/js/2.d1746b21.chunk.js.map": "/static/js/2.d1746b21.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.aeeeaa81f9452350aa75c27688d344cf.js": "/precache-manifest.aeeeaa81f9452350aa75c27688d344cf.js",
+    "precache-manifest.8147e890c2045d60a7f383678e9fe890.js": "/precache-manifest.8147e890c2045d60a7f383678e9fe890.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.44b069ea.chunk.js.LICENSE.txt": "/static/js/2.44b069ea.chunk.js.LICENSE.txt",
+    "static/js/2.d1746b21.chunk.js.LICENSE.txt": "/static/js/2.d1746b21.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -295,6 +295,7 @@
     "static/media/nueva_coalicion.png": "/static/media/nueva_coalicion.f9c6f9f1.png",
     "static/media/obediencia_ciega.png": "/static/media/obediencia_ciega.ff43e015.png",
     "static/media/observador_internacional.png": "/static/media/observador_internacional.76b9f01b.png",
+    "static/media/ofensa_real.png": "/static/media/ofensa_real.a2073480.png",
     "static/media/olentzero.png": "/static/media/olentzero.f9d946e6.png",
     "static/media/olentzero_etxera.png": "/static/media/olentzero_etxera.2b3aa4b4.png",
     "static/media/onlycis.png": "/static/media/onlycis.db648f57.png",
@@ -423,8 +424,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.44b069ea.chunk.js",
+    "static/js/2.d1746b21.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.1dc4d643.chunk.js"
+    "static/js/main.750e2669.chunk.js"
   ]
 }

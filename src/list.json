@@ -3495,5 +3495,13 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Felipe VI"]
+    },
+    "pocas_luces": {
+        "name": "Pocas luces",
+        "date": "2022-08-11T00:00",
+        "description": [
+            "Algunos ya llevan con las luces apagadas desde hace mucho tiempo."
+        ],
+        "size": "2000x2000"
     }
 }

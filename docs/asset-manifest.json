@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.e15f29fd.chunk.js",
-    "main.js.map": "/static/js/main.e15f29fd.chunk.js.map",
+    "main.js": "/static/js/main.05222c32.chunk.js",
+    "main.js.map": "/static/js/main.05222c32.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.600badfa.chunk.js": "/static/js/2.600badfa.chunk.js",
-    "static/js/2.600badfa.chunk.js.map": "/static/js/2.600badfa.chunk.js.map",
+    "static/js/2.67d35b2e.chunk.js": "/static/js/2.67d35b2e.chunk.js",
+    "static/js/2.67d35b2e.chunk.js.map": "/static/js/2.67d35b2e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.08e30a83175fa8af15519ed7daa36cbe.js": "/precache-manifest.08e30a83175fa8af15519ed7daa36cbe.js",
+    "precache-manifest.8c179a11c7be06582e82226ca24b7d55.js": "/precache-manifest.8c179a11c7be06582e82226ca24b7d55.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.600badfa.chunk.js.LICENSE.txt": "/static/js/2.600badfa.chunk.js.LICENSE.txt",
+    "static/js/2.67d35b2e.chunk.js.LICENSE.txt": "/static/js/2.67d35b2e.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -347,6 +347,7 @@
     "static/media/psoeta.png": "/static/media/psoeta.b964f73b.png",
     "static/media/pt.svg": "/static/media/pt.8399d871.svg",
     "static/media/punto_violeta.png": "/static/media/punto_violeta.5110faec.png",
+    "static/media/puntos_violeta.png": "/static/media/puntos_violeta.b4771a5e.png",
     "static/media/putin_lukashenko.png": "/static/media/putin_lukashenko.f9123c67.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
     "static/media/raposa.png": "/static/media/raposa.e54d3e71.png",
@@ -425,8 +426,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.600badfa.chunk.js",
+    "static/js/2.67d35b2e.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.e15f29fd.chunk.js"
+    "static/js/main.05222c32.chunk.js"
   ]
 }

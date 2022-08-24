@@ -3503,5 +3503,14 @@
             "Algunos ya llevan con las luces apagadas desde hace mucho tiempo."
         ],
         "size": "2000x2000"
+    },
+    "puntos_violeta": {
+        "name": "Puntos Violeta",
+        "date": "2022-08-24T00:00",
+        "description": [
+            "He asistido recientemente a un festival de música y he visto una caseta de estas. Me dio la impresión que solamente se acercaban curiosos y me imaginé a la charo que lo llevaba tal y como lo reflejo en la viñeta, deseando que ocurriese algo. Como dato, lo de dibujar el contenedor de basura al lado del puesto está basado (y rojopastillado) en hechos reales."
+        ],
+        "size": "4000x4000",
+        "tags": ["basura", "contenedor", "botella", "plátano"]
     }
 }

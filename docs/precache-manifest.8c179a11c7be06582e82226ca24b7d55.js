@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00513f1ddbcd0ba6aabad55ad8934003",
+    "revision": "7539f504f98644e9d1e628e8d978667e",
     "url": "/index.html"
   },
   {
-    "revision": "5ad63198821145588b09",
+    "revision": "0048717306baf36e69a6",
     "url": "/static/css/main.ca6ccba6.chunk.css"
   },
   {
-    "revision": "6722cb09b870a2e23d51",
-    "url": "/static/js/2.600badfa.chunk.js"
+    "revision": "e297f80cc5dbcb050ab1",
+    "url": "/static/js/2.67d35b2e.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.600badfa.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.67d35b2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ad63198821145588b09",
-    "url": "/static/js/main.e15f29fd.chunk.js"
+    "revision": "0048717306baf36e69a6",
+    "url": "/static/js/main.05222c32.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2494,6 +2494,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5110faec573493b816d4fad716dec330",
     "url": "/static/media/punto_violeta.5110faec.png"
+  },
+  {
+    "revision": "ad71164f85e24b0cd14e64628bad0eee",
+    "url": "/static/media/puntos_violeta.ad71164f.png"
+  },
+  {
+    "revision": "b4771a5edcbcd53a40f78e3a07f20b81",
+    "url": "/static/media/puntos_violeta.b4771a5e.png"
   },
   {
     "revision": "222ac6d85abdd98d1e2eb6af61a8eac2",

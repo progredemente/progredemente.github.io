@@ -3522,5 +3522,13 @@
         "size": "4000x4000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "peajes": {
+        "name": "Peajes",
+        "date": "2022-08-26T00:00",
+        "description": [
+            "Nos van a poner peajes hasta en las aceras."
+        ],
+        "size": "2000x2000"
     }
 }

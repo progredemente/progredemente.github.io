@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.2678238c.chunk.js",
-    "main.js.map": "/static/js/main.2678238c.chunk.js.map",
+    "main.js": "/static/js/main.b5f9ad83.chunk.js",
+    "main.js.map": "/static/js/main.b5f9ad83.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.1c15a795.chunk.js": "/static/js/2.1c15a795.chunk.js",
-    "static/js/2.1c15a795.chunk.js.map": "/static/js/2.1c15a795.chunk.js.map",
+    "static/js/2.8c205e40.chunk.js": "/static/js/2.8c205e40.chunk.js",
+    "static/js/2.8c205e40.chunk.js.map": "/static/js/2.8c205e40.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff56f60d84babf74699dcfd560905c24.js": "/precache-manifest.ff56f60d84babf74699dcfd560905c24.js",
+    "precache-manifest.7e0e443a09f33c1000d2ace5ee5e5619.js": "/precache-manifest.7e0e443a09f33c1000d2ace5ee5e5619.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.1c15a795.chunk.js.LICENSE.txt": "/static/js/2.1c15a795.chunk.js.LICENSE.txt",
+    "static/js/2.8c205e40.chunk.js.LICENSE.txt": "/static/js/2.8c205e40.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
     "static/media/abaskong.mp3": "/static/media/abaskong.f108cfe3.mp3",
@@ -318,6 +318,7 @@
     "static/media/pateador.png": "/static/media/pateador.335bf8d7.png",
     "static/media/paulo.png": "/static/media/paulo.b74b3eb4.png",
     "static/media/payasos.png": "/static/media/payasos.683628eb.png",
+    "static/media/peajes.png": "/static/media/peajes.cc3981a6.png",
     "static/media/pegasus.png": "/static/media/pegasus.f136a6e8.png",
     "static/media/pensiones.png": "/static/media/pensiones.9ed75cf2.png",
     "static/media/pepe.png": "/static/media/pepe.55d65e52.png",
@@ -427,8 +428,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.1c15a795.chunk.js",
+    "static/js/2.8c205e40.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.2678238c.chunk.js"
+    "static/js/main.b5f9ad83.chunk.js"
   ]
 }

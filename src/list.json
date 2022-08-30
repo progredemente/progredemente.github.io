@@ -3530,5 +3530,16 @@
             "Nos van a poner peajes hasta en las aceras."
         ],
         "size": "2000x2000"
+    },
+    "3_comidas": {
+        "name": "Tres comidas",
+        "date": "2022-08-30T00:00",
+        "description": [
+            "Ya hay que ser miserable."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"],
+        "tags": ["bandera", "venezuela"]
     }
 }

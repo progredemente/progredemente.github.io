@@ -3541,5 +3541,15 @@
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"],
         "tags": ["bandera", "venezuela"]
+    },
+    "ze_bugs": {
+        "name": "Ze bugs",
+        "date": "2022-08-31T00:00",
+        "description": [
+            "Las lagartijas se alimentan de insectos y otros invertebrados."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Klaus Schwab"],
+        "tags": ["lengua"]
     }
 }

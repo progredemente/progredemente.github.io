@@ -3551,5 +3551,13 @@
         "size": "2000x2000",
         "celebrities": ["Klaus Schwab"],
         "tags": ["lengua"]
+    },
+    "intento_asesinato": {
+        "name": "\"Intento de asesinato\"",
+        "date": "2022-09-02T00:00",
+        "description": [
+            "Huele a teatrillo desde el otro lado del charco."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.57a2eab7.chunk.js",
-    "main.js.map": "/static/js/main.57a2eab7.chunk.js.map",
+    "main.js": "/static/js/main.def11933.chunk.js",
+    "main.js.map": "/static/js/main.def11933.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.8dd96a40.chunk.js": "/static/js/2.8dd96a40.chunk.js",
-    "static/js/2.8dd96a40.chunk.js.map": "/static/js/2.8dd96a40.chunk.js.map",
+    "static/js/2.a34c49b5.chunk.js": "/static/js/2.a34c49b5.chunk.js",
+    "static/js/2.a34c49b5.chunk.js.map": "/static/js/2.a34c49b5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8278db4b92b8fa9f7dfceef018ad050d.js": "/precache-manifest.8278db4b92b8fa9f7dfceef018ad050d.js",
+    "precache-manifest.8876c3812a8b6f2785d2772128abf470.js": "/precache-manifest.8876c3812a8b6f2785d2772128abf470.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.8dd96a40.chunk.js.LICENSE.txt": "/static/js/2.8dd96a40.chunk.js.LICENSE.txt",
+    "static/js/2.a34c49b5.chunk.js.LICENSE.txt": "/static/js/2.a34c49b5.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -218,6 +218,7 @@
     "static/media/inclusivo.png": "/static/media/inclusivo.68a2bb7e.png",
     "static/media/indulto.png": "/static/media/indulto.8d0e9568.png",
     "static/media/instagram.png": "/static/media/instagram.b407fa10.png",
+    "static/media/intento_asesinato.png": "/static/media/intento_asesinato.fcfdee89.png",
     "static/media/inversion.png": "/static/media/inversion.bec718db.png",
     "static/media/iphone_13.png": "/static/media/iphone_13.a4aaeca0.png",
     "static/media/irenkling.png": "/static/media/irenkling.2ffd2c5a.png",
@@ -430,8 +431,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.8dd96a40.chunk.js",
+    "static/js/2.a34c49b5.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.57a2eab7.chunk.js"
+    "static/js/main.def11933.chunk.js"
   ]
 }

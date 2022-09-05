@@ -3559,5 +3559,15 @@
             "Huele a teatrillo desde el otro lado del charco."
         ],
         "size": "2000x2000"
+    },
+    "burric": {
+        "name": "Burric",
+        "date": "2022-09-05T00:00",
+        "description": [
+            "Haber estudiado.",
+            "Amigos chilenos, no os durmáis con esta victoria, guardaos de lo que esté maquinando esta banda."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gabriel Boric"]
     }
 }

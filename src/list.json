@@ -3569,5 +3569,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Gabriel Boric"]
+    },
+    "marionetas": {
+        "name": "Marionetas",
+        "date": "2022-09-07T00:00",
+        "description": [
+            "El Fraudillo usando las artes del Caudillo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Francisco Franco"],
+        "parties": ["PSOE"]
     }
 }

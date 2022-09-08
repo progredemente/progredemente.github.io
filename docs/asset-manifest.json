@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.67d2136e.chunk.js",
-    "main.js.map": "/static/js/main.67d2136e.chunk.js.map",
+    "main.js": "/static/js/main.2280e61a.chunk.js",
+    "main.js.map": "/static/js/main.2280e61a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b9830d7d.chunk.js": "/static/js/2.b9830d7d.chunk.js",
-    "static/js/2.b9830d7d.chunk.js.map": "/static/js/2.b9830d7d.chunk.js.map",
+    "static/js/2.1cd99ce6.chunk.js": "/static/js/2.1cd99ce6.chunk.js",
+    "static/js/2.1cd99ce6.chunk.js.map": "/static/js/2.1cd99ce6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d69446d423aca805122dda9d7afc1852.js": "/precache-manifest.d69446d423aca805122dda9d7afc1852.js",
+    "precache-manifest.df9e44055bb4b7328d6a6517c52b7121.js": "/precache-manifest.df9e44055bb4b7328d6a6517c52b7121.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.b9830d7d.chunk.js.LICENSE.txt": "/static/js/2.b9830d7d.chunk.js.LICENSE.txt",
+    "static/js/2.1cd99ce6.chunk.js.LICENSE.txt": "/static/js/2.1cd99ce6.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -116,6 +116,8 @@
     "static/media/cetitan.png": "/static/media/cetitan.b376801f.png",
     "static/media/chachas.png": "/static/media/chachas.fc9ea9d2.png",
     "static/media/chanel.png": "/static/media/chanel.4a3b2c1c.png",
+    "static/media/charles_d_luffy.png": "/static/media/charles_d_luffy.c041b163.png",
+    "static/media/charles_d_luffy.es.png": "/static/media/charles_d_luffy.es.4b323fdf.png",
     "static/media/charo_boss.png": "/static/media/charo_boss.924d58de.png",
     "static/media/charo_rangers.png": "/static/media/charo_rangers.d198048b.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
@@ -433,8 +435,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b9830d7d.chunk.js",
+    "static/js/2.1cd99ce6.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.67d2136e.chunk.js"
+    "static/js/main.2280e61a.chunk.js"
   ]
 }

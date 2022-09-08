@@ -3579,5 +3579,19 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Francisco Franco"],
         "parties": ["PSOE"]
+    },
+    "charles_d_luffy": {
+        "name": "Charles D. Luffy",
+        "date": "2022-09-09T00:00",
+        "description": [
+            "Vente conmigo, vámonos ya, esto va a comenzar. Súbete abordo, vámonos ya, lo vamos a encontrar..."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Charles III"],
+        "lang": {
+            "default": "en",
+            "available": ["es"]
+        },
+        "tags": ["paja"]
     }
 }

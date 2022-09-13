@@ -3593,5 +3593,20 @@
             "available": ["es"]
         },
         "tags": ["paja"]
+    },
+    "sinegrita_1": {
+        "name": "La Sinegrita 1",
+        "date": "2022-09-13T00:00",
+        "description": [
+            "La enésima apropiación cultural, usando su propia lógica que para ellos mismos no aplican, de la wokada.",
+            "Me vi la película animada de Disney el otro día y se me ocurrieron varios finales para esta viñeta y otras ideas sobre la nueva sirenita que iré sacando estos días. Los temas de las viñetas serán principalmente estereotipos afroamericanos."
+        ],
+        "size": "2000x2000",
+        "series": ["sinegrita"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
+        "tags": ["agua", "playa", "roca", "piedra", "arena"]
     }
 }

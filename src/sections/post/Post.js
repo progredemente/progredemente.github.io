@@ -53,6 +53,9 @@ class Post extends Component {
             if(series === "progremon"){
                 list_ = filterPosts(list, series, { "name": null, "date": null, "description": [], size: "2000x2000" }, "progremon_0");
             }
+            else if(series === "sinegrita"){
+                list_ = filterPosts(list, series, { "name": null, "date": null, "description": [], size: "2000x2000" }, "sinegrita_0");
+            }
             else {
                 list_ = filterPosts(list, series);
             }

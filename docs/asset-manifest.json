@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.2280e61a.chunk.js",
-    "main.js.map": "/static/js/main.2280e61a.chunk.js.map",
+    "main.js": "/static/js/main.def7e357.chunk.js",
+    "main.js.map": "/static/js/main.def7e357.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.1cd99ce6.chunk.js": "/static/js/2.1cd99ce6.chunk.js",
-    "static/js/2.1cd99ce6.chunk.js.map": "/static/js/2.1cd99ce6.chunk.js.map",
+    "static/js/2.610f4097.chunk.js": "/static/js/2.610f4097.chunk.js",
+    "static/js/2.610f4097.chunk.js.map": "/static/js/2.610f4097.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.df9e44055bb4b7328d6a6517c52b7121.js": "/precache-manifest.df9e44055bb4b7328d6a6517c52b7121.js",
+    "precache-manifest.645164d4218523059eebcc99ac96908a.js": "/precache-manifest.645164d4218523059eebcc99ac96908a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.1cd99ce6.chunk.js.LICENSE.txt": "/static/js/2.1cd99ce6.chunk.js.LICENSE.txt",
+    "static/js/2.610f4097.chunk.js.LICENSE.txt": "/static/js/2.610f4097.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -380,6 +380,10 @@
     "static/media/shingeki_no_muajin.png": "/static/media/shingeki_no_muajin.b26f007f.png",
     "static/media/silla.png": "/static/media/silla.f3d31cd1.png",
     "static/media/sindikato.png": "/static/media/sindikato.46a46769.png",
+    "static/media/sinegrita_0.png": "/static/media/sinegrita_0.772b14cf.png",
+    "static/media/sinegrita_1.png": "/static/media/sinegrita_1.fe715c88.png",
+    "static/media/sinegrita_1.en.png": "/static/media/sinegrita_1.en.8b3ce9c0.png",
+    "static/media/sinegrita_banner.png": "/static/media/sinegrita_banner.96762c1d.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
@@ -435,8 +439,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.1cd99ce6.chunk.js",
+    "static/js/2.610f4097.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.2280e61a.chunk.js"
+    "static/js/main.def7e357.chunk.js"
   ]
 }

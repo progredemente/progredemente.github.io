@@ -120,6 +120,15 @@ class Web extends Component{
                                 </div>
                             )
                         }}/>
+                        <Redirect exact from={`${this.props.match.url}/sinegrita`} to={`${this.props.match.url}/sinegrita/sinegrita_0`}/>
+                        <Route exact path={`${this.props.match.url}/sinegrita/:id`} render={(props) => {
+                            return (
+                                <div>
+                                    <Banner id="sinegrita" alt={series["sinegrita"]} key={`banner-sinegrita`} />
+                                    <Post { ...props}/>
+                                </div>
+                            )
+                        }}/>
                         <Redirect exact from={`${this.props.match.url}/animacion`} to={`${this.props.match.url}/animacion/alerta_antifascista_animado`}/>
                         <Route exact path={`${this.props.match.url}/animacion/:id`} render={(props) => {
                             return (

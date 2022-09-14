@@ -3608,5 +3608,19 @@
             "available": ["en"]
         },
         "tags": ["agua", "playa", "roca", "piedra", "arena"]
+    },
+    "sinegrita_2": {
+        "name": "La Sinegrita 2",
+        "date": "2022-09-14T00:00",
+        "description": [
+            "Segunda entrega de la nueva sirenita que nos quiere vender Disney, esta vez con un final más trágico."
+        ],
+        "size": "2000x2000",
+        "series": ["sinegrita"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
+        "tags": ["agua", "playa", "roca", "piedra", "arena"]
     }
 }

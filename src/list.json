@@ -3622,5 +3622,15 @@
             "available": ["en"]
         },
         "tags": ["agua", "playa", "roca", "piedra", "arena"]
+    },
+    "prostitutas": {
+        "name": "Prostitutas",
+        "date": "2022-09-15T00:00",
+        "description": [
+            "De cuentamuertas a cuentaputas."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["José Luis Ábalos", "Irene Montero", "Ángela Rodriguez Pam"],
+        "parties": ["PSOE", "UP"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.7e274323.chunk.js",
-    "main.js.map": "/static/js/main.7e274323.chunk.js.map",
+    "main.js": "/static/js/main.9eade3b9.chunk.js",
+    "main.js.map": "/static/js/main.9eade3b9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.469cb949.chunk.js": "/static/js/2.469cb949.chunk.js",
-    "static/js/2.469cb949.chunk.js.map": "/static/js/2.469cb949.chunk.js.map",
+    "static/js/2.1163530e.chunk.js": "/static/js/2.1163530e.chunk.js",
+    "static/js/2.1163530e.chunk.js.map": "/static/js/2.1163530e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bfee901eee8641d3eab0d93c5a5dcccd.js": "/precache-manifest.bfee901eee8641d3eab0d93c5a5dcccd.js",
+    "precache-manifest.a109c5bb5f71800bdf6e4b9b3caa086d.js": "/precache-manifest.a109c5bb5f71800bdf6e4b9b3caa086d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.469cb949.chunk.js.LICENSE.txt": "/static/js/2.469cb949.chunk.js.LICENSE.txt",
+    "static/js/2.1163530e.chunk.js.LICENSE.txt": "/static/js/2.1163530e.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -386,6 +386,8 @@
     "static/media/sinegrita_1.en.png": "/static/media/sinegrita_1.en.8b3ce9c0.png",
     "static/media/sinegrita_2.png": "/static/media/sinegrita_2.bda7627c.png",
     "static/media/sinegrita_2.en.png": "/static/media/sinegrita_2.en.c85ae7d8.png",
+    "static/media/sinegrita_3.png": "/static/media/sinegrita_3.fe09da5d.png",
+    "static/media/sinegrita_3.en.png": "/static/media/sinegrita_3.en.f2a7c678.png",
     "static/media/sinegrita_banner.png": "/static/media/sinegrita_banner.96762c1d.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
@@ -442,8 +444,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.469cb949.chunk.js",
+    "static/js/2.1163530e.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.7e274323.chunk.js"
+    "static/js/main.9eade3b9.chunk.js"
   ]
 }

@@ -3632,5 +3632,19 @@
         "size": "3000x2000",
         "celebrities": ["José Luis Ábalos", "Irene Montero", "Ángela Rodriguez Pam"],
         "parties": ["PSOE", "UP"]
+    },
+    "sinegrita_3": {
+        "name": "La Sinegrita 3",
+        "date": "2022-09-16T00:00",
+        "description": [
+            "Dada la época histórica en la que está ambientado el cuento original o incluso la primera película de Disney, es la única reacción que me espero del príncipe Eric."
+        ],
+        "size": "2000x2000",
+        "series": ["sinegrita"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
+        "tags": ["agua", "playa", "roca", "piedra", "arena", "cuerda"]
     }
 }

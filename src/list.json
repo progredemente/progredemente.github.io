@@ -3646,5 +3646,18 @@
             "available": ["en"]
         },
         "tags": ["agua", "playa", "roca", "piedra", "arena", "cuerda"]
+    },
+    "sinegrita_4": {
+        "name": "La Sinegrita 4",
+        "date": "2022-09-17T00:00",
+        "description": [
+            "Cuarta entrega, esta vez volviendo a los estereotipos, aunque esta hubiese funcionado igual de haber sido feminista en vez de negra."
+        ],
+        "size": "2000x2000",
+        "series": ["sinegrita"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

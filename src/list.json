@@ -3602,7 +3602,7 @@
             "Me vi la película animada de Disney el otro día y se me ocurrieron varios finales para esta viñeta y otras ideas sobre la nueva sirenita que iré sacando estos días. Los temas de las viñetas serán principalmente estereotipos afroamericanos."
         ],
         "size": "2000x2000",
-        "series": ["sinegrita"],
+        "series": ["sinegrita", "cuentos"],
         "lang": {
             "default": "es",
             "available": ["en"]
@@ -3616,7 +3616,7 @@
             "Segunda entrega de la nueva sirenita que nos quiere vender Disney, esta vez con un final más trágico."
         ],
         "size": "2000x2000",
-        "series": ["sinegrita"],
+        "series": ["sinegrita", "cuentos"],
         "lang": {
             "default": "es",
             "available": ["en"]
@@ -3640,7 +3640,7 @@
             "Dada la época histórica en la que está ambientado el cuento original o incluso la primera película de Disney, es la única reacción que me espero del príncipe Eric."
         ],
         "size": "2000x2000",
-        "series": ["sinegrita"],
+        "series": ["sinegrita", "cuentos"],
         "lang": {
             "default": "es",
             "available": ["en"]
@@ -3652,6 +3652,19 @@
         "date": "2022-09-17T00:00",
         "description": [
             "Cuarta entrega, esta vez volviendo a los estereotipos, aunque esta hubiese funcionado igual de haber sido feminista en vez de negra."
+        ],
+        "size": "2000x2000",
+        "series": ["sinegrita", "cuentos"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "sinegrita_5": {
+        "name": "La Sinegrita 5",
+        "date": "2022-09-18T00:00",
+        "description": [
+            "Quinta entrega, no sé si será la última. Esta vez va sobre algunas reacciones al tráiler que se pueden encontrar por la red."
         ],
         "size": "2000x2000",
         "series": ["sinegrita"],

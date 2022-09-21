@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.ac7046f3.chunk.js",
-    "main.js.map": "/static/js/main.ac7046f3.chunk.js.map",
+    "main.js": "/static/js/main.ff7bedf6.chunk.js",
+    "main.js.map": "/static/js/main.ff7bedf6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b92184d5.chunk.js": "/static/js/2.b92184d5.chunk.js",
-    "static/js/2.b92184d5.chunk.js.map": "/static/js/2.b92184d5.chunk.js.map",
+    "static/js/2.a8d48be4.chunk.js": "/static/js/2.a8d48be4.chunk.js",
+    "static/js/2.a8d48be4.chunk.js.map": "/static/js/2.a8d48be4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7b689205e327cb2ad520e50888c5cdce.js": "/precache-manifest.7b689205e327cb2ad520e50888c5cdce.js",
+    "precache-manifest.59029707e8081560fd8c7aa931679512.js": "/precache-manifest.59029707e8081560fd8c7aa931679512.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.b92184d5.chunk.js.LICENSE.txt": "/static/js/2.b92184d5.chunk.js.LICENSE.txt",
+    "static/js/2.a8d48be4.chunk.js.LICENSE.txt": "/static/js/2.a8d48be4.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -32,6 +32,7 @@
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
     "static/media/amenazas.png": "/static/media/amenazas.decc8d55.png",
     "static/media/amistad.png": "/static/media/amistad.ed795a7a.png",
+    "static/media/anillo.png": "/static/media/anillo.5f66fae6.png",
     "static/media/animacion_banner.png": "/static/media/animacion_banner.f688137f.png",
     "static/media/ano_marmota.png": "/static/media/ano_marmota.5118b97f.png",
     "static/media/ano_rata.png": "/static/media/ano_rata.d1768431.png",
@@ -448,8 +449,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b92184d5.chunk.js",
+    "static/js/2.a8d48be4.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.ac7046f3.chunk.js"
+    "static/js/main.ff7bedf6.chunk.js"
   ]
 }

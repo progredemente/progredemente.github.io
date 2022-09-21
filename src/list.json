@@ -3672,5 +3672,14 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "anillo": {
+        "name": "Anillo",
+        "date": "2022-09-21T00:00",
+        "description": [
+            "Me vi como 20 minutos del primer capítulo y no pude ver más, casi me duermo."
+        ],
+        "size": "2000x2000",
+        "tags": ["oro"]
     }
 }

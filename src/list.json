@@ -3689,7 +3689,19 @@
             "Estoy flipando con lo que dijo la señora marquesa de Galapagar..."
         ],
         "size": "2000x2000",
+        "series": ["memes"],
         "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
+    },
+    "blandengue": {
+        "name": "Blandengue",
+        "date": "2022-09-22T01:00",
+        "description": [
+            "Tenía ganas de dibujar al Fary."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Pablo Echenique", "El Fary"],
         "parties": ["UP"]
     }
 }

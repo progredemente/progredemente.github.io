@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.71fec143.chunk.js",
-    "main.js.map": "/static/js/main.71fec143.chunk.js.map",
+    "main.js": "/static/js/main.1ea8f96a.chunk.js",
+    "main.js.map": "/static/js/main.1ea8f96a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.257d025d.chunk.js": "/static/js/2.257d025d.chunk.js",
-    "static/js/2.257d025d.chunk.js.map": "/static/js/2.257d025d.chunk.js.map",
+    "static/js/2.79ccf68e.chunk.js": "/static/js/2.79ccf68e.chunk.js",
+    "static/js/2.79ccf68e.chunk.js.map": "/static/js/2.79ccf68e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3c5da84f3af60a104bddd3c1a1920ab1.js": "/precache-manifest.3c5da84f3af60a104bddd3c1a1920ab1.js",
+    "precache-manifest.6b60362824daa7820e5248c027fd4670.js": "/precache-manifest.6b60362824daa7820e5248c027fd4670.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.257d025d.chunk.js.LICENSE.txt": "/static/js/2.257d025d.chunk.js.LICENSE.txt",
+    "static/js/2.79ccf68e.chunk.js.LICENSE.txt": "/static/js/2.79ccf68e.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -81,6 +81,7 @@
     "static/media/bisagranos.png": "/static/media/bisagranos.8ba558ca.png",
     "static/media/blablabla.png": "/static/media/blablabla.f0620681.png",
     "static/media/blancanieves.png": "/static/media/blancanieves.cf337ff4.png",
+    "static/media/blandengue.png": "/static/media/blandengue.74d6e021.png",
     "static/media/blanqueo_talibanes.png": "/static/media/blanqueo_talibanes.f83916c9.png",
     "static/media/bloqueo.png": "/static/media/bloqueo.72dd288d.png",
     "static/media/boo_iden.png": "/static/media/boo_iden.f7778d8b.png",
@@ -450,8 +451,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.257d025d.chunk.js",
+    "static/js/2.79ccf68e.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.71fec143.chunk.js"
+    "static/js/main.1ea8f96a.chunk.js"
   ]
 }

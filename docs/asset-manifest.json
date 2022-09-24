@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.1ea8f96a.chunk.js",
-    "main.js.map": "/static/js/main.1ea8f96a.chunk.js.map",
+    "main.js": "/static/js/main.dc3471a6.chunk.js",
+    "main.js.map": "/static/js/main.dc3471a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.79ccf68e.chunk.js": "/static/js/2.79ccf68e.chunk.js",
-    "static/js/2.79ccf68e.chunk.js.map": "/static/js/2.79ccf68e.chunk.js.map",
+    "static/js/2.7ed51c09.chunk.js": "/static/js/2.7ed51c09.chunk.js",
+    "static/js/2.7ed51c09.chunk.js.map": "/static/js/2.7ed51c09.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6b60362824daa7820e5248c027fd4670.js": "/precache-manifest.6b60362824daa7820e5248c027fd4670.js",
+    "precache-manifest.c7bc8dfbe56b99fbe2477982a2b6f991.js": "/precache-manifest.c7bc8dfbe56b99fbe2477982a2b6f991.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.79ccf68e.chunk.js.LICENSE.txt": "/static/js/2.79ccf68e.chunk.js.LICENSE.txt",
+    "static/js/2.7ed51c09.chunk.js.LICENSE.txt": "/static/js/2.7ed51c09.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -122,6 +122,7 @@
     "static/media/charles_d_luffy.es.png": "/static/media/charles_d_luffy.es.4b323fdf.png",
     "static/media/charo_boss.png": "/static/media/charo_boss.924d58de.png",
     "static/media/charo_rangers.png": "/static/media/charo_rangers.d198048b.png",
+    "static/media/charotler.png": "/static/media/charotler.b9cffa30.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
     "static/media/choinka.png": "/static/media/choinka.f7f96514.png",
     "static/media/christmas_tree.png": "/static/media/christmas_tree.a99b115c.png",
@@ -316,6 +317,7 @@
     "static/media/pabluigi.mp3": "/static/media/pabluigi.f51dc631.mp3",
     "static/media/palmeros.png": "/static/media/palmeros.4f2bc011.png",
     "static/media/palos_de_golf.png": "/static/media/palos_de_golf.91665119.png",
+    "static/media/pam.png": "/static/media/pam.2c48362c.png",
     "static/media/pan.png": "/static/media/pan.43c5152b.png",
     "static/media/papa_noel.png": "/static/media/papa_noel.7a49197b.png",
     "static/media/parametros.png": "/static/media/parametros.e2f46b34.png",
@@ -451,8 +453,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.79ccf68e.chunk.js",
+    "static/js/2.7ed51c09.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.1ea8f96a.chunk.js"
+    "static/js/main.dc3471a6.chunk.js"
   ]
 }

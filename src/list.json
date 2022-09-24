@@ -3703,5 +3703,25 @@
         "series": ["memes"],
         "celebrities": ["Pablo Echenique", "El Fary"],
         "parties": ["UP"]
+    },
+    "charotler": {
+        "name": "Charotler",
+        "date": "2022-09-23T00:00",
+        "description": [
+            "La eurocharo amenazando veladamente a los italianos de que o votan bien o les van a tratar como a los polacos y a los húngaros, porque la democracia mola si y solo si la gente vota lo que ellos quieren."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ursula von der Leyen"]
+    },
+    "pam": {
+        "name": "Pam",
+        "date": "2022-09-24T00:00",
+        "description": [
+            "La pregunta que nos hacemos todos realmente."
+        ],
+        "url": "https://www.youtube.com/embed/PbEGYMWWqNo",
+        "series": ["memes"],
+        "celebrities": ["Ángela Rodriguez Pam"],
+        "parties": ["UP"]
     }
 }

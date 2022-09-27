@@ -3723,5 +3723,14 @@
         "series": ["memes"],
         "celebrities": ["Ángela Rodriguez Pam"],
         "parties": ["UP"]
+    },
+    "jamon": {
+        "name": "Jamón",
+        "date": "2022-09-27T00:00",
+        "description": [
+            "Un éxito."
+        ],
+        "size": "2000x2000",
+        "tags": ["jamón", "cristal"]
     }
 }

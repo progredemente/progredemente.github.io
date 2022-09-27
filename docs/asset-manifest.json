@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.dc3471a6.chunk.js",
-    "main.js.map": "/static/js/main.dc3471a6.chunk.js.map",
+    "main.js": "/static/js/main.d5f10ce0.chunk.js",
+    "main.js.map": "/static/js/main.d5f10ce0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7ed51c09.chunk.js": "/static/js/2.7ed51c09.chunk.js",
-    "static/js/2.7ed51c09.chunk.js.map": "/static/js/2.7ed51c09.chunk.js.map",
+    "static/js/2.ce55115a.chunk.js": "/static/js/2.ce55115a.chunk.js",
+    "static/js/2.ce55115a.chunk.js.map": "/static/js/2.ce55115a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c7bc8dfbe56b99fbe2477982a2b6f991.js": "/precache-manifest.c7bc8dfbe56b99fbe2477982a2b6f991.js",
+    "precache-manifest.6eab74f3137ce0798b937fcbdf2b001e.js": "/precache-manifest.6eab74f3137ce0798b937fcbdf2b001e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.7ed51c09.chunk.js.LICENSE.txt": "/static/js/2.7ed51c09.chunk.js.LICENSE.txt",
+    "static/js/2.ce55115a.chunk.js.LICENSE.txt": "/static/js/2.ce55115a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -230,6 +230,7 @@
     "static/media/irenkling.png": "/static/media/irenkling.2ffd2c5a.png",
     "static/media/irenkling.mp3": "/static/media/irenkling.25cb2a86.mp3",
     "static/media/izquierda_conspiranoica.png": "/static/media/izquierda_conspiranoica.bcc3aa05.png",
+    "static/media/jamon.png": "/static/media/jamon.fc897745.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.c578b9ec.png",
     "static/media/joulupuu.png": "/static/media/joulupuu.780e7ee5.png",
     "static/media/juraste_destruir.png": "/static/media/juraste_destruir.a1a21c8d.png",
@@ -453,8 +454,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7ed51c09.chunk.js",
+    "static/js/2.ce55115a.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.dc3471a6.chunk.js"
+    "static/js/main.d5f10ce0.chunk.js"
   ]
 }

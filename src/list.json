@@ -3732,5 +3732,15 @@
         ],
         "size": "2000x2000",
         "tags": ["jamón", "cristal"]
+    },
+    "npc": {
+        "name": "NPC",
+        "date": "2022-09-28T00:00",
+        "description": [
+            "Qué patéticos son ocultando el logo del partido y presentando a un NPC como candidato para las próximas elecciones de la CAM. Creo que esto habla mucho y nada bueno de la información que maneja internamente esta panda de parásitos. Cuando Feijóo hizo lo mismo en Galicia al menos él tenía relevancia política."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "parties": ["PSOE"]
     }
 }

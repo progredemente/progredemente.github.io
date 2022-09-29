@@ -3742,5 +3742,15 @@
         "size": "2000x2000",
         "series": ["memes"],
         "parties": ["PSOE"]
+    },
+    "logica_aplastante": {
+        "name": "Lógica aplastante",
+        "date": "2022-09-29T00:00",
+        "description": [
+            "Nos quieren pobres, por si alguien todavía tenía alguna duda."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     }
 }

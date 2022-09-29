@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.03f46f02.chunk.js",
-    "main.js.map": "/static/js/main.03f46f02.chunk.js.map",
+    "main.js": "/static/js/main.c71207d3.chunk.js",
+    "main.js.map": "/static/js/main.c71207d3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2037e8da.chunk.js": "/static/js/2.2037e8da.chunk.js",
-    "static/js/2.2037e8da.chunk.js.map": "/static/js/2.2037e8da.chunk.js.map",
+    "static/js/2.d024f11f.chunk.js": "/static/js/2.d024f11f.chunk.js",
+    "static/js/2.d024f11f.chunk.js.map": "/static/js/2.d024f11f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.825489e12c29a74a1e045c1b9104854b.js": "/precache-manifest.825489e12c29a74a1e045c1b9104854b.js",
+    "precache-manifest.b351fb82e30e24585dea686dd26bf669.js": "/precache-manifest.b351fb82e30e24585dea686dd26bf669.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.2037e8da.chunk.js.LICENSE.txt": "/static/js/2.2037e8da.chunk.js.LICENSE.txt",
+    "static/js/2.d024f11f.chunk.js.LICENSE.txt": "/static/js/2.d024f11f.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -252,6 +252,7 @@
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
     "static/media/llibert.png": "/static/media/llibert.3f705388.png",
+    "static/media/logica_aplastante.png": "/static/media/logica_aplastante.ead52c1b.png",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
     "static/media/loro.png": "/static/media/loro.dceb3b54.png",
     "static/media/luenga.png": "/static/media/luenga.bba3ccfa.png",
@@ -455,8 +456,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2037e8da.chunk.js",
+    "static/js/2.d024f11f.chunk.js",
     "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.03f46f02.chunk.js"
+    "static/js/main.c71207d3.chunk.js"
   ]
 }

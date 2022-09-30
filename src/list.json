@@ -3752,5 +3752,15 @@
         "size": "2000x2000",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "lula": {
+        "name": "Lógica aplastante",
+        "date": "2022-09-30T00:00",
+        "description": [
+            "Para quien no lo sepa, \"lula da silva\" significa literalmente calamar de la zarza."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Lula da Silva"],
+        "tags": ["calamar", "mora", "madera", "hoja"]
     }
 }

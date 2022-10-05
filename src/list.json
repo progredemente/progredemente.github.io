@@ -3754,7 +3754,7 @@
         "parties": ["MP"]
     },
     "lula": {
-        "name": "Lógica aplastante",
+        "name": "Lula",
         "date": "2022-09-30T00:00",
         "description": [
             "Para quien no lo sepa, \"lula da silva\" significa literalmente calamar de la zarza."
@@ -3762,5 +3762,24 @@
         "size": "2000x2000",
         "celebrities": ["Lula da Silva"],
         "tags": ["calamar", "mora", "madera", "hoja"]
+    },
+    "spongebolso": {
+        "name": "Spongebolso",
+        "date": "2022-10-01T00:00",
+        "description": [
+            "Lo tenía que hacer."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Lula da Silva", "Jair Bolsonaro"]
+    },
+    "pistola_dinero": {
+        "name": "Pistola de dinero",
+        "date": "2022-10-05T00:00",
+        "description": [
+            "Huele a elecciones."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca6ccba6.chunk.css",
-    "main.js": "/static/js/main.9e3908f9.chunk.js",
-    "main.js.map": "/static/js/main.9e3908f9.chunk.js.map",
+    "main.css": "/static/css/main.412bb58d.chunk.css",
+    "main.js": "/static/js/main.176bf569.chunk.js",
+    "main.js.map": "/static/js/main.176bf569.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ab28c11d.chunk.js": "/static/js/2.ab28c11d.chunk.js",
-    "static/js/2.ab28c11d.chunk.js.map": "/static/js/2.ab28c11d.chunk.js.map",
+    "static/js/2.acebce2a.chunk.js": "/static/js/2.acebce2a.chunk.js",
+    "static/js/2.acebce2a.chunk.js.map": "/static/js/2.acebce2a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e0e138e9fdfd5c1c3ccd772eee2db471.js": "/precache-manifest.e0e138e9fdfd5c1c3ccd772eee2db471.js",
+    "precache-manifest.8f6442e4434d064ef05ecd7baa0e90f8.js": "/precache-manifest.8f6442e4434d064ef05ecd7baa0e90f8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ca6ccba6.chunk.css.map": "/static/css/main.ca6ccba6.chunk.css.map",
-    "static/js/2.ab28c11d.chunk.js.LICENSE.txt": "/static/js/2.ab28c11d.chunk.js.LICENSE.txt",
+    "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
+    "static/js/2.acebce2a.chunk.js.LICENSE.txt": "/static/js/2.acebce2a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -346,6 +346,7 @@
     "static/media/pge2022.png": "/static/media/pge2022.d40dd584.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.ef2679b2.png",
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
+    "static/media/pistola_dinero.png": "/static/media/pistola_dinero.712e2378.png",
     "static/media/pocas_luces.png": "/static/media/pocas_luces.a505c7d1.png",
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
     "static/media/pocos_impuestos.png": "/static/media/pocos_impuestos.df1a372b.png",
@@ -406,6 +407,7 @@
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
     "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
+    "static/media/spongebolso.png": "/static/media/spongebolso.48591ab9.png",
     "static/media/starlink.png": "/static/media/starlink.690a8711.png",
     "static/media/starlink.en.png": "/static/media/starlink.en.e6bb99e4.png",
     "static/media/strawman.png": "/static/media/strawman.ebadc313.png",
@@ -457,8 +459,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ab28c11d.chunk.js",
-    "static/css/main.ca6ccba6.chunk.css",
-    "static/js/main.9e3908f9.chunk.js"
+    "static/js/2.acebce2a.chunk.js",
+    "static/css/main.412bb58d.chunk.css",
+    "static/js/main.176bf569.chunk.js"
   ]
 }

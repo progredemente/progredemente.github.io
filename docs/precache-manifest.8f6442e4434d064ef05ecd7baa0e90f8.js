@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba934be0864fdbf0f86e1391fadbb925",
+    "revision": "5037bfe480c19897e71f43ee89c65f3d",
     "url": "/index.html"
   },
   {
-    "revision": "6105a1017324553393e0",
-    "url": "/static/css/main.ca6ccba6.chunk.css"
+    "revision": "1bfe381edb8451847f1f",
+    "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "c865b5e623790ff53e1c",
-    "url": "/static/js/2.ab28c11d.chunk.js"
+    "revision": "8996093f30609d178da9",
+    "url": "/static/js/2.acebce2a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ab28c11d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.acebce2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6105a1017324553393e0",
-    "url": "/static/js/main.9e3908f9.chunk.js"
+    "revision": "1bfe381edb8451847f1f",
+    "url": "/static/js/main.176bf569.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2500,6 +2500,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pinocho.f57ed1a0.png"
   },
   {
+    "revision": "6c1d4b617262e00a3674cd4019305634",
+    "url": "/static/media/pistola_dinero.6c1d4b61.png"
+  },
+  {
+    "revision": "712e2378efc9eda79cb2ef5cd0535ac7",
+    "url": "/static/media/pistola_dinero.712e2378.png"
+  },
+  {
     "revision": "59cbf9421042fc2a92debb04a2013d22",
     "url": "/static/media/pocas_luces.59cbf942.png"
   },
@@ -2922,6 +2930,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c1075e9d3cc96ebf7cb757de8cc172f9",
     "url": "/static/media/sopa_letras.c1075e9d.png"
+  },
+  {
+    "revision": "18db9af04f3e6a715fe10c5e9ef322c3",
+    "url": "/static/media/spongebolso.18db9af0.png"
+  },
+  {
+    "revision": "48591ab9b63fdd2885154de98d756069",
+    "url": "/static/media/spongebolso.48591ab9.png"
   },
   {
     "revision": "1ce7715d52d5ae6067d7e46b40784a7f",

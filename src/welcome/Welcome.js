@@ -5,6 +5,7 @@ import './Welcome.css';
 import Social from "../common/Social";
 import social from '../social.json';
 import { Link } from "react-router-dom";
+import Footer from "../web/Footer";
 
 class Welcome extends Component {
 
@@ -102,6 +103,7 @@ class Welcome extends Component {
                         +
                     </div>
                 </div>
+                <Footer />
             </div>
         );
     }

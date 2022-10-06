@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e067c65cf6bb6f4190fded791a71fb09",
+    "revision": "f07bc2c03f42ecd6b31ab5fa3a208bb4",
     "url": "/index.html"
   },
   {
-    "revision": "038ce3c313691e23727a",
+    "revision": "0d2301349e55530a26e1",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "c686bcd7d27e5861e162",
-    "url": "/static/js/2.c13a575a.chunk.js"
+    "revision": "088febb730e715ab5077",
+    "url": "/static/js/2.86ea42d6.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.c13a575a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.86ea42d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "038ce3c313691e23727a",
-    "url": "/static/js/main.6b732213.chunk.js"
+    "revision": "0d2301349e55530a26e1",
+    "url": "/static/js/main.da20c1f8.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -914,6 +914,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d73054c6c06844c69d8c53fbe4036ed0",
     "url": "/static/media/cirque.d73054c6.png"
+  },
+  {
+    "revision": "081f2bfbb7b12f4d492c3c6866a8c3a1",
+    "url": "/static/media/colegio_mayor.081f2bfb.png"
+  },
+  {
+    "revision": "e29e6afcfdd423ea16be8be63e1eef79",
+    "url": "/static/media/colegio_mayor.e29e6afc.png"
   },
   {
     "revision": "343d65a749d62514b02b7c0dbbbf2e7e",

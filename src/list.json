@@ -3791,5 +3791,14 @@
         "size": "3000x3000",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "colegio_mayor": {
+        "name": "Colegio mayor",
+        "date": "2022-10-06T01:00",
+        "description": [
+            "Son unos magos. Caemos como pardillos."
+        ],
+        "size": "2000x2000",
+        "tags": ["noche", "luz"]
     }
 }

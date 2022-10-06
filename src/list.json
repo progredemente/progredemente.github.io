@@ -3781,5 +3781,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "filtros": {
+        "name": "Filtros",
+        "date": "2022-10-06T00:00",
+        "description": [
+            "Pobre hombre, se tuvo que comer tremendo craco y quedó traumado."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     }
 }

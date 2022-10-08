@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfd9776a0b19a24011e387d1670c9633",
+    "revision": "ce66f08409bae5f0c75aa5a6d897ea3c",
     "url": "/index.html"
   },
   {
-    "revision": "97050441cea9e5130b81",
+    "revision": "61dfadd36e7ef00304ba",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "59942ea0fe10e3a695b2",
-    "url": "/static/js/2.4d31ccba.chunk.js"
+    "revision": "8ade569c67791c577587",
+    "url": "/static/js/2.6d27b28a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.4d31ccba.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6d27b28a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97050441cea9e5130b81",
-    "url": "/static/js/main.be13c828.chunk.js"
+    "revision": "61dfadd36e7ef00304ba",
+    "url": "/static/js/main.6d6aff21.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1082,6 +1082,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f1efc2a1d4a83641d019e619b00a4fc8",
     "url": "/static/media/desnudo.f1efc2a1.png"
+  },
+  {
+    "revision": "da702e0be122471f5e9c1bc980d6a85e",
+    "url": "/static/media/diarrea_legislativa.da702e0b.png"
+  },
+  {
+    "revision": "dba495abf55eaea2153a62be514bd14c",
+    "url": "/static/media/diarrea_legislativa.dba495ab.png"
   },
   {
     "revision": "7c4673f652e92c164aff7af3eccef28a",

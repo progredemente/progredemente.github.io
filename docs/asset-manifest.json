@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.be13c828.chunk.js",
-    "main.js.map": "/static/js/main.be13c828.chunk.js.map",
+    "main.js": "/static/js/main.6d6aff21.chunk.js",
+    "main.js.map": "/static/js/main.6d6aff21.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4d31ccba.chunk.js": "/static/js/2.4d31ccba.chunk.js",
-    "static/js/2.4d31ccba.chunk.js.map": "/static/js/2.4d31ccba.chunk.js.map",
+    "static/js/2.6d27b28a.chunk.js": "/static/js/2.6d27b28a.chunk.js",
+    "static/js/2.6d27b28a.chunk.js.map": "/static/js/2.6d27b28a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.533a54ffb1e6ac71e7a59487b81c3c74.js": "/precache-manifest.533a54ffb1e6ac71e7a59487b81c3c74.js",
+    "precache-manifest.c7ce9896ea02378820e8f75dea8ebdbe.js": "/precache-manifest.c7ce9896ea02378820e8f75dea8ebdbe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.4d31ccba.chunk.js.LICENSE.txt": "/static/js/2.4d31ccba.chunk.js.LICENSE.txt",
+    "static/js/2.6d27b28a.chunk.js.LICENSE.txt": "/static/js/2.6d27b28a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -153,6 +153,7 @@
     "static/media/descoletado.png": "/static/media/descoletado.d6e5676b.png",
     "static/media/desenterrador.png": "/static/media/desenterrador.2d610d2f.png",
     "static/media/desnudo.png": "/static/media/desnudo.f1efc2a1.png",
+    "static/media/diarrea_legislativa.png": "/static/media/diarrea_legislativa.dba495ab.png",
     "static/media/discapacitada.png": "/static/media/discapacitada.932d86a9.png",
     "static/media/discapacitada.en.png": "/static/media/discapacitada.en.18e0577f.png",
     "static/media/disciplina_partido.png": "/static/media/disciplina_partido.c329d699.png",
@@ -461,8 +462,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4d31ccba.chunk.js",
+    "static/js/2.6d27b28a.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.be13c828.chunk.js"
+    "static/js/main.6d6aff21.chunk.js"
   ]
 }

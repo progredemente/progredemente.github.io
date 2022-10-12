@@ -145,5 +145,26 @@
                 "url": "https://twitter.com/donTomasSerrano"
             }
         ]
+    },
+    "podo_libre": {
+        "name": "Podo, Caballero de Gracia",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/podo_libre/"
+            },
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/CaballeroDeGra1"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/channel/UCnw8ti-gPbJzgFVvZlOSs6Q"
+            },
+            {
+                "id": "twitch",
+                "url": "https://www.twitch.tv/podo_libre"
+            }
+        ]
     }
 }

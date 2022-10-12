@@ -3807,9 +3807,17 @@
         "description": [
             "Qué nos van a parecer sus leyes si ha sido ella quien dijo literalmente hace unos meses que están teniendo una \"diarrea legislativa\"."
         ],
-        "size": "2000x2000",
+        "size": "3000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["UP"],
         "tags": ["mierda", "españa", "bandera"]
+    },
+    "hispanidad_2": {
+        "name": "Hispanidad",
+        "date": "2022-10-12T00:00",
+        "description": [
+            "Hoy hay que sacar brazo frente a los que solo saben destruir. Gracias a {contact:podo_libre} por los consejos de dibujo."
+        ],
+        "size": "3000x3000"
     }
 }

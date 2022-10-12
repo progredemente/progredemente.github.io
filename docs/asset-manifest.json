@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.6d6aff21.chunk.js",
-    "main.js.map": "/static/js/main.6d6aff21.chunk.js.map",
+    "main.js": "/static/js/main.d192bd52.chunk.js",
+    "main.js.map": "/static/js/main.d192bd52.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6d27b28a.chunk.js": "/static/js/2.6d27b28a.chunk.js",
-    "static/js/2.6d27b28a.chunk.js.map": "/static/js/2.6d27b28a.chunk.js.map",
+    "static/js/2.bd1689f4.chunk.js": "/static/js/2.bd1689f4.chunk.js",
+    "static/js/2.bd1689f4.chunk.js.map": "/static/js/2.bd1689f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c7ce9896ea02378820e8f75dea8ebdbe.js": "/precache-manifest.c7ce9896ea02378820e8f75dea8ebdbe.js",
+    "precache-manifest.08f1fb8a63e422eb4728f65b434c77fe.js": "/precache-manifest.08f1fb8a63e422eb4728f65b434c77fe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.6d27b28a.chunk.js.LICENSE.txt": "/static/js/2.6d27b28a.chunk.js.LICENSE.txt",
+    "static/js/2.bd1689f4.chunk.js.LICENSE.txt": "/static/js/2.bd1689f4.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -215,6 +215,7 @@
     "static/media/hipnosis.png": "/static/media/hipnosis.a2d6eb08.png",
     "static/media/hipocresia_climatica.png": "/static/media/hipocresia_climatica.639bb7dd.png",
     "static/media/hispanidad.png": "/static/media/hispanidad.c3f2790c.png",
+    "static/media/hispanidad_2.png": "/static/media/hispanidad_2.983ab2d0.png",
     "static/media/hombre_paja.png": "/static/media/hombre_paja.e85eb217.png",
     "static/media/honkey_kong.png": "/static/media/honkey_kong.fd2f1d74.png",
     "static/media/horda_feminista.png": "/static/media/horda_feminista.b12391e3.png",
@@ -462,8 +463,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6d27b28a.chunk.js",
+    "static/js/2.bd1689f4.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.6d6aff21.chunk.js"
+    "static/js/main.d192bd52.chunk.js"
   ]
 }

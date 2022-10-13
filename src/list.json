@@ -3819,5 +3819,14 @@
             "Hoy hay que sacar brazo frente a los que solo saben destruir. Gracias a {contact:podo_libre} por los consejos de dibujo."
         ],
         "size": "3000x3000"
+    },
+    "ye": {
+        "name": "Ye",
+        "date": "2022-10-13T00:00",
+        "description": [
+            "Por las últimas noticias sobre Kanye West, me imagino que si algún día le hacen una película biográfica, sería algo así."
+        ],
+        "size": "2000x2500",
+        "celebrities": ["Kanye West"]
     }
 }

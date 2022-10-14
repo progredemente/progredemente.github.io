@@ -3828,5 +3828,14 @@
         ],
         "size": "2000x2500",
         "celebrities": ["Kanye West"]
+    },
+    "reloj_roto": {
+        "name": "Reloj roto",
+        "date": "2022-10-14T00:00",
+        "description": [
+            "Hasta el juguete roto del lobby ecologista puede ser como un reloj roto. Me alegra que la gente se vaya cayendo del guindo ante las evidencias."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Greta Thunberg"]
     }
 }

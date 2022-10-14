@@ -3837,5 +3837,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Greta Thunberg"]
+    },
+    "amiguis_rey": {
+        "name": "Las amigüis del Rey",
+        "date": "2022-10-14T01:00",
+        "description": [
+            "¿Monarquía o charorepública? Yo lo tengo claro."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero", "Lilith Verstrynge", "Felipe VI"],
+        "parties": ["UP"],
+        "tags": ["oro"]
     }
 }

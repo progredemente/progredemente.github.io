@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0ed2d522b338bc160ee16824fc273d3",
+    "revision": "122efa646ea00a513f9df64d045056fc",
     "url": "/index.html"
   },
   {
-    "revision": "d1189e3ff605cb4e0857",
+    "revision": "c46ec5aec5b416d53cf7",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "bd4916f4c4e134b1ffbf",
-    "url": "/static/js/2.1261f05e.chunk.js"
+    "revision": "a2ffb92bbe1e315cdc3d",
+    "url": "/static/js/2.ee5b39f2.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.1261f05e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ee5b39f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1189e3ff605cb4e0857",
-    "url": "/static/js/main.6bcd1337.chunk.js"
+    "revision": "c46ec5aec5b416d53cf7",
+    "url": "/static/js/main.c9704dd7.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1162,6 +1162,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b604eceb566e1e651866af97519a61be",
     "url": "/static/media/ecografia.b604eceb.png"
+  },
+  {
+    "revision": "ebfedd9b56dce43c6fbf92da56a45889",
+    "url": "/static/media/edredon_fuerte.ebfedd9b.png"
+  },
+  {
+    "revision": "fbe3018859f6806d01558b429cf209c3",
+    "url": "/static/media/edredon_fuerte.fbe30188.png"
   },
   {
     "revision": "0e7b9f0c56e600413c549b11c95a4527",

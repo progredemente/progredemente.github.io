@@ -3848,5 +3848,15 @@
         "celebrities": ["Irene Montero", "Lilith Verstrynge", "Felipe VI"],
         "parties": ["UP"],
         "tags": ["oro"]
+    },
+    "edredon_fuerte": {
+        "name": "Edredón fuerte",
+        "date": "2022-10-18T01:00",
+        "description": [
+            "El progreso, chiqui."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["María Jesús Montero"],
+        "parties": ["PSOE"]
     }
 }

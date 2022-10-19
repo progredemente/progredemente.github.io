@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "122efa646ea00a513f9df64d045056fc",
+    "revision": "0d90295ab796301bb0283511e6ea9c49",
     "url": "/index.html"
   },
   {
-    "revision": "c46ec5aec5b416d53cf7",
+    "revision": "41852951486bc63e76b5",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "a2ffb92bbe1e315cdc3d",
-    "url": "/static/js/2.ee5b39f2.chunk.js"
+    "revision": "32f10027eebbb9aa3102",
+    "url": "/static/js/2.a3f92354.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ee5b39f2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a3f92354.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c46ec5aec5b416d53cf7",
-    "url": "/static/js/main.c9704dd7.chunk.js"
+    "revision": "41852951486bc63e76b5",
+    "url": "/static/js/main.08a34ca2.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2710,6 +2710,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d1eabf90d6cf3ab91d0b8572890e05fa",
     "url": "/static/media/racismo_disney.d1eabf90.png"
+  },
+  {
+    "revision": "7904955bc10bcca2995a8a368685fd2e",
+    "url": "/static/media/radar_covid.7904955b.png"
+  },
+  {
+    "revision": "c1de58ee53fbc1239fb650f387ad60bc",
+    "url": "/static/media/radar_covid.c1de58ee.png"
   },
   {
     "revision": "8321449c91cd62832efc48b2d45a9744",

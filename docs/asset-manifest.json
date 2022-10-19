@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.c9704dd7.chunk.js",
-    "main.js.map": "/static/js/main.c9704dd7.chunk.js.map",
+    "main.js": "/static/js/main.08a34ca2.chunk.js",
+    "main.js.map": "/static/js/main.08a34ca2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ee5b39f2.chunk.js": "/static/js/2.ee5b39f2.chunk.js",
-    "static/js/2.ee5b39f2.chunk.js.map": "/static/js/2.ee5b39f2.chunk.js.map",
+    "static/js/2.a3f92354.chunk.js": "/static/js/2.a3f92354.chunk.js",
+    "static/js/2.a3f92354.chunk.js.map": "/static/js/2.a3f92354.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.85d7b2cd256431dcb1ed6b948785d210.js": "/precache-manifest.85d7b2cd256431dcb1ed6b948785d210.js",
+    "precache-manifest.14e070177522f07d2dd320bb759b83f3.js": "/precache-manifest.14e070177522f07d2dd320bb759b83f3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.ee5b39f2.chunk.js.LICENSE.txt": "/static/js/2.ee5b39f2.chunk.js.LICENSE.txt",
+    "static/js/2.a3f92354.chunk.js.LICENSE.txt": "/static/js/2.a3f92354.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -375,6 +375,7 @@
     "static/media/puntos_violeta.png": "/static/media/puntos_violeta.b4771a5e.png",
     "static/media/putin_lukashenko.png": "/static/media/putin_lukashenko.f9123c67.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
+    "static/media/radar_covid.png": "/static/media/radar_covid.c1de58ee.png",
     "static/media/raposa.png": "/static/media/raposa.e54d3e71.png",
     "static/media/rapunzel.png": "/static/media/rapunzel.57e96611.png",
     "static/media/rebano.png": "/static/media/rebano.ea2c6348.png",
@@ -467,8 +468,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ee5b39f2.chunk.js",
+    "static/js/2.a3f92354.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.c9704dd7.chunk.js"
+    "static/js/main.08a34ca2.chunk.js"
   ]
 }

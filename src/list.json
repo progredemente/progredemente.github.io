@@ -3851,12 +3851,21 @@
     },
     "edredon_fuerte": {
         "name": "Edredón fuerte",
-        "date": "2022-10-18T01:00",
+        "date": "2022-10-18T00:00",
         "description": [
             "El progreso, chiqui."
         ],
         "size": "3000x3000",
         "celebrities": ["María Jesús Montero"],
         "parties": ["PSOE"]
+    },
+    "radar_covid": {
+        "name": "Radar Covid",
+        "date": "2022-10-19T00:00",
+        "description": [
+            "Un dinero muy bien invertido, sí señor. ¿Cómo era? \"Tú solo notarás que lo público funciona mejor\"..."
+        ],
+        "size": "2000x2000",
+        "tags": ["madera"]
     }
 }

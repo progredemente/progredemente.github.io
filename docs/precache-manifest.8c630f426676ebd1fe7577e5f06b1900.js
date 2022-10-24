@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d90295ab796301bb0283511e6ea9c49",
+    "revision": "86a6298f3bcaf69ed385282cf18bc461",
     "url": "/index.html"
   },
   {
-    "revision": "41852951486bc63e76b5",
+    "revision": "375fc4324810fd6997ea",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "32f10027eebbb9aa3102",
-    "url": "/static/js/2.a3f92354.chunk.js"
+    "revision": "4581c07a89b235496be3",
+    "url": "/static/js/2.9ab05a5b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a3f92354.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9ab05a5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41852951486bc63e76b5",
-    "url": "/static/js/main.08a34ca2.chunk.js"
+    "revision": "375fc4324810fd6997ea",
+    "url": "/static/js/main.49d6a8d5.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2346,6 +2346,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f51dc631c6ee21ad42daabe636c63016",
     "url": "/static/media/pabluigi.f51dc631.mp3"
+  },
+  {
+    "revision": "718bea9b1db2eb3e06ae41c34f25dfd4",
+    "url": "/static/media/pack_climatico.718bea9b.png"
+  },
+  {
+    "revision": "e145df51eb89eba3171accbfedca592d",
+    "url": "/static/media/pack_climatico.e145df51.png"
+  },
+  {
+    "revision": "71640b61c8b7f6a92c22cbcd083d3056",
+    "url": "/static/media/pack_climatico.en.71640b61.png"
   },
   {
     "revision": "4b1219cd3a65dd2b26b208ab988b353c",

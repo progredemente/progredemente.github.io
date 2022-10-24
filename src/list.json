@@ -3867,5 +3867,18 @@
         ],
         "size": "2000x2000",
         "tags": ["madera"]
+    },
+    "pack_climatico": {
+        "name": "Pack héroe climático",
+        "date": "2022-10-24T00:00",
+        "description": [
+            "Los museos podrían abrir una tienda en la entrada, además de la que hay en la salida, orientada a estos \"activistas\". Yo creo que se puede exprimir aún más la estulticia, total, vamos cuesta abajo, sin frenos y pisando el acelerador, por pisarlo un poco más tampoco pasa nada."
+        ],
+        "size": "3000x3000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        },
+        "tags": ["tomate"]
     }
 }

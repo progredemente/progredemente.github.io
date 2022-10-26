@@ -3880,5 +3880,26 @@
             "available": ["en"]
         },
         "tags": ["tomate"]
+    },
+    "noche_museo": {
+        "name": "Noche en el museo",
+        "date": "2022-10-25T00:00",
+        "description": [
+            "¿Os imagináis que no sean capaces de despegarlos?"
+        ],
+        "size": "3000x2000",
+        "tags": ["tomate", "pegamento", "fósil"]
+    },
+    "material": {
+        "name": "Material",
+        "date": "2022-10-26T00:00",
+        "description": [
+            "No le encuentro el sentido a dejarles hacer esto."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

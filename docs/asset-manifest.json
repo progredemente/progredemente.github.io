@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.49d6a8d5.chunk.js",
-    "main.js.map": "/static/js/main.49d6a8d5.chunk.js.map",
+    "main.js": "/static/js/main.82be362e.chunk.js",
+    "main.js.map": "/static/js/main.82be362e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9ab05a5b.chunk.js": "/static/js/2.9ab05a5b.chunk.js",
-    "static/js/2.9ab05a5b.chunk.js.map": "/static/js/2.9ab05a5b.chunk.js.map",
+    "static/js/2.4d531121.chunk.js": "/static/js/2.4d531121.chunk.js",
+    "static/js/2.4d531121.chunk.js.map": "/static/js/2.4d531121.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c630f426676ebd1fe7577e5f06b1900.js": "/precache-manifest.8c630f426676ebd1fe7577e5f06b1900.js",
+    "precache-manifest.5ece5cdbad90dd5f981eac38518dcae5.js": "/precache-manifest.5ece5cdbad90dd5f981eac38518dcae5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.9ab05a5b.chunk.js.LICENSE.txt": "/static/js/2.9ab05a5b.chunk.js.LICENSE.txt",
+    "static/js/2.4d531121.chunk.js.LICENSE.txt": "/static/js/2.4d531121.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -280,6 +280,8 @@
     "static/media/marketing.en.png": "/static/media/marketing.en.17c19855.png",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
     "static/media/matematicas.png": "/static/media/matematicas.96bb2f09.png",
+    "static/media/material.png": "/static/media/material.a556445c.png",
+    "static/media/material.en.png": "/static/media/material.en.8bee8a43.png",
     "static/media/matria.png": "/static/media/matria.690ae86a.png",
     "static/media/matronus.png": "/static/media/matronus.241e43aa.png",
     "static/media/medallita.png": "/static/media/medallita.c495d05e.png",
@@ -310,6 +312,7 @@
     "static/media/nayeta.png": "/static/media/nayeta.f61a63af.png",
     "static/media/never_forgetti.png": "/static/media/never_forgetti.94c97b21.png",
     "static/media/niepodleglosc.png": "/static/media/niepodleglosc.cd307a07.png",
+    "static/media/noche_museo.png": "/static/media/noche_museo.8ac99547.png",
     "static/media/notice_me_senpai.png": "/static/media/notice_me_senpai.66f2e9d8.png",
     "static/media/npc.png": "/static/media/npc.11da561c.png",
     "static/media/nueva_coalicion.png": "/static/media/nueva_coalicion.f9c6f9f1.png",
@@ -470,8 +473,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9ab05a5b.chunk.js",
+    "static/js/2.4d531121.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.49d6a8d5.chunk.js"
+    "static/js/main.82be362e.chunk.js"
   ]
 }

@@ -3901,5 +3901,13 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "xi_jinpooh": {
+        "name": "Xi Jinpooh",
+        "date": "2022-10-27T00:00",
+        "description": [
+            "El XX Congreso Nacional del Bosque de los Cien Acres."
+        ],
+        "size": "2000x2000"
     }
 }

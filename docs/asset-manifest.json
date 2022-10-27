@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.82be362e.chunk.js",
-    "main.js.map": "/static/js/main.82be362e.chunk.js.map",
+    "main.js": "/static/js/main.23d28f76.chunk.js",
+    "main.js.map": "/static/js/main.23d28f76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4d531121.chunk.js": "/static/js/2.4d531121.chunk.js",
-    "static/js/2.4d531121.chunk.js.map": "/static/js/2.4d531121.chunk.js.map",
+    "static/js/2.37ef2500.chunk.js": "/static/js/2.37ef2500.chunk.js",
+    "static/js/2.37ef2500.chunk.js.map": "/static/js/2.37ef2500.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5ece5cdbad90dd5f981eac38518dcae5.js": "/precache-manifest.5ece5cdbad90dd5f981eac38518dcae5.js",
+    "precache-manifest.ff7c1c3ac9151e40b5c1e5f6acd89a59.js": "/precache-manifest.ff7c1c3ac9151e40b5c1e5f6acd89a59.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.4d531121.chunk.js.LICENSE.txt": "/static/js/2.4d531121.chunk.js.LICENSE.txt",
+    "static/js/2.37ef2500.chunk.js.LICENSE.txt": "/static/js/2.37ef2500.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -462,6 +462,7 @@
     "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
     "static/media/wabalos.png": "/static/media/wabalos.1cc94c86.png",
     "static/media/wabalos.mp3": "/static/media/wabalos.f48ce022.mp3",
+    "static/media/xi_jinpooh.png": "/static/media/xi_jinpooh.573c492f.png",
     "static/media/ye.png": "/static/media/ye.11d7f218.png",
     "static/media/ye_grave.png": "/static/media/ye_grave.582d007b.png",
     "static/media/yoli_burns.png": "/static/media/yoli_burns.a887f9c5.png",
@@ -473,8 +474,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4d531121.chunk.js",
+    "static/js/2.37ef2500.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.82be362e.chunk.js"
+    "static/js/main.23d28f76.chunk.js"
   ]
 }

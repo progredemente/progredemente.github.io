@@ -3909,5 +3909,15 @@
             "El XX Congreso Nacional del Bosque de los Cien Acres."
         ],
         "size": "2000x2000"
+    },
+    "wakanda": {
+        "name": "Wakanda",
+        "date": "2022-10-28T00:00",
+        "description": [
+            "Me recuerda a cuando fui a ver Sepultura, si no recuerdo mal, en Galicia y el cantante dijo: \"Grasias, Barselona\"."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

@@ -166,5 +166,14 @@
                 "url": "https://www.twitch.tv/podo_libre"
             }
         ]
+    },
+    "remonwangxt": {
+        "name": "Rebel Pepper",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/remonwangxt"
+            }
+        ]
     }
 }

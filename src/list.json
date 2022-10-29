@@ -3919,5 +3919,18 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "censuras": {
+        "name": "Censuras",
+        "date": "2022-10-29T00:00",
+        "description": [
+            "Basada en una viñeta de abril de {contact:remonwangxt}."
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Elon Musk"],
+        "lang": {
+            "default": "en",
+            "available": ["es"]
+        }
     }
 }

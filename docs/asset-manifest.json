@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.587b71c6.chunk.js",
-    "main.js.map": "/static/js/main.587b71c6.chunk.js.map",
+    "main.js": "/static/js/main.47867893.chunk.js",
+    "main.js.map": "/static/js/main.47867893.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9d2e562a.chunk.js": "/static/js/2.9d2e562a.chunk.js",
-    "static/js/2.9d2e562a.chunk.js.map": "/static/js/2.9d2e562a.chunk.js.map",
+    "static/js/2.32b3dd9c.chunk.js": "/static/js/2.32b3dd9c.chunk.js",
+    "static/js/2.32b3dd9c.chunk.js.map": "/static/js/2.32b3dd9c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.73e642c0920d5df4072a392997f81131.js": "/precache-manifest.73e642c0920d5df4072a392997f81131.js",
+    "precache-manifest.e57b966b0eb329f8afcc4b8c43c3afac.js": "/precache-manifest.e57b966b0eb329f8afcc4b8c43c3afac.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.9d2e562a.chunk.js.LICENSE.txt": "/static/js/2.9d2e562a.chunk.js.LICENSE.txt",
+    "static/js/2.32b3dd9c.chunk.js.LICENSE.txt": "/static/js/2.32b3dd9c.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -243,6 +243,7 @@
     "static/media/joulupuu.png": "/static/media/joulupuu.780e7ee5.png",
     "static/media/juraste_destruir.png": "/static/media/juraste_destruir.a1a21c8d.png",
     "static/media/kaputxa.png": "/static/media/kaputxa.8f2c7c7e.png",
+    "static/media/karl_popper.png": "/static/media/karl_popper.dcfc4060.png",
     "static/media/karlviarx.png": "/static/media/karlviarx.c2ec5d5e.png",
     "static/media/kirby.png": "/static/media/kirby.c3228644.png",
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
@@ -477,8 +478,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9d2e562a.chunk.js",
+    "static/js/2.32b3dd9c.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.587b71c6.chunk.js"
+    "static/js/main.47867893.chunk.js"
   ]
 }

@@ -3932,5 +3932,14 @@
             "default": "en",
             "available": ["es"]
         }
+    },
+    "karl_popper": {
+        "name": "Karl Popper",
+        "date": "2022-10-31T00:00",
+        "description": [
+            "Cada vez que utilizan la maldita viñeta no puedo evitar imaginarme a este hombre revolviéndose en su tumba."
+        ],
+        "size": "2000x2000",
+        "tags": ["hierba", "noche", "luna", "tierra", "árbol"]
     }
 }

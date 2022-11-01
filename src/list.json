@@ -3941,5 +3941,14 @@
         ],
         "size": "2000x2000",
         "tags": ["hierba", "noche", "luna", "tierra", "árbol"]
+    },
+    "sol_negro": {
+        "name": "Sol negro",
+        "date": "2022-11-01T00:00",
+        "description": [
+            "¿En serio no se han dado cuenta de que han puesto un sol negro? Lo tenía que hacer."
+        ],
+        "size": "4000x4000",
+        "tags": ["hierba", "árbol"]
     }
 }

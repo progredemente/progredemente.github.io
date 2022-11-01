@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.47867893.chunk.js",
-    "main.js.map": "/static/js/main.47867893.chunk.js.map",
+    "main.js": "/static/js/main.ae7b630f.chunk.js",
+    "main.js.map": "/static/js/main.ae7b630f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.32b3dd9c.chunk.js": "/static/js/2.32b3dd9c.chunk.js",
-    "static/js/2.32b3dd9c.chunk.js.map": "/static/js/2.32b3dd9c.chunk.js.map",
+    "static/js/2.71e3bdc6.chunk.js": "/static/js/2.71e3bdc6.chunk.js",
+    "static/js/2.71e3bdc6.chunk.js.map": "/static/js/2.71e3bdc6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e57b966b0eb329f8afcc4b8c43c3afac.js": "/precache-manifest.e57b966b0eb329f8afcc4b8c43c3afac.js",
+    "precache-manifest.f9656ac334db8b8360d312f2e0cdfd22.js": "/precache-manifest.f9656ac334db8b8360d312f2e0cdfd22.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.32b3dd9c.chunk.js.LICENSE.txt": "/static/js/2.32b3dd9c.chunk.js.LICENSE.txt",
+    "static/js/2.71e3bdc6.chunk.js.LICENSE.txt": "/static/js/2.71e3bdc6.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -422,6 +422,7 @@
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
+    "static/media/sol_negro.png": "/static/media/sol_negro.7673fceb.png",
     "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
     "static/media/spongebolso.png": "/static/media/spongebolso.48591ab9.png",
     "static/media/starlink.png": "/static/media/starlink.690a8711.png",
@@ -478,8 +479,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.32b3dd9c.chunk.js",
+    "static/js/2.71e3bdc6.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.47867893.chunk.js"
+    "static/js/main.ae7b630f.chunk.js"
   ]
 }

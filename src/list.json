@@ -3950,5 +3950,14 @@
         ],
         "size": "4000x4000",
         "tags": ["hierba", "árbol"]
+    },
+    "miseria_moral": {
+        "name": "Miseria moral",
+        "date": "2022-11-04T00:00",
+        "description": [
+            "Ante una situación como la de la izquierda, nunca seas como el de la derecha."
+        ],
+        "size": "3800x2000",
+        "tags": ["hierba", "sangre"]
     }
 }

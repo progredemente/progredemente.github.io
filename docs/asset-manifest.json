@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.ae7b630f.chunk.js",
-    "main.js.map": "/static/js/main.ae7b630f.chunk.js.map",
+    "main.js": "/static/js/main.4af49cd2.chunk.js",
+    "main.js.map": "/static/js/main.4af49cd2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.71e3bdc6.chunk.js": "/static/js/2.71e3bdc6.chunk.js",
-    "static/js/2.71e3bdc6.chunk.js.map": "/static/js/2.71e3bdc6.chunk.js.map",
+    "static/js/2.94e07992.chunk.js": "/static/js/2.94e07992.chunk.js",
+    "static/js/2.94e07992.chunk.js.map": "/static/js/2.94e07992.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f9656ac334db8b8360d312f2e0cdfd22.js": "/precache-manifest.f9656ac334db8b8360d312f2e0cdfd22.js",
+    "precache-manifest.7f2845654564e88719f8dd80fb7dec47.js": "/precache-manifest.7f2845654564e88719f8dd80fb7dec47.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.71e3bdc6.chunk.js.LICENSE.txt": "/static/js/2.71e3bdc6.chunk.js.LICENSE.txt",
+    "static/js/2.94e07992.chunk.js.LICENSE.txt": "/static/js/2.94e07992.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -300,6 +300,7 @@
     "static/media/minifaldas.png": "/static/media/minifaldas.ca1208f0.png",
     "static/media/minoria_absoluta.png": "/static/media/minoria_absoluta.5af402e1.png",
     "static/media/miradas_impudicas.png": "/static/media/miradas_impudicas.d1fb7ac5.png",
+    "static/media/miseria_moral.png": "/static/media/miseria_moral.4bac93e1.png",
     "static/media/mismo_sentido.png": "/static/media/mismo_sentido.bb29363e.png",
     "static/media/mitin_negacionista.png": "/static/media/mitin_negacionista.8d6cde5d.png",
     "static/media/monederos.png": "/static/media/monederos.7f8b89ab.png",
@@ -479,8 +480,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.71e3bdc6.chunk.js",
+    "static/js/2.94e07992.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.ae7b630f.chunk.js"
+    "static/js/main.4af49cd2.chunk.js"
   ]
 }

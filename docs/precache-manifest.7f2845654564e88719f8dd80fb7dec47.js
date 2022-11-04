@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faf83ac0b59dfcdde1a652a93208d7c1",
+    "revision": "e5a35300a6d59c53e18812bd40dae602",
     "url": "/index.html"
   },
   {
-    "revision": "8b1d3f76f981f353b44c",
+    "revision": "9b39b626894582d24b5f",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "2112ece7eec173e4397a",
-    "url": "/static/js/2.71e3bdc6.chunk.js"
+    "revision": "5836d06086d7a2495294",
+    "url": "/static/js/2.94e07992.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.71e3bdc6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.94e07992.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b1d3f76f981f353b44c",
-    "url": "/static/js/main.ae7b630f.chunk.js"
+    "revision": "9b39b626894582d24b5f",
+    "url": "/static/js/main.4af49cd2.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2150,6 +2150,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d1fb7ac5fe7f5cd71e3c8d73afe63864",
     "url": "/static/media/miradas_impudicas.d1fb7ac5.png"
+  },
+  {
+    "revision": "12cd300880301cdd9d846bd069ca9125",
+    "url": "/static/media/miseria_moral.12cd3008.png"
+  },
+  {
+    "revision": "4bac93e199a6cf9c8da9bdc1e6ee56b2",
+    "url": "/static/media/miseria_moral.4bac93e1.png"
   },
   {
     "revision": "ad480b8c9a82f2d8fe41d40d5c4ced49",

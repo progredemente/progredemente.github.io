@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.4af49cd2.chunk.js",
-    "main.js.map": "/static/js/main.4af49cd2.chunk.js.map",
+    "main.js": "/static/js/main.2c05c599.chunk.js",
+    "main.js.map": "/static/js/main.2c05c599.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.94e07992.chunk.js": "/static/js/2.94e07992.chunk.js",
-    "static/js/2.94e07992.chunk.js.map": "/static/js/2.94e07992.chunk.js.map",
+    "static/js/2.a247e9a2.chunk.js": "/static/js/2.a247e9a2.chunk.js",
+    "static/js/2.a247e9a2.chunk.js.map": "/static/js/2.a247e9a2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7f2845654564e88719f8dd80fb7dec47.js": "/precache-manifest.7f2845654564e88719f8dd80fb7dec47.js",
+    "precache-manifest.2f09c43419aeaecdae1438a2e848f6aa.js": "/precache-manifest.2f09c43419aeaecdae1438a2e848f6aa.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.94e07992.chunk.js.LICENSE.txt": "/static/js/2.94e07992.chunk.js.LICENSE.txt",
+    "static/js/2.a247e9a2.chunk.js.LICENSE.txt": "/static/js/2.a247e9a2.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -268,6 +268,7 @@
     "static/media/lula.png": "/static/media/lula.c1d3fd7c.png",
     "static/media/luz_lujo.png": "/static/media/luz_lujo.bc7fb754.png",
     "static/media/macroencuesta.png": "/static/media/macroencuesta.a5e5dae8.png",
+    "static/media/madres_protectoras.png": "/static/media/madres_protectoras.54760815.png",
     "static/media/madrid_omnipresente.png": "/static/media/madrid_omnipresente.c1b040c9.png",
     "static/media/madrileno.png": "/static/media/madrileno.6730b36e.png",
     "static/media/maestro_rata.png": "/static/media/maestro_rata.b2255b0a.png",
@@ -480,8 +481,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.94e07992.chunk.js",
+    "static/js/2.a247e9a2.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.4af49cd2.chunk.js"
+    "static/js/main.2c05c599.chunk.js"
   ]
 }

@@ -3476,7 +3476,8 @@
         "description": [
             "A pocos días de la polémica del cartel body positive del feministerio, salen novedades del nuevo Pokémon ambientado en la Península y una de ellas es un Pokémon ballena que tiene piernas, literalmente una landwhale. Gracias, Nintendo."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "series": ["progremon"]
     },
     "sumision": {
         "name": "Sumisión",
@@ -3965,9 +3966,18 @@
         "date": "2022-11-06T00:00",
         "description": [
             "Me da la impresión de que cada vez que utilizan lo de \"madres protectoras\" es para referirse a alguien que ha cometido algún tipo de delito.",
-            "Me he inspirado en una portada de Capitana Marvel, en el presonaje de She Hulk y en la explicitud de las series de The Boys y de Invincible, las cuales he visto recientemente, para esta portada de mentira. La hubiese hecho gorda o con alguna tara física, exceptuando la cojera, debido a los tipos de cuerpos que gustan de promover desde el feministerio, pero prefiero aprender a dibujar cuerpos bonitos."
+            "Me he inspirado en una portada de Capitana Marvel, en el personaje de She Hulk y en la explicitud de las series de The Boys y de Invincible, las cuales he visto recientemente, para esta portada de mentira. La hubiese hecho gorda o con alguna tara física, exceptuando la cojera, debido a los tipos de cuerpos que gustan de promover desde el feministerio, pero prefiero aprender a dibujar cuerpos bonitos."
         ],
         "size": "2500x3500",
         "parties": ["UP"]
+    },
+    "gimmighoul": {
+        "name": "Gimmighoul",
+        "date": "2022-11-07T00:00",
+        "description": [
+            "¿En Pokémon Españita también habrá pokeleyenda negra?"
+        ],
+        "size": "3000x2000",
+        "series": ["progremon"]
     }
 }

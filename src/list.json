@@ -3979,5 +3979,15 @@
         ],
         "size": "3000x2000",
         "series": ["progremon"]
+    },
+    "sedicion": {
+        "name": "Sedición",
+        "date": "2022-11-11T00:00",
+        "description": [
+            "Parafraseando a Samuel Vázquez: han entendido el mensaje."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Pedro Sánchez", "Arnaldo Otegi", "Oriol Junqueras", "Ana Pontón"],
+        "parties": ["BNG", "PSOE", "EH Bildu", "ERC"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.83a70127.chunk.js",
-    "main.js.map": "/static/js/main.83a70127.chunk.js.map",
+    "main.js": "/static/js/main.88d08e03.chunk.js",
+    "main.js.map": "/static/js/main.88d08e03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.fda17846.chunk.js": "/static/js/2.fda17846.chunk.js",
-    "static/js/2.fda17846.chunk.js.map": "/static/js/2.fda17846.chunk.js.map",
+    "static/js/2.f9de306b.chunk.js": "/static/js/2.f9de306b.chunk.js",
+    "static/js/2.f9de306b.chunk.js.map": "/static/js/2.f9de306b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.16e55522fb4e5ac06e4815dd2d26b6e4.js": "/precache-manifest.16e55522fb4e5ac06e4815dd2d26b6e4.js",
+    "precache-manifest.4b727eadf1082e505914b93c209627f6.js": "/precache-manifest.4b727eadf1082e505914b93c209627f6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.fda17846.chunk.js.LICENSE.txt": "/static/js/2.fda17846.chunk.js.LICENSE.txt",
+    "static/js/2.f9de306b.chunk.js.LICENSE.txt": "/static/js/2.f9de306b.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -405,6 +405,7 @@
     "static/media/sanchezcracia.png": "/static/media/sanchezcracia.9a7935f9.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
     "static/media/sede_ugt.png": "/static/media/sede_ugt.de47eddf.png",
+    "static/media/sedicion.png": "/static/media/sedicion.9ea696a6.png",
     "static/media/seriefilo.png": "/static/media/seriefilo.edf45dd4.png",
     "static/media/servilleta.png": "/static/media/servilleta.92785c74.png",
     "static/media/shingeki_no_muajin.png": "/static/media/shingeki_no_muajin.b26f007f.png",
@@ -482,8 +483,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.fda17846.chunk.js",
+    "static/js/2.f9de306b.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.83a70127.chunk.js"
+    "static/js/main.88d08e03.chunk.js"
   ]
 }

@@ -3989,5 +3989,15 @@
         "size": "4000x3000",
         "celebrities": ["Pedro Sánchez", "Arnaldo Otegi", "Oriol Junqueras", "Ana Pontón"],
         "parties": ["BNG", "PSOE", "EH Bildu", "ERC"]
+    },
+    "desfile_payasos": {
+        "name": "Desfile de payasos",
+        "date": "2022-11-14T00:00",
+        "description": [
+            "Mema: médica y master of puppets."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Mónica García", "Isabel Díaz Ayuso"],
+        "parties": ["MP", "PP"]
     }
 }

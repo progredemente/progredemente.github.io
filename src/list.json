@@ -3999,5 +3999,15 @@
         "size": "3000x3000",
         "celebrities": ["Mónica García", "Isabel Díaz Ayuso"],
         "parties": ["MP", "PP"]
+    },
+    "malversacion": {
+        "name": "Malversación",
+        "date": "2022-11-15T00:00",
+        "description": [
+            "Tipos delictivos ad hoc."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"],
+        "series": ["memes"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.af99a2a0.chunk.js",
-    "main.js.map": "/static/js/main.af99a2a0.chunk.js.map",
+    "main.js": "/static/js/main.20544a23.chunk.js",
+    "main.js.map": "/static/js/main.20544a23.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.afeed8d1.chunk.js": "/static/js/2.afeed8d1.chunk.js",
-    "static/js/2.afeed8d1.chunk.js.map": "/static/js/2.afeed8d1.chunk.js.map",
+    "static/js/2.fd0b11aa.chunk.js": "/static/js/2.fd0b11aa.chunk.js",
+    "static/js/2.fd0b11aa.chunk.js.map": "/static/js/2.fd0b11aa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.28c0ea36a33129510ac24201102da501.js": "/precache-manifest.28c0ea36a33129510ac24201102da501.js",
+    "precache-manifest.8891e8ab58b3fe7560d3afa6cf9fe44c.js": "/precache-manifest.8891e8ab58b3fe7560d3afa6cf9fe44c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.afeed8d1.chunk.js.LICENSE.txt": "/static/js/2.afeed8d1.chunk.js.LICENSE.txt",
+    "static/js/2.fd0b11aa.chunk.js.LICENSE.txt": "/static/js/2.fd0b11aa.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -146,6 +146,7 @@
     "static/media/cortinas_banderas.png": "/static/media/cortinas_banderas.a8a093a9.png",
     "static/media/cuatro_gatos.png": "/static/media/cuatro_gatos.ed49446e.png",
     "static/media/cuentos_banner.png": "/static/media/cuentos_banner.783f13f2.png",
+    "static/media/culpa_jueces.png": "/static/media/culpa_jueces.a963fea5.png",
     "static/media/cumplir.png": "/static/media/cumplir.b87544da.png",
     "static/media/cuotas.png": "/static/media/cuotas.788a2cad.png",
     "static/media/curriculum.png": "/static/media/curriculum.83d6a998.png",
@@ -486,8 +487,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.afeed8d1.chunk.js",
+    "static/js/2.fd0b11aa.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.af99a2a0.chunk.js"
+    "static/js/main.20544a23.chunk.js"
   ]
 }

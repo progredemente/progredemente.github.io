@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80f61f707d6639470ac21fca29a87d88",
+    "revision": "130594662603d2cb17f54eceff712f0e",
     "url": "/index.html"
   },
   {
-    "revision": "68f5940592c6c32da9e4",
+    "revision": "adc0897c771d304c3f51",
     "url": "/static/css/main.412bb58d.chunk.css"
   },
   {
-    "revision": "374f43039e3e5d69637b",
-    "url": "/static/js/2.afeed8d1.chunk.js"
+    "revision": "27ad7b56adf852d9c6fd",
+    "url": "/static/js/2.fd0b11aa.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.afeed8d1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fd0b11aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68f5940592c6c32da9e4",
-    "url": "/static/js/main.af99a2a0.chunk.js"
+    "revision": "adc0897c771d304c3f51",
+    "url": "/static/js/main.20544a23.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1026,6 +1026,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "783f13f2e40cf02e64ce935d8e8cb428",
     "url": "/static/media/cuentos_banner.783f13f2.png"
+  },
+  {
+    "revision": "0d96cfd7cb47a85b342e5988dfb2180c",
+    "url": "/static/media/culpa_jueces.0d96cfd7.png"
+  },
+  {
+    "revision": "a963fea5ae6ccd5b22ef01c65db9a213",
+    "url": "/static/media/culpa_jueces.a963fea5.png"
   },
   {
     "revision": "b87544da54a1305abc4e0707c6b0c119",

@@ -4017,5 +4017,15 @@
             "Gente que no sabe el funcionamiento correcto de un cubo te va a explicar por qué eres el responsable de que el planeta se vaya a la mierda."
         ],
         "size": "2000x2000"
+    },
+    "culpa_jueces": {
+        "name": "\"La culpa es de los jueces\"",
+        "date": "2022-11-16T01:00",
+        "description": [
+            "Qué patético y miserable a la vez."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

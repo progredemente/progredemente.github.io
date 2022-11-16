@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.9a1a7b12.chunk.js",
-    "main.js.map": "/static/js/main.9a1a7b12.chunk.js.map",
+    "main.js": "/static/js/main.af99a2a0.chunk.js",
+    "main.js.map": "/static/js/main.af99a2a0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.39df627c.chunk.js": "/static/js/2.39df627c.chunk.js",
-    "static/js/2.39df627c.chunk.js.map": "/static/js/2.39df627c.chunk.js.map",
+    "static/js/2.afeed8d1.chunk.js": "/static/js/2.afeed8d1.chunk.js",
+    "static/js/2.afeed8d1.chunk.js.map": "/static/js/2.afeed8d1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5c4716a63b72c622bb594b3041e0f06a.js": "/precache-manifest.5c4716a63b72c622bb594b3041e0f06a.js",
+    "precache-manifest.28c0ea36a33129510ac24201102da501.js": "/precache-manifest.28c0ea36a33129510ac24201102da501.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.39df627c.chunk.js.LICENSE.txt": "/static/js/2.39df627c.chunk.js.LICENSE.txt",
+    "static/js/2.afeed8d1.chunk.js.LICENSE.txt": "/static/js/2.afeed8d1.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -433,6 +433,7 @@
     "static/media/spongebolso.png": "/static/media/spongebolso.48591ab9.png",
     "static/media/starlink.png": "/static/media/starlink.690a8711.png",
     "static/media/starlink.en.png": "/static/media/starlink.en.e6bb99e4.png",
+    "static/media/stop_stupid.png": "/static/media/stop_stupid.8d21af27.png",
     "static/media/strawman.png": "/static/media/strawman.ebadc313.png",
     "static/media/strawman.en.png": "/static/media/strawman.en.e0c46830.png",
     "static/media/sube_el_contador.png": "/static/media/sube_el_contador.d22180a3.png",
@@ -485,8 +486,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.39df627c.chunk.js",
+    "static/js/2.afeed8d1.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.9a1a7b12.chunk.js"
+    "static/js/main.af99a2a0.chunk.js"
   ]
 }

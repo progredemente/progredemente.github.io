@@ -4027,5 +4027,15 @@
         "size": "3000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "pegada_silla": {
+        "name": "Pegada a la silla",
+        "date": "2022-11-17T00:00",
+        "description": [
+            "¿Habrá utilizado Loctite o Pritt?"
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["UP"]
     }
 }

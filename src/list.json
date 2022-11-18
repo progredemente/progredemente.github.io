@@ -4034,8 +4034,17 @@
         "description": [
             "¿Habrá utilizado Loctite o Pritt?"
         ],
-        "size": "3000x2000",
+        "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["UP"]
+    },
+    "ccoo": {
+        "name": "CCOO",
+        "date": "2022-11-18T00:00",
+        "description": [
+            "Parece que se ha utilizado una evolución de la táctica de las prespetutas de José Tojeiro echándole droja en las croquetas a un señor para revolver buscando dineros.",
+            "Para el que no sepa de lo que hablo: {https://www.elmundo.es/espana/2022/11/17/63766550e4d4d85e358b4581.html}"
+        ],
+        "size": "2000x2000"
     }
 }

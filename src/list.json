@@ -4046,5 +4046,16 @@
             "Para el que no sepa de lo que hablo: {https://www.elmundo.es/espana/2022/11/17/63766550e4d4d85e358b4581.html}"
         ],
         "size": "2000x2000"
+    },
+    "loro_rata": {
+        "name": "Loro VS Rata",
+        "date": "2022-11-19T00:00",
+        "description": [
+            "¡Pelea, pelea!"
+        ],
+        "size": "3000x3000",
+        "series": ["memes"],
+        "celebrities": ["Pablo Iglesias", "Yolanda Díaz"],
+        "parties": ["UP"]
     }
 }

@@ -4057,5 +4057,15 @@
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Yolanda Díaz"],
         "parties": ["UP"]
+    },
+    "xokas": {
+        "name": "Xokas",
+        "date": "2022-11-23T00:00",
+        "description": [
+            "No agachéis la cabeza ante esta gentuza. Que no os engañen con su moralidad impostada."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Irene Montero", "El Xokas"],
+        "parties": ["UP"]
     }
 }

@@ -4067,5 +4067,15 @@
         "size": "3000x2000",
         "celebrities": ["Irene Montero", "El Xokas"],
         "parties": ["UP"]
+    },
+    "ana_botella": {
+        "name": "Ana Botella",
+        "date": "2022-11-24T00:00",
+        "description": [
+            "Irene también se ha tomado a relaxing cup of café con leche... de rata."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ana Botella"],
+        "parties": ["UP", "PP"]
     }
 }

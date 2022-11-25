@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.412bb58d.chunk.css",
-    "main.js": "/static/js/main.5c0c89b9.chunk.js",
-    "main.js.map": "/static/js/main.5c0c89b9.chunk.js.map",
+    "main.js": "/static/js/main.a2d32905.chunk.js",
+    "main.js.map": "/static/js/main.a2d32905.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.78440bdc.chunk.js": "/static/js/2.78440bdc.chunk.js",
-    "static/js/2.78440bdc.chunk.js.map": "/static/js/2.78440bdc.chunk.js.map",
+    "static/js/2.38cce964.chunk.js": "/static/js/2.38cce964.chunk.js",
+    "static/js/2.38cce964.chunk.js.map": "/static/js/2.38cce964.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b2957667c98c098b2a0a52d00a4e3b03.js": "/precache-manifest.b2957667c98c098b2a0a52d00a4e3b03.js",
+    "precache-manifest.9dc3a9871977163a42d8149687c0a082.js": "/precache-manifest.9dc3a9871977163a42d8149687c0a082.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.412bb58d.chunk.css.map": "/static/css/main.412bb58d.chunk.css.map",
-    "static/js/2.78440bdc.chunk.js.LICENSE.txt": "/static/js/2.78440bdc.chunk.js.LICENSE.txt",
+    "static/js/2.38cce964.chunk.js.LICENSE.txt": "/static/js/2.38cce964.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
     "static/media/abaskong.png": "/static/media/abaskong.e5fb2b3b.png",
@@ -140,6 +140,7 @@
     "static/media/color_carne.png": "/static/media/color_carne.b6597e97.png",
     "static/media/Icon.css": "/static/media/comic_icons.3be09869.ttf",
     "static/media/compra_votos.png": "/static/media/compra_votos.54ec28a9.png",
+    "static/media/con_irene.png": "/static/media/con_irene.f2f69c5d.png",
     "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
     "static/media/conguitos.png": "/static/media/conguitos.d90cd7e3.png",
     "static/media/control_plagas.png": "/static/media/control_plagas.b7efca5f.png",
@@ -492,8 +493,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.78440bdc.chunk.js",
+    "static/js/2.38cce964.chunk.js",
     "static/css/main.412bb58d.chunk.css",
-    "static/js/main.5c0c89b9.chunk.js"
+    "static/js/main.a2d32905.chunk.js"
   ]
 }

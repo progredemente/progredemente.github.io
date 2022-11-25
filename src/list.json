@@ -4077,5 +4077,14 @@
         "size": "2000x2000",
         "celebrities": ["Ana Botella"],
         "parties": ["UP", "PP"]
+    },
+    "con_irene": {
+        "name": "Con Irene",
+        "date": "2022-11-25T00:00",
+        "description": [
+            "¿De qué lado estarán los delicuentes?"
+        ],
+        "size": "2000x2000",
+        "parties": ["UP"]
     }
 }

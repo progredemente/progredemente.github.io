@@ -4086,5 +4086,14 @@
         ],
         "size": "2000x2000",
         "parties": ["UP"]
+    },
+    "perras": {
+        "name": "Perras",
+        "date": "2022-11-28T00:00",
+        "description": [
+            "Me contó un amigo que en su pueblo hay un cartel así. Originalmente iba poner solo \"perros\" pero, cuando estaban colocando los operarios el cartel, apareció de casualidad una charo que lleva asuntos chariles en el ayuntamiento y, al verlo, entró en cólera y les echó la bronca a los operarios, quienes tuvieron que dejar de colocarlo. Al final se hizo un cartel donde también se mencionaba a las hembras. Unas perras muy bien invertidas."
+        ],
+        "size": "2000x2000",
+        "tags": ["perro", "madera"]
     }
 }

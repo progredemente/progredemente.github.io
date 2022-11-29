@@ -4095,5 +4095,15 @@
         ],
         "size": "2000x2000",
         "tags": ["perro", "madera"]
+    },
+    "canal_red": {
+        "name": "Canal Red",
+        "date": "2022-11-29T00:00",
+        "description": [
+            "A ver si adivináis las tres (3) referencias de esta viñeta."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["UP"]
     }
 }

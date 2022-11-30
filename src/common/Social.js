@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Social.css';
 import Loading from './Loading';
+import Icon from './Icon';
 
 class Social extends Component{
 
@@ -19,17 +20,27 @@ class Social extends Component{
                 href={this.props.page.url}
                 className="social-link"
             >
-                <Loading
-                    hidden={this.state.load}
-                />
-                <img
-                    src={require(`../img/social/${this.props.page.id}.png`)}
-                    alt={this.props.page.id}
-                    className={this.state.load ? "" : "hidden"}
-                    onLoad={ () => {
-                        this.setState({ load: true })
-                    }}
-                />
+                {
+                    this.props.page.id !== 'web' &&
+                    <>
+                        <Loading
+                            hidden={this.state.load}
+                        />
+                        <img
+                            src={require(`../img/social/${this.props.page.id}.png`)}
+                            alt={this.props.page.id}
+                            className={this.state.load ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ load: true })
+                            }}
+                        />
+                    </>
+                }
+
+                {
+                    this.props.page.id === 'web' &&
+                    <Icon icon="🌐" />
+                }
                 {
                     this.props.name &&
                     this.props.page.name

@@ -4105,5 +4105,14 @@
         "size": "3000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["UP"]
+    },
+    "2_patas": {
+        "name": "Rata de dos patas",
+        "date": "2022-11-30T00:00",
+        "description": [
+            "Espero que {contact:forocoches} sea eterno."
+        ],
+        "size": "3000x3000",
+        "tags": ["agua", "oro"]
     }
 }

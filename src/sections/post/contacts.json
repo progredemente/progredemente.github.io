@@ -175,5 +175,26 @@
                 "url": "https://twitter.com/remonwangxt"
             }
         ]
+    },
+    "forocoches": {
+        "name": "ForoCoches",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/forocoches/"
+            },
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/forocoches"
+            },
+            {
+                "id": "telegram",
+                "url": "https://t.me/forocoches_oficial"
+            },
+            {
+                "id": "web",
+                "url": "https://forocoches.com/"
+            }
+        ]
     }
 }

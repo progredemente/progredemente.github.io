@@ -90,7 +90,7 @@ class Welcome extends Component {
                     {
                         social2.map((s) => {
                             return (
-                                <Social key={s.id} page={s} track name/>
+                                <Social key={s.id} page={s} name/>
                             )
                         })
                     }

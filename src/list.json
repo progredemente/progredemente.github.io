@@ -4114,5 +4114,14 @@
         ],
         "size": "3000x3000",
         "tags": ["agua", "oro"]
+    },
+    "bodegas": {
+        "name": "Rata de dos patas",
+        "date": "2022-12-01T00:00",
+        "description": [
+            "Para el que no se haya enterado de la noticia: {https://www.diariodeleon.es/articulo/bierzo/arte-cosificacion-femenina-que-ves-etiqueta-vino/202211291819332281047.html}"
+        ],
+        "size": "3000x2000",
+        "parties": ["UP"]
     }
 }

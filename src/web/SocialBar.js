@@ -9,7 +9,7 @@ class SocialBar extends Component {
             <div className="social-bar">
                 {
                     social.map((s) => {
-                        return <Social key={s.id} page={s} track={true} />
+                        return <Social key={s.id} page={s}/>
                     })
                 }
             </div>

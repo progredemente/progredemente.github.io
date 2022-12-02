@@ -4123,5 +4123,14 @@
         ],
         "size": "3000x2000",
         "parties": ["UP"]
+    },
+    "famosa": {
+        "name": "Famosa",
+        "date": "2022-12-02T00:00",
+        "description": [
+            "Que no haya ningún aspecto de nuestras vidas que no les quede sin controlar.",
+            "La noticia: {https://www.vozpopuli.com/espana/nuevo-codigo-gobierno-prohibe-anunciar-tv-munecas-cocinitas-ninas.html}"
+        ],
+        "size": "2000x2000"
     }
 }

@@ -3969,7 +3969,8 @@
             "Me he inspirado en una portada de Capitana Marvel, en el personaje de She Hulk y en la explicitud de las series de The Boys y de Invincible, las cuales he visto recientemente, para esta portada de mentira. La hubiese hecho gorda o con alguna tara física, exceptuando la cojera, debido a los tipos de cuerpos que gustan de promover desde el feministerio, pero prefiero aprender a dibujar cuerpos bonitos."
         ],
         "size": "2500x3500",
-        "parties": ["UP"]
+        "parties": ["UP"],
+        "series": ["super_madre_protectora"]
     },
     "gimmighoul": {
         "name": "Gimmighoul",
@@ -4132,5 +4133,16 @@
             "La noticia: {https://www.vozpopuli.com/espana/nuevo-codigo-gobierno-prohibe-anunciar-tv-munecas-cocinitas-ninas.html}"
         ],
         "size": "2000x2000"
+    },
+    "secuestradora": {
+        "name": "Secuestradora",
+        "date": "2022-12-03T00:00",
+        "description": [
+            "El otro día hubo un nuevo intento de blanqueo de un ser despreciable y me vi en la obligación de sacar la segunda parte de esta serie.",
+            "Esta vez la inspiración viene del meme de Scooby-Doo."
+        ],
+        "size": "2500x3500",
+        "parties": ["UP"],
+        "series": ["super_madre_protectora", "memes"]
     }
 }

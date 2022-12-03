@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7b3bb1c73edef73d465efd9097f514d",
+    "revision": "2961cde0f60ee9edca7ef02c35a6d66f",
     "url": "/index.html"
   },
   {
-    "revision": "232d29043a651440abff",
+    "revision": "ef094e7e6f042b201424",
     "url": "/static/css/main.7bba95b4.chunk.css"
   },
   {
-    "revision": "9ac48b6715965a72ebe4",
-    "url": "/static/js/2.84c28726.chunk.js"
+    "revision": "7b41c25fefcf8ac96ee8",
+    "url": "/static/js/2.7759784a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.84c28726.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7759784a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "232d29043a651440abff",
-    "url": "/static/js/main.bf0c9631.chunk.js"
+    "revision": "ef094e7e6f042b201424",
+    "url": "/static/js/main.f45d20d0.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3032,6 +3032,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/saqueo_minneapolis.f9db2dcd.png"
   },
   {
+    "revision": "c68d440f7d3a3bdff00d9ee7e9a6924b",
+    "url": "/static/media/secuestradora.c68d440f.png"
+  },
+  {
+    "revision": "ebafef7492701323ad090332a15bab51",
+    "url": "/static/media/secuestradora.ebafef74.png"
+  },
+  {
     "revision": "5da5554e1849b6b993d1a0ca91083bdd",
     "url": "/static/media/sede_ugt.5da5554e.png"
   },
@@ -3274,6 +3282,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7d39d107d45f9f86a3135f6ce75049e7",
     "url": "/static/media/sumision.7d39d107.png"
+  },
+  {
+    "revision": "abb982ff4efbeb80d5a76a5364159061",
+    "url": "/static/media/super_madre_protectora_banner.abb982ff.png"
   },
   {
     "revision": "8344260a0dbfd210ac60b952b7fcabee",

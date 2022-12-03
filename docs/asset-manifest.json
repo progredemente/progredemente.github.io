@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.bf0c9631.chunk.js",
-    "main.js.map": "/static/js/main.bf0c9631.chunk.js.map",
+    "main.js": "/static/js/main.f45d20d0.chunk.js",
+    "main.js.map": "/static/js/main.f45d20d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.84c28726.chunk.js": "/static/js/2.84c28726.chunk.js",
-    "static/js/2.84c28726.chunk.js.map": "/static/js/2.84c28726.chunk.js.map",
+    "static/js/2.7759784a.chunk.js": "/static/js/2.7759784a.chunk.js",
+    "static/js/2.7759784a.chunk.js.map": "/static/js/2.7759784a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2a486409eb30572805917d381cb03585.js": "/precache-manifest.2a486409eb30572805917d381cb03585.js",
+    "precache-manifest.c4e5ac65d89122a8331e25fcd2aa601a.js": "/precache-manifest.c4e5ac65d89122a8331e25fcd2aa601a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.84c28726.chunk.js.LICENSE.txt": "/static/js/2.84c28726.chunk.js.LICENSE.txt",
+    "static/js/2.7759784a.chunk.js.LICENSE.txt": "/static/js/2.7759784a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -417,6 +417,7 @@
     "static/media/salud_mental.png": "/static/media/salud_mental.19062cb4.png",
     "static/media/sanchezcracia.png": "/static/media/sanchezcracia.9a7935f9.png",
     "static/media/saqueo_minneapolis.png": "/static/media/saqueo_minneapolis.f9db2dcd.png",
+    "static/media/secuestradora.png": "/static/media/secuestradora.ebafef74.png",
     "static/media/sede_ugt.png": "/static/media/sede_ugt.de47eddf.png",
     "static/media/sedicion.png": "/static/media/sedicion.9ea696a6.png",
     "static/media/seriefilo.png": "/static/media/seriefilo.edf45dd4.png",
@@ -453,6 +454,7 @@
     "static/media/suicidio_politico.png": "/static/media/suicidio_politico.d92d5ffb.png",
     "static/media/sumar.png": "/static/media/sumar.ec4fb43a.png",
     "static/media/sumision.png": "/static/media/sumision.7d39d107.png",
+    "static/media/super_madre_protectora_banner.png": "/static/media/super_madre_protectora_banner.abb982ff.png",
     "static/media/super_pablo.png": "/static/media/super_pablo.e8281f3d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
     "static/media/tanxugueiras.png": "/static/media/tanxugueiras.501781ae.png",
@@ -498,8 +500,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.84c28726.chunk.js",
+    "static/js/2.7759784a.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.bf0c9631.chunk.js"
+    "static/js/main.f45d20d0.chunk.js"
   ]
 }

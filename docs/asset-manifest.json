@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.f45d20d0.chunk.js",
-    "main.js.map": "/static/js/main.f45d20d0.chunk.js.map",
+    "main.js": "/static/js/main.d1c26abf.chunk.js",
+    "main.js.map": "/static/js/main.d1c26abf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7759784a.chunk.js": "/static/js/2.7759784a.chunk.js",
-    "static/js/2.7759784a.chunk.js.map": "/static/js/2.7759784a.chunk.js.map",
+    "static/js/2.bf38a497.chunk.js": "/static/js/2.bf38a497.chunk.js",
+    "static/js/2.bf38a497.chunk.js.map": "/static/js/2.bf38a497.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c4e5ac65d89122a8331e25fcd2aa601a.js": "/precache-manifest.c4e5ac65d89122a8331e25fcd2aa601a.js",
+    "precache-manifest.a6eaca16dabcedf1da5ef3cd9637683c.js": "/precache-manifest.a6eaca16dabcedf1da5ef3cd9637683c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.7759784a.chunk.js.LICENSE.txt": "/static/js/2.7759784a.chunk.js.LICENSE.txt",
+    "static/js/2.bf38a497.chunk.js.LICENSE.txt": "/static/js/2.bf38a497.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -187,6 +187,7 @@
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
     "static/media/etagoblikon.png": "/static/media/etagoblikon.a6d19ecd.png",
+    "static/media/euro_digital.png": "/static/media/euro_digital.fc9e1aac.png",
     "static/media/evil_cartoonist.png": "/static/media/evil_cartoonist.29214315.png",
     "static/media/exprimidor.png": "/static/media/exprimidor.d3f14a56.png",
     "static/media/fabrica_votantes.png": "/static/media/fabrica_votantes.ce159a07.png",
@@ -500,8 +501,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7759784a.chunk.js",
+    "static/js/2.bf38a497.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.f45d20d0.chunk.js"
+    "static/js/main.d1c26abf.chunk.js"
   ]
 }

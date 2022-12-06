@@ -4144,5 +4144,13 @@
         "size": "2500x3500",
         "parties": ["UP"],
         "series": ["super_madre_protectora", "memes"]
+    },
+    "euro_digital": {
+        "name": "Euro digital",
+        "date": "2022-12-06T00:00",
+        "description": [
+            "Guardaos del Eurotsukuyomi Digital. Van a controlar hasta los eurillos que le das al hijo de tu vecino por cortarte el césped."
+        ],
+        "size": "4000x4000"
     }
 }

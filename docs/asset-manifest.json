@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.d1c26abf.chunk.js",
-    "main.js.map": "/static/js/main.d1c26abf.chunk.js.map",
+    "main.js": "/static/js/main.edc7a7bb.chunk.js",
+    "main.js.map": "/static/js/main.edc7a7bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.bf38a497.chunk.js": "/static/js/2.bf38a497.chunk.js",
-    "static/js/2.bf38a497.chunk.js.map": "/static/js/2.bf38a497.chunk.js.map",
+    "static/js/2.67282638.chunk.js": "/static/js/2.67282638.chunk.js",
+    "static/js/2.67282638.chunk.js.map": "/static/js/2.67282638.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a6eaca16dabcedf1da5ef3cd9637683c.js": "/precache-manifest.a6eaca16dabcedf1da5ef3cd9637683c.js",
+    "precache-manifest.0763ea3df8aeb5cb75928f3796bfbe18.js": "/precache-manifest.0763ea3df8aeb5cb75928f3796bfbe18.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.bf38a497.chunk.js.LICENSE.txt": "/static/js/2.bf38a497.chunk.js.LICENSE.txt",
+    "static/js/2.67282638.chunk.js.LICENSE.txt": "/static/js/2.67282638.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -257,6 +257,7 @@
     "static/media/karl_popper.png": "/static/media/karl_popper.dcfc4060.png",
     "static/media/karlviarx.png": "/static/media/karlviarx.c2ec5d5e.png",
     "static/media/kirby.png": "/static/media/kirby.c3228644.png",
+    "static/media/kirchner.png": "/static/media/kirchner.c408bfa2.png",
     "static/media/koopanique.mp3": "/static/media/koopanique.61b690ca.mp3",
     "static/media/koopanique.png": "/static/media/koopanique.a96b220c.png",
     "static/media/kriptonita.png": "/static/media/kriptonita.ef0b0635.png",
@@ -501,8 +502,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.bf38a497.chunk.js",
+    "static/js/2.67282638.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.d1c26abf.chunk.js"
+    "static/js/main.edc7a7bb.chunk.js"
   ]
 }

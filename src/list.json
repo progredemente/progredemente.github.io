@@ -4161,5 +4161,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Cristina Fernández de Kirchner", "Alberto Fernández"]
+    },
+    "castillo": {
+        "name": "Castillo",
+        "date": "2022-12-07T01:00",
+        "description": [
+            "Menudo genio."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Castillo"]
     }
 }

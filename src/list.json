@@ -4170,5 +4170,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Castillo"]
+    },
+    "lista_negra": {
+        "name": "Lista negra",
+        "date": "2022-12-09T00:00",
+        "description": [
+            "He utilizado a {contact:libsoftiktok} como ejemplo de censura en Twitter porque es un caso que me parece muy sangrante. Por lo que he leído, llegaron hasta a doxear a quien lleva la cuenta en la propia plataforma, compartiendo su dirección, y, tras la pertinente denuncia, Twitter negó que se estuviesen incumpliendo sus normas."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Jack Dorsey", "Vijaya Gadde"]
     }
 }

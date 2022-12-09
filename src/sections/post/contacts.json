@@ -196,5 +196,30 @@
                 "url": "https://forocoches.com/"
             }
         ]
+    },
+    "libsoftiktok": {
+        "name": "Libs of TikTok",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/libsoftiktok"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/libsoftiktokofficial/"
+            },
+            {
+                "id": "telegram",
+                "url": "https://t.me/LibsofTikTok"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/libsoftiktok"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/libsoftiktok"
+            }
+        ]
     }
 }

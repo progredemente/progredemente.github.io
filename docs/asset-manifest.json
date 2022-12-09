@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.69805c72.chunk.js",
-    "main.js.map": "/static/js/main.69805c72.chunk.js.map",
+    "main.js": "/static/js/main.c31fecfb.chunk.js",
+    "main.js.map": "/static/js/main.c31fecfb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e061ec1c.chunk.js": "/static/js/2.e061ec1c.chunk.js",
-    "static/js/2.e061ec1c.chunk.js.map": "/static/js/2.e061ec1c.chunk.js.map",
+    "static/js/2.1f6326f4.chunk.js": "/static/js/2.1f6326f4.chunk.js",
+    "static/js/2.1f6326f4.chunk.js.map": "/static/js/2.1f6326f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f30f31f3c0d08f44e31bc2e92bc03bfc.js": "/precache-manifest.f30f31f3c0d08f44e31bc2e92bc03bfc.js",
+    "precache-manifest.d18490a41d17fa6331d45cd71e542baf.js": "/precache-manifest.d18490a41d17fa6331d45cd71e542baf.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.e061ec1c.chunk.js.LICENSE.txt": "/static/js/2.e061ec1c.chunk.js.LICENSE.txt",
+    "static/js/2.1f6326f4.chunk.js.LICENSE.txt": "/static/js/2.1f6326f4.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -271,6 +271,7 @@
     "static/media/latino_ball_banner.png": "/static/media/latino_ball_banner.7b63093e.png",
     "static/media/licor_cafe.png": "/static/media/licor_cafe.a0892d31.png",
     "static/media/lingua.png": "/static/media/lingua.c11a80c8.png",
+    "static/media/lista_negra.png": "/static/media/lista_negra.c7f2b36a.png",
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
     "static/media/llibert.png": "/static/media/llibert.3f705388.png",
@@ -503,8 +504,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e061ec1c.chunk.js",
+    "static/js/2.1f6326f4.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.69805c72.chunk.js"
+    "static/js/main.c31fecfb.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.c31fecfb.chunk.js",
-    "main.js.map": "/static/js/main.c31fecfb.chunk.js.map",
+    "main.js": "/static/js/main.4e8f73e4.chunk.js",
+    "main.js.map": "/static/js/main.4e8f73e4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.1f6326f4.chunk.js": "/static/js/2.1f6326f4.chunk.js",
-    "static/js/2.1f6326f4.chunk.js.map": "/static/js/2.1f6326f4.chunk.js.map",
+    "static/js/2.fdc616bf.chunk.js": "/static/js/2.fdc616bf.chunk.js",
+    "static/js/2.fdc616bf.chunk.js.map": "/static/js/2.fdc616bf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d18490a41d17fa6331d45cd71e542baf.js": "/precache-manifest.d18490a41d17fa6331d45cd71e542baf.js",
+    "precache-manifest.756353c20a4a8e273a4e2d9482f3abb5.js": "/precache-manifest.756353c20a4a8e273a4e2d9482f3abb5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.1f6326f4.chunk.js.LICENSE.txt": "/static/js/2.1f6326f4.chunk.js.LICENSE.txt",
+    "static/js/2.fdc616bf.chunk.js.LICENSE.txt": "/static/js/2.fdc616bf.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -270,6 +270,7 @@
     "static/media/lagrimas_autonomo.png": "/static/media/lagrimas_autonomo.af1fc19f.png",
     "static/media/latino_ball_banner.png": "/static/media/latino_ball_banner.7b63093e.png",
     "static/media/licor_cafe.png": "/static/media/licor_cafe.a0892d31.png",
+    "static/media/lineas_rojas.png": "/static/media/lineas_rojas.39484a2b.png",
     "static/media/lingua.png": "/static/media/lingua.c11a80c8.png",
     "static/media/lista_negra.png": "/static/media/lista_negra.c7f2b36a.png",
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
@@ -504,8 +505,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.1f6326f4.chunk.js",
+    "static/js/2.fdc616bf.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.c31fecfb.chunk.js"
+    "static/js/main.4e8f73e4.chunk.js"
   ]
 }

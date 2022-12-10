@@ -4179,5 +4179,16 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Jack Dorsey", "Vijaya Gadde"]
+    },
+    "lineas_rojas": {
+        "name": "Líneas rojas",
+        "date": "2022-12-10T00:00",
+        "description": [
+            "¿A qué espera? ¿A qué esperamos?"
+        ],
+        "url": "https://www.youtube.com/embed/LNcCzozNnys",
+        "series": ["animacion"],
+        "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo"],
+        "parties": ["PSOE", "PP"]
     }
 }

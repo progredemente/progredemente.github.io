@@ -4190,5 +4190,15 @@
         "series": ["animacion"],
         "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo"],
         "parties": ["PSOE", "PP"]
+    },
+    "justicia_patriarcal": {
+        "name": "\"Justicia patriarcal\"",
+        "date": "2022-12-14T00:00",
+        "description": [
+            "Una práctica para tratar de mejorar mis habilidades, aprovechando este personaje, que es algo que mi estilo normal no me permite demasiado. Lo malo de hacer este tipo de viñetas es que me llevan demasiado tiempo y descuido un poco la actualidad."
+        ],
+        "size": "2500x3500",
+        "parties": ["UP"],
+        "series": ["super_madre_protectora"]
     }
 }

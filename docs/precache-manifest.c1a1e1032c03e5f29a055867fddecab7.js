@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbeb563dce99b94e2239c82d21cb08a3",
+    "revision": "877c968c561d4f47146d570ab5c117fe",
     "url": "/index.html"
   },
   {
-    "revision": "193a839f037e18913757",
+    "revision": "83036e921586288ccd49",
     "url": "/static/css/main.7bba95b4.chunk.css"
   },
   {
-    "revision": "803f8f236fd8b9d49037",
-    "url": "/static/js/2.fdc616bf.chunk.js"
+    "revision": "6d607d68b8a31419e037",
+    "url": "/static/js/2.ebaec44a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.fdc616bf.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ebaec44a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "193a839f037e18913757",
-    "url": "/static/js/main.4e8f73e4.chunk.js"
+    "revision": "83036e921586288ccd49",
+    "url": "/static/js/main.a3eb6ca8.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1834,6 +1834,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a1a21c8dc7ad6ad86f0ed7c600fb48dc",
     "url": "/static/media/juraste_destruir.a1a21c8d.png"
+  },
+  {
+    "revision": "2e9989e42e1165048fb611adcf369eac",
+    "url": "/static/media/justicia_patriarcal.2e9989e4.png"
+  },
+  {
+    "revision": "b3bcc4565b782d8d1db76056a4b1f219",
+    "url": "/static/media/justicia_patriarcal.b3bcc456.png"
   },
   {
     "revision": "3ab2fa1fa97d3c8b8379d21a96a9ef12",

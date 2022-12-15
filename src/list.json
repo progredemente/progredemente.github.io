@@ -4200,5 +4200,14 @@
         "size": "2500x3500",
         "parties": ["UP"],
         "series": ["super_madre_protectora"]
+    },
+    "trogloditas": {
+        "name": "Trogloditas",
+        "date": "2022-12-15T00:00",
+        "description": [
+            "Estaba viendo antes a un montón de artistas llorando porque usan sus imágenes para entrenar inteligencias artificiales."
+        ],
+        "url": "https://www.youtube.com/embed/KFl-zl2t8M8",
+        "series": ["animacion"]
     }
 }

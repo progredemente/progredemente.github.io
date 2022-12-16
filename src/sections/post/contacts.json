@@ -221,5 +221,22 @@
                 "url": "https://www.youtube.com/libsoftiktok"
             }
         ]
+    },
+    "estepaistube": {
+        "name": "Estepaistube",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/estepaistube"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/Estepaistube"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/estepaistube/"
+            }
+        ]
     }
 }

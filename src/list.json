@@ -4209,5 +4209,16 @@
         ],
         "url": "https://www.youtube.com/embed/KFl-zl2t8M8",
         "series": ["animacion"]
+    },
+    "pisapapeles": {
+        "name": "Pisapapeles",
+        "date": "2022-12-16T00:00",
+        "description": [
+            "No he podido evitar pensar en esto. Lo de usar al crío de posapapeles no ha pasado realmente, lo de utilizarlo para la foto sí.",
+            "Inspirado en el Antonio Maestre de uno de los vídeos de {contact:estepaistube}."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ione Belarra"],
+        "parties": ["UP"]
     }
 }

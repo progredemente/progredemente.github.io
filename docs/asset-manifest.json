@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.b7de6785.chunk.js",
-    "main.js.map": "/static/js/main.b7de6785.chunk.js.map",
+    "main.js": "/static/js/main.4b5e00c2.chunk.js",
+    "main.js.map": "/static/js/main.4b5e00c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6a4ad748.chunk.js": "/static/js/2.6a4ad748.chunk.js",
-    "static/js/2.6a4ad748.chunk.js.map": "/static/js/2.6a4ad748.chunk.js.map",
+    "static/js/2.1268ee42.chunk.js": "/static/js/2.1268ee42.chunk.js",
+    "static/js/2.1268ee42.chunk.js.map": "/static/js/2.1268ee42.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ddb5a766ad195c5629836e7e3751efa4.js": "/precache-manifest.ddb5a766ad195c5629836e7e3751efa4.js",
+    "precache-manifest.a7fca151a760be32fd0ce8eb1ecc906d.js": "/precache-manifest.a7fca151a760be32fd0ce8eb1ecc906d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.6a4ad748.chunk.js.LICENSE.txt": "/static/js/2.6a4ad748.chunk.js.LICENSE.txt",
+    "static/js/2.1268ee42.chunk.js.LICENSE.txt": "/static/js/2.1268ee42.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -382,6 +382,7 @@
     "static/media/pge2022.png": "/static/media/pge2022.d40dd584.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.ef2679b2.png",
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
+    "static/media/pisapapeles.png": "/static/media/pisapapeles.d1562186.png",
     "static/media/pistola_dinero.png": "/static/media/pistola_dinero.712e2378.png",
     "static/media/pocas_luces.png": "/static/media/pocas_luces.a505c7d1.png",
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
@@ -507,8 +508,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6a4ad748.chunk.js",
+    "static/js/2.1268ee42.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.b7de6785.chunk.js"
+    "static/js/main.4b5e00c2.chunk.js"
   ]
 }

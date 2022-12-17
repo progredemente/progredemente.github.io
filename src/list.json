@@ -4220,5 +4220,19 @@
         "size": "2000x2000",
         "celebrities": ["Ione Belarra"],
         "parties": ["UP"]
+    },
+    "banera": {
+        "name": "Bañera",
+        "date": "2022-12-17T00:00",
+        "description": [
+            "Porque cubrirle las manos de sangre ya me parece quedarse corto.",
+            "La viñeta está inspirada en una ilustración de Black Cat de {contact:jscottcampbell} la cual podéis adquirir en su web. Mi idea original era hacer solo a la chica en la bañera, pero después me decidí por ponerle, a mi manera, el resto de elementos.",
+            "En el original aparecen dos gatos que aquí he sustituido por la rata y el lorito, los cuales representan lo que es obvio. Los he puesto porque, a pesar de que no sean los más abanderados de la causa, son lo únicos políticos cuya relación directa con un animal conozco.",
+            "No sé si os pasa, pero la cara de la chica me recuerda a la del expresidente Zapatero. No lo hice a propósito, pero creo sinceramente que este sí tendría más responsabilidad en que este tipo de \"heroínas\" se vean de alguna forma respaldadas por el relato y las instituciones, ya que fuen quien empezó todo este delirio ideológico.",
+            "Una última cosa: no soy dibujante profesional, estoy tratando de aprender, así que si alguno de vosotros lo es y veis cosas que no cuadren bien en esta serie de dibujos (proporciones, colores, sombreados, etc.), vuestras opiniones me serían de gran ayuda."
+        ],
+        "size": "2500x3500",
+        "parties": ["UP"],
+        "series": ["super_madre_protectora"]
     }
 }

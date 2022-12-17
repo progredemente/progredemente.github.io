@@ -238,5 +238,26 @@
                 "url": "https://www.instagram.com/estepaistube/"
             }
         ]
+    },
+    "jscottcampbell": {
+        "name": "J. Scott Campbell",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/jscottcampbell"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/jscottcampbellfanpage"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/jscottcampbellart/"
+            },
+            {
+                "id": "web",
+                "url": "https://jscottcampbell.com/"
+            }
+        ]
     }
 }

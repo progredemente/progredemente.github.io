@@ -4234,5 +4234,14 @@
         "size": "2500x3500",
         "parties": ["UP"],
         "series": ["super_madre_protectora"]
+    },
+    "jueces_fascistas": {
+        "name": "Jueces fascistas",
+        "date": "2022-12-18T00:00",
+        "description": [
+            "Yonquis del relato oficial."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

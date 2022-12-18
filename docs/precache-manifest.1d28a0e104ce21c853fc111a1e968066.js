@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d469b924fe6870eaefa86bb5f1af37cd",
+    "revision": "c5a00fe29db0d502b510e636044995f1",
     "url": "/index.html"
   },
   {
-    "revision": "b5871f543d486c04d477",
+    "revision": "5a15f1f1e4b2010d9d64",
     "url": "/static/css/main.7bba95b4.chunk.css"
   },
   {
-    "revision": "82b6509cf17e6fc0c44b",
-    "url": "/static/js/2.e36a9ba1.chunk.js"
+    "revision": "0e70620ea1bf1fe76e01",
+    "url": "/static/js/2.b1548f51.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.e36a9ba1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b1548f51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5871f543d486c04d477",
-    "url": "/static/js/main.7eef5906.chunk.js"
+    "revision": "5a15f1f1e4b2010d9d64",
+    "url": "/static/js/main.65c15e94.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1834,6 +1834,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "780e7ee552c93cd9b9cbd1bc2cfd3bb4",
     "url": "/static/media/joulupuu.780e7ee5.png"
+  },
+  {
+    "revision": "8d5592ef042dc7714c98d082c0f47983",
+    "url": "/static/media/jueces_fascistas.8d5592ef.png"
+  },
+  {
+    "revision": "8e2fba556a9114fc0fdc2f1ae836597e",
+    "url": "/static/media/jueces_fascistas.8e2fba55.png"
   },
   {
     "revision": "4d3a16dfd28bd0edfa648060c2cbc671",

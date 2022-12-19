@@ -4243,5 +4243,16 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "bobo": {
+        "name": "Bobo",
+        "date": "2022-12-19T00:00",
+        "description": [
+            "Necesita a un Fernando Hierro en su vida."
+        ],
+        "url": "https://www.youtube.com/embed/S-aQsDsIaN8",
+        "series": ["animacion"],
+        "celebrities": ["Pablo Echenique"],
+        "parties": ["UP"]
     }
 }

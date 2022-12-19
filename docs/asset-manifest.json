@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.65c15e94.chunk.js",
-    "main.js.map": "/static/js/main.65c15e94.chunk.js.map",
+    "main.js": "/static/js/main.7f67d7eb.chunk.js",
+    "main.js.map": "/static/js/main.7f67d7eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.b1548f51.chunk.js": "/static/js/2.b1548f51.chunk.js",
-    "static/js/2.b1548f51.chunk.js.map": "/static/js/2.b1548f51.chunk.js.map",
+    "static/js/2.11f109c3.chunk.js": "/static/js/2.11f109c3.chunk.js",
+    "static/js/2.11f109c3.chunk.js.map": "/static/js/2.11f109c3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d28a0e104ce21c853fc111a1e968066.js": "/precache-manifest.1d28a0e104ce21c853fc111a1e968066.js",
+    "precache-manifest.5b133176f4e6fcfa35b152d6942a88a6.js": "/precache-manifest.5b133176f4e6fcfa35b152d6942a88a6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.b1548f51.chunk.js.LICENSE.txt": "/static/js/2.b1548f51.chunk.js.LICENSE.txt",
+    "static/js/2.11f109c3.chunk.js.LICENSE.txt": "/static/js/2.11f109c3.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -88,6 +88,7 @@
     "static/media/blandengue.png": "/static/media/blandengue.74d6e021.png",
     "static/media/blanqueo_talibanes.png": "/static/media/blanqueo_talibanes.f83916c9.png",
     "static/media/bloqueo.png": "/static/media/bloqueo.72dd288d.png",
+    "static/media/bobo.png": "/static/media/bobo.c0c34648.png",
     "static/media/bodegas.png": "/static/media/bodegas.e747eb0d.png",
     "static/media/boo_iden.png": "/static/media/boo_iden.f7778d8b.png",
     "static/media/booric.png": "/static/media/booric.f36ab607.png",
@@ -510,8 +511,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.b1548f51.chunk.js",
+    "static/js/2.11f109c3.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.65c15e94.chunk.js"
+    "static/js/main.7f67d7eb.chunk.js"
   ]
 }

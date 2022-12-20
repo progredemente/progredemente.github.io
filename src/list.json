@@ -4254,5 +4254,15 @@
         "series": ["animacion"],
         "celebrities": ["Pablo Echenique"],
         "parties": ["UP"]
+    },
+    "soberania_popular": {
+        "name": "Soberanía popular.",
+        "date": "2022-12-20T00:00",
+        "description": [
+            "El más indicado para hablar de este tema."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP", "UP", "PSOE"]
     }
 }

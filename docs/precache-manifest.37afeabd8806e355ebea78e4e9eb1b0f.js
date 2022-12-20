@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91d6ed865f439b842b5728649f6de24c",
+    "revision": "504acc6da43f4caa009feb87697dd24b",
     "url": "/index.html"
   },
   {
-    "revision": "bcef215298e4d1891912",
+    "revision": "b319b4fda6cabbe914b9",
     "url": "/static/css/main.7bba95b4.chunk.css"
   },
   {
-    "revision": "45d904a151f395a0b47d",
-    "url": "/static/js/2.11f109c3.chunk.js"
+    "revision": "274f707c5d7c25a6911b",
+    "url": "/static/js/2.651a5e63.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.11f109c3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.651a5e63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcef215298e4d1891912",
-    "url": "/static/js/main.7f67d7eb.chunk.js"
+    "revision": "b319b4fda6cabbe914b9",
+    "url": "/static/js/main.ae4d292a.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3242,6 +3242,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76e7f98bffd311ceacc5bd8f3c658657",
     "url": "/static/media/smash_banner.76e7f98b.png"
+  },
+  {
+    "revision": "0389a3157beeeda7a921b721353a90dc",
+    "url": "/static/media/soberania_popular.0389a315.png"
+  },
+  {
+    "revision": "2f34948154d1cf0dd4418beae64cf2f1",
+    "url": "/static/media/soberania_popular.2f349481.png"
   },
   {
     "revision": "175e587b7f18a85153cd500a97879bb5",

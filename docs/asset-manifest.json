@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7bba95b4.chunk.css",
-    "main.js": "/static/js/main.7f67d7eb.chunk.js",
-    "main.js.map": "/static/js/main.7f67d7eb.chunk.js.map",
+    "main.js": "/static/js/main.ae4d292a.chunk.js",
+    "main.js.map": "/static/js/main.ae4d292a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.11f109c3.chunk.js": "/static/js/2.11f109c3.chunk.js",
-    "static/js/2.11f109c3.chunk.js.map": "/static/js/2.11f109c3.chunk.js.map",
+    "static/js/2.651a5e63.chunk.js": "/static/js/2.651a5e63.chunk.js",
+    "static/js/2.651a5e63.chunk.js.map": "/static/js/2.651a5e63.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5b133176f4e6fcfa35b152d6942a88a6.js": "/precache-manifest.5b133176f4e6fcfa35b152d6942a88a6.js",
+    "precache-manifest.37afeabd8806e355ebea78e4e9eb1b0f.js": "/precache-manifest.37afeabd8806e355ebea78e4e9eb1b0f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bba95b4.chunk.css.map": "/static/css/main.7bba95b4.chunk.css.map",
-    "static/js/2.11f109c3.chunk.js.LICENSE.txt": "/static/js/2.11f109c3.chunk.js.LICENSE.txt",
+    "static/js/2.651a5e63.chunk.js.LICENSE.txt": "/static/js/2.651a5e63.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -449,6 +449,7 @@
     "static/media/sinegrita_banner.png": "/static/media/sinegrita_banner.96762c1d.png",
     "static/media/smash.ogg": "/static/media/smash.6aa45417.ogg",
     "static/media/smash_banner.png": "/static/media/smash_banner.76e7f98b.png",
+    "static/media/soberania_popular.png": "/static/media/soberania_popular.2f349481.png",
     "static/media/sobras.png": "/static/media/sobras.3268ce7a.png",
     "static/media/sol_negro.png": "/static/media/sol_negro.7673fceb.png",
     "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
@@ -511,8 +512,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.11f109c3.chunk.js",
+    "static/js/2.651a5e63.chunk.js",
     "static/css/main.7bba95b4.chunk.css",
-    "static/js/main.7f67d7eb.chunk.js"
+    "static/js/main.ae4d292a.chunk.js"
   ]
 }

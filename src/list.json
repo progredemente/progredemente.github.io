@@ -4290,5 +4290,15 @@
             "¿Os han traído muchos regalos?"
         ],
         "size": "2000x2000"
+    },
+    "iva": {
+        "name": "IVA",
+        "date": "2022-12-28T00:00",
+        "description": [
+            "¿Os han traído muchos regalos?"
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Yolanda Díaz", "Pedro Sánchez"],
+        "parties": ["UP", "PSOE"]
     }
 }

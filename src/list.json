@@ -4256,7 +4256,7 @@
         "parties": ["UP"]
     },
     "soberania_popular": {
-        "name": "Soberanía popular.",
+        "name": "Soberanía popular",
         "date": "2022-12-20T00:00",
         "description": [
             "El más indicado para hablar de este tema."
@@ -4264,5 +4264,31 @@
         "size": "2000x2000",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP", "UP", "PSOE"]
+    },
+    "argentina": {
+        "name": "Argentina",
+        "date": "2022-12-21T00:00",
+        "description": [
+            "Para que luego hablemos de los británicos y el balconing..."
+        ],
+        "size": "3000x3000"
+    },
+    "carbon": {
+        "name": "Carbón",
+        "date": "2022-12-24T00:00",
+        "description": [
+            "¡Feliz Navidad a todos!",
+            "Sánchez está haciendo méritos para mitigar nuestra dependencia energética del gas y lo quiere hacer por la vía germánica, que no os enteráis."
+        ],
+        "size": "4000x4000",
+        "series": ["postales_navidenas"]
+    },
+    "escaladores": {
+        "name": "Escaladores",
+        "date": "2022-12-25T00:00",
+        "description": [
+            "¿Os han traído muchos regalos?"
+        ],
+        "size": "2000x2000"
     }
 }

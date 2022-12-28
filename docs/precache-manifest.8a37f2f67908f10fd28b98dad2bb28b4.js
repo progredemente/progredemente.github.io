@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "504acc6da43f4caa009feb87697dd24b",
+    "revision": "2cb620c211e3fd13fd9bfd29cb1a9398",
     "url": "/index.html"
   },
   {
-    "revision": "b319b4fda6cabbe914b9",
+    "revision": "7621e3f533f23d3f0ffb",
     "url": "/static/css/main.7bba95b4.chunk.css"
   },
   {
-    "revision": "274f707c5d7c25a6911b",
-    "url": "/static/js/2.651a5e63.chunk.js"
+    "revision": "751e3d1d050b7d69942a",
+    "url": "/static/js/2.73f36b25.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.651a5e63.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.73f36b25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b319b4fda6cabbe914b9",
-    "url": "/static/js/main.ae4d292a.chunk.js"
+    "revision": "7621e3f533f23d3f0ffb",
+    "url": "/static/js/main.6bf3dd75.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -318,6 +318,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "66c919fe4fa016103396184d52c1a57c",
     "url": "/static/media/arde_troya.66c919fe.png"
+  },
+  {
+    "revision": "7c4b5b6bfd1b92978e626361652100e4",
+    "url": "/static/media/argentina.7c4b5b6b.png"
+  },
+  {
+    "revision": "c0f410ab649236f386491ef1ce3f5a0b",
+    "url": "/static/media/argentina.c0f410ab.png"
   },
   {
     "revision": "0bcdf2ece041b89acd89a248f4386df5",
@@ -786,6 +794,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "36f6f80bd00e5657495f5098fae64991",
     "url": "/static/media/carballelo.36f6f80b.png"
+  },
+  {
+    "revision": "0bb2aacbdaac393714ec8f293204d48a",
+    "url": "/static/media/carbon.0bb2aacb.png"
+  },
+  {
+    "revision": "d75c4718141646024078ea2c3ed5974f",
+    "url": "/static/media/carbon.d75c4718.png"
   },
   {
     "revision": "f316d1d6a4b73198fb87b781c6b35551",
@@ -1322,6 +1338,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "489a72f2d78519e074d46e809a1ac013",
     "url": "/static/media/es.489a72f2.svg"
+  },
+  {
+    "revision": "8391c71d2c8d812cdecf3e8670c23197",
+    "url": "/static/media/escaladores.8391c71d.png"
+  },
+  {
+    "revision": "e9a8db3c115c1f096a526c0f84e22d7a",
+    "url": "/static/media/escaladores.e9a8db3c.png"
   },
   {
     "revision": "398d04035cfb8f8cb95756590a985eb4",

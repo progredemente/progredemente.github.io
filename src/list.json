@@ -4300,5 +4300,14 @@
         "size": "3000x2000",
         "celebrities": ["Yolanda Díaz", "Pedro Sánchez"],
         "parties": ["UP", "PSOE"]
+    },
+    "cria_cuervos": {
+        "name": "Cría cuervos...",
+        "date": "2022-12-29T00:00",
+        "description": [
+            "¿Os han traído muchos regalos?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Antonio García Ferreras", "Àngels Barceló"]
     }
 }

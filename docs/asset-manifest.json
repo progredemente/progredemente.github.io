@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.e47d0878.chunk.js",
-    "main.js.map": "/static/js/main.e47d0878.chunk.js.map",
+    "main.js": "/static/js/main.fc8a6de1.chunk.js",
+    "main.js.map": "/static/js/main.fc8a6de1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.aeeb4e93.chunk.js": "/static/js/2.aeeb4e93.chunk.js",
-    "static/js/2.aeeb4e93.chunk.js.map": "/static/js/2.aeeb4e93.chunk.js.map",
+    "static/js/2.353e736e.chunk.js": "/static/js/2.353e736e.chunk.js",
+    "static/js/2.353e736e.chunk.js.map": "/static/js/2.353e736e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9096ff379f8de1e43247ecd46f2818b7.js": "/precache-manifest.9096ff379f8de1e43247ecd46f2818b7.js",
+    "precache-manifest.708f85be1a75b9dadcc7f2dc08f5bd11.js": "/precache-manifest.708f85be1a75b9dadcc7f2dc08f5bd11.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.aeeb4e93.chunk.js.LICENSE.txt": "/static/js/2.aeeb4e93.chunk.js.LICENSE.txt",
+    "static/js/2.353e736e.chunk.js.LICENSE.txt": "/static/js/2.353e736e.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -74,6 +74,7 @@
     "static/media/bandera_rusonazi.png": "/static/media/bandera_rusonazi.e810931e.png",
     "static/media/banderas_banner.png": "/static/media/banderas_banner.e9380d54.png",
     "static/media/banera.png": "/static/media/banera.8da2cd33.png",
+    "static/media/bang.png": "/static/media/bang.725b77a4.png",
     "static/media/bano.png": "/static/media/bano.bebe1547.png",
     "static/media/barbie.png": "/static/media/barbie.9ae6fddb.png",
     "static/media/barbie.en.png": "/static/media/barbie.en.651e5116.png",
@@ -519,8 +520,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.aeeb4e93.chunk.js",
+    "static/js/2.353e736e.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.e47d0878.chunk.js"
+    "static/js/main.fc8a6de1.chunk.js"
   ]
 }

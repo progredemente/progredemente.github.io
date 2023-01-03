@@ -4328,5 +4328,13 @@
             "Espero que nadie se pase con los fuegos artificiales este año."
         ],
         "size": "2000x2000"
+    },
+    "bang": {
+        "name": "Bang",
+        "date": "2023-01-03T00:00",
+        "description": [
+            "Para empezar bien el año, os traigo un juego de palabras en inglés."
+        ],
+        "size": "4000x3000"
     }
 }

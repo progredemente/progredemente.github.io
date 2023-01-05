@@ -16,6 +16,8 @@ class Welcome extends Component {
             favicon: false,
             perroflautum: false,
             strawman: false,
+            cable: false,
+            camaleon: false,
             showAllSocialNetworks: false
         }
     }
@@ -85,6 +87,19 @@ class Welcome extends Component {
                                 this.setState({ cable: true})
                             }}
                         /> Recoge cable
+                    </a>
+                    <a href="/camaleon" className="social-link">
+                        <Loading
+                            hidden={this.state.camaleon}
+                        />
+                        <img
+                            src={'./camaleon.png'}
+                            alt={'camaleon'}
+                            className={this.state.cable ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ camaleon: true})
+                            }}
+                        /> Camaleón
                     </a>
                     <p>Sígueme en</p>
                     {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d910ae556cf131b2b4ae9cabfbf4e8a9",
+    "revision": "aab754ffbf1569d4520635f51787455c",
     "url": "/index.html"
   },
   {
-    "revision": "a0aa59875090d1bab48e",
+    "revision": "ac444e1dbdc43bc21f16",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "4666fd682f0412033604",
-    "url": "/static/js/2.353e736e.chunk.js"
+    "revision": "66101142b8a9924742c3",
+    "url": "/static/js/2.e46becf3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.353e736e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e46becf3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0aa59875090d1bab48e",
-    "url": "/static/js/main.fc8a6de1.chunk.js"
+    "revision": "ac444e1dbdc43bc21f16",
+    "url": "/static/js/main.9fe94a2c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3094,6 +3094,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e3fb7914e70b421e9b5c8caadc5a70bb",
     "url": "/static/media/reyes_magos.e3fb7914.png"
+  },
+  {
+    "revision": "16cca535fdd88fcf4bbac048dfd907ed",
+    "url": "/static/media/reyes_netflix.16cca535.png"
+  },
+  {
+    "revision": "a1740e546c3b4a50826e8bcb8513e601",
+    "url": "/static/media/reyes_netflix.a1740e54.png"
   },
   {
     "revision": "272935813f8dcf16045a7b7ad991afca",

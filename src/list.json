@@ -4336,5 +4336,13 @@
             "Para empezar bien el año, os traigo un juego de palabras en inglés."
         ],
         "size": "4000x3000"
+    },
+    "reyes_netflix": {
+        "name": "Los Reyes Magos en Netflix",
+        "date": "2023-01-05T00:00",
+        "description": [
+            "Da kingz."
+        ],
+        "size": "3000x3000"
     }
 }

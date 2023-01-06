@@ -4344,5 +4344,16 @@
             "Da kingz."
         ],
         "size": "3000x3000"
+    },
+    "camaleon": {
+        "name": "Camaleón",
+        "date": "2023-01-06T00:00",
+        "description": [
+            "Camaleonízate en {https://progredemente.com/camaleon}"
+        ],
+        "url": "https://www.youtube.com/embed/NrlNKQkzZn8",
+        "series": ["animacion"],
+        "celebrities": ["Macarena Olona"],
+        "parties": ["Vox"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1504ce55c6ffa81a66644d85533e1277",
+    "revision": "65c05ab504824ffb8ff1582501671b94",
     "url": "/index.html"
   },
   {
-    "revision": "5d4c8dd3b51e2a2a136b",
+    "revision": "952c458dacfec51234f6",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "8dbb17a744c9c133d4ce",
-    "url": "/static/js/2.fd65ff74.chunk.js"
+    "revision": "f634fc1cca6980415e5d",
+    "url": "/static/js/2.1a1beee3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.fd65ff74.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1a1beee3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d4c8dd3b51e2a2a136b",
-    "url": "/static/js/main.e571148d.chunk.js"
+    "revision": "952c458dacfec51234f6",
+    "url": "/static/js/main.047ae8e9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1282,6 +1282,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db3e25c1a2a16f4ebec352d99bc5188f",
     "url": "/static/media/duquemar.db3e25c1.mp3"
+  },
+  {
+    "revision": "5dedaea8bff3d7a793a7f7b68ffa7dc2",
+    "url": "/static/media/ecoansiedad.5dedaea8.png"
+  },
+  {
+    "revision": "d5924dfa9e171bd84e9ff00916e10196",
+    "url": "/static/media/ecoansiedad.d5924dfa.png"
   },
   {
     "revision": "3affe9cb738a0b759e9293daa835a1ca",

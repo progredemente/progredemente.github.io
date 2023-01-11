@@ -4363,5 +4363,15 @@
             "No os ecofieis de quien ecoponga el ecoprefijo \"eco-\" delante de las ecopalabras."
         ],
         "size": "2000x2000"
+    },
+    "mothman": {
+        "name": "Mothman",
+        "date": "2023-01-11T00:00",
+        "description": [
+            "Juventú, juventú, tede coidado co alumbrado de Vijo."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Abel Caballero"],
+        "parties": ["PSOE"]
     }
 }

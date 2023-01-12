@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.b0a8bc73.chunk.js",
-    "main.js.map": "/static/js/main.b0a8bc73.chunk.js.map",
+    "main.js": "/static/js/main.b64fd330.chunk.js",
+    "main.js.map": "/static/js/main.b64fd330.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.efcd2880.chunk.js": "/static/js/2.efcd2880.chunk.js",
-    "static/js/2.efcd2880.chunk.js.map": "/static/js/2.efcd2880.chunk.js.map",
+    "static/js/2.a5532b2c.chunk.js": "/static/js/2.a5532b2c.chunk.js",
+    "static/js/2.a5532b2c.chunk.js.map": "/static/js/2.a5532b2c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ddf16987a8fc26384f06b668502c4b39.js": "/precache-manifest.ddf16987a8fc26384f06b668502c4b39.js",
+    "precache-manifest.a1fdc83852d8c98f5c154b7537fdd2b3.js": "/precache-manifest.a1fdc83852d8c98f5c154b7537fdd2b3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.efcd2880.chunk.js.LICENSE.txt": "/static/js/2.efcd2880.chunk.js.LICENSE.txt",
+    "static/js/2.a5532b2c.chunk.js.LICENSE.txt": "/static/js/2.a5532b2c.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -246,6 +246,7 @@
     "static/media/hombre_paja.png": "/static/media/hombre_paja.e85eb217.png",
     "static/media/honkey_kong.png": "/static/media/honkey_kong.fd2f1d74.png",
     "static/media/horda_feminista.png": "/static/media/horda_feminista.b12391e3.png",
+    "static/media/hueco.png": "/static/media/hueco.e69cd052.png",
     "static/media/huelga_juguetes.png": "/static/media/huelga_juguetes.4626b404.png",
     "static/media/humor_lazoamarillo.png": "/static/media/humor_lazoamarillo.edb97eca.png",
     "static/media/idangelion.png": "/static/media/idangelion.b34ccaf1.png",
@@ -524,8 +525,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.efcd2880.chunk.js",
+    "static/js/2.a5532b2c.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.b0a8bc73.chunk.js"
+    "static/js/main.b64fd330.chunk.js"
   ]
 }

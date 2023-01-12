@@ -4373,5 +4373,15 @@
         "size": "3000x3000",
         "celebrities": ["Abel Caballero"],
         "parties": ["PSOE"]
+    },
+    "hueco": {
+        "name": "Hueco",
+        "date": "2023-01-12T00:00",
+        "description": [
+            "Ellas se ríen de las consecuencias de su ineptitud, nosotros del manatí del Lérez."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["UP"]
     }
 }

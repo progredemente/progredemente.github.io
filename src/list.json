@@ -4383,5 +4383,15 @@
         "size": "3000x3000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["UP"]
+    },
+    "costumbres": {
+        "name": "Costumbres",
+        "date": "2023-01-13T00:00",
+        "description": [
+            "Debe de ser extremadamente cómoda la cama de la Moncloa, a unos niveles inconcebibles."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Carles Puigdemont"],
+        "parties": ["JxC"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "360b82fd56e288de8dbcf88d836a44ba",
+    "revision": "6d6c4267a7dba83351ca511679697f16",
     "url": "/index.html"
   },
   {
-    "revision": "551e6d6198c6fec76150",
+    "revision": "99e690915093482eb5fc",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "823ae934280d693c5b62",
-    "url": "/static/js/2.a5532b2c.chunk.js"
+    "revision": "6b159cf13ad84e83570b",
+    "url": "/static/js/2.5b93fe7b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a5532b2c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5b93fe7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "551e6d6198c6fec76150",
-    "url": "/static/js/main.b64fd330.chunk.js"
+    "revision": "99e690915093482eb5fc",
+    "url": "/static/js/main.ce767c4f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1106,6 +1106,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8a093a9ee9b54cc0b3dc8d8e498622c",
     "url": "/static/media/cortinas_banderas.a8a093a9.png"
+  },
+  {
+    "revision": "466d9fb551b641f18802f66ee347368f",
+    "url": "/static/media/costumbres.466d9fb5.png"
+  },
+  {
+    "revision": "fbd029263ba26ac8f7c1efbde8679ba1",
+    "url": "/static/media/costumbres.fbd02926.png"
   },
   {
     "revision": "03d8880dbd1b256587bb19c01c1f9a68",

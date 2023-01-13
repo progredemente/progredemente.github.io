@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.b64fd330.chunk.js",
-    "main.js.map": "/static/js/main.b64fd330.chunk.js.map",
+    "main.js": "/static/js/main.ce767c4f.chunk.js",
+    "main.js.map": "/static/js/main.ce767c4f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a5532b2c.chunk.js": "/static/js/2.a5532b2c.chunk.js",
-    "static/js/2.a5532b2c.chunk.js.map": "/static/js/2.a5532b2c.chunk.js.map",
+    "static/js/2.5b93fe7b.chunk.js": "/static/js/2.5b93fe7b.chunk.js",
+    "static/js/2.5b93fe7b.chunk.js.map": "/static/js/2.5b93fe7b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a1fdc83852d8c98f5c154b7537fdd2b3.js": "/precache-manifest.a1fdc83852d8c98f5c154b7537fdd2b3.js",
+    "precache-manifest.7345dddcc96f017d1b5a00a101b4fb19.js": "/precache-manifest.7345dddcc96f017d1b5a00a101b4fb19.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.a5532b2c.chunk.js.LICENSE.txt": "/static/js/2.a5532b2c.chunk.js.LICENSE.txt",
+    "static/js/2.5b93fe7b.chunk.js.LICENSE.txt": "/static/js/2.5b93fe7b.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -157,6 +157,7 @@
     "static/media/cop26.png": "/static/media/cop26.c60310dd.png",
     "static/media/coronavirus.png": "/static/media/coronavirus.85f7e91c.png",
     "static/media/cortinas_banderas.png": "/static/media/cortinas_banderas.a8a093a9.png",
+    "static/media/costumbres.png": "/static/media/costumbres.fbd02926.png",
     "static/media/cria_cuervos.png": "/static/media/cria_cuervos.30f9c97b.png",
     "static/media/cuatro_gatos.png": "/static/media/cuatro_gatos.ed49446e.png",
     "static/media/cuentos_banner.png": "/static/media/cuentos_banner.783f13f2.png",
@@ -525,8 +526,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a5532b2c.chunk.js",
+    "static/js/2.5b93fe7b.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.b64fd330.chunk.js"
+    "static/js/main.ce767c4f.chunk.js"
   ]
 }

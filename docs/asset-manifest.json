@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.ce767c4f.chunk.js",
-    "main.js.map": "/static/js/main.ce767c4f.chunk.js.map",
+    "main.js": "/static/js/main.95549564.chunk.js",
+    "main.js.map": "/static/js/main.95549564.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.5b93fe7b.chunk.js": "/static/js/2.5b93fe7b.chunk.js",
-    "static/js/2.5b93fe7b.chunk.js.map": "/static/js/2.5b93fe7b.chunk.js.map",
+    "static/js/2.cc9ea942.chunk.js": "/static/js/2.cc9ea942.chunk.js",
+    "static/js/2.cc9ea942.chunk.js.map": "/static/js/2.cc9ea942.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7345dddcc96f017d1b5a00a101b4fb19.js": "/precache-manifest.7345dddcc96f017d1b5a00a101b4fb19.js",
+    "precache-manifest.92c6b80b870542ba420aae7f68140c14.js": "/precache-manifest.92c6b80b870542ba420aae7f68140c14.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.5b93fe7b.chunk.js.LICENSE.txt": "/static/js/2.5b93fe7b.chunk.js.LICENSE.txt",
+    "static/js/2.cc9ea942.chunk.js.LICENSE.txt": "/static/js/2.cc9ea942.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -232,6 +232,7 @@
     "static/media/gimmighoul.png": "/static/media/gimmighoul.4dbc144d.png",
     "static/media/gobierno_ideal.png": "/static/media/gobierno_ideal.cc5342ab.png",
     "static/media/goya.png": "/static/media/goya.fef045de.png",
+    "static/media/gracia.png": "/static/media/gracia.f5f81de7.png",
     "static/media/granja_separatista.png": "/static/media/granja_separatista.af821e47.png",
     "static/media/greta.png": "/static/media/greta.c1376d3e.png",
     "static/media/grune_energie.png": "/static/media/grune_energie.8fb32dd6.png",
@@ -526,8 +527,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.5b93fe7b.chunk.js",
+    "static/js/2.cc9ea942.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.ce767c4f.chunk.js"
+    "static/js/main.95549564.chunk.js"
   ]
 }

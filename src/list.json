@@ -4393,5 +4393,15 @@
         "size": "3000x2000",
         "celebrities": ["Carles Puigdemont"],
         "parties": ["JxC"]
+    },
+    "gracia": {
+        "name": "Qué gracia...",
+        "date": "2023-01-14T00:00",
+        "description": [
+            "Grandes Ocurrencias Recita Doña Ángela."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["UP"]
     }
 }

@@ -4382,7 +4382,7 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "costumbres": {
         "name": "Costumbres",
@@ -4402,6 +4402,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
+    },
+    "judea": {
+        "name": "Judea",
+        "date": "2023-01-15T00:00",
+        "description": [
+            "Seguro que me he dejado a más de un partido de izquierdas, tanto actual como espero que futuro. Al principio iba a hacer solo a Podemos, Más País y Sumar, pero me vine arriba."
+        ],
+        "size": "4000x3000",
+        "parties": ["Podemos", "PSOE", "Compromís", "EH Bildu", "BNG", "MP", "ERC", "IU", "Sumar", "CUP", "AA"]
     }
 }

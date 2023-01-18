@@ -4412,5 +4412,15 @@
         ],
         "size": "4000x3000",
         "parties": ["Podemos", "PSOE", "Compromís", "EH Bildu", "BNG", "MP", "ERC", "IU", "Sumar", "CUP", "AA"]
+    },
+    "ham": {
+        "name": "Ham",
+        "date": "2023-01-18T00:00",
+        "description": [
+            "Espero que sus paisanos, que son los míos, entiendan la referencia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

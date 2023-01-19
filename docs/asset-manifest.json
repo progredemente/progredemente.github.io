@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.b363fbf1.chunk.js",
-    "main.js.map": "/static/js/main.b363fbf1.chunk.js.map",
+    "main.js": "/static/js/main.69127fa6.chunk.js",
+    "main.js.map": "/static/js/main.69127fa6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7aa19712.chunk.js": "/static/js/2.7aa19712.chunk.js",
-    "static/js/2.7aa19712.chunk.js.map": "/static/js/2.7aa19712.chunk.js.map",
+    "static/js/2.bea9f235.chunk.js": "/static/js/2.bea9f235.chunk.js",
+    "static/js/2.bea9f235.chunk.js.map": "/static/js/2.bea9f235.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.444ad57bbc9c0ab360bf2a88f4063f39.js": "/precache-manifest.444ad57bbc9c0ab360bf2a88f4063f39.js",
+    "precache-manifest.93c5b6456f95e28953a0e77f84f87730.js": "/precache-manifest.93c5b6456f95e28953a0e77f84f87730.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.7aa19712.chunk.js.LICENSE.txt": "/static/js/2.7aa19712.chunk.js.LICENSE.txt",
+    "static/js/2.bea9f235.chunk.js.LICENSE.txt": "/static/js/2.bea9f235.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -350,6 +350,7 @@
     "static/media/nacom.png": "/static/media/nacom.b0c4ae3c.png",
     "static/media/nariz.png": "/static/media/nariz.ecce5282.png",
     "static/media/nasa_catalana.png": "/static/media/nasa_catalana.ec6a11bb.png",
+    "static/media/nave.png": "/static/media/nave.975b545a.png",
     "static/media/navidades_patriarcales.png": "/static/media/navidades_patriarcales.bc407c1d.png",
     "static/media/nayeta.png": "/static/media/nayeta.f61a63af.png",
     "static/media/never_forgetti.png": "/static/media/never_forgetti.94c97b21.png",
@@ -529,8 +530,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7aa19712.chunk.js",
+    "static/js/2.bea9f235.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.b363fbf1.chunk.js"
+    "static/js/main.69127fa6.chunk.js"
   ]
 }

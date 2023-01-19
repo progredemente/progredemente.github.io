@@ -4422,5 +4422,16 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "nave": {
+        "name": "Nave",
+        "date": "2023-01-19T00:00",
+        "description": [
+            "A veces me pregunto si me estaré pasando, luego recuerdo lo que están haciendo y pienso que me estoy quedando corto."
+        ],
+        "url": "https://www.youtube.com/embed/sVqDx_k2vfo",
+        "series": ["animacion"],
+        "celebrities": ["Ángela Rodríguez Pam", "Pablo Iglesias", "Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

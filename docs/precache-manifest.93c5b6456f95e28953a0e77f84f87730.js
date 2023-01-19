@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9861cc0fc497cebd71ccb95cf780ba60",
+    "revision": "384a5d28fa4fe82184ccef467cb30b13",
     "url": "/index.html"
   },
   {
-    "revision": "0c2d4a3bbf6da8f87cef",
+    "revision": "894733ec7925520059c5",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "c8801f478c5ac85d1521",
-    "url": "/static/js/2.7aa19712.chunk.js"
+    "revision": "a5ecc0759a175a4398a0",
+    "url": "/static/js/2.bea9f235.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.7aa19712.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bea9f235.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c2d4a3bbf6da8f87cef",
-    "url": "/static/js/main.b363fbf1.chunk.js"
+    "revision": "894733ec7925520059c5",
+    "url": "/static/js/main.69127fa6.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2530,6 +2530,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec6a11bb1d411a19e54b858866dc6d2c",
     "url": "/static/media/nasa_catalana.ec6a11bb.png"
+  },
+  {
+    "revision": "975b545a94d51910b109e2d8bc05a5f7",
+    "url": "/static/media/nave.975b545a.png"
   },
   {
     "revision": "a7779249fb8aedd9bb50cad5f1f6f456",

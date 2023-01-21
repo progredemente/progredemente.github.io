@@ -4433,5 +4433,14 @@
         "series": ["animacion"],
         "celebrities": ["Ángela Rodríguez Pam", "Pablo Iglesias", "Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "sesion_fotos": {
+        "name": "Sesión de fotos",
+        "date": "2023-01-21T00:00",
+        "description": [
+            "Dicen que en vez de decir \"patata\", dijo \"hamburguesa de grillos\""
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Greta Thunberg"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.69127fa6.chunk.js",
-    "main.js.map": "/static/js/main.69127fa6.chunk.js.map",
+    "main.js": "/static/js/main.d2f96fce.chunk.js",
+    "main.js.map": "/static/js/main.d2f96fce.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.bea9f235.chunk.js": "/static/js/2.bea9f235.chunk.js",
-    "static/js/2.bea9f235.chunk.js.map": "/static/js/2.bea9f235.chunk.js.map",
+    "static/js/2.c200174a.chunk.js": "/static/js/2.c200174a.chunk.js",
+    "static/js/2.c200174a.chunk.js.map": "/static/js/2.c200174a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.93c5b6456f95e28953a0e77f84f87730.js": "/precache-manifest.93c5b6456f95e28953a0e77f84f87730.js",
+    "precache-manifest.3115466a3b3cc549c11b2b10f1e54e55.js": "/precache-manifest.3115466a3b3cc549c11b2b10f1e54e55.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.bea9f235.chunk.js.LICENSE.txt": "/static/js/2.bea9f235.chunk.js.LICENSE.txt",
+    "static/js/2.c200174a.chunk.js.LICENSE.txt": "/static/js/2.c200174a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -450,6 +450,7 @@
     "static/media/sedicion.png": "/static/media/sedicion.9ea696a6.png",
     "static/media/seriefilo.png": "/static/media/seriefilo.edf45dd4.png",
     "static/media/servilleta.png": "/static/media/servilleta.92785c74.png",
+    "static/media/sesion_fotos.png": "/static/media/sesion_fotos.7ada73e2.png",
     "static/media/shingeki_no_muajin.png": "/static/media/shingeki_no_muajin.b26f007f.png",
     "static/media/silla.png": "/static/media/silla.f3d31cd1.png",
     "static/media/sindikato.png": "/static/media/sindikato.46a46769.png",
@@ -530,8 +531,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.bea9f235.chunk.js",
+    "static/js/2.c200174a.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.69127fa6.chunk.js"
+    "static/js/main.d2f96fce.chunk.js"
   ]
 }

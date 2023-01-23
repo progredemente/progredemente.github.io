@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.d2f96fce.chunk.js",
-    "main.js.map": "/static/js/main.d2f96fce.chunk.js.map",
+    "main.js": "/static/js/main.c4828064.chunk.js",
+    "main.js.map": "/static/js/main.c4828064.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c200174a.chunk.js": "/static/js/2.c200174a.chunk.js",
-    "static/js/2.c200174a.chunk.js.map": "/static/js/2.c200174a.chunk.js.map",
+    "static/js/2.26192279.chunk.js": "/static/js/2.26192279.chunk.js",
+    "static/js/2.26192279.chunk.js.map": "/static/js/2.26192279.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3115466a3b3cc549c11b2b10f1e54e55.js": "/precache-manifest.3115466a3b3cc549c11b2b10f1e54e55.js",
+    "precache-manifest.0a29ec251878bb4082107554ff873a98.js": "/precache-manifest.0a29ec251878bb4082107554ff873a98.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.c200174a.chunk.js.LICENSE.txt": "/static/js/2.c200174a.chunk.js.LICENSE.txt",
+    "static/js/2.26192279.chunk.js.LICENSE.txt": "/static/js/2.26192279.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -140,6 +140,7 @@
     "static/media/charotler.png": "/static/media/charotler.b9cffa30.png",
     "static/media/chiringuito.png": "/static/media/chiringuito.b674b800.png",
     "static/media/choinka.png": "/static/media/choinka.f7f96514.png",
+    "static/media/choripam.png": "/static/media/choripam.eb47055d.png",
     "static/media/christmas_tree.png": "/static/media/christmas_tree.a99b115c.png",
     "static/media/chu_churinguito.png": "/static/media/chu_churinguito.decc6088.png",
     "static/media/cielo_tierra.png": "/static/media/cielo_tierra.d951c36d.png",
@@ -531,8 +532,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c200174a.chunk.js",
+    "static/js/2.26192279.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.d2f96fce.chunk.js"
+    "static/js/main.c4828064.chunk.js"
   ]
 }

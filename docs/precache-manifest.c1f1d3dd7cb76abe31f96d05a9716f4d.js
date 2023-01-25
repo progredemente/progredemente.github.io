@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d49b069257a97ef630242b337698d3c",
+    "revision": "818969db6e0e62357bdc4ee9e4a4210a",
     "url": "/index.html"
   },
   {
-    "revision": "945c5a45554e64ef7fc0",
+    "revision": "005171b9ae0cc3a6bc67",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "e60fd10cbfc9a6e93913",
-    "url": "/static/js/2.26192279.chunk.js"
+    "revision": "ab079bad23df1f6abec3",
+    "url": "/static/js/2.0cda90b8.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.26192279.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0cda90b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "945c5a45554e64ef7fc0",
-    "url": "/static/js/main.c4828064.chunk.js"
+    "revision": "005171b9ae0cc3a6bc67",
+    "url": "/static/js/main.9fa4b2d3.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1170,6 +1170,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83d6a998059a4627b3c32bcaa48f662b",
     "url": "/static/media/curriculum.83d6a998.png"
+  },
+  {
+    "revision": "4515cd68d8f87f98a9b58256b6fea7c4",
+    "url": "/static/media/davos.4515cd68.png"
+  },
+  {
+    "revision": "d930363cf49ad6070c2f8868fb607bd2",
+    "url": "/static/media/davos.d930363c.png"
   },
   {
     "revision": "80bc4f35f54cedb310b7e15255f8f883",

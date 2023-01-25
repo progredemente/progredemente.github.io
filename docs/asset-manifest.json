@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.c4828064.chunk.js",
-    "main.js.map": "/static/js/main.c4828064.chunk.js.map",
+    "main.js": "/static/js/main.9fa4b2d3.chunk.js",
+    "main.js.map": "/static/js/main.9fa4b2d3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.26192279.chunk.js": "/static/js/2.26192279.chunk.js",
-    "static/js/2.26192279.chunk.js.map": "/static/js/2.26192279.chunk.js.map",
+    "static/js/2.0cda90b8.chunk.js": "/static/js/2.0cda90b8.chunk.js",
+    "static/js/2.0cda90b8.chunk.js.map": "/static/js/2.0cda90b8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0a29ec251878bb4082107554ff873a98.js": "/precache-manifest.0a29ec251878bb4082107554ff873a98.js",
+    "precache-manifest.c1f1d3dd7cb76abe31f96d05a9716f4d.js": "/precache-manifest.c1f1d3dd7cb76abe31f96d05a9716f4d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.26192279.chunk.js.LICENSE.txt": "/static/js/2.26192279.chunk.js.LICENSE.txt",
+    "static/js/2.0cda90b8.chunk.js.LICENSE.txt": "/static/js/2.0cda90b8.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -166,6 +166,7 @@
     "static/media/cumplir.png": "/static/media/cumplir.b87544da.png",
     "static/media/cuotas.png": "/static/media/cuotas.788a2cad.png",
     "static/media/curriculum.png": "/static/media/curriculum.83d6a998.png",
+    "static/media/davos.png": "/static/media/davos.d930363c.png",
     "static/media/de_compras.png": "/static/media/de_compras.b95cceb5.png",
     "static/media/debilidad_mental.png": "/static/media/debilidad_mental.2b0e9d48.png",
     "static/media/derechos_humanos.png": "/static/media/derechos_humanos.73325288.png",
@@ -532,8 +533,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.26192279.chunk.js",
+    "static/js/2.0cda90b8.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.c4828064.chunk.js"
+    "static/js/main.9fa4b2d3.chunk.js"
   ]
 }

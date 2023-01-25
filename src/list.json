@@ -4452,5 +4452,15 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "davos": {
+        "name": "Davos",
+        "date": "2023-01-25T00:00",
+        "description": [
+            "También le preguntaron si tragaba o escupía, pero eso nunca nos lo va a contar."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

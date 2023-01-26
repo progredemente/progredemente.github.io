@@ -4462,5 +4462,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "rita": {
+        "name": "Rita",
+        "date": "2023-01-26T00:00",
+        "description": [
+            "Laica Rita, Rita, te da las migajas de lo que previamente te quita."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Rita Maestre"],
+        "parties": ["MP"]
     }
 }

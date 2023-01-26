@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.9fa4b2d3.chunk.js",
-    "main.js.map": "/static/js/main.9fa4b2d3.chunk.js.map",
+    "main.js": "/static/js/main.635ac16c.chunk.js",
+    "main.js.map": "/static/js/main.635ac16c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0cda90b8.chunk.js": "/static/js/2.0cda90b8.chunk.js",
-    "static/js/2.0cda90b8.chunk.js.map": "/static/js/2.0cda90b8.chunk.js.map",
+    "static/js/2.27e5f1b0.chunk.js": "/static/js/2.27e5f1b0.chunk.js",
+    "static/js/2.27e5f1b0.chunk.js.map": "/static/js/2.27e5f1b0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c1f1d3dd7cb76abe31f96d05a9716f4d.js": "/precache-manifest.c1f1d3dd7cb76abe31f96d05a9716f4d.js",
+    "precache-manifest.564e1eae89d2fd06004f08bbe910a82e.js": "/precache-manifest.564e1eae89d2fd06004f08bbe910a82e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.0cda90b8.chunk.js.LICENSE.txt": "/static/js/2.0cda90b8.chunk.js.LICENSE.txt",
+    "static/js/2.27e5f1b0.chunk.js.LICENSE.txt": "/static/js/2.27e5f1b0.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -438,6 +438,7 @@
     "static/media/rey_ratas.png": "/static/media/rey_ratas.f7368cd5.png",
     "static/media/reyes_magos.png": "/static/media/reyes_magos.e3fb7914.png",
     "static/media/reyes_netflix.png": "/static/media/reyes_netflix.a1740e54.png",
+    "static/media/rita.png": "/static/media/rita.db60ec0e.png",
     "static/media/rodamoh.png": "/static/media/rodamoh.de2f6288.png",
     "static/media/rolex.png": "/static/media/rolex.7c779579.png",
     "static/media/rubalcaba.png": "/static/media/rubalcaba.d138d34b.png",
@@ -533,8 +534,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0cda90b8.chunk.js",
+    "static/js/2.27e5f1b0.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.9fa4b2d3.chunk.js"
+    "static/js/main.635ac16c.chunk.js"
   ]
 }

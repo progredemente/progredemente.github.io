@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "818969db6e0e62357bdc4ee9e4a4210a",
+    "revision": "8e7f495555a8ef93295df16a61862c0e",
     "url": "/index.html"
   },
   {
-    "revision": "005171b9ae0cc3a6bc67",
+    "revision": "8e9f0da7fdd34d938bc6",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "ab079bad23df1f6abec3",
-    "url": "/static/js/2.0cda90b8.chunk.js"
+    "revision": "2a8ba3dd20229c8b9985",
+    "url": "/static/js/2.27e5f1b0.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.0cda90b8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.27e5f1b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "005171b9ae0cc3a6bc67",
-    "url": "/static/js/main.9fa4b2d3.chunk.js"
+    "revision": "8e9f0da7fdd34d938bc6",
+    "url": "/static/js/main.635ac16c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3178,6 +3178,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a1740e546c3b4a50826e8bcb8513e601",
     "url": "/static/media/reyes_netflix.a1740e54.png"
+  },
+  {
+    "revision": "6be1ffee9308738ab0f29185cc111b79",
+    "url": "/static/media/rita.6be1ffee.png"
+  },
+  {
+    "revision": "db60ec0e0d3e9e1caad457954cdaa92c",
+    "url": "/static/media/rita.db60ec0e.png"
   },
   {
     "revision": "272935813f8dcf16045a7b7ad991afca",

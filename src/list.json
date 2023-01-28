@@ -4472,5 +4472,15 @@
         "size": "3000x2000",
         "celebrities": ["Rita Maestre"],
         "parties": ["MP"]
+    },
+    "pam_chorizo": {
+        "name": "Pam para el chorizo",
+        "date": "2023-01-28T00:00",
+        "description": [
+            "Tengo un bloqueo creativo causado por tremendo tapón que solo me deja hacer viñetas sobre el tapón en sí en vez de centrarme en temas de actualidad. Me queda aún alguna idea por hacer y escribiendo este texto se me ha ocurrido otra..."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

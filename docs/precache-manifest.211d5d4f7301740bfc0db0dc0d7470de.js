@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9efb6c7be5d430f5f7d3964dd6cade5",
+    "revision": "b126671884f4f6e62659201d97944844",
     "url": "/index.html"
   },
   {
-    "revision": "d5e5792ac7bd3550bf08",
+    "revision": "556509ef66a6eab3cd8f",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "1027573c338b3bdac31e",
-    "url": "/static/js/2.c617397f.chunk.js"
+    "revision": "2546259ea22a3ba45819",
+    "url": "/static/js/2.72c1d92b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.c617397f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.72c1d92b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5e5792ac7bd3550bf08",
-    "url": "/static/js/main.55854171.chunk.js"
+    "revision": "556509ef66a6eab3cd8f",
+    "url": "/static/js/main.ef2a9226.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3610,6 +3610,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ad2a1df1c14eb3385b0c212bd5bcbc7d",
     "url": "/static/media/terf_vs_trans_banner.ad2a1df1.png"
+  },
+  {
+    "revision": "4c52de08701046a36379dc48b6f45216",
+    "url": "/static/media/terrorismo_religioso.4c52de08.png"
+  },
+  {
+    "revision": "cfe8cf7d91474d580f183393a1938d94",
+    "url": "/static/media/terrorismo_religioso.cfe8cf7d.png"
   },
   {
     "revision": "3fe963c86236fe60449810dbf8858e5e",

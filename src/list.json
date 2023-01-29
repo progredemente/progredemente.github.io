@@ -4479,8 +4479,17 @@
         "description": [
             "Tengo un bloqueo creativo causado por tremendo tapón que solo me deja hacer viñetas sobre el tapón en sí en vez de centrarme en temas de actualidad. Me queda aún alguna idea por hacer y escribiendo este texto se me ha ocurrido otra..."
         ],
-        "size": "3000x2000",
+        "size": "4000x3000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "terrorismo_religioso": {
+        "name": "Terrorismo religioso",
+        "date": "2023-01-29T00:00",
+        "description": [
+            "Que no cunda el pánico no oficial."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

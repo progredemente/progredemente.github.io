@@ -4491,5 +4491,17 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "barrendero": {
+        "name": "Barrendero",
+        "date": "2023-01-31T00:00",
+        "description": [
+            "En el paraíso comunista también hay que hacer los trabajos que nadie quiere hacer."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

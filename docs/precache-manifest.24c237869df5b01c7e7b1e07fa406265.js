@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b126671884f4f6e62659201d97944844",
+    "revision": "f629c698003d54af3496d7a6d3f34680",
     "url": "/index.html"
   },
   {
-    "revision": "556509ef66a6eab3cd8f",
+    "revision": "2d40db99626dce3eab22",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "2546259ea22a3ba45819",
-    "url": "/static/js/2.72c1d92b.chunk.js"
+    "revision": "b3b514909190c70d3472",
+    "url": "/static/js/2.9fdf7975.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.72c1d92b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9fdf7975.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "556509ef66a6eab3cd8f",
-    "url": "/static/js/main.ef2a9226.chunk.js"
+    "revision": "2d40db99626dce3eab22",
+    "url": "/static/js/main.0281482d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -526,6 +526,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f07a13f3cc3f5fafebf93f204de60acc",
     "url": "/static/media/barra_corazon.f07a13f3.png"
+  },
+  {
+    "revision": "39eddbcf8ed82b3d32779dbd4c4fd9e9",
+    "url": "/static/media/barrendero.39eddbcf.png"
+  },
+  {
+    "revision": "836e4d4f3fcb14beff01eb9408f55b5d",
+    "url": "/static/media/barrendero.836e4d4f.png"
+  },
+  {
+    "revision": "42915ab3ad8a9ce27eee600040a786f3",
+    "url": "/static/media/barrendero.en.42915ab3.png"
   },
   {
     "revision": "0b9544f4e5a551a8f4efec29b71e60fd",

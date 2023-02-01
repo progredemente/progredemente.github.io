@@ -4503,5 +4503,15 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "lodazal": {
+        "name": "Lodazal",
+        "date": "2023-02-01T00:00",
+        "description": [
+            "Si las consecuencias no fuesen tan chungas me haría gracia el hecho de que las dejen hacer para que se caven su propia tumba política."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángela Rodríguez Pam", "Irene Montero", "Pedro Sánchez"],
+        "parties": ["Podemos", "PSOE"]
     }
 }

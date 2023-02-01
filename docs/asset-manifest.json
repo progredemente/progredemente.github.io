@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.0281482d.chunk.js",
-    "main.js.map": "/static/js/main.0281482d.chunk.js.map",
+    "main.js": "/static/js/main.b37f640f.chunk.js",
+    "main.js.map": "/static/js/main.b37f640f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9fdf7975.chunk.js": "/static/js/2.9fdf7975.chunk.js",
-    "static/js/2.9fdf7975.chunk.js.map": "/static/js/2.9fdf7975.chunk.js.map",
+    "static/js/2.69a106f3.chunk.js": "/static/js/2.69a106f3.chunk.js",
+    "static/js/2.69a106f3.chunk.js.map": "/static/js/2.69a106f3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.24c237869df5b01c7e7b1e07fa406265.js": "/precache-manifest.24c237869df5b01c7e7b1e07fa406265.js",
+    "precache-manifest.2cadde8085792ee1cbb1971b099fdeff.js": "/precache-manifest.2cadde8085792ee1cbb1971b099fdeff.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.9fdf7975.chunk.js.LICENSE.txt": "/static/js/2.9fdf7975.chunk.js.LICENSE.txt",
+    "static/js/2.69a106f3.chunk.js.LICENSE.txt": "/static/js/2.69a106f3.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -299,6 +299,7 @@
     "static/media/little_mireia.png": "/static/media/little_mireia.513721a7.png",
     "static/media/little_mireia.mp3": "/static/media/little_mireia.70284cbf.mp3",
     "static/media/llibert.png": "/static/media/llibert.3f705388.png",
+    "static/media/lodazal.png": "/static/media/lodazal.fba92747.png",
     "static/media/logica_aplastante.png": "/static/media/logica_aplastante.ead52c1b.png",
     "static/media/logo.png": "/static/media/logo.11965a96.png",
     "static/media/loro.png": "/static/media/loro.dceb3b54.png",
@@ -538,8 +539,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9fdf7975.chunk.js",
+    "static/js/2.69a106f3.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.0281482d.chunk.js"
+    "static/js/main.b37f640f.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f629c698003d54af3496d7a6d3f34680",
+    "revision": "4f82a0d380e8422906ae1cec2f713107",
     "url": "/index.html"
   },
   {
-    "revision": "2d40db99626dce3eab22",
+    "revision": "c281c00318bc670e3e9c",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "b3b514909190c70d3472",
-    "url": "/static/js/2.9fdf7975.chunk.js"
+    "revision": "b603f18bfbb16a69719d",
+    "url": "/static/js/2.69a106f3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.9fdf7975.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.69a106f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d40db99626dce3eab22",
-    "url": "/static/js/main.0281482d.chunk.js"
+    "revision": "c281c00318bc670e3e9c",
+    "url": "/static/js/main.b37f640f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2150,6 +2150,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3f705388d401d1eb411ea0f07693516c",
     "url": "/static/media/llibert.3f705388.png"
+  },
+  {
+    "revision": "f8056c89b0d9349109291af18888e9a2",
+    "url": "/static/media/lodazal.f8056c89.png"
+  },
+  {
+    "revision": "fba927471b05a50b23b26a372ac78430",
+    "url": "/static/media/lodazal.fba92747.png"
   },
   {
     "revision": "be3e4e556555d76b46ea0013bf2c83be",

@@ -4513,5 +4513,13 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam", "Irene Montero", "Pedro Sánchez"],
         "parties": ["Podemos", "PSOE"]
+    },
+    "todo_patria": {
+        "name": "Todo por la patria",
+        "date": "2023-02-03T00:00",
+        "description": [
+            "Tankeándose bosses por Españita. Un héroe sin capa."
+        ],
+        "size": "3000x3000"
     }
 }

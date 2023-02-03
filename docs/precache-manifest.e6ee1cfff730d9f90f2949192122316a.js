@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f82a0d380e8422906ae1cec2f713107",
+    "revision": "aef089c9d772474413c08ad8623f1fbb",
     "url": "/index.html"
   },
   {
-    "revision": "c281c00318bc670e3e9c",
+    "revision": "2a129a4ab89cff24bb0d",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "b603f18bfbb16a69719d",
-    "url": "/static/js/2.69a106f3.chunk.js"
+    "revision": "39db194c8648f3616a9c",
+    "url": "/static/js/2.770d91b3.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.69a106f3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.770d91b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c281c00318bc670e3e9c",
-    "url": "/static/js/main.b37f640f.chunk.js"
+    "revision": "2a129a4ab89cff24bb0d",
+    "url": "/static/js/main.17569a94.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3662,6 +3662,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5ad410696b6f5be4947777781b154bc1",
     "url": "/static/media/tio_nadal.5ad41069.png"
+  },
+  {
+    "revision": "5e91255764c03e634b461e96d01ced0d",
+    "url": "/static/media/todo_patria.5e912557.png"
+  },
+  {
+    "revision": "b3c67fc0d3c46c8d24013f821094bb41",
+    "url": "/static/media/todo_patria.b3c67fc0.png"
   },
   {
     "revision": "139881a4d7fb7978e6e4d3fa496f015d",

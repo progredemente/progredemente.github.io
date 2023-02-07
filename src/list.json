@@ -4520,6 +4520,27 @@
         "description": [
             "Tankeándose bosses por Españita. Un héroe sin capa."
         ],
-        "size": "3000x3000"
+        "size": "3000x3000",
+        "parties": ["CUP"]
+    },
+    "planton": {
+        "name": "Plantón",
+        "date": "2023-02-04T00:00",
+        "description": [
+            "Los medios de comunicación deberían estar 24/7 exigiendo explicaciones sobre qué le deben Sánchez y el PSOE a Marruecos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
+    },
+    "tecnicas_ligar": {
+        "name": "Técnicas para ligar",
+        "date": "2023-02-07T00:00",
+        "description": [
+            "Cada maestrillo tiene su librillo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias", "Juan Carlos Monedero"],
+        "parties": ["Podemos"]
     }
 }

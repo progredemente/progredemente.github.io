@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aef089c9d772474413c08ad8623f1fbb",
+    "revision": "c3d7cbe6b8d5911a1927b82138fb40ff",
     "url": "/index.html"
   },
   {
-    "revision": "2a129a4ab89cff24bb0d",
+    "revision": "63ec59b90f7c1b1ea9a3",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "39db194c8648f3616a9c",
-    "url": "/static/js/2.770d91b3.chunk.js"
+    "revision": "3bc4adb06ade37a5cd37",
+    "url": "/static/js/2.eccdc98b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.770d91b3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.eccdc98b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a129a4ab89cff24bb0d",
-    "url": "/static/js/main.17569a94.chunk.js"
+    "revision": "63ec59b90f7c1b1ea9a3",
+    "url": "/static/js/main.a17b605c.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2972,6 +2972,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pistola_dinero.712e2378.png"
   },
   {
+    "revision": "35a4cd76c7c04ff4b195e68267fefa37",
+    "url": "/static/media/planton.35a4cd76.png"
+  },
+  {
+    "revision": "b95a67b13d06b471d64f7e2fc0be24b0",
+    "url": "/static/media/planton.b95a67b1.png"
+  },
+  {
     "revision": "59cbf9421042fc2a92debb04a2013d22",
     "url": "/static/media/pocas_luces.59cbf942.png"
   },
@@ -3590,6 +3598,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "91f2d34c404641efa82cbd24a93d2c06",
     "url": "/static/media/techo_gasto.91f2d34c.png"
+  },
+  {
+    "revision": "0a8ec13999ce4d8a2a3b9748e8aa2aa4",
+    "url": "/static/media/tecnicas_ligar.0a8ec139.png"
+  },
+  {
+    "revision": "ff3c0b670e86a303078450188cb3ed51",
+    "url": "/static/media/tecnicas_ligar.ff3c0b67.png"
   },
   {
     "revision": "2c84be4c4dec401d09a64498cbbd382d",

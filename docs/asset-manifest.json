@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.17569a94.chunk.js",
-    "main.js.map": "/static/js/main.17569a94.chunk.js.map",
+    "main.js": "/static/js/main.a17b605c.chunk.js",
+    "main.js.map": "/static/js/main.a17b605c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.770d91b3.chunk.js": "/static/js/2.770d91b3.chunk.js",
-    "static/js/2.770d91b3.chunk.js.map": "/static/js/2.770d91b3.chunk.js.map",
+    "static/js/2.eccdc98b.chunk.js": "/static/js/2.eccdc98b.chunk.js",
+    "static/js/2.eccdc98b.chunk.js.map": "/static/js/2.eccdc98b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e6ee1cfff730d9f90f2949192122316a.js": "/precache-manifest.e6ee1cfff730d9f90f2949192122316a.js",
+    "precache-manifest.70c8bb1b323c11f7dc5e9ef3549f5df6.js": "/precache-manifest.70c8bb1b323c11f7dc5e9ef3549f5df6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.770d91b3.chunk.js.LICENSE.txt": "/static/js/2.770d91b3.chunk.js.LICENSE.txt",
+    "static/js/2.eccdc98b.chunk.js.LICENSE.txt": "/static/js/2.eccdc98b.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -410,6 +410,7 @@
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
     "static/media/pisapapeles.png": "/static/media/pisapapeles.d1562186.png",
     "static/media/pistola_dinero.png": "/static/media/pistola_dinero.712e2378.png",
+    "static/media/planton.png": "/static/media/planton.b95a67b1.png",
     "static/media/pocas_luces.png": "/static/media/pocas_luces.a505c7d1.png",
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
     "static/media/pocos_impuestos.png": "/static/media/pocos_impuestos.df1a372b.png",
@@ -496,6 +497,7 @@
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
     "static/media/tanxugueiras.png": "/static/media/tanxugueiras.501781ae.png",
     "static/media/techo_gasto.png": "/static/media/techo_gasto.91f2d34c.png",
+    "static/media/tecnicas_ligar.png": "/static/media/tecnicas_ligar.ff3c0b67.png",
     "static/media/telegram.png": "/static/media/telegram.2c84be4c.png",
     "static/media/terf_vs_trans_1.png": "/static/media/terf_vs_trans_1.d980a893.png",
     "static/media/terf_vs_trans_2.png": "/static/media/terf_vs_trans_2.56e2702d.png",
@@ -540,8 +542,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.770d91b3.chunk.js",
+    "static/js/2.eccdc98b.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.17569a94.chunk.js"
+    "static/js/main.a17b605c.chunk.js"
   ]
 }

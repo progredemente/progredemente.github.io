@@ -4552,5 +4552,13 @@
         "size": "2000x2000",
         "celebrities": ["Ione Belarra"],
         "parties": ["Podemos"]
+    },
+    "auschwarts": {
+        "name": "Auschwarts",
+        "date": "2023-02-08T01:00",
+        "description": [
+            "Estoy flipando con que hayan creado una lista negra web para saber quien hace stream de un videojuego... Luego llaman nazis a los demás."
+        ],
+        "size": "2000x2000"
     }
 }

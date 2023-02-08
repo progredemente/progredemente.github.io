@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fa706c36387f65f1bd988a16a18e662",
+    "revision": "1ad7ffd51d3a6f2513a2780ebf4a3ffd",
     "url": "/index.html"
   },
   {
-    "revision": "8888f86470985081accb",
+    "revision": "a16713a36f60dd2a3be8",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "acc87f81920e5c640525",
-    "url": "/static/js/2.a8807099.chunk.js"
+    "revision": "9bd659de021fc3d84cc7",
+    "url": "/static/js/2.de53f0fc.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a8807099.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.de53f0fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8888f86470985081accb",
-    "url": "/static/js/main.cc19d8c3.chunk.js"
+    "revision": "a16713a36f60dd2a3be8",
+    "url": "/static/js/main.3303b209.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -354,6 +354,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e82c6e83ef37fcf0a2fee618969535c8",
     "url": "/static/media/atlas.en.e82c6e83.png"
+  },
+  {
+    "revision": "eb5c2b919b956ecb3985d8150a09ff27",
+    "url": "/static/media/auschwarts.eb5c2b91.png"
+  },
+  {
+    "revision": "f83ae9710e0ba0ee16009f9fd1bfd0a0",
+    "url": "/static/media/auschwarts.f83ae971.png"
   },
   {
     "revision": "261d5d1a69206ce11e6db5a43f54e3ec",

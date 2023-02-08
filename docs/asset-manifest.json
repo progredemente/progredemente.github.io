@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.cc19d8c3.chunk.js",
-    "main.js.map": "/static/js/main.cc19d8c3.chunk.js.map",
+    "main.js": "/static/js/main.3303b209.chunk.js",
+    "main.js.map": "/static/js/main.3303b209.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a8807099.chunk.js": "/static/js/2.a8807099.chunk.js",
-    "static/js/2.a8807099.chunk.js.map": "/static/js/2.a8807099.chunk.js.map",
+    "static/js/2.de53f0fc.chunk.js": "/static/js/2.de53f0fc.chunk.js",
+    "static/js/2.de53f0fc.chunk.js.map": "/static/js/2.de53f0fc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e5ece2b102cabb39c65ce3ac6d4e9392.js": "/precache-manifest.e5ece2b102cabb39c65ce3ac6d4e9392.js",
+    "precache-manifest.a4e431428ae98ffd9149b2d2b370aa20.js": "/precache-manifest.a4e431428ae98ffd9149b2d2b370aa20.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.a8807099.chunk.js.LICENSE.txt": "/static/js/2.a8807099.chunk.js.LICENSE.txt",
+    "static/js/2.de53f0fc.chunk.js.LICENSE.txt": "/static/js/2.de53f0fc.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -56,6 +56,7 @@
     "static/media/atencion_sanitaria.png": "/static/media/atencion_sanitaria.607f1c53.png",
     "static/media/atlas.png": "/static/media/atlas.79072fd9.png",
     "static/media/atlas.en.png": "/static/media/atlas.en.e82c6e83.png",
+    "static/media/auschwarts.png": "/static/media/auschwarts.f83ae971.png",
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
     "static/media/avispero.png": "/static/media/avispero.0ac3625c.png",
@@ -543,8 +544,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a8807099.chunk.js",
+    "static/js/2.de53f0fc.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.cc19d8c3.chunk.js"
+    "static/js/main.3303b209.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.3303b209.chunk.js",
-    "main.js.map": "/static/js/main.3303b209.chunk.js.map",
+    "main.js": "/static/js/main.722d653f.chunk.js",
+    "main.js.map": "/static/js/main.722d653f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.de53f0fc.chunk.js": "/static/js/2.de53f0fc.chunk.js",
-    "static/js/2.de53f0fc.chunk.js.map": "/static/js/2.de53f0fc.chunk.js.map",
+    "static/js/2.d441787f.chunk.js": "/static/js/2.d441787f.chunk.js",
+    "static/js/2.d441787f.chunk.js.map": "/static/js/2.d441787f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a4e431428ae98ffd9149b2d2b370aa20.js": "/precache-manifest.a4e431428ae98ffd9149b2d2b370aa20.js",
+    "precache-manifest.f9fddb1db0bbcabea62b7ca9c1baf6c7.js": "/precache-manifest.f9fddb1db0bbcabea62b7ca9c1baf6c7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.de53f0fc.chunk.js.LICENSE.txt": "/static/js/2.de53f0fc.chunk.js.LICENSE.txt",
+    "static/js/2.d441787f.chunk.js.LICENSE.txt": "/static/js/2.d441787f.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -319,6 +319,8 @@
     "static/media/manspreading.en.png": "/static/media/manspreading.en.41d4ffa6.png",
     "static/media/mapi.png": "/static/media/mapi.4cad62b2.png",
     "static/media/maquina_humo.png": "/static/media/maquina_humo.8c0fec56.png",
+    "static/media/marca_tenebrosa.png": "/static/media/marca_tenebrosa.bd0bad45.png",
+    "static/media/marca_tenebrosa.en.png": "/static/media/marca_tenebrosa.en.29f3db26.png",
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
     "static/media/marionetas.png": "/static/media/marionetas.45ba5986.png",
@@ -544,8 +546,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.de53f0fc.chunk.js",
+    "static/js/2.d441787f.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.3303b209.chunk.js"
+    "static/js/main.722d653f.chunk.js"
   ]
 }

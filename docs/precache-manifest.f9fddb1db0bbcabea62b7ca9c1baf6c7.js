@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ad7ffd51d3a6f2513a2780ebf4a3ffd",
+    "revision": "c5b515f2d6204f52166bc0e4b75675b7",
     "url": "/index.html"
   },
   {
-    "revision": "a16713a36f60dd2a3be8",
+    "revision": "900659419c03a3574c25",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "9bd659de021fc3d84cc7",
-    "url": "/static/js/2.de53f0fc.chunk.js"
+    "revision": "6e9b7f3d9a040dfcab9a",
+    "url": "/static/js/2.d441787f.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.de53f0fc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d441787f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a16713a36f60dd2a3be8",
-    "url": "/static/js/main.3303b209.chunk.js"
+    "revision": "900659419c03a3574c25",
+    "url": "/static/js/main.722d653f.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2298,6 +2298,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8c0fec566ef23f00a7549031480af1b7",
     "url": "/static/media/maquina_humo.8c0fec56.png"
+  },
+  {
+    "revision": "a1d1894e6f238da7144918af32362f50",
+    "url": "/static/media/marca_tenebrosa.a1d1894e.png"
+  },
+  {
+    "revision": "bd0bad453541f9b24b3292055fb609da",
+    "url": "/static/media/marca_tenebrosa.bd0bad45.png"
+  },
+  {
+    "revision": "29f3db2625cfeb2e80b618835c94d310",
+    "url": "/static/media/marca_tenebrosa.en.29f3db26.png"
   },
   {
     "revision": "48f47b6c563894e33671d8633de07536",

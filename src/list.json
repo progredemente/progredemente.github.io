@@ -4560,5 +4560,17 @@
             "Estoy flipando con que hayan creado una lista negra web para saber quien hace stream de un videojuego... Luego llaman nazis a los demás."
         ],
         "size": "2000x2000"
+    },
+    "marca_tenebrosa": {
+        "name": "Marca tenebrosa",
+        "date": "2023-02-09T00:00",
+        "description": [
+            "Sigo flipando con lo del juego. Tenía pensado comprármelo, ahora con más motivo."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

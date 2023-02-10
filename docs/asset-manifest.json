@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.722d653f.chunk.js",
-    "main.js.map": "/static/js/main.722d653f.chunk.js.map",
+    "main.js": "/static/js/main.5e642f99.chunk.js",
+    "main.js.map": "/static/js/main.5e642f99.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.d441787f.chunk.js": "/static/js/2.d441787f.chunk.js",
-    "static/js/2.d441787f.chunk.js.map": "/static/js/2.d441787f.chunk.js.map",
+    "static/js/2.b0a8d5c7.chunk.js": "/static/js/2.b0a8d5c7.chunk.js",
+    "static/js/2.b0a8d5c7.chunk.js.map": "/static/js/2.b0a8d5c7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f9fddb1db0bbcabea62b7ca9c1baf6c7.js": "/precache-manifest.f9fddb1db0bbcabea62b7ca9c1baf6c7.js",
+    "precache-manifest.b7e03f6464fc104be372b7a9bc2bd57a.js": "/precache-manifest.b7e03f6464fc104be372b7a9bc2bd57a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.d441787f.chunk.js.LICENSE.txt": "/static/js/2.d441787f.chunk.js.LICENSE.txt",
+    "static/js/2.b0a8d5c7.chunk.js.LICENSE.txt": "/static/js/2.b0a8d5c7.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -276,6 +276,8 @@
     "static/media/joulupuu.png": "/static/media/joulupuu.780e7ee5.png",
     "static/media/judea.png": "/static/media/judea.7947dfd1.png",
     "static/media/jueces_fascistas.png": "/static/media/jueces_fascistas.8e2fba55.png",
+    "static/media/juego_jugado.png": "/static/media/juego_jugado.d296cb40.png",
+    "static/media/juego_jugado.en.png": "/static/media/juego_jugado.en.0e1689e9.png",
     "static/media/juraste_destruir.png": "/static/media/juraste_destruir.a1a21c8d.png",
     "static/media/justicia_patriarcal.png": "/static/media/justicia_patriarcal.b3bcc456.png",
     "static/media/kaputxa.png": "/static/media/kaputxa.8f2c7c7e.png",
@@ -546,8 +548,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.d441787f.chunk.js",
+    "static/js/2.b0a8d5c7.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.722d653f.chunk.js"
+    "static/js/main.5e642f99.chunk.js"
   ]
 }

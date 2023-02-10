@@ -4572,5 +4572,17 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "juego_jugado": {
+        "name": "El juego que no debe ser jugado",
+        "date": "2023-02-10T00:00",
+        "description": [
+            "También podría haberle puesto \"El juego que debe ser cancelado\" o \"El juego que no debe ser streameado\"."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

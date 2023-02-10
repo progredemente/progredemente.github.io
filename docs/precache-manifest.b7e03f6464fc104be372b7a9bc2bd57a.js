@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5b515f2d6204f52166bc0e4b75675b7",
+    "revision": "e03f0a4cecb3e1cdf82b9d6a39179d1d",
     "url": "/index.html"
   },
   {
-    "revision": "900659419c03a3574c25",
+    "revision": "eeeb0c6165f325e51a60",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "6e9b7f3d9a040dfcab9a",
-    "url": "/static/js/2.d441787f.chunk.js"
+    "revision": "92a22b871e27d86955b5",
+    "url": "/static/js/2.b0a8d5c7.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.d441787f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b0a8d5c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "900659419c03a3574c25",
-    "url": "/static/js/main.722d653f.chunk.js"
+    "revision": "eeeb0c6165f325e51a60",
+    "url": "/static/js/main.5e642f99.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1994,6 +1994,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e2fba556a9114fc0fdc2f1ae836597e",
     "url": "/static/media/jueces_fascistas.8e2fba55.png"
+  },
+  {
+    "revision": "0fb6e2e8e7267de1e32ab33c6cffe3ad",
+    "url": "/static/media/juego_jugado.0fb6e2e8.png"
+  },
+  {
+    "revision": "d296cb40ab3d3281dec71aa57dad9dd1",
+    "url": "/static/media/juego_jugado.d296cb40.png"
+  },
+  {
+    "revision": "0e1689e9afa56f107d8d6dbe52485ad4",
+    "url": "/static/media/juego_jugado.en.0e1689e9.png"
   },
   {
     "revision": "4d3a16dfd28bd0edfa648060c2cbc671",

@@ -4117,7 +4117,7 @@
         "tags": ["agua", "oro"]
     },
     "bodegas": {
-        "name": "Rata de dos patas",
+        "name": "Bodegas",
         "date": "2022-12-01T00:00",
         "description": [
             "Para el que no se haya enterado de la noticia: {https://www.diariodeleon.es/articulo/bierzo/arte-cosificacion-femenina-que-ves-etiqueta-vino/202211291819332281047.html}"
@@ -4584,5 +4584,14 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "matarratas": {
+        "name": "Matarratas",
+        "date": "2023-02-11T00:00",
+        "description": [
+            "Imagínate las risas de que se te cuelen ratones en casa con la ley del bienestar animal y, al intentar deshacerte de ellos, acabes en la cárcel.",
+            "No pude evitar acordarme del Ratibrom. ¿Van a tener que cerrar la empresa o fabricar y vender clandestinamente sus raticidas?"
+        ],
+        "size": "2000x2000"
     }
 }

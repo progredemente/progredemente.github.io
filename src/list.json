@@ -4593,5 +4593,15 @@
             "No pude evitar acordarme del Ratibrom. ¿Van a tener que cerrar la empresa o fabricar y vender clandestinamente sus raticidas?"
         ],
         "size": "2000x2000"
+    },
+    "gente_psoe": {
+        "name": "Gente del PSOE",
+        "date": "2023-02-14T00:00",
+        "description": [
+            "Los NPCs de Sánchez están muy agradecidos del bocadillo post rodaje."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
     }
 }

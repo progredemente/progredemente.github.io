@@ -4603,5 +4603,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
         "parties": ["PSOE"]
+    },
+    "mermelada": {
+        "name": "Mermelada",
+        "date": "2023-02-15T00:00",
+        "description": [
+            "Quizás los más jóvenes no entiendan la referencia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ione Belarra"],
+        "parties": ["Podemos"]
     }
 }

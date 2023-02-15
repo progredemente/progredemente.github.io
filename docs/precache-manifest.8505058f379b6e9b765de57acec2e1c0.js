@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e642799e007f5dc89263adef517b1dc0",
+    "revision": "9a8978334bcda6e8eec991d46a8052a8",
     "url": "/index.html"
   },
   {
-    "revision": "0780c402b1454290062c",
+    "revision": "84cba03d063df11cf40b",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "4aacb4f0411de95e5f9a",
-    "url": "/static/js/2.f456efc2.chunk.js"
+    "revision": "703da2fffec549da593f",
+    "url": "/static/js/2.a886d683.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.f456efc2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a886d683.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0780c402b1454290062c",
-    "url": "/static/js/main.f810c103.chunk.js"
+    "revision": "84cba03d063df11cf40b",
+    "url": "/static/js/main.65dea27b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2442,6 +2442,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8422905eec6000958d9756dfcaf3b96e",
     "url": "/static/media/meritocracia.8422905e.png"
+  },
+  {
+    "revision": "0cf9f393628bb6b1552fed8a782ff357",
+    "url": "/static/media/mermelada.0cf9f393.png"
+  },
+  {
+    "revision": "22fa195e16732de71cba87c05ed574d6",
+    "url": "/static/media/mermelada.22fa195e.png"
   },
   {
     "revision": "0e953fba71d4ab1e279755f289036e57",

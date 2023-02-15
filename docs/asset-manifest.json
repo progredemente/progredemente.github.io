@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.f810c103.chunk.js",
-    "main.js.map": "/static/js/main.f810c103.chunk.js.map",
+    "main.js": "/static/js/main.65dea27b.chunk.js",
+    "main.js.map": "/static/js/main.65dea27b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f456efc2.chunk.js": "/static/js/2.f456efc2.chunk.js",
-    "static/js/2.f456efc2.chunk.js.map": "/static/js/2.f456efc2.chunk.js.map",
+    "static/js/2.a886d683.chunk.js": "/static/js/2.a886d683.chunk.js",
+    "static/js/2.a886d683.chunk.js.map": "/static/js/2.a886d683.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c2d95679aa2ad3383401dcadf96e809f.js": "/precache-manifest.c2d95679aa2ad3383401dcadf96e809f.js",
+    "precache-manifest.8505058f379b6e9b765de57acec2e1c0.js": "/precache-manifest.8505058f379b6e9b765de57acec2e1c0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.f456efc2.chunk.js.LICENSE.txt": "/static/js/2.f456efc2.chunk.js.LICENSE.txt",
+    "static/js/2.a886d683.chunk.js.LICENSE.txt": "/static/js/2.a886d683.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -340,6 +340,7 @@
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
     "static/media/meritocracia.png": "/static/media/meritocracia.8422905e.png",
+    "static/media/mermelada.png": "/static/media/mermelada.22fa195e.png",
     "static/media/meta.png": "/static/media/meta.491cd660.png",
     "static/media/milei_cyrus.png": "/static/media/milei_cyrus.a8db9dfa.png",
     "static/media/mileiku.png": "/static/media/mileiku.d8409faa.png",
@@ -550,8 +551,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f456efc2.chunk.js",
+    "static/js/2.a886d683.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.f810c103.chunk.js"
+    "static/js/main.65dea27b.chunk.js"
   ]
 }

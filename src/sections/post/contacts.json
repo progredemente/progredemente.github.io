@@ -259,5 +259,22 @@
                 "url": "https://jscottcampbell.com/"
             }
         ]
+    },
+    "nunosaraiva": {
+        "name": "Nuno Saraiva",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/nunosaraiva_ilustrador/"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/nunosaraivailustrador/"
+            },
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/nuno_saraiva_"
+            }
+        ]
     }
 }

@@ -4613,5 +4613,15 @@
         "size": "2000x2000",
         "celebrities": ["Ione Belarra"],
         "parties": ["Podemos"]
+    },
+    "globo": {
+        "name": "Globo",
+        "date": "2023-02-16T00:00",
+        "description": [
+            "¿Qué le deben Sánchez y el PSOE a Marruecos?",
+            "Inspirada en una viñeta de {contact:nunosaraiva} de hace unos días."
+        ],
+        "size": "3000x3000",
+        "parties": ["PSOE"]
     }
 }

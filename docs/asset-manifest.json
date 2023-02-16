@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.65dea27b.chunk.js",
-    "main.js.map": "/static/js/main.65dea27b.chunk.js.map",
+    "main.js": "/static/js/main.37cd8bda.chunk.js",
+    "main.js.map": "/static/js/main.37cd8bda.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a886d683.chunk.js": "/static/js/2.a886d683.chunk.js",
-    "static/js/2.a886d683.chunk.js.map": "/static/js/2.a886d683.chunk.js.map",
+    "static/js/2.6e3fcfff.chunk.js": "/static/js/2.6e3fcfff.chunk.js",
+    "static/js/2.6e3fcfff.chunk.js.map": "/static/js/2.6e3fcfff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8505058f379b6e9b765de57acec2e1c0.js": "/precache-manifest.8505058f379b6e9b765de57acec2e1c0.js",
+    "precache-manifest.ea3a813025a1599b767eeb826cf35e2b.js": "/precache-manifest.ea3a813025a1599b767eeb826cf35e2b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.a886d683.chunk.js.LICENSE.txt": "/static/js/2.a886d683.chunk.js.LICENSE.txt",
+    "static/js/2.6e3fcfff.chunk.js.LICENSE.txt": "/static/js/2.6e3fcfff.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -236,6 +236,7 @@
     "static/media/gettr.png": "/static/media/gettr.81ad8428.png",
     "static/media/gila.png": "/static/media/gila.3a0eb38a.png",
     "static/media/gimmighoul.png": "/static/media/gimmighoul.4dbc144d.png",
+    "static/media/globo.png": "/static/media/globo.f670ee90.png",
     "static/media/gobierno_ideal.png": "/static/media/gobierno_ideal.cc5342ab.png",
     "static/media/goya.png": "/static/media/goya.fef045de.png",
     "static/media/gracia.png": "/static/media/gracia.f5f81de7.png",
@@ -551,8 +552,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a886d683.chunk.js",
+    "static/js/2.6e3fcfff.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.65dea27b.chunk.js"
+    "static/js/main.37cd8bda.chunk.js"
   ]
 }

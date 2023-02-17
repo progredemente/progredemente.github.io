@@ -4623,5 +4623,15 @@
         ],
         "size": "3000x3000",
         "parties": ["PSOE"]
+    },
+    "libro_echenique": {
+        "name": "El libro de Echenique",
+        "date": "2023-02-17T00:00",
+        "description": [
+            "Ya tengo el nuevo libro de Pablo Echenique. Me he comprado la edición especial de doble capa. A ver que tal."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pablo Echenique"],
+        "parties": ["Podemos"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.37cd8bda.chunk.js",
-    "main.js.map": "/static/js/main.37cd8bda.chunk.js.map",
+    "main.js": "/static/js/main.efa6e0d0.chunk.js",
+    "main.js.map": "/static/js/main.efa6e0d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6e3fcfff.chunk.js": "/static/js/2.6e3fcfff.chunk.js",
-    "static/js/2.6e3fcfff.chunk.js.map": "/static/js/2.6e3fcfff.chunk.js.map",
+    "static/js/2.ccb2d6f0.chunk.js": "/static/js/2.ccb2d6f0.chunk.js",
+    "static/js/2.ccb2d6f0.chunk.js.map": "/static/js/2.ccb2d6f0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ea3a813025a1599b767eeb826cf35e2b.js": "/precache-manifest.ea3a813025a1599b767eeb826cf35e2b.js",
+    "precache-manifest.12e8b6c262553baa4d4627960b260564.js": "/precache-manifest.12e8b6c262553baa4d4627960b260564.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.6e3fcfff.chunk.js.LICENSE.txt": "/static/js/2.6e3fcfff.chunk.js.LICENSE.txt",
+    "static/js/2.ccb2d6f0.chunk.js.LICENSE.txt": "/static/js/2.ccb2d6f0.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -297,6 +297,7 @@
     "static/media/laberinto.pt.png": "/static/media/laberinto.pt.b7ab5412.png",
     "static/media/lagrimas_autonomo.png": "/static/media/lagrimas_autonomo.af1fc19f.png",
     "static/media/latino_ball_banner.png": "/static/media/latino_ball_banner.7b63093e.png",
+    "static/media/libro_echenique.png": "/static/media/libro_echenique.6c0f6560.png",
     "static/media/licor_cafe.png": "/static/media/licor_cafe.a0892d31.png",
     "static/media/lineas_rojas.png": "/static/media/lineas_rojas.39484a2b.png",
     "static/media/lingua.png": "/static/media/lingua.c11a80c8.png",
@@ -552,8 +553,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6e3fcfff.chunk.js",
+    "static/js/2.ccb2d6f0.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.37cd8bda.chunk.js"
+    "static/js/main.efa6e0d0.chunk.js"
   ]
 }

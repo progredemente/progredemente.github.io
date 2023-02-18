@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7af5342c19ffb4550649371e58c2c4e7",
+    "revision": "0d3843074dc7c859a9327927e9f8ab44",
     "url": "/index.html"
   },
   {
-    "revision": "f11158a9643e0c9b2f8e",
+    "revision": "64f0442114653609e0df",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "765b48d86d94d652cdb9",
-    "url": "/static/js/2.ccb2d6f0.chunk.js"
+    "revision": "1e8f759e79752b924147",
+    "url": "/static/js/2.4c4119ca.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ccb2d6f0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4c4119ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f11158a9643e0c9b2f8e",
-    "url": "/static/js/main.efa6e0d0.chunk.js"
+    "revision": "64f0442114653609e0df",
+    "url": "/static/js/main.e03f2f53.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2294,6 +2294,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b2255b0acfe877a4b7b17f6518a93f8c",
     "url": "/static/media/maestro_rata.b2255b0a.png"
+  },
+  {
+    "revision": "277ce7f052d450a214496e3e0a0db038",
+    "url": "/static/media/mais_habitacao.277ce7f0.png"
+  },
+  {
+    "revision": "bf5d07c5e1888814fda64929398d3d74",
+    "url": "/static/media/mais_habitacao.bf5d07c5.png"
   },
   {
     "revision": "af9e3ed5dfe675657d17a072db8a6f11",

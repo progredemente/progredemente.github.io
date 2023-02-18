@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.efa6e0d0.chunk.js",
-    "main.js.map": "/static/js/main.efa6e0d0.chunk.js.map",
+    "main.js": "/static/js/main.e03f2f53.chunk.js",
+    "main.js.map": "/static/js/main.e03f2f53.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ccb2d6f0.chunk.js": "/static/js/2.ccb2d6f0.chunk.js",
-    "static/js/2.ccb2d6f0.chunk.js.map": "/static/js/2.ccb2d6f0.chunk.js.map",
+    "static/js/2.4c4119ca.chunk.js": "/static/js/2.4c4119ca.chunk.js",
+    "static/js/2.4c4119ca.chunk.js.map": "/static/js/2.4c4119ca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.12e8b6c262553baa4d4627960b260564.js": "/precache-manifest.12e8b6c262553baa4d4627960b260564.js",
+    "precache-manifest.33eb0eb64b0a24694c2bb3f778b70a58.js": "/precache-manifest.33eb0eb64b0a24694c2bb3f778b70a58.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.ccb2d6f0.chunk.js.LICENSE.txt": "/static/js/2.ccb2d6f0.chunk.js.LICENSE.txt",
+    "static/js/2.4c4119ca.chunk.js.LICENSE.txt": "/static/js/2.4c4119ca.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -318,6 +318,7 @@
     "static/media/madrid_omnipresente.png": "/static/media/madrid_omnipresente.c1b040c9.png",
     "static/media/madrileno.png": "/static/media/madrileno.6730b36e.png",
     "static/media/maestro_rata.png": "/static/media/maestro_rata.b2255b0a.png",
+    "static/media/mais_habitacao.png": "/static/media/mais_habitacao.bf5d07c5.png",
     "static/media/malversacion.png": "/static/media/malversacion.f407571b.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/manspreading.png": "/static/media/manspreading.d6d8f193.png",
@@ -553,8 +554,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ccb2d6f0.chunk.js",
+    "static/js/2.4c4119ca.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.efa6e0d0.chunk.js"
+    "static/js/main.e03f2f53.chunk.js"
   ]
 }

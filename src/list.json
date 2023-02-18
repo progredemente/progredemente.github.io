@@ -4633,5 +4633,14 @@
         "size": "3000x3000",
         "celebrities": ["Pablo Echenique"],
         "parties": ["Podemos"]
+    },
+    "mais_habitacao": {
+        "name": "Mais Habitação",
+        "date": "2023-02-18T00:00",
+        "description": [
+            "La venezuelización de Portugal. Resulta que, ante la escasez de viviendas en el país vecino, el gobierno luso ha presentado un paquete de medidas, al que han bautizado \"Mais Habitação\" (\"más vivienda\"), entre las cuales destaca una que consiste en que pueden obligar a cualquer propietario de una vivienda vacía a alquilársela al gobierno, entiendo que al precio que digan ellos, para luego este subalquilarla. Vamos, una expropiación encubierta."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["António Costa"]
     }
 }

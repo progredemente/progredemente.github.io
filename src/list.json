@@ -4642,5 +4642,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["António Costa"]
+    },
+    "bandera_buena": {
+        "name": "La bandera buena",
+        "date": "2023-02-22T00:00",
+        "description": [
+            "Independencia sí, pero no de nuestro dinero. La pela és la pela."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Míriam Nogueras"],
+        "parties": ["JxC"]
     }
 }

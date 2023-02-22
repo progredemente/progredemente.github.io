@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.e03f2f53.chunk.js",
-    "main.js.map": "/static/js/main.e03f2f53.chunk.js.map",
+    "main.js": "/static/js/main.076a2fc2.chunk.js",
+    "main.js.map": "/static/js/main.076a2fc2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4c4119ca.chunk.js": "/static/js/2.4c4119ca.chunk.js",
-    "static/js/2.4c4119ca.chunk.js.map": "/static/js/2.4c4119ca.chunk.js.map",
+    "static/js/2.f2619e95.chunk.js": "/static/js/2.f2619e95.chunk.js",
+    "static/js/2.f2619e95.chunk.js.map": "/static/js/2.f2619e95.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.33eb0eb64b0a24694c2bb3f778b70a58.js": "/precache-manifest.33eb0eb64b0a24694c2bb3f778b70a58.js",
+    "precache-manifest.246eed380b3fcd8354e892863bc43780.js": "/precache-manifest.246eed380b3fcd8354e892863bc43780.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.4c4119ca.chunk.js.LICENSE.txt": "/static/js/2.4c4119ca.chunk.js.LICENSE.txt",
+    "static/js/2.f2619e95.chunk.js.LICENSE.txt": "/static/js/2.f2619e95.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -62,6 +62,7 @@
     "static/media/avispero.png": "/static/media/avispero.0ac3625c.png",
     "static/media/index.css": "/static/media/comic_typo.680c84b1.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
+    "static/media/bandera_buena.png": "/static/media/bandera_buena.bb3a1a01.png",
     "static/media/bandera_canadazi.png": "/static/media/bandera_canadazi.2426a3be.png",
     "static/media/bandera_castenazi.png": "/static/media/bandera_castenazi.99facf80.png",
     "static/media/bandera_estats_confederats_valencians.png": "/static/media/bandera_estats_confederats_valencians.2ca00989.png",
@@ -554,8 +555,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4c4119ca.chunk.js",
+    "static/js/2.f2619e95.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.e03f2f53.chunk.js"
+    "static/js/main.076a2fc2.chunk.js"
   ]
 }

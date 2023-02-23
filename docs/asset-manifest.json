@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.076a2fc2.chunk.js",
-    "main.js.map": "/static/js/main.076a2fc2.chunk.js.map",
+    "main.js": "/static/js/main.cf3db4b4.chunk.js",
+    "main.js.map": "/static/js/main.cf3db4b4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f2619e95.chunk.js": "/static/js/2.f2619e95.chunk.js",
-    "static/js/2.f2619e95.chunk.js.map": "/static/js/2.f2619e95.chunk.js.map",
+    "static/js/2.cdd71e98.chunk.js": "/static/js/2.cdd71e98.chunk.js",
+    "static/js/2.cdd71e98.chunk.js.map": "/static/js/2.cdd71e98.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.246eed380b3fcd8354e892863bc43780.js": "/precache-manifest.246eed380b3fcd8354e892863bc43780.js",
+    "precache-manifest.dcdb6006ac3b796686ddf5eabc708f7a.js": "/precache-manifest.dcdb6006ac3b796686ddf5eabc708f7a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.f2619e95.chunk.js.LICENSE.txt": "/static/js/2.f2619e95.chunk.js.LICENSE.txt",
+    "static/js/2.cdd71e98.chunk.js.LICENSE.txt": "/static/js/2.cdd71e98.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -527,6 +527,7 @@
     "static/media/totem.png": "/static/media/totem.a8a75697.png",
     "static/media/transicion_energetica.png": "/static/media/transicion_energetica.3f75e4ce.png",
     "static/media/transparencia_gobierno.png": "/static/media/transparencia_gobierno.a825be63.png",
+    "static/media/tren_kiev.png": "/static/media/tren_kiev.f884ce5a.png",
     "static/media/tres_cerditos.png": "/static/media/tres_cerditos.dc465660.png",
     "static/media/tristan.png": "/static/media/tristan.fb07ea66.png",
     "static/media/trogloditas.png": "/static/media/trogloditas.d3cb8624.png",
@@ -555,8 +556,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f2619e95.chunk.js",
+    "static/js/2.cdd71e98.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.076a2fc2.chunk.js"
+    "static/js/main.cf3db4b4.chunk.js"
   ]
 }

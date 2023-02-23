@@ -4652,5 +4652,15 @@
         "size": "2000x2000",
         "celebrities": ["Míriam Nogueras"],
         "parties": ["JxC"]
+    },
+    "tren_kiev": {
+        "name": "Tren a Kiev",
+        "date": "2023-02-23T00:00",
+        "description": [
+            "Este tío es peligroso: si es capaz de no usar el falcon para desplazarse para hacerse una foto, es capaz de cualquier cosa."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

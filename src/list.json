@@ -4662,5 +4662,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "torrente": {
+        "name": "Torrente",
+        "date": "2023-02-26T00:00",
+        "description": [
+            "PSOE: Putas, Sobornos, Oligofrenia y Estupefacientes."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Santiago Segura"],
+        "parties": ["PSOE"]
     }
 }

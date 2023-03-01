@@ -4672,5 +4672,14 @@
         "size": "2000x2000",
         "celebrities": ["Santiago Segura"],
         "parties": ["PSOE"]
+    },
+    "campanilla": {
+        "name": "Torrente",
+        "date": "2023-03-01T00:00",
+        "description": [
+            "Tenían que hacer negra a un hada que les echa polvos mágicos a los niños para que vuelen. Nos las ponen como a Fernando VII."
+        ],
+        "size": "2000x2000",
+        "series": ["cuentos"]
     }
 }

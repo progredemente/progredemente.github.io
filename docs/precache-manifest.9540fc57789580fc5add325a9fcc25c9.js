@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95c7a526fa277d3f8202cba96100c5eb",
+    "revision": "7b95a72208fd139ca028318877e98afa",
     "url": "/index.html"
   },
   {
-    "revision": "ff9305238089b51b5494",
+    "revision": "50adf9680ea5550dc673",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "17d074927c427592fe4d",
-    "url": "/static/js/2.205f450f.chunk.js"
+    "revision": "df9de9a0a9058346fcd0",
+    "url": "/static/js/2.938bf03a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.205f450f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.938bf03a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff9305238089b51b5494",
-    "url": "/static/js/main.ef060420.chunk.js"
+    "revision": "50adf9680ea5550dc673",
+    "url": "/static/js/main.75aa9904.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -798,6 +798,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f8b17f8c7b759ceb8d32113b3dbbf5a2",
     "url": "/static/media/camioneros.f8b17f8c.png"
+  },
+  {
+    "revision": "477fa42ecc512ce07eefc53f768309b6",
+    "url": "/static/media/campanilla.477fa42e.png"
+  },
+  {
+    "revision": "e543d59e069f80293c2e40cfd9556085",
+    "url": "/static/media/campanilla.e543d59e.png"
   },
   {
     "revision": "0e3662473927220ec4b591c04ff318a5",

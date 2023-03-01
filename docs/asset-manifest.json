@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.ef060420.chunk.js",
-    "main.js.map": "/static/js/main.ef060420.chunk.js.map",
+    "main.js": "/static/js/main.75aa9904.chunk.js",
+    "main.js.map": "/static/js/main.75aa9904.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.205f450f.chunk.js": "/static/js/2.205f450f.chunk.js",
-    "static/js/2.205f450f.chunk.js.map": "/static/js/2.205f450f.chunk.js.map",
+    "static/js/2.938bf03a.chunk.js": "/static/js/2.938bf03a.chunk.js",
+    "static/js/2.938bf03a.chunk.js.map": "/static/js/2.938bf03a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d3e7386fe43a61d3efba239d4e5cf51d.js": "/precache-manifest.d3e7386fe43a61d3efba239d4e5cf51d.js",
+    "precache-manifest.9540fc57789580fc5add325a9fcc25c9.js": "/precache-manifest.9540fc57789580fc5add325a9fcc25c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.205f450f.chunk.js.LICENSE.txt": "/static/js/2.205f450f.chunk.js.LICENSE.txt",
+    "static/js/2.938bf03a.chunk.js.LICENSE.txt": "/static/js/2.938bf03a.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -117,6 +117,7 @@
     "static/media/calvino_ino_ih.png": "/static/media/calvino_ino_ih.b5967d70.png",
     "static/media/camaleon.png": "/static/media/camaleon.da2bdede.png",
     "static/media/camioneros.png": "/static/media/camioneros.f8b17f8c.png",
+    "static/media/campanilla.png": "/static/media/campanilla.e543d59e.png",
     "static/media/canal_red.png": "/static/media/canal_red.2518d89b.png",
     "static/media/caperucita.png": "/static/media/caperucita.c3a5dc99.png",
     "static/media/captain_falconetti.png": "/static/media/captain_falconetti.f415b350.png",
@@ -557,8 +558,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.205f450f.chunk.js",
+    "static/js/2.938bf03a.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.ef060420.chunk.js"
+    "static/js/main.75aa9904.chunk.js"
   ]
 }

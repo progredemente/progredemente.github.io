@@ -4674,12 +4674,25 @@
         "parties": ["PSOE"]
     },
     "campanilla": {
-        "name": "Torrente",
+        "name": "Campanilla",
         "date": "2023-03-01T00:00",
         "description": [
             "Tenían que hacer negra a un hada que les echa polvos mágicos a los niños para que vuelen. Nos las ponen como a Fernando VII."
         ],
         "size": "2000x2000",
         "series": ["cuentos"]
+    },
+    "wonka": {
+        "name": "Wonka",
+        "date": "2023-03-02T00:00",
+        "description": [
+            "Me cuentan que a la hora de revisar la segunda parte de la historia no sabían si llamarla \"Charlie y el gran techo de cristal\" o \"Charlie y el gran ascensor social\"."
+        ],
+        "size": "4000x3000",
+        "series": ["cuentos"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

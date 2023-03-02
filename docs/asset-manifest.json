@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.75aa9904.chunk.js",
-    "main.js.map": "/static/js/main.75aa9904.chunk.js.map",
+    "main.js": "/static/js/main.8c7c6902.chunk.js",
+    "main.js.map": "/static/js/main.8c7c6902.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.938bf03a.chunk.js": "/static/js/2.938bf03a.chunk.js",
-    "static/js/2.938bf03a.chunk.js.map": "/static/js/2.938bf03a.chunk.js.map",
+    "static/js/2.92cf47b7.chunk.js": "/static/js/2.92cf47b7.chunk.js",
+    "static/js/2.92cf47b7.chunk.js.map": "/static/js/2.92cf47b7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9540fc57789580fc5add325a9fcc25c9.js": "/precache-manifest.9540fc57789580fc5add325a9fcc25c9.js",
+    "precache-manifest.14896b9e9dc537677056d300a7e8d26e.js": "/precache-manifest.14896b9e9dc537677056d300a7e8d26e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.938bf03a.chunk.js.LICENSE.txt": "/static/js/2.938bf03a.chunk.js.LICENSE.txt",
+    "static/js/2.92cf47b7.chunk.js.LICENSE.txt": "/static/js/2.92cf47b7.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -545,6 +545,8 @@
     "static/media/wabalos.png": "/static/media/wabalos.1cc94c86.png",
     "static/media/wabalos.mp3": "/static/media/wabalos.f48ce022.mp3",
     "static/media/wakanda.png": "/static/media/wakanda.aaa2351f.png",
+    "static/media/wonka.png": "/static/media/wonka.ed129e19.png",
+    "static/media/wonka.en.png": "/static/media/wonka.en.e5546196.png",
     "static/media/xi_jinpooh.png": "/static/media/xi_jinpooh.573c492f.png",
     "static/media/xokas.png": "/static/media/xokas.b51b3268.png",
     "static/media/ye.png": "/static/media/ye.11d7f218.png",
@@ -558,8 +560,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.938bf03a.chunk.js",
+    "static/js/2.92cf47b7.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.75aa9904.chunk.js"
+    "static/js/main.8c7c6902.chunk.js"
   ]
 }

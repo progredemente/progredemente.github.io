@@ -4694,5 +4694,15 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "ferrovial": {
+        "name": "Ferrovial",
+        "date": "2023-03-03T00:00",
+        "description": [
+            "No hay mejor indicativo de como están las cosas que este país: las empresas marchándose y el gobierno insultando y señalando a los dueños. Y aún tienen el valor de hablar de patriotismo, los mismos que se dejan chantajear por independentistas y países vecinos para permanecer un día más en el sillón."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nadia Calviño"],
+        "parties": ["PSOE"]
     }
 }

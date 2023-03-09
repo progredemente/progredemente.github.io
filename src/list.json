@@ -4704,5 +4704,23 @@
         "size": "2000x2000",
         "celebrities": ["Nadia Calviño"],
         "parties": ["PSOE"]
+    },
+    "orcos_orcas": {
+        "name": "Orcos y orcas",
+        "date": "2023-03-08T00:00",
+        "description": [
+            "Las huestes de Charuman, portando una mano blanca cerrada en puño dentro del símbolo de Venus sobre fondo púrpura como estandarte, ya están preparadas para darlo todo en la batalla cultural de la jornada. Que comience el espectáculo."
+        ],
+        "size": "3000x3000"
+    },
+    "despertar_mujer": {
+        "name": "\"Despertar a mi mujer\"",
+        "date": "2023-03-09T00:00",
+        "description": [
+            "He escuchado a la podemia utilizar este hombre de paja y la idea que se me vino a la cabeza era sin el Tito Berni, pero..."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Tito Berni"],
+        "parties": ["PSOE"]
     }
 }

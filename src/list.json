@@ -4722,5 +4722,13 @@
         "size": "3000x2000",
         "celebrities": ["Tito Berni"],
         "parties": ["PSOE"]
+    },
+    "registro_civil": {
+        "name": "Registro civil",
+        "date": "2023-03-10T00:00",
+        "description": [
+            "¡Vamos, chavalxs, a hacer trabajar a la charocracia!"
+        ],
+        "size": "2000x2000"
     }
 }

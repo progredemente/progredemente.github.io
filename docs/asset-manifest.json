@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.59064900.chunk.js",
-    "main.js.map": "/static/js/main.59064900.chunk.js.map",
+    "main.js": "/static/js/main.010ba43a.chunk.js",
+    "main.js.map": "/static/js/main.010ba43a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7e15ce08.chunk.js": "/static/js/2.7e15ce08.chunk.js",
-    "static/js/2.7e15ce08.chunk.js.map": "/static/js/2.7e15ce08.chunk.js.map",
+    "static/js/2.7e2452d3.chunk.js": "/static/js/2.7e2452d3.chunk.js",
+    "static/js/2.7e2452d3.chunk.js.map": "/static/js/2.7e2452d3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f2702fa989e95c2812597bf83ce33ada.js": "/precache-manifest.f2702fa989e95c2812597bf83ce33ada.js",
+    "precache-manifest.f55680ab04535dc8b2b478145bb98488.js": "/precache-manifest.f55680ab04535dc8b2b478145bb98488.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.7e15ce08.chunk.js.LICENSE.txt": "/static/js/2.7e15ce08.chunk.js.LICENSE.txt",
+    "static/js/2.7e2452d3.chunk.js.LICENSE.txt": "/static/js/2.7e2452d3.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -322,6 +322,8 @@
     "static/media/madrid_omnipresente.png": "/static/media/madrid_omnipresente.c1b040c9.png",
     "static/media/madrileno.png": "/static/media/madrileno.6730b36e.png",
     "static/media/maestro_rata.png": "/static/media/maestro_rata.b2255b0a.png",
+    "static/media/magia.png": "/static/media/magia.b2dc880a.png",
+    "static/media/magia.en.png": "/static/media/magia.en.7daeea8a.png",
     "static/media/mais_habitacao.png": "/static/media/mais_habitacao.bf5d07c5.png",
     "static/media/malversacion.png": "/static/media/malversacion.f407571b.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
@@ -564,8 +566,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7e15ce08.chunk.js",
+    "static/js/2.7e2452d3.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.59064900.chunk.js"
+    "static/js/main.010ba43a.chunk.js"
   ]
 }

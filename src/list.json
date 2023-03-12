@@ -4730,5 +4730,13 @@
             "¡Vamos, chavalxs, a hacer trabajar a la charocracia!"
         ],
         "size": "2000x2000"
+    },
+    "magia": {
+        "name": "Magia",
+        "date": "2023-03-12T00:00",
+        "description": [
+            "Me fascina la gente que está en contra de todo método de generación de energía, a lo mejor lo que quieren es volver a la cueva."
+        ],
+        "size": "4000x2500"
     }
 }

@@ -4737,6 +4737,26 @@
         "description": [
             "Me fascina la gente que está en contra de todo método de generación de energía, a lo mejor lo que quieren es volver a la cueva."
         ],
-        "size": "4000x2500"
+        "size": "4000x2500",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "peluquerias": {
+        "name": "Peluquerías",
+        "date": "2023-03-16T00:00",
+        "description": [
+            "En Euskadi en vez de decir \"cortado por el mismo patrón\" dicen \"hachado en el mismo tocón\"."
+        ],
+        "size": "2000x2000"
+    },
+    "cacheo": {
+        "name": "Cacheo",
+        "date": "2023-03-18T00:00",
+        "description": [
+            "Los cuerpos y cuerpas de seguridad del estado están de enhorabuena."
+        ],
+        "size": "2500x2000"
     }
 }

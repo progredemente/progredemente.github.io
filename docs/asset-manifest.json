@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.010ba43a.chunk.js",
-    "main.js.map": "/static/js/main.010ba43a.chunk.js.map",
+    "main.js": "/static/js/main.567da067.chunk.js",
+    "main.js.map": "/static/js/main.567da067.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7e2452d3.chunk.js": "/static/js/2.7e2452d3.chunk.js",
-    "static/js/2.7e2452d3.chunk.js.map": "/static/js/2.7e2452d3.chunk.js.map",
+    "static/js/2.55f8dc7d.chunk.js": "/static/js/2.55f8dc7d.chunk.js",
+    "static/js/2.55f8dc7d.chunk.js.map": "/static/js/2.55f8dc7d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f55680ab04535dc8b2b478145bb98488.js": "/precache-manifest.f55680ab04535dc8b2b478145bb98488.js",
+    "precache-manifest.b4c6791a435d6abb9a009bfdf758f67d.js": "/precache-manifest.b4c6791a435d6abb9a009bfdf758f67d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.7e2452d3.chunk.js.LICENSE.txt": "/static/js/2.7e2452d3.chunk.js.LICENSE.txt",
+    "static/js/2.55f8dc7d.chunk.js.LICENSE.txt": "/static/js/2.55f8dc7d.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -110,6 +110,7 @@
     "static/media/c2_ingles.png": "/static/media/c2_ingles.ee620a02.png",
     "static/media/cables.png": "/static/media/cables.5f8ff309.png",
     "static/media/caceroladas.png": "/static/media/caceroladas.fbb3ef6d.png",
+    "static/media/cacheo.png": "/static/media/cacheo.c7a6dd66.png",
     "static/media/caja_s.png": "/static/media/caja_s.77f8d21d.png",
     "static/media/calamar.png": "/static/media/calamar.d0491b65.png",
     "static/media/calamar.en.png": "/static/media/calamar.en.fc93a31b.png",
@@ -414,6 +415,7 @@
     "static/media/pedo_irene.png": "/static/media/pedo_irene.e429a003.png",
     "static/media/pegada_silla.png": "/static/media/pegada_silla.a6ae9ffd.png",
     "static/media/pegasus.png": "/static/media/pegasus.f136a6e8.png",
+    "static/media/peluquerias.png": "/static/media/peluquerias.aaba527a.png",
     "static/media/pensiones.png": "/static/media/pensiones.9ed75cf2.png",
     "static/media/pepe.png": "/static/media/pepe.55d65e52.png",
     "static/media/pepemon.png": "/static/media/pepemon.b2256dff.png",
@@ -566,8 +568,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7e2452d3.chunk.js",
+    "static/js/2.55f8dc7d.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.010ba43a.chunk.js"
+    "static/js/main.567da067.chunk.js"
   ]
 }

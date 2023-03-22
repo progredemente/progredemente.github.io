@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.567da067.chunk.js",
-    "main.js.map": "/static/js/main.567da067.chunk.js.map",
+    "main.js": "/static/js/main.2f2876a3.chunk.js",
+    "main.js.map": "/static/js/main.2f2876a3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.55f8dc7d.chunk.js": "/static/js/2.55f8dc7d.chunk.js",
-    "static/js/2.55f8dc7d.chunk.js.map": "/static/js/2.55f8dc7d.chunk.js.map",
+    "static/js/2.4dbb672d.chunk.js": "/static/js/2.4dbb672d.chunk.js",
+    "static/js/2.4dbb672d.chunk.js.map": "/static/js/2.4dbb672d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b4c6791a435d6abb9a009bfdf758f67d.js": "/precache-manifest.b4c6791a435d6abb9a009bfdf758f67d.js",
+    "precache-manifest.40b58068a5c90d4762c83f2939ef2f25.js": "/precache-manifest.40b58068a5c90d4762c83f2939ef2f25.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.55f8dc7d.chunk.js.LICENSE.txt": "/static/js/2.55f8dc7d.chunk.js.LICENSE.txt",
+    "static/js/2.4dbb672d.chunk.js.LICENSE.txt": "/static/js/2.4dbb672d.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -530,6 +530,7 @@
     "static/media/tetas.png": "/static/media/tetas.f165612a.png",
     "static/media/they_them.png": "/static/media/they_them.9d7ffeaf.png",
     "static/media/tio_nadal.png": "/static/media/tio_nadal.5ad41069.png",
+    "static/media/tocho.png": "/static/media/tocho.823ccbe7.png",
     "static/media/todo_patria.png": "/static/media/todo_patria.b3c67fc0.png",
     "static/media/tongo.png": "/static/media/tongo.c2693ce4.png",
     "static/media/toque_de_queda.png": "/static/media/toque_de_queda.d1faf70d.png",
@@ -568,8 +569,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.55f8dc7d.chunk.js",
+    "static/js/2.4dbb672d.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.567da067.chunk.js"
+    "static/js/main.2f2876a3.chunk.js"
   ]
 }

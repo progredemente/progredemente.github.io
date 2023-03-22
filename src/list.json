@@ -4758,5 +4758,15 @@
             "Los cuerpos y cuerpas de seguridad del estado están de enhorabuena."
         ],
         "size": "2500x2000"
+    },
+    "tocho": {
+        "name": "Tocho",
+        "date": "2023-03-22T00:00",
+        "description": [
+            "No sé si la moción de censura va a servir de algo, pero por lo menos nos quedamos con el \"mucho texto\" que le soltó Tamames a Antonio."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ramón Tamames"],
+        "parties": ["Vox", "PSOE"]
     }
 }

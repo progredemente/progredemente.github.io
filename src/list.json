@@ -4766,7 +4766,24 @@
             "No sé si la moción de censura va a servir de algo, pero por lo menos nos quedamos con el \"mucho texto\" que le soltó Tamames a Antonio."
         ],
         "size": "2000x2000",
+        "series": ["memes"],
         "celebrities": ["Ramón Tamames"],
         "parties": ["Vox", "PSOE"]
+    },
+    "senales": {
+        "name": "Señales",
+        "date": "2023-03-27T00:00",
+        "description": [
+            "Las señales, como el papel, lo aguantan todo."
+        ],
+        "size": "2000x2000"
+    },
+    "presas": {
+        "name": "Presas",
+        "date": "2023-03-29T00:00",
+        "description": [
+            "\"¡Cientos, miles!\""
+        ],
+        "size": "2000x2000"
     }
 }

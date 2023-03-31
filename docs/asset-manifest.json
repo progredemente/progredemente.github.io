@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.c8378bcf.chunk.js",
-    "main.js.map": "/static/js/main.c8378bcf.chunk.js.map",
+    "main.js": "/static/js/main.c23627ec.chunk.js",
+    "main.js.map": "/static/js/main.c23627ec.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a4636155.chunk.js": "/static/js/2.a4636155.chunk.js",
-    "static/js/2.a4636155.chunk.js.map": "/static/js/2.a4636155.chunk.js.map",
+    "static/js/2.8a8d1a8f.chunk.js": "/static/js/2.8a8d1a8f.chunk.js",
+    "static/js/2.8a8d1a8f.chunk.js.map": "/static/js/2.8a8d1a8f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7d381710749f7a4cd479066f57ef2345.js": "/precache-manifest.7d381710749f7a4cd479066f57ef2345.js",
+    "precache-manifest.06902fe734c16cf3959901b99e807c55.js": "/precache-manifest.06902fe734c16cf3959901b99e807c55.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.a4636155.chunk.js.LICENSE.txt": "/static/js/2.a4636155.chunk.js.LICENSE.txt",
+    "static/js/2.8a8d1a8f.chunk.js.LICENSE.txt": "/static/js/2.8a8d1a8f.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -348,6 +348,7 @@
     "static/media/matronus.png": "/static/media/matronus.241e43aa.png",
     "static/media/medallita.png": "/static/media/medallita.c495d05e.png",
     "static/media/memes_banner.png": "/static/media/memes_banner.770c8255.png",
+    "static/media/mercadona.png": "/static/media/mercadona.97853e05.png",
     "static/media/merecidas_vacaciones.png": "/static/media/merecidas_vacaciones.6a91f894.png",
     "static/media/meritocracia.png": "/static/media/meritocracia.8422905e.png",
     "static/media/mermelada.png": "/static/media/mermelada.22fa195e.png",
@@ -571,8 +572,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a4636155.chunk.js",
+    "static/js/2.8a8d1a8f.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.c8378bcf.chunk.js"
+    "static/js/main.c23627ec.chunk.js"
   ]
 }

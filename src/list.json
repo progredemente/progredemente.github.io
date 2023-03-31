@@ -4785,5 +4785,13 @@
             "\"¡Cientos, miles!\""
         ],
         "size": "2000x2000"
+    },
+    "mercadona": {
+        "name": "Mercadona",
+        "date": "2023-03-30T00:00",
+        "description": [
+            "Sarna con gusto no pica."
+        ],
+        "size": "5000x3000"
     }
 }

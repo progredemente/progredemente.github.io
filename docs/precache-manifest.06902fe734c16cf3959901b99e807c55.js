@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88a0051fe24126951f3c78c805e6634f",
+    "revision": "c41a2757d85c9a03e3aa6c55ecf631ca",
     "url": "/index.html"
   },
   {
-    "revision": "7782411f4c7ac70b68db",
+    "revision": "a182ce89c63d69675744",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "f316db41e7081c2c905e",
-    "url": "/static/js/2.a4636155.chunk.js"
+    "revision": "b8f618f31c3b884f438b",
+    "url": "/static/js/2.8a8d1a8f.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.a4636155.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8a8d1a8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7782411f4c7ac70b68db",
-    "url": "/static/js/main.c8378bcf.chunk.js"
+    "revision": "a182ce89c63d69675744",
+    "url": "/static/js/main.c23627ec.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2502,6 +2502,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "770c825518095f71ceeb9dfae2c6350a",
     "url": "/static/media/memes_banner.770c8255.png"
+  },
+  {
+    "revision": "6a88a182c4757dd31e142abfeef56c1e",
+    "url": "/static/media/mercadona.6a88a182.png"
+  },
+  {
+    "revision": "97853e0584cb07d09a502f0ac1f0d13e",
+    "url": "/static/media/mercadona.97853e05.png"
   },
   {
     "revision": "0bbbba229e99a7576a4149efc98e1f3c",

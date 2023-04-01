@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.c23627ec.chunk.js",
-    "main.js.map": "/static/js/main.c23627ec.chunk.js.map",
+    "main.js": "/static/js/main.48777357.chunk.js",
+    "main.js.map": "/static/js/main.48777357.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.8a8d1a8f.chunk.js": "/static/js/2.8a8d1a8f.chunk.js",
-    "static/js/2.8a8d1a8f.chunk.js.map": "/static/js/2.8a8d1a8f.chunk.js.map",
+    "static/js/2.592dadee.chunk.js": "/static/js/2.592dadee.chunk.js",
+    "static/js/2.592dadee.chunk.js.map": "/static/js/2.592dadee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.06902fe734c16cf3959901b99e807c55.js": "/precache-manifest.06902fe734c16cf3959901b99e807c55.js",
+    "precache-manifest.86a51f53ffe41298646713ac42ada559.js": "/precache-manifest.86a51f53ffe41298646713ac42ada559.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.8a8d1a8f.chunk.js.LICENSE.txt": "/static/js/2.8a8d1a8f.chunk.js.LICENSE.txt",
+    "static/js/2.592dadee.chunk.js.LICENSE.txt": "/static/js/2.592dadee.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -186,6 +186,7 @@
     "static/media/discapacitada.png": "/static/media/discapacitada.932d86a9.png",
     "static/media/discapacitada.en.png": "/static/media/discapacitada.en.18e0577f.png",
     "static/media/disciplina_partido.png": "/static/media/disciplina_partido.c329d699.png",
+    "static/media/dividir.png": "/static/media/dividir.5c09fc04.png",
     "static/media/doble_vara.png": "/static/media/doble_vara.eb52f66d.png",
     "static/media/donaciones.png": "/static/media/donaciones.d4ad9fd9.png",
     "static/media/donde_simon.png": "/static/media/donde_simon.c3e5703e.png",
@@ -572,8 +573,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.8a8d1a8f.chunk.js",
+    "static/js/2.592dadee.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.c23627ec.chunk.js"
+    "static/js/main.48777357.chunk.js"
   ]
 }

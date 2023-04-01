@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c41a2757d85c9a03e3aa6c55ecf631ca",
+    "revision": "be7bffd98381bc5b5ecbdf068c858b78",
     "url": "/index.html"
   },
   {
-    "revision": "a182ce89c63d69675744",
+    "revision": "4b2aa172de400935179d",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "b8f618f31c3b884f438b",
-    "url": "/static/js/2.8a8d1a8f.chunk.js"
+    "revision": "1f637d16252def913743",
+    "url": "/static/js/2.592dadee.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.8a8d1a8f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.592dadee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a182ce89c63d69675744",
-    "url": "/static/js/main.c23627ec.chunk.js"
+    "revision": "4b2aa172de400935179d",
+    "url": "/static/js/main.48777357.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1322,6 +1322,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c329d6994d0d0e9f59336d3819375cbc",
     "url": "/static/media/disciplina_partido.c329d699.png"
+  },
+  {
+    "revision": "177da21a8403487f24474447ef55d663",
+    "url": "/static/media/dividir.177da21a.png"
+  },
+  {
+    "revision": "5c09fc049822891289669e53dac2877f",
+    "url": "/static/media/dividir.5c09fc04.png"
   },
   {
     "revision": "937cee4208165fdcff91d0838609cd76",

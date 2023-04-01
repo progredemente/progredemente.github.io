@@ -4793,5 +4793,15 @@
             "Sarna con gusto no pica."
         ],
         "size": "5000x3000"
+    },
+    "dividir": {
+        "name": "Dividir",
+        "date": "2023-04-01T00:00",
+        "description": [
+            "Entre dividir a la sociedad y dividirse en múltiples partidos, está claro cuál es la lección a la que le prestaron más atención en la escuela. Me consta que también tienen interés en sumar, pero no han entendido del todo el funcionamiento de esta operación."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

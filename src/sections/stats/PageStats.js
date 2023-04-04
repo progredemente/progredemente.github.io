@@ -117,7 +117,8 @@ class PageStats extends Component {
             { name: "IU", count: 0},
             { name: "Sumar", count: 0},
             { name: "CUP", count: 0},
-            { name: "AA", count: 0}
+            { name: "AA", count: 0},
+            { name: "Drago", count: 0}
         ];
         let partyColors = {
             "UP": "#5c3464",
@@ -136,7 +137,8 @@ class PageStats extends Component {
             "IU": "#e51635",
             "Sumar": "#730e2b",
             "CUP": "#fff000",
-            "AA": "#24c87f"
+            "AA": "#24c87f",
+            "Drago": "#009ee0"
         }
         let listKeys = this.getListKeys(this.state.partyYear);
         for(let key of listKeys) {

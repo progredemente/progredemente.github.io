@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.48777357.chunk.js",
-    "main.js.map": "/static/js/main.48777357.chunk.js.map",
+    "main.js": "/static/js/main.044d3183.chunk.js",
+    "main.js.map": "/static/js/main.044d3183.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.592dadee.chunk.js": "/static/js/2.592dadee.chunk.js",
-    "static/js/2.592dadee.chunk.js.map": "/static/js/2.592dadee.chunk.js.map",
+    "static/js/2.19b73383.chunk.js": "/static/js/2.19b73383.chunk.js",
+    "static/js/2.19b73383.chunk.js.map": "/static/js/2.19b73383.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.86a51f53ffe41298646713ac42ada559.js": "/precache-manifest.86a51f53ffe41298646713ac42ada559.js",
+    "precache-manifest.83ce0e437e724c0cea229f6129a06e27.js": "/precache-manifest.83ce0e437e724c0cea229f6129a06e27.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.592dadee.chunk.js.LICENSE.txt": "/static/js/2.592dadee.chunk.js.LICENSE.txt",
+    "static/js/2.19b73383.chunk.js.LICENSE.txt": "/static/js/2.19b73383.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -227,6 +227,7 @@
     "static/media/fodemos.png": "/static/media/fodemos.6c281782.png",
     "static/media/fotos.png": "/static/media/fotos.f22fd222.png",
     "static/media/fr.svg": "/static/media/fr.85556bea.svg",
+    "static/media/fragmentos.png": "/static/media/fragmentos.080d1617.png",
     "static/media/franco.png": "/static/media/franco.93ccd9b6.png",
     "static/media/franco_kazooie.png": "/static/media/franco_kazooie.8f7c48aa.png",
     "static/media/franco_kazooie.mp3": "/static/media/franco_kazooie.50e60ed0.mp3",
@@ -573,8 +574,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.592dadee.chunk.js",
+    "static/js/2.19b73383.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.48777357.chunk.js"
+    "static/js/main.044d3183.chunk.js"
   ]
 }

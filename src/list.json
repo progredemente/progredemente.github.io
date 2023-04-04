@@ -4803,5 +4803,14 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "fragmentos": {
+        "name": "Fragmentos",
+        "date": "2023-04-04T00:00",
+        "description": [
+            "La verdad es que no se me ocurrió una mejor manera de meter a Adelante Andalucía..."
+        ],
+        "size": "3000x4000",
+        "parties": ["Podemos", "MP", "AA", "Sumar", "Drago"]
     }
 }

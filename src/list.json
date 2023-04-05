@@ -4812,5 +4812,13 @@
         ],
         "size": "3000x4000",
         "parties": ["Podemos", "MP", "AA", "Sumar", "Drago"]
+    },
+    "mujer_luna": {
+        "name": "La mujer en la Luna",
+        "date": "2023-04-05T00:00",
+        "description": [
+            "Tenía que hacerlo. Inspirado en el clásico chiste."
+        ],
+        "size": "2000x2000"
     }
 }

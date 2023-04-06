@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.83f0be1f.chunk.js",
-    "main.js.map": "/static/js/main.83f0be1f.chunk.js.map",
+    "main.js": "/static/js/main.1c14128a.chunk.js",
+    "main.js.map": "/static/js/main.1c14128a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.78587c6e.chunk.js": "/static/js/2.78587c6e.chunk.js",
-    "static/js/2.78587c6e.chunk.js.map": "/static/js/2.78587c6e.chunk.js.map",
+    "static/js/2.76b53e0f.chunk.js": "/static/js/2.76b53e0f.chunk.js",
+    "static/js/2.76b53e0f.chunk.js.map": "/static/js/2.76b53e0f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.71a2c93e052e5c8d2e4849dfcb44e291.js": "/precache-manifest.71a2c93e052e5c8d2e4849dfcb44e291.js",
+    "precache-manifest.1eb4d61cd3f28b743a5fd106bbe7bb57.js": "/precache-manifest.1eb4d61cd3f28b743a5fd106bbe7bb57.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.78587c6e.chunk.js.LICENSE.txt": "/static/js/2.78587c6e.chunk.js.LICENSE.txt",
+    "static/js/2.76b53e0f.chunk.js.LICENSE.txt": "/static/js/2.76b53e0f.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -34,6 +34,7 @@
     "static/media/amenazas.png": "/static/media/amenazas.decc8d55.png",
     "static/media/amiguis_rey.png": "/static/media/amiguis_rey.d819a020.png",
     "static/media/amistad.png": "/static/media/amistad.ed795a7a.png",
+    "static/media/among_us.png": "/static/media/among_us.9baa711e.png",
     "static/media/ana_botella.png": "/static/media/ana_botella.6bb29ca7.png",
     "static/media/anillo.png": "/static/media/anillo.5f66fae6.png",
     "static/media/animacion_banner.png": "/static/media/animacion_banner.f688137f.png",
@@ -575,8 +576,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.78587c6e.chunk.js",
+    "static/js/2.76b53e0f.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.83f0be1f.chunk.js"
+    "static/js/main.1c14128a.chunk.js"
   ]
 }

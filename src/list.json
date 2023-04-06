@@ -4820,5 +4820,13 @@
             "Tenía que hacerlo. Inspirado en el clásico chiste."
         ],
         "size": "2000x2000"
+    },
+    "among_us": {
+        "name": "Among us",
+        "date": "2023-04-06T00:00",
+        "description": [
+            "We wuz alienz"
+        ],
+        "size": "3000x4100"
     }
 }

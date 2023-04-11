@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4638009b3df93e13e97ddbc74db6bef1",
+    "revision": "e64882422677e1e6038ce76e314ac5b7",
     "url": "/index.html"
   },
   {
-    "revision": "fd4a1964f06b42fca9af",
+    "revision": "bf409719a6f6ee8d2ebb",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "baf19a44371530c25f70",
-    "url": "/static/js/2.76b53e0f.chunk.js"
+    "revision": "05cfbbe56ed7145146c4",
+    "url": "/static/js/2.898c21f4.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.76b53e0f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.898c21f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd4a1964f06b42fca9af",
-    "url": "/static/js/main.1c14128a.chunk.js"
+    "revision": "bf409719a6f6ee8d2ebb",
+    "url": "/static/js/main.2be9098d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1926,6 +1926,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4626b404e15323ca77bee732adaf573f",
     "url": "/static/media/huelga_juguetes.4626b404.png"
+  },
+  {
+    "revision": "635ade70b72425ad91c01da96db25b62",
+    "url": "/static/media/huelga_sanitarios.635ade70.png"
+  },
+  {
+    "revision": "aca9aca79750f8ae7d312785b63e3d25",
+    "url": "/static/media/huelga_sanitarios.aca9aca7.png"
   },
   {
     "revision": "6618e63af4cbb710f0ee8d82b9fe41a3",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.1c14128a.chunk.js",
-    "main.js.map": "/static/js/main.1c14128a.chunk.js.map",
+    "main.js": "/static/js/main.2be9098d.chunk.js",
+    "main.js.map": "/static/js/main.2be9098d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.76b53e0f.chunk.js": "/static/js/2.76b53e0f.chunk.js",
-    "static/js/2.76b53e0f.chunk.js.map": "/static/js/2.76b53e0f.chunk.js.map",
+    "static/js/2.898c21f4.chunk.js": "/static/js/2.898c21f4.chunk.js",
+    "static/js/2.898c21f4.chunk.js.map": "/static/js/2.898c21f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1eb4d61cd3f28b743a5fd106bbe7bb57.js": "/precache-manifest.1eb4d61cd3f28b743a5fd106bbe7bb57.js",
+    "precache-manifest.28ffb6e25ea296341d98dbdb55aae349.js": "/precache-manifest.28ffb6e25ea296341d98dbdb55aae349.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.76b53e0f.chunk.js.LICENSE.txt": "/static/js/2.76b53e0f.chunk.js.LICENSE.txt",
+    "static/js/2.898c21f4.chunk.js.LICENSE.txt": "/static/js/2.898c21f4.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -266,6 +266,7 @@
     "static/media/horda_feminista.png": "/static/media/horda_feminista.b12391e3.png",
     "static/media/hueco.png": "/static/media/hueco.e69cd052.png",
     "static/media/huelga_juguetes.png": "/static/media/huelga_juguetes.4626b404.png",
+    "static/media/huelga_sanitarios.png": "/static/media/huelga_sanitarios.aca9aca7.png",
     "static/media/humor_lazoamarillo.png": "/static/media/humor_lazoamarillo.edb97eca.png",
     "static/media/idangelion.png": "/static/media/idangelion.b34ccaf1.png",
     "static/media/iii_regne.png": "/static/media/iii_regne.23e3e6a0.png",
@@ -576,8 +577,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.76b53e0f.chunk.js",
+    "static/js/2.898c21f4.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.1c14128a.chunk.js"
+    "static/js/main.2be9098d.chunk.js"
   ]
 }

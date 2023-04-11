@@ -4828,5 +4828,13 @@
             "We wuz alienz"
         ],
         "size": "3000x4100"
+    },
+    "huelga_sanitarios": {
+        "name": "Huelga de sanitarios",
+        "date": "2023-04-11T00:00",
+        "description": [
+            "Una rapidita, que ando muy liado últimamente."
+        ],
+        "size": "2000x2000"
     }
 }

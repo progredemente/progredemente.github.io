@@ -4836,5 +4836,14 @@
             "Una rapidita, que ando muy liado últimamente."
         ],
         "size": "2000x2000"
+    },
+    "carla": {
+        "name": "Carla",
+        "date": "2023-04-12T00:00",
+        "description": [
+            "Si se dedicase solo a promocionar juguetes, ganaríamos todos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Carla Galeote"]
     }
 }

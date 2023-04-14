@@ -2512,7 +2512,7 @@
             "Mi opinión sobre la canción: no me gusta y la parte en la que le meten las frases en los otros idiomas es muy cringe, ocurrencia nivel grupo de punk de instituto cuyos integrantes tontean con el nacionalismo, con el comunismo y con las drogas."
         ],
         "size": "3800x2000",
-        "tags": ["bandera", "galicia", "oro", "pelo marrón", "ojos marrones oscuros"]
+        "tags": ["bandera", "galicia", "oro", "castaño", "ojos marrones oscuros"]
     },
     "tongo": {
         "name": "Tongo",
@@ -2648,7 +2648,7 @@
         "size": "3000x2500",
         "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Teodoro García Egea"],
         "parties": ["PP"],
-        "tags": ["pelo marrón"]
+        "tags": ["castaño"]
     },
     "pasar_aro": {
         "name": "Pasar por el aro",
@@ -2898,7 +2898,7 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero", "Yolanda Díaz", "Ione Belarra"],
         "parties": ["UP"],
-        "tags": ["orina", "ojos azules", "pelo marrón", "ojos marrones claros"]
+        "tags": ["orina", "ojos azules", "castaño", "ojos marrones claros"]
     },
     "bandera_estats_units_catalans": {
         "name": "Bandera de los Estats Units Catalans",
@@ -4776,7 +4776,8 @@
         "description": [
             "Las señales, como el papel, lo aguantan todo."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["metal", "señal", "vaqueros", "ojos marrones claros", "castaño", "cielo", "tierra"]
     },
     "presas": {
         "name": "Presas",
@@ -4784,7 +4785,8 @@
         "description": [
             "\"¡Cientos, miles!\""
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["metal", "ojos verdes", "ojos marrones oscuros", "vaqueros", "castaño", "cielo"]
     },
     "mercadona": {
         "name": "Mercadona",
@@ -4792,7 +4794,8 @@
         "description": [
             "Sarna con gusto no pica."
         ],
-        "size": "5000x3000"
+        "size": "5000x3000",
+        "tags": ["metal", "pan", "aceite", "cebolla", "botella", "sandia", "cristal", "rubio", "moreno", "castaño", "canas", "negro", "latino", "ojos azules", "ojos marrones claros", "ojos marrones oscuros", "ojos verdes"]
     },
     "dividir": {
         "name": "Dividir",
@@ -4802,7 +4805,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["castaño de bote", "cielo"]
     },
     "fragmentos": {
         "name": "Fragmentos",
@@ -4819,7 +4823,8 @@
         "description": [
             "Tenía que hacerlo. Inspirado en el clásico chiste."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["metal", "madera", "espacio", "luna"]
     },
     "among_us": {
         "name": "Among us",
@@ -4835,7 +4840,8 @@
         "description": [
             "Una rapidita, que ando muy liado últimamente."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["metal", "madera"]
     },
     "carla": {
         "name": "Carla",
@@ -4845,5 +4851,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Carla Galeote"]
+    },
+    "casi_1000": {
+        "name": "Casi 1000",
+        "date": "2023-04-14T00:00",
+        "description": [
+            "Vamos a pasar de los cientos a miles."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Irene Montero", "Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.ee4b674c.chunk.js",
-    "main.js.map": "/static/js/main.ee4b674c.chunk.js.map",
+    "main.js": "/static/js/main.eb5c3fae.chunk.js",
+    "main.js.map": "/static/js/main.eb5c3fae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0dc4e6b8.chunk.js": "/static/js/2.0dc4e6b8.chunk.js",
-    "static/js/2.0dc4e6b8.chunk.js.map": "/static/js/2.0dc4e6b8.chunk.js.map",
+    "static/js/2.23e5d092.chunk.js": "/static/js/2.23e5d092.chunk.js",
+    "static/js/2.23e5d092.chunk.js.map": "/static/js/2.23e5d092.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.05d6bf789d8cd9175935460afd286f09.js": "/precache-manifest.05d6bf789d8cd9175935460afd286f09.js",
+    "precache-manifest.ccf89b303db8f8a32fe0ac4de479dad5.js": "/precache-manifest.ccf89b303db8f8a32fe0ac4de479dad5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.0dc4e6b8.chunk.js.LICENSE.txt": "/static/js/2.0dc4e6b8.chunk.js.LICENSE.txt",
+    "static/js/2.23e5d092.chunk.js.LICENSE.txt": "/static/js/2.23e5d092.chunk.js.LICENSE.txt",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
     "static/media/3_comidas.png": "/static/media/3_comidas.d5a8f012.png",
@@ -130,6 +130,7 @@
     "static/media/carla.png": "/static/media/carla.c7029e68.png",
     "static/media/carrera_revolucionaria.png": "/static/media/carrera_revolucionaria.fbf50aa1.png",
     "static/media/carroneros.png": "/static/media/carroneros.6df3bd74.png",
+    "static/media/casi_1000.png": "/static/media/casi_1000.221202c3.png",
     "static/media/casinos_furcias.png": "/static/media/casinos_furcias.ed3583c7.png",
     "static/media/castillo.png": "/static/media/castillo.95f13f3f.png",
     "static/media/castillo_naipes.png": "/static/media/castillo_naipes.9a1ca709.png",
@@ -578,8 +579,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0dc4e6b8.chunk.js",
+    "static/js/2.23e5d092.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.ee4b674c.chunk.js"
+    "static/js/main.eb5c3fae.chunk.js"
   ]
 }

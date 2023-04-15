@@ -134,8 +134,8 @@ class PageStats extends Component {
             "MDyC": "#05851b",
             "BNG": "#76b3dd",
             "Podemos": "#9068f4",
-            "IU": "#e51635",
-            "Sumar": "#730e2b",
+            "IU": "#df0022",
+            "Sumar": "#e51635",
             "CUP": "#fff000",
             "AA": "#24c87f",
             "Drago": "#009ee0"

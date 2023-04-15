@@ -4861,5 +4861,15 @@
         "size": "3000x2000",
         "celebrities": ["Irene Montero", "Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "hombres_izquierdas": {
+        "name": "Hombres de izquierdas",
+        "date": "2023-04-15T00:00",
+        "description": [
+            "Ellas eligen y no precisamente a los de izquierdas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
     }
 }

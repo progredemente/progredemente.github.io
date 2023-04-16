@@ -4871,5 +4871,15 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"]
+    },
+    "1_cop_8_cup": {
+        "name": "1 cop 8 CUP",
+        "date": "2023-04-16T00:00",
+        "description": [
+            "Recupero una idea que se me quedó en el tintero aunque ya no sea de actualidad."
+        ],
+        "size": "4000x3000",
+        "series": ["memes"],
+        "parties": ["CUP"]
     }
 }

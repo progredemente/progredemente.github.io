@@ -4881,5 +4881,18 @@
         "size": "4000x3000",
         "series": ["memes"],
         "parties": ["CUP"]
+    },
+    "government_funded": {
+        "name": "\"Government-funded\"",
+        "date": "2023-04-19T00:00",
+        "description": [
+            "Cry harder."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Elon Musk"],
+        "lang": {
+            "default": "en",
+            "available": ["es"]
+        }
     }
 }

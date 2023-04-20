@@ -4894,5 +4894,15 @@
             "default": "en",
             "available": ["es"]
         }
+    },
+    "barco_ratas": {
+        "name": "Barco de ratas",
+        "date": "2023-04-20T00:00",
+        "description": [
+            "¡Que se quedan sin comer!"
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pablo Iglesias", "Íñigo Errejón", "Yolanda Díaz"],
+        "parties": ["Podemos", "MP", "Sumar"]
     }
 }

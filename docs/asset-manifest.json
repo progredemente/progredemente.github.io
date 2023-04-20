@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.64b8fc8b.chunk.js",
-    "main.js.map": "/static/js/main.64b8fc8b.chunk.js.map",
+    "main.js": "/static/js/main.cc478018.chunk.js",
+    "main.js.map": "/static/js/main.cc478018.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c11e7598.chunk.js": "/static/js/2.c11e7598.chunk.js",
-    "static/js/2.c11e7598.chunk.js.map": "/static/js/2.c11e7598.chunk.js.map",
+    "static/js/2.37a5f422.chunk.js": "/static/js/2.37a5f422.chunk.js",
+    "static/js/2.37a5f422.chunk.js.map": "/static/js/2.37a5f422.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b47c8751d112544a90d8f2333ca6a6a4.js": "/precache-manifest.b47c8751d112544a90d8f2333ca6a6a4.js",
+    "precache-manifest.d3679da42884cf68d93712460d7b9c1d.js": "/precache-manifest.d3679da42884cf68d93712460d7b9c1d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.c11e7598.chunk.js.LICENSE.txt": "/static/js/2.c11e7598.chunk.js.LICENSE.txt",
+    "static/js/2.37a5f422.chunk.js.LICENSE.txt": "/static/js/2.37a5f422.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -83,6 +83,7 @@
     "static/media/barbie.png": "/static/media/barbie.9ae6fddb.png",
     "static/media/barbie.en.png": "/static/media/barbie.en.651e5116.png",
     "static/media/barco_hunde.png": "/static/media/barco_hunde.e5e51a7a.png",
+    "static/media/barco_ratas.png": "/static/media/barco_ratas.a5fa3d19.png",
     "static/media/barra_corazon.png": "/static/media/barra_corazon.f07a13f3.png",
     "static/media/barrendero.png": "/static/media/barrendero.836e4d4f.png",
     "static/media/barrendero.en.png": "/static/media/barrendero.en.42915ab3.png",
@@ -583,8 +584,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c11e7598.chunk.js",
+    "static/js/2.37a5f422.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.64b8fc8b.chunk.js"
+    "static/js/main.cc478018.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.cc478018.chunk.js",
-    "main.js.map": "/static/js/main.cc478018.chunk.js.map",
+    "main.js": "/static/js/main.fa886a78.chunk.js",
+    "main.js.map": "/static/js/main.fa886a78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.37a5f422.chunk.js": "/static/js/2.37a5f422.chunk.js",
-    "static/js/2.37a5f422.chunk.js.map": "/static/js/2.37a5f422.chunk.js.map",
+    "static/js/2.d905d7ac.chunk.js": "/static/js/2.d905d7ac.chunk.js",
+    "static/js/2.d905d7ac.chunk.js.map": "/static/js/2.d905d7ac.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d3679da42884cf68d93712460d7b9c1d.js": "/precache-manifest.d3679da42884cf68d93712460d7b9c1d.js",
+    "precache-manifest.af34c3bd53d3b8cabe67e6d94497a9fd.js": "/precache-manifest.af34c3bd53d3b8cabe67e6d94497a9fd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.37a5f422.chunk.js.LICENSE.txt": "/static/js/2.37a5f422.chunk.js.LICENSE.txt",
+    "static/js/2.d905d7ac.chunk.js.LICENSE.txt": "/static/js/2.d905d7ac.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -564,6 +564,7 @@
     "static/media/vectores.png": "/static/media/vectores.94a4999a.png",
     "static/media/veleta.png": "/static/media/veleta.f993a245.png",
     "static/media/ventana_overton.png": "/static/media/ventana_overton.d1c4177e.png",
+    "static/media/verificado.png": "/static/media/verificado.b61b2ec1.png",
     "static/media/vodkuna.png": "/static/media/vodkuna.23526259.png",
     "static/media/volver_a_empezar.png": "/static/media/volver_a_empezar.d0e4ea72.png",
     "static/media/wabalos.png": "/static/media/wabalos.1cc94c86.png",
@@ -584,8 +585,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.37a5f422.chunk.js",
+    "static/js/2.d905d7ac.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.cc478018.chunk.js"
+    "static/js/main.fa886a78.chunk.js"
   ]
 }

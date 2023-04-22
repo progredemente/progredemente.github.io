@@ -4904,5 +4904,14 @@
         "size": "3000x3000",
         "celebrities": ["Pablo Iglesias", "Íñigo Errejón", "Yolanda Díaz"],
         "parties": ["Podemos", "MP", "Sumar"]
+    },
+    "verificado": {
+        "name": "Verificado",
+        "date": "2023-04-22T00:00",
+        "description": [
+            "La mejor serie de humor de la historia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elon Musk"]
     }
 }

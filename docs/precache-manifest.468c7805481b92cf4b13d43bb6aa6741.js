@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d44286027de66f9caee20ef9330ea29d",
+    "revision": "cfd56f773c5ed7d16677e14a03d55047",
     "url": "/index.html"
   },
   {
-    "revision": "3b2183fc916050633dc5",
+    "revision": "178afbf06140d47e33ca",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "8ed59af6492862a5675a",
-    "url": "/static/js/2.d905d7ac.chunk.js"
+    "revision": "b6a66e98e257e4889937",
+    "url": "/static/js/2.c3ff019b.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.d905d7ac.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c3ff019b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b2183fc916050633dc5",
-    "url": "/static/js/main.fa886a78.chunk.js"
+    "revision": "178afbf06140d47e33ca",
+    "url": "/static/js/main.eb7bb803.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1334,6 +1334,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b75b68426c48ae5776dcab3b38b6c429",
     "url": "/static/media/despertar_mujer.b75b6842.png"
+  },
+  {
+    "revision": "481df9887fddebe743052978e77fd47f",
+    "url": "/static/media/dia_libro.481df988.png"
+  },
+  {
+    "revision": "a67845ba6de26f47135cd289bad316cb",
+    "url": "/static/media/dia_libro.a67845ba.png"
   },
   {
     "revision": "da702e0be122471f5e9c1bc980d6a85e",

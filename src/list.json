@@ -4923,5 +4923,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "apocalipsis_climatico": {
+        "name": "Apocalipsis climático",
+        "date": "2023-04-25T00:00",
+        "description": [
+            "Se quedaron sin tinta verde y azul."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfd56f773c5ed7d16677e14a03d55047",
+    "revision": "d56e9f132977b1b175fd000344d667d3",
     "url": "/index.html"
   },
   {
-    "revision": "178afbf06140d47e33ca",
+    "revision": "a1badbe3c2a0ee2878d2",
     "url": "/static/css/main.3d1498e6.chunk.css"
   },
   {
-    "revision": "b6a66e98e257e4889937",
-    "url": "/static/js/2.c3ff019b.chunk.js"
+    "revision": "b997ef2521eba03396a5",
+    "url": "/static/js/2.4e65f5db.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.c3ff019b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4e65f5db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "178afbf06140d47e33ca",
-    "url": "/static/js/main.eb7bb803.chunk.js"
+    "revision": "a1badbe3c2a0ee2878d2",
+    "url": "/static/js/main.49aa23f8.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -278,6 +278,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a213c0f1a741e9e4d185efd21095ebc",
     "url": "/static/media/apalpador.6a213c0f.png"
+  },
+  {
+    "revision": "3b1681a1b77c9ad11709412bab0f6cd7",
+    "url": "/static/media/apocalipsis_climatico.3b1681a1.png"
+  },
+  {
+    "revision": "d094a99a60228c5c9ca774ebd2fdc580",
+    "url": "/static/media/apocalipsis_climatico.d094a99a.png"
   },
   {
     "revision": "c207e75754a551c84c334e942ba3e824",

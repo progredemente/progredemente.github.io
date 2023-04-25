@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.eb7bb803.chunk.js",
-    "main.js.map": "/static/js/main.eb7bb803.chunk.js.map",
+    "main.js": "/static/js/main.49aa23f8.chunk.js",
+    "main.js.map": "/static/js/main.49aa23f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.c3ff019b.chunk.js": "/static/js/2.c3ff019b.chunk.js",
-    "static/js/2.c3ff019b.chunk.js.map": "/static/js/2.c3ff019b.chunk.js.map",
+    "static/js/2.4e65f5db.chunk.js": "/static/js/2.4e65f5db.chunk.js",
+    "static/js/2.4e65f5db.chunk.js.map": "/static/js/2.4e65f5db.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.468c7805481b92cf4b13d43bb6aa6741.js": "/precache-manifest.468c7805481b92cf4b13d43bb6aa6741.js",
+    "precache-manifest.d89e7c79578935ea7f4492a67acc57a3.js": "/precache-manifest.d89e7c79578935ea7f4492a67acc57a3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.c3ff019b.chunk.js.LICENSE.txt": "/static/js/2.c3ff019b.chunk.js.LICENSE.txt",
+    "static/js/2.4e65f5db.chunk.js.LICENSE.txt": "/static/js/2.4e65f5db.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -46,6 +46,7 @@
     "static/media/antonium.png": "/static/media/antonium.72a71b4e.png",
     "static/media/apagon_vultural.png": "/static/media/apagon_vultural.aaeb4368.png",
     "static/media/apalpador.png": "/static/media/apalpador.6a213c0f.png",
+    "static/media/apocalipsis_climatico.png": "/static/media/apocalipsis_climatico.d094a99a.png",
     "static/media/apps_citas.png": "/static/media/apps_citas.fcbf6e1a.png",
     "static/media/apropiacion_simbolos.png": "/static/media/apropiacion_simbolos.ac63ad70.png",
     "static/media/arbol_navidad.png": "/static/media/arbol_navidad.bfd732ed.png",
@@ -586,8 +587,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.c3ff019b.chunk.js",
+    "static/js/2.4e65f5db.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.eb7bb803.chunk.js"
+    "static/js/main.49aa23f8.chunk.js"
   ]
 }

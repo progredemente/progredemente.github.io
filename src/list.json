@@ -4932,5 +4932,14 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "joselitos_agenda": {
+        "name": "Los Joselitos de la agenda",
+        "date": "2023-04-26T00:00",
+        "description": [
+            "¡Exprimidlos al máximo antes de que les cambie la voz!"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.49aa23f8.chunk.js",
-    "main.js.map": "/static/js/main.49aa23f8.chunk.js.map",
+    "main.js": "/static/js/main.ea8d3422.chunk.js",
+    "main.js.map": "/static/js/main.ea8d3422.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4e65f5db.chunk.js": "/static/js/2.4e65f5db.chunk.js",
-    "static/js/2.4e65f5db.chunk.js.map": "/static/js/2.4e65f5db.chunk.js.map",
+    "static/js/2.ebf5201c.chunk.js": "/static/js/2.ebf5201c.chunk.js",
+    "static/js/2.ebf5201c.chunk.js.map": "/static/js/2.ebf5201c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d89e7c79578935ea7f4492a67acc57a3.js": "/precache-manifest.d89e7c79578935ea7f4492a67acc57a3.js",
+    "precache-manifest.c5358ae8733f73abb82290920e97249e.js": "/precache-manifest.c5358ae8733f73abb82290920e97249e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.4e65f5db.chunk.js.LICENSE.txt": "/static/js/2.4e65f5db.chunk.js.LICENSE.txt",
+    "static/js/2.ebf5201c.chunk.js.LICENSE.txt": "/static/js/2.ebf5201c.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -293,6 +293,7 @@
     "static/media/izquierda_conspiranoica.png": "/static/media/izquierda_conspiranoica.bcc3aa05.png",
     "static/media/jamon.png": "/static/media/jamon.fc897745.png",
     "static/media/jodechinchos.png": "/static/media/jodechinchos.c578b9ec.png",
+    "static/media/joselitos_agenda.png": "/static/media/joselitos_agenda.bac0992e.png",
     "static/media/joulupuu.png": "/static/media/joulupuu.780e7ee5.png",
     "static/media/judea.png": "/static/media/judea.7947dfd1.png",
     "static/media/jueces_fascistas.png": "/static/media/jueces_fascistas.8e2fba55.png",
@@ -587,8 +588,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4e65f5db.chunk.js",
+    "static/js/2.ebf5201c.chunk.js",
     "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.49aa23f8.chunk.js"
+    "static/js/main.ea8d3422.chunk.js"
   ]
 }

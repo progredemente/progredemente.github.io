@@ -18,6 +18,7 @@ class Welcome extends Component {
             strawman: false,
             cable: false,
             camaleon: false,
+            calor: false,
             showAllSocialNetworks: false
         }
     }
@@ -100,6 +101,19 @@ class Welcome extends Component {
                                 this.setState({ camaleon: true})
                             }}
                         /> Camaleón
+                    </a>
+                    <a href="/calor" className="social-link">
+                        <Loading
+                            hidden={this.state.calor}
+                        />
+                        <img
+                            src={'./calor.png'}
+                            alt={'calor'}
+                            className={this.state.cable ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ calor: true})
+                            }}
+                        /> ¡Calor!
                     </a>
                     <p>Sígueme en</p>
                     {

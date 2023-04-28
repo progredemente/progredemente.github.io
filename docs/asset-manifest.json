@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d1498e6.chunk.css",
-    "main.js": "/static/js/main.ea8d3422.chunk.js",
-    "main.js.map": "/static/js/main.ea8d3422.chunk.js.map",
+    "main.css": "/static/css/main.fba28a7f.chunk.css",
+    "main.js": "/static/js/main.c5e7a798.chunk.js",
+    "main.js.map": "/static/js/main.c5e7a798.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ebf5201c.chunk.js": "/static/js/2.ebf5201c.chunk.js",
-    "static/js/2.ebf5201c.chunk.js.map": "/static/js/2.ebf5201c.chunk.js.map",
+    "static/js/2.ad183ff6.chunk.js": "/static/js/2.ad183ff6.chunk.js",
+    "static/js/2.ad183ff6.chunk.js.map": "/static/js/2.ad183ff6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c5358ae8733f73abb82290920e97249e.js": "/precache-manifest.c5358ae8733f73abb82290920e97249e.js",
+    "precache-manifest.249d02276ffd64184fac4161412a17bb.js": "/precache-manifest.249d02276ffd64184fac4161412a17bb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3d1498e6.chunk.css.map": "/static/css/main.3d1498e6.chunk.css.map",
-    "static/js/2.ebf5201c.chunk.js.LICENSE.txt": "/static/js/2.ebf5201c.chunk.js.LICENSE.txt",
+    "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
+    "static/js/2.ad183ff6.chunk.js.LICENSE.txt": "/static/js/2.ad183ff6.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -63,7 +63,7 @@
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
     "static/media/avispero.png": "/static/media/avispero.0ac3625c.png",
-    "static/media/index.css": "/static/media/comic_typo.680c84b1.ttf",
+    "static/media/index.css": "/static/media/comic_typo.a1ab424f.ttf",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
     "static/media/bandera_buena.png": "/static/media/bandera_buena.bb3a1a01.png",
     "static/media/bandera_canadazi.png": "/static/media/bandera_canadazi.2426a3be.png",
@@ -118,6 +118,7 @@
     "static/media/caja_s.png": "/static/media/caja_s.77f8d21d.png",
     "static/media/calamar.png": "/static/media/calamar.d0491b65.png",
     "static/media/calamar.en.png": "/static/media/calamar.en.fc93a31b.png",
+    "static/media/calor.png": "/static/media/calor.3af787ac.png",
     "static/media/calor_gente.png": "/static/media/calor_gente.a99c84fb.png",
     "static/media/calvino_ino_ih.png": "/static/media/calvino_ino_ih.b5967d70.png",
     "static/media/camaleon.png": "/static/media/camaleon.da2bdede.png",
@@ -588,8 +589,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ebf5201c.chunk.js",
-    "static/css/main.3d1498e6.chunk.css",
-    "static/js/main.ea8d3422.chunk.js"
+    "static/js/2.ad183ff6.chunk.js",
+    "static/css/main.fba28a7f.chunk.css",
+    "static/js/main.c5e7a798.chunk.js"
   ]
 }

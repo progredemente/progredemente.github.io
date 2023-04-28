@@ -4941,5 +4941,14 @@
         ],
         "size": "2000x2000",
         "series": ["memes"]
+    },
+    "calor": {
+        "name": "¡Calor!",
+        "date": "2023-04-28T00:00",
+        "description": [
+            "Que no te engañen. Visita la aplicación en: {https://progredemente.com/calor/}"
+        ],
+        "url": "https://www.youtube.com/embed/o30F_NuOA7U",
+        "series": ["animacion"]
     }
 }

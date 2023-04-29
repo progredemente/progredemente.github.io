@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.c5e7a798.chunk.js",
-    "main.js.map": "/static/js/main.c5e7a798.chunk.js.map",
+    "main.js": "/static/js/main.0aae93b2.chunk.js",
+    "main.js.map": "/static/js/main.0aae93b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ad183ff6.chunk.js": "/static/js/2.ad183ff6.chunk.js",
-    "static/js/2.ad183ff6.chunk.js.map": "/static/js/2.ad183ff6.chunk.js.map",
+    "static/js/2.7bad848a.chunk.js": "/static/js/2.7bad848a.chunk.js",
+    "static/js/2.7bad848a.chunk.js.map": "/static/js/2.7bad848a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.249d02276ffd64184fac4161412a17bb.js": "/precache-manifest.249d02276ffd64184fac4161412a17bb.js",
+    "precache-manifest.67c65b942fe6418054eb7f44e8ef0d39.js": "/precache-manifest.67c65b942fe6418054eb7f44e8ef0d39.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.ad183ff6.chunk.js.LICENSE.txt": "/static/js/2.ad183ff6.chunk.js.LICENSE.txt",
+    "static/js/2.7bad848a.chunk.js.LICENSE.txt": "/static/js/2.7bad848a.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -449,6 +449,7 @@
     "static/media/pisapapeles.png": "/static/media/pisapapeles.d1562186.png",
     "static/media/pistola_dinero.png": "/static/media/pistola_dinero.712e2378.png",
     "static/media/planton.png": "/static/media/planton.b95a67b1.png",
+    "static/media/playa_madrid.png": "/static/media/playa_madrid.a34d2e21.png",
     "static/media/pocas_luces.png": "/static/media/pocas_luces.a505c7d1.png",
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
     "static/media/pocos_impuestos.png": "/static/media/pocos_impuestos.df1a372b.png",
@@ -589,8 +590,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ad183ff6.chunk.js",
+    "static/js/2.7bad848a.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.c5e7a798.chunk.js"
+    "static/js/main.0aae93b2.chunk.js"
   ]
 }

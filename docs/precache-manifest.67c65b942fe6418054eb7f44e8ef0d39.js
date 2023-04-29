@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a3c0231432a1a50364f4a642a4440db",
+    "revision": "b1bf41213ccb9d54808baf6100196d94",
     "url": "/index.html"
   },
   {
-    "revision": "640f82637d4c70bf624b",
+    "revision": "5284bc0900f01c5fef87",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "2c02134860aa962b1f3c",
-    "url": "/static/js/2.ad183ff6.chunk.js"
+    "revision": "557986d897cb2264e5c1",
+    "url": "/static/js/2.7bad848a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ad183ff6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7bad848a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "640f82637d4c70bf624b",
-    "url": "/static/js/main.c5e7a798.chunk.js"
+    "revision": "5284bc0900f01c5fef87",
+    "url": "/static/js/main.0aae93b2.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3262,6 +3262,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b95a67b13d06b471d64f7e2fc0be24b0",
     "url": "/static/media/planton.b95a67b1.png"
+  },
+  {
+    "revision": "837fc91b84f0295eb26b81bb7acf1d03",
+    "url": "/static/media/playa_madrid.837fc91b.png"
+  },
+  {
+    "revision": "a34d2e21ba10e33d9ceafac61aed71ae",
+    "url": "/static/media/playa_madrid.a34d2e21.png"
   },
   {
     "revision": "59cbf9421042fc2a92debb04a2013d22",

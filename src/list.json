@@ -4950,5 +4950,15 @@
         ],
         "url": "https://www.youtube.com/embed/o30F_NuOA7U",
         "series": ["animacion"]
+    },
+    "playa_madrid": {
+        "name": "Playa en Madrid",
+        "date": "2023-04-29T00:00",
+        "description": [
+            "O una de dos, o han fichado a un supervillano, algo que no sería muy descabellado teniendo en cuenta el historial del partido, o se la suda todo ya."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Roberto Sotomayor"],
+        "parties": ["Podemos"]
     }
 }

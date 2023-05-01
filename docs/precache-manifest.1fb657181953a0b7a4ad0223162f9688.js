@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1bf41213ccb9d54808baf6100196d94",
+    "revision": "1c95fa4b7af0581a711774b52a2520e1",
     "url": "/index.html"
   },
   {
-    "revision": "5284bc0900f01c5fef87",
+    "revision": "030da8d1ae7ef6a8bd0c",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "557986d897cb2264e5c1",
-    "url": "/static/js/2.7bad848a.chunk.js"
+    "revision": "3dc86652d83a0a263ae0",
+    "url": "/static/js/2.93ba6183.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.7bad848a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.93ba6183.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5284bc0900f01c5fef87",
-    "url": "/static/js/main.0aae93b2.chunk.js"
+    "revision": "030da8d1ae7ef6a8bd0c",
+    "url": "/static/js/main.9cbd7032.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1354,6 +1354,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a67845ba6de26f47135cd289bad316cb",
     "url": "/static/media/dia_libro.a67845ba.png"
+  },
+  {
+    "revision": "b649e80576fa6489c6e39d6201ab3ba0",
+    "url": "/static/media/dia_trabajo.b649e805.png"
+  },
+  {
+    "revision": "bf014ec76d08e0a3d2e44f60f54bfde0",
+    "url": "/static/media/dia_trabajo.bf014ec7.png"
   },
   {
     "revision": "da702e0be122471f5e9c1bc980d6a85e",
@@ -3208,6 +3216,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/persona_embarazada.f6854f9c.png"
   },
   {
+    "revision": "097a56402b36516e56095b18782d1478",
+    "url": "/static/media/pescar.097a5640.png"
+  },
+  {
+    "revision": "dc3e05ed72eacb6000dd62fdb63abc61",
+    "url": "/static/media/pescar.dc3e05ed.png"
+  },
+  {
     "revision": "5463ae05a4df5415d094e0ed4ad3b03c",
     "url": "/static/media/pezones.5463ae05.png"
   },
@@ -4226,6 +4242,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "582d007baaa4cfe7fad01ca670dba05c",
     "url": "/static/media/ye_grave.582d007b.png"
+  },
+  {
+    "revision": "824323a5d2eaf39fe60f3b35df92fcfa",
+    "url": "/static/media/yo_nunca.824323a5.png"
+  },
+  {
+    "revision": "f5822e3af2310b1d123a092bb46efd48",
+    "url": "/static/media/yo_nunca.f5822e3a.png"
   },
   {
     "revision": "533e8eb347155128f1f956ab059b2796",

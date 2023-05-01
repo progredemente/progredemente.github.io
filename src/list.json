@@ -4960,5 +4960,35 @@
         "size": "2000x2000",
         "celebrities": ["Roberto Sotomayor"],
         "parties": ["Podemos"]
+    },
+    "pescar": {
+        "name": "Pescar",
+        "date": "2023-04-30T00:00",
+        "description": [
+            "Parece que las elecciones son un concurso para ver quién promete la burrada más grande."
+        ],
+        "size": "4000x3500",
+        "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo", "Yolanda Díaz"],
+        "parties": ["PSOE", "PP", "Sumar"]
+    },
+    "dia_trabajo": {
+        "name": "Día del trabajo",
+        "date": "2023-05-01T00:00",
+        "description": [
+            "Políticos celebrando el día del trabajo, menudo oxímoron."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ione Belarra"],
+        "parties": ["Podemos"]
+    },
+    "yo_nunca": {
+        "name": "Yo nunca",
+        "date": "2023-05-01T01:00",
+        "description": [
+            "El \"yo nunca\" lo tienen dominadísimo. La de trabajar ya tal...."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángela Rodríguez Pam", "Lucía Muñoz Dalda"],
+        "parties": ["Podemos"]
     }
 }

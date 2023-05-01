@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.0aae93b2.chunk.js",
-    "main.js.map": "/static/js/main.0aae93b2.chunk.js.map",
+    "main.js": "/static/js/main.9cbd7032.chunk.js",
+    "main.js.map": "/static/js/main.9cbd7032.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7bad848a.chunk.js": "/static/js/2.7bad848a.chunk.js",
-    "static/js/2.7bad848a.chunk.js.map": "/static/js/2.7bad848a.chunk.js.map",
+    "static/js/2.93ba6183.chunk.js": "/static/js/2.93ba6183.chunk.js",
+    "static/js/2.93ba6183.chunk.js.map": "/static/js/2.93ba6183.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.67c65b942fe6418054eb7f44e8ef0d39.js": "/precache-manifest.67c65b942fe6418054eb7f44e8ef0d39.js",
+    "precache-manifest.1fb657181953a0b7a4ad0223162f9688.js": "/precache-manifest.1fb657181953a0b7a4ad0223162f9688.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.7bad848a.chunk.js.LICENSE.txt": "/static/js/2.7bad848a.chunk.js.LICENSE.txt",
+    "static/js/2.93ba6183.chunk.js.LICENSE.txt": "/static/js/2.93ba6183.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -190,6 +190,7 @@
     "static/media/desnudo.png": "/static/media/desnudo.f1efc2a1.png",
     "static/media/despertar_mujer.png": "/static/media/despertar_mujer.b75b6842.png",
     "static/media/dia_libro.png": "/static/media/dia_libro.a67845ba.png",
+    "static/media/dia_trabajo.png": "/static/media/dia_trabajo.bf014ec7.png",
     "static/media/diarrea_legislativa.png": "/static/media/diarrea_legislativa.dba495ab.png",
     "static/media/discapacitada.png": "/static/media/discapacitada.932d86a9.png",
     "static/media/discapacitada.en.png": "/static/media/discapacitada.en.18e0577f.png",
@@ -442,6 +443,7 @@
     "static/media/perras.png": "/static/media/perras.d001b0bb.png",
     "static/media/perroflautum.png": "/static/media/perroflautum.76362ce6.png",
     "static/media/persona_embarazada.png": "/static/media/persona_embarazada.f6854f9c.png",
+    "static/media/pescar.png": "/static/media/pescar.dc3e05ed.png",
     "static/media/pezones.png": "/static/media/pezones.85980d4b.png",
     "static/media/pge2022.png": "/static/media/pge2022.d40dd584.png",
     "static/media/pin_parental.png": "/static/media/pin_parental.ef2679b2.png",
@@ -581,6 +583,7 @@
     "static/media/xokas.png": "/static/media/xokas.b51b3268.png",
     "static/media/ye.png": "/static/media/ye.11d7f218.png",
     "static/media/ye_grave.png": "/static/media/ye_grave.582d007b.png",
+    "static/media/yo_nunca.png": "/static/media/yo_nunca.f5822e3a.png",
     "static/media/yoli_burns.png": "/static/media/yoli_burns.a887f9c5.png",
     "static/media/young_inigo.png": "/static/media/young_inigo.930350c4.png",
     "static/media/young_inigo.mp3": "/static/media/young_inigo.e573cc5a.mp3",
@@ -590,8 +593,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7bad848a.chunk.js",
+    "static/js/2.93ba6183.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.0aae93b2.chunk.js"
+    "static/js/main.9cbd7032.chunk.js"
   ]
 }

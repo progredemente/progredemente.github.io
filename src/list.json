@@ -4990,5 +4990,15 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam", "Lucía Muñoz Dalda"],
         "parties": ["Podemos"]
+    },
+    "pp_zumarraga": {
+        "name": "PP Zumárraga",
+        "date": "2023-05-03T00:00",
+        "description": [
+            "No sé quién me da más pena, si el chaval o el propio partido."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elías Bendodo", "Jon Echeverría"],
+        "parties": ["PP"]
     }
 }

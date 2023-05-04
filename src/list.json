@@ -5010,5 +5010,16 @@
         "series": ["animacion", "memes"],
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "spot_podemos": {
+        "name": "El spot de Podemos",
+        "date": "2023-05-04T01:00",
+        "description": [
+            "Si hasta tienen una televisión propia, ¿no lo pueden emitir ahí?"
+        ],
+        "url": "https://www.youtube.com/embed/UxNZ0o6Y3CQ",
+        "series": ["animacion", "memes"],
+        "celebrities": ["Ione Belarra", "Irene Montero", "Pablo Echenique", "Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

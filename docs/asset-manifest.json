@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.dd2c1cdd.chunk.js",
-    "main.js.map": "/static/js/main.dd2c1cdd.chunk.js.map",
+    "main.js": "/static/js/main.b7af10e6.chunk.js",
+    "main.js.map": "/static/js/main.b7af10e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a7f78ebe.chunk.js": "/static/js/2.a7f78ebe.chunk.js",
-    "static/js/2.a7f78ebe.chunk.js.map": "/static/js/2.a7f78ebe.chunk.js.map",
+    "static/js/2.12d994c2.chunk.js": "/static/js/2.12d994c2.chunk.js",
+    "static/js/2.12d994c2.chunk.js.map": "/static/js/2.12d994c2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b0060f89bd63513375644e493b175639.js": "/precache-manifest.b0060f89bd63513375644e493b175639.js",
+    "precache-manifest.9a5664ebb27807b7f4a39dc045baa5f7.js": "/precache-manifest.9a5664ebb27807b7f4a39dc045baa5f7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.a7f78ebe.chunk.js.LICENSE.txt": "/static/js/2.a7f78ebe.chunk.js.LICENSE.txt",
+    "static/js/2.12d994c2.chunk.js.LICENSE.txt": "/static/js/2.12d994c2.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -527,6 +527,7 @@
     "static/media/sol_negro.png": "/static/media/sol_negro.7673fceb.png",
     "static/media/sopa_letras.png": "/static/media/sopa_letras.c1075e9d.png",
     "static/media/spongebolso.png": "/static/media/spongebolso.48591ab9.png",
+    "static/media/spot_podemos.png": "/static/media/spot_podemos.d706bba4.png",
     "static/media/starlink.png": "/static/media/starlink.690a8711.png",
     "static/media/starlink.en.png": "/static/media/starlink.en.e6bb99e4.png",
     "static/media/stop_stupid.png": "/static/media/stop_stupid.8d21af27.png",
@@ -595,8 +596,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a7f78ebe.chunk.js",
+    "static/js/2.12d994c2.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.dd2c1cdd.chunk.js"
+    "static/js/main.b7af10e6.chunk.js"
   ]
 }

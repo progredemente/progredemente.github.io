@@ -4948,8 +4948,7 @@
         "description": [
             "Que no te engañen. Visita la aplicación en: {https://progredemente.com/calor/}"
         ],
-        "url": "https://www.youtube.com/embed/o30F_NuOA7U",
-        "series": ["animacion"]
+        "url": "https://www.youtube.com/embed/o30F_NuOA7U"
     },
     "playa_madrid": {
         "name": "Playa en Madrid",
@@ -5000,5 +4999,16 @@
         "size": "2000x2000",
         "celebrities": ["Elías Bendodo", "Jon Echeverría"],
         "parties": ["PP"]
+    },
+    "fresisuis": {
+        "name": "Fresisuis",
+        "date": "2023-05-04T00:00",
+        "description": [
+            "Una vez más, Los Simpson ya lo predijeron."
+        ],
+        "url": "https://www.youtube.com/embed/9BK22l4hzts",
+        "series": ["animacion", "memes"],
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     }
 }

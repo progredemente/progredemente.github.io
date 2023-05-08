@@ -101,7 +101,7 @@ class PageStats extends Component {
     
     getPartyData = () => {
         let partyData = [
-            { name: "UP", count: 0 },
+            { name: "BComú", count: 0 },
             { name: "PSOE", count: 0 },
             { name: "MP", count: 0 },
             { name: "PP", count: 0 },
@@ -121,7 +121,7 @@ class PageStats extends Component {
             { name: "Drago", count: 0}
         ];
         let partyColors = {
-            "UP": "#5c3464",
+            "BComú": "#e8412c",
             "PSOE": "#f31912",
             "MP": "#0fddc4",
             "PP": "#0bb2ff",

@@ -25,7 +25,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "cables": {
         "name": "Cables",
@@ -35,7 +35,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Rita Bosaho"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "pin_parental": {
         "name": "Pin parental",
@@ -45,7 +45,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "progremon_1": {
         "name": "Progrémon 1",
@@ -73,7 +73,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "minifaldas": {
         "name": "Minifaldas",
@@ -83,7 +83,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "coronavirus": {
         "name": "Coronavirus",
@@ -114,7 +114,7 @@
         "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "progremon_2": {
         "name": "Progrémon 2",
@@ -133,7 +133,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Pedro Sánchez"],
-        "parties": ["UP", "PSOE"]
+        "parties": ["Podemos", "PSOE"]
     },
     "koopanique": {
         "name": "Koopanique",
@@ -144,7 +144,7 @@
         "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Pablo Echenique"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "carencias": {
         "name": "Carencias",
@@ -184,7 +184,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "tacticas_evasion": {
         "name": "Tácticas de evasión",
@@ -195,7 +195,7 @@
         "size": "3000x6160",
         "series": ["memes"],
         "celebrities": ["Irene Montero", "Pablo Iglesias", "Pedro Sánchez", "Fernando Simón"],
-        "parties": ["UP", "PSOE"]
+        "parties": ["Podemos", "PSOE"]
     },
     "little_mireia": {
         "name": "Little Mireia",
@@ -237,7 +237,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias"],
-        "parties": ["UP", "PSOE"]
+        "parties": ["Podemos", "PSOE"]
     },
     "apagon_vultural": {
         "name": "Apagón Vultural",
@@ -256,7 +256,7 @@
         "url": "https://www.youtube.com/embed/k4EcIRQs3Lc",
         "series": ["animacion"],
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "veleta": {
         "name": "Veleta",
@@ -286,7 +286,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias"],
-        "parties": ["UP", "PSOE"]
+        "parties": ["Podemos", "PSOE"]
     },
     "la_nueva_subnormalidad": {
         "name": "La nueva subnormalidad",
@@ -315,7 +315,7 @@
         "size": "3800x2000",
         "series": ["terf_vs_trans"],
         "celebrities": ["Irene Montero", "Boti García"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "portugal_oeste": {
         "name": "Portugal está \"más al oeste\"",
@@ -342,7 +342,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "palos_de_golf": {
         "name": "Palos de golf",
@@ -376,7 +376,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "saqueo_minneapolis": {
         "name": "Saqueo de Minneapolis",
@@ -395,7 +395,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "curriculum": {
         "name": "Currículum",
@@ -476,7 +476,7 @@
         "size": "3000x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Irene Montero", "Pablo Echenique", "Lilith Verstrynge", "Tania Sánchez", "Dina Bousselham"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "subida_impuestos": {
         "name": "Subida de impuestos",
@@ -496,7 +496,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "al_menos": {
         "name": "Al menos",
@@ -572,7 +572,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "terf_vs_trans_3": {
         "name": "TERF vs trans 3",
@@ -583,7 +583,7 @@
         "size": "2000x2000",
         "series": ["terf_vs_trans"],
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "volver_a_empezar": {
         "name": "Volver a empezar",
@@ -602,7 +602,7 @@
         ],
         "size": "1590x1590",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "vodkuna": {
         "name": "Vodkuna",
@@ -631,7 +631,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "apps_citas": {
         "name": "Apps de citas",
@@ -640,7 +640,7 @@
             "Les iría mejor (y a nosotros también) si se dedicasen al negocio de las citas en vez de a la política."
         ],
         "size": "2000x2000",
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "franco_kazooie": {
         "name": "Franco & Kazooie",
@@ -686,7 +686,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "juraste_destruir": {
         "name": "Lo que juraste destruir",
@@ -697,7 +697,7 @@
         "size": "3000x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Ewan McGregor"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "rolex": {
         "name": "Rolex",
@@ -707,7 +707,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "marianic": {
         "name": "Marianic",
@@ -748,7 +748,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "cigarra_hormiga": {
         "name": "La cigarra y la hormiga",
@@ -777,7 +777,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "sopa_letras": {
         "name": "Sopa de letras",
@@ -847,7 +847,7 @@
         "size": "4000x4000",
         "series": ["memes"],
         "celebrities": ["Pablo Echenique"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "nueva_coalicion": {
         "name": "La nueva coalición",
@@ -856,7 +856,7 @@
             "Ya sabemos quienes formarán parte de la coalición liderada por los morados en las próximas elecciones."
         ],
         "size": "2000x2000",
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "maquina_humo": {
         "name": "Máquina de humo",
@@ -866,7 +866,7 @@
         ],
         "size": "3800x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "sanchezcracia": {
         "name": "Sanchezcracia",
@@ -896,7 +896,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "estado_totalitario": {
         "name": "Estado totalitario",
@@ -980,7 +980,7 @@
         ],
         "size": "4000x4000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias", "Arnaldo Otegi", "Gabriel Rufián"],
-        "parties": ["PSOE", "UP", "EH Bildu", "ERC"]
+        "parties": ["PSOE", "Podemos", "EH Bildu", "ERC"]
     },
     "zendal": {
         "name": "Enfermera Isabel Zendal",
@@ -1095,7 +1095,7 @@
         ],
         "size": "4000x4000",
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
-        "parties": ["UP", "PSOE"]
+        "parties": ["Podemos", "PSOE"]
     },
     "ano_marmota": {
         "name": "El año de la marmota",
@@ -1184,7 +1184,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "cielo_tierra": {
         "name": "El cielo en la tierra",
@@ -1269,7 +1269,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Isabel Díaz Ayuso"],
-        "parties": ["PP", "UP"]
+        "parties": ["PP", "Podemos"]
     },
     "tristan": {
         "name": "Tristán Verrugosa de los Batracios",
@@ -1322,7 +1322,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "llibert": {
         "name": "Llibert Ojera",
@@ -1357,7 +1357,7 @@
         ],
         "size": "6000x4000",
         "celebrities": ["Pedro Sánchez", "Carmen Calvo", "Yolanda Díaz", "Nadia Calviño", "Teresa Ribera", "Iván Redondo"],
-        "parties": ["PSOE", "UP"]
+        "parties": ["PSOE", "IU"]
     },
     "sobras": {
         "name": "Sobras",
@@ -1367,7 +1367,7 @@
         ],
         "size": "3800x2000",
         "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "frox": {
         "name": "Frox",
@@ -1434,7 +1434,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "milfs_rat": {
         "name": "Two MILFs one rat",
@@ -1444,7 +1444,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Isabel Díaz Ayuso", "Rocío Monasterio"],
-        "parties": ["UP", "PP", "Vox"]
+        "parties": ["Podemos", "PP", "Vox"]
     },
     "amenazas": {
         "name": "Amenazas",
@@ -1455,7 +1455,7 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "abstencion_activa": {
         "name": "Abstención activa",
@@ -1466,7 +1466,7 @@
         "size": "3800x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Rubén Gisbert"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "saltar_barco": {
         "name": "Saltar del barco",
@@ -1476,7 +1476,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "c2_ingles": {
         "name": "C2 en inglés",
@@ -1486,7 +1486,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "minoria_absoluta": {
         "name": "Minoría absoluta",
@@ -1496,7 +1496,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "maestro_rata": {
         "name": "Maestro Rata",
@@ -1507,7 +1507,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Pablo Iglesias", "Alán Barroso", "Isabel Serrano", "Vozivoto", "Cuellilargo"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "descoletado": {
         "name": "Descoletado",
@@ -1517,7 +1517,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "shingeki_no_muajin": {
         "name": "Shingeki no Muajin",
@@ -1613,7 +1613,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "cirque": {
         "name": "Le cirque",
@@ -1624,7 +1624,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "terf_vs_trans_4": {
         "name": "TERF vs trans 4",
@@ -1644,7 +1644,7 @@
             "Estos días la actualidad política española me está dando más asco de lo habitual."
         ],
         "size": "2000x2000",
-        "parties": ["UP", "Vox"]
+        "parties": ["Podemos", "Vox"]
     },
     "vacas_contaminantes": {
         "name": "Vacas contaminantes",
@@ -1654,7 +1654,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Alberto Garzón"],
-        "parties": ["UP"]
+        "parties": ["IU"]
     },
     "gobierno_ideal": {
         "name": "El gobierno ideal",
@@ -1725,7 +1725,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "madrileno": {
         "name": "El Madrileño",
@@ -1772,7 +1772,7 @@
         ],
         "size": "4000x4000",
         "celebrities": ["Ada Colau"],
-        "parties": ["UP"]
+        "parties": ["BComú"]
     },
     "matronus": {
         "name": "Matronus",
@@ -2019,7 +2019,7 @@
         ],
         "size": "6000x4000",
         "celebrities": ["Yolanda Díaz", "Ada Colau", "Mónica García", "Mónica Oltra", "Fátima Hamed"],
-        "parties": ["UP", "MP", "Compromís", "MDyC"]
+        "parties": ["IU", "BComú", "MP", "Compromís", "MDyC"]
     },
     "parametros": {
         "name": "Parámetros",
@@ -2075,7 +2075,7 @@
         ],
         "size": "2000x2000",
         "series": ["memes"],
-        "parties": ["UP", "MP"]
+        "parties": ["Podemos", "MP"]
     },
     "burbujas": {
         "name": "Burbujas",
@@ -2324,7 +2324,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["IU"]
     },
     "atlas": {
         "name": "Atlas",
@@ -2360,7 +2360,7 @@
         "size": "2000x2000",
         "series": ["smash"],
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "laberinto": {
         "name": "Laberinto",
@@ -2382,7 +2382,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["IU"]
     },
     "cumplir": {
         "name": "Cumplir",
@@ -2401,7 +2401,7 @@
             "Fuera coñas, si tuviese los medios para hacerme un chaleco de este estilo, me lo haría para ir de punki en carnavales."
         ],
         "size": "2000x2000",
-        "parties": ["UP", "PSOE"]
+        "parties": ["Podemos", "PSOE"]
     },
     "bandera_galibertaria": {
         "name": "Bandera Galibertaria",
@@ -2432,7 +2432,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "booric": {
         "name": "Booric",
@@ -2523,7 +2523,7 @@
         ],
         "size": "2000x2000",
         "series": ["memes"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "blancanieves": {
         "name": "Blancanieves",
@@ -2564,7 +2564,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "bandera_euskonazi": {
         "name": "Bandera Euskonazi",
@@ -2678,7 +2678,7 @@
         ],
         "size": "6000x4000",
         "celebrities": ["Isabel Díaz Ayuso", "Pablo Casado", "Alberto Núñez Feijóo"],
-        "parties": ["PP", "PSOE", "UP"],
+        "parties": ["PP", "PSOE", "Podemos"],
         "tags": ["cielo", "metal", "árbol", "edificio", "humo"]
     },
     "nayeta": {
@@ -2700,7 +2700,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "tags": ["cielo", "aluminio", "pipas"]
     },
     "pero_otan": {
@@ -2809,7 +2809,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["IU"]
     },
     "preferencias": {
         "name": "Preferencias",
@@ -2897,7 +2897,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero", "Yolanda Díaz", "Ione Belarra"],
-        "parties": ["UP"],
+        "parties": ["Podemos", "IU"],
         "tags": ["orina", "ojos azules", "castaño", "ojos marrones claros"]
     },
     "bandera_estats_units_catalans": {
@@ -3001,7 +3001,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "sacandosela": {
         "name": "Sacándosela",
@@ -3063,7 +3063,7 @@
         ],
         "size": "8000x6000",
         "celebrities": ["Fernando Simón", "Mariano Rajoy", "C. Tangana", "Juan Carlos I", "Pedro Sánchez", "Risto Mejide", "Arnaldo Otegi", "Fernando Grande-Marlaska", "Mohamed VI", "César Carballo", "Pablo Iglesias", "Pamela Palenciano", "Alán Barroso", "Gabriel Rufián", "Elon Musk", "María Jesús Montero", "Teodoro García Egea", "Pablo Casado", "Isabel Díaz Ayuso", "Alberto Núñez Feijóo", "Mónica García", "Cayetana Álvarez de Toledo", "Isabel Celaá", "Ada Colau", "Mónica Oltra", "Iván Redondo", "Rubén Gisbert", "Carmen Calvo", "Yolanda Díaz", "Oriol Junqueras", "Pablo Echenique", "Íñigo Errejón", "Inés Arrimadas", "Irene Montero", "Ione Belarra", "Alberto Garzón", "Carles Puigdemont", "José Luis Ábalos", "Lilith Verstrynge", "Dina Bousselham", "Eduardo Casanova", "Iker Jiménez", "Carmen Porter", "Isabel Peralta", "Francisco Franco", "Santiago Abascal", "Rocío Monasterio"],
-        "parties": ["EH Bildu", "PSOE", "PP", "ERC", "UP", "MP", "Compromís", "C's", "JxC", "Vox"]
+        "parties": ["EH Bildu", "PSOE", "PP", "ERC", "Podemos", "IU", "Sumar", "MP", "Compromís", "C's", "JxC", "Vox", "BComú"]
     },
     "sede_ugt": {
         "name": "Sede de UGT",
@@ -3110,7 +3110,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Nadia Calviño", "Irene Montero"],
-        "parties": ["PSOE", "UP"]
+        "parties": ["PSOE", "Podemos"]
     },
     "calvino_ino_ih": {
         "name": "¡Calviño iño ih!",
@@ -3131,7 +3131,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Chanel Terrero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "bandera_estats_confederats_valencians": {
         "name": "Bandera de los Estats Confederats Valencians",
@@ -3160,7 +3160,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Juan Carlos I"],
-        "parties": ["UP", "PSOE", "EH Bildu", "ERC", "BNG"],
+        "parties": ["Podemos", "PSOE", "EH Bildu", "ERC", "BNG"],
         "tags": ["madera", "metal", "zanahoria", "hierba", "tierra", "cielo"]
     },
     "sumar": {
@@ -3172,7 +3172,7 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["Sumar"]
     },
     "indulto": {
         "name": "Indulto",
@@ -3181,7 +3181,7 @@
             "El gobierno de los delincuentes."
         ],
         "size": "2000x2000",
-        "parties": ["UP", "PSOE"],
+        "parties": ["Podemos", "PSOE"],
         "series": ["memes"]
     },
     "lingua": {
@@ -3201,7 +3201,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["Sumar"]
     },
     "marketing": {
         "name": "Marketing",
@@ -3289,7 +3289,7 @@
         "url": "https://www.youtube.com/embed/7esHjBvCxCk",
         "series": ["animacion"],
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["Sumar"]
     },
     "charo_boss": {
         "name": "Charo boss",
@@ -3338,7 +3338,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Pablo Echenique"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
         
     },
     "they_them": {
@@ -3359,7 +3359,7 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "tags": ["metal", "madera", "hierba", "cielo", "fuego", "humo", "dinero"]
     },
     "ahorro": {
@@ -3380,7 +3380,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["UP"],
+        "parties": ["Sumar"],
         "tags": ["noche", "madera"]
     },
     "rey_ratas": {
@@ -3391,7 +3391,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Pablo Iglesias", "José Manuel Villarejo", "Antonio García Ferreras", "Eduardo Inda"],
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "tags": ["mierda", "rata", "alcantarilla"]
     },
     "pan": {
@@ -3412,7 +3412,7 @@
             "Le vamos a pagar la defensa a la señorita. Sanidad y educación..."
         ],
         "size": "2000x2000",
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "bano": {
         "name": "Baño",
@@ -3422,7 +3422,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Lilith Verstrynge"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "eres": {
         "name": "EREs",
@@ -3449,7 +3449,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Juan Carlos Monedero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "hipnosis": {
         "name": "Hipnosis",
@@ -3632,7 +3632,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["José Luis Ábalos", "Irene Montero", "Ángela Rodríguez Pam"],
-        "parties": ["PSOE", "UP"]
+        "parties": ["PSOE", "Podemos"]
     },
     "sinegrita_3": {
         "name": "La Sinegrita 3",
@@ -3692,7 +3692,7 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "blandengue": {
         "name": "Blandengue",
@@ -3703,7 +3703,7 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Pablo Echenique", "El Fary"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "charotler": {
         "name": "Charotler",
@@ -3723,7 +3723,7 @@
         "url": "https://www.youtube.com/embed/PbEGYMWWqNo",
         "series": ["memes"],
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "jamon": {
         "name": "Jamón",
@@ -3810,7 +3810,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "tags": ["mierda", "españa", "bandera"]
     },
     "hispanidad_2": {
@@ -3847,7 +3847,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero", "Lilith Verstrynge", "Felipe VI"],
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "tags": ["oro"]
     },
     "edredon_fuerte": {
@@ -3969,7 +3969,7 @@
             "Me he inspirado en una portada de Capitana Marvel, en el personaje de She Hulk y en la explicitud de las series de The Boys y de Invincible, las cuales he visto recientemente, para esta portada de mentira. La hubiese hecho gorda o con alguna tara física, exceptuando la cojera, debido a los tipos de cuerpos que gustan de promover desde el feministerio, pero prefiero aprender a dibujar cuerpos bonitos."
         ],
         "size": "2500x3500",
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "series": ["super_madre_protectora"]
     },
     "gimmighoul": {
@@ -4027,7 +4027,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "pegada_silla": {
         "name": "Pegada a la silla",
@@ -4037,7 +4037,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "ccoo": {
         "name": "CCOO",
@@ -4057,7 +4057,7 @@
         "size": "3000x3000",
         "series": ["memes"],
         "celebrities": ["Pablo Iglesias", "Yolanda Díaz"],
-        "parties": ["UP"]
+        "parties": ["Podemos", "Sumar"]
     },
     "xokas": {
         "name": "Xokas",
@@ -4067,7 +4067,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Irene Montero", "El Xokas"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "ana_botella": {
         "name": "Ana Botella",
@@ -4077,7 +4077,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Ana Botella"],
-        "parties": ["UP", "PP"]
+        "parties": ["Podemos", "PP"]
     },
     "con_irene": {
         "name": "Con Irene",
@@ -4086,7 +4086,7 @@
             "¿De qué lado estarán los delicuentes?"
         ],
         "size": "2000x2000",
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "perras": {
         "name": "Perras",
@@ -4105,7 +4105,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Pablo Iglesias"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "2_patas": {
         "name": "Rata de dos patas",
@@ -4123,7 +4123,7 @@
             "Para el que no se haya enterado de la noticia: {https://www.diariodeleon.es/articulo/bierzo/arte-cosificacion-femenina-que-ves-etiqueta-vino/202211291819332281047.html}"
         ],
         "size": "3000x2000",
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "famosa": {
         "name": "Famosa",
@@ -4142,7 +4142,7 @@
             "Esta vez la inspiración viene del meme de Scooby-Doo."
         ],
         "size": "2500x3500",
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "series": ["super_madre_protectora", "memes"]
     },
     "euro_digital": {
@@ -4198,7 +4198,7 @@
             "Una práctica para tratar de mejorar mis habilidades, aprovechando este personaje, que es algo que mi estilo normal no me permite demasiado. Lo malo de hacer este tipo de viñetas es que me llevan demasiado tiempo y descuido un poco la actualidad."
         ],
         "size": "2500x3500",
-        "parties": ["UP"],
+        "parties": ["Podemos"],
         "series": ["super_madre_protectora"]
     },
     "trogloditas": {
@@ -4219,7 +4219,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Ione Belarra"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "banera": {
         "name": "Bañera",
@@ -4232,7 +4232,7 @@
             "Una última cosa: no soy dibujante profesional, estoy tratando de aprender, así que si alguno de vosotros lo es y veis cosas que no cuadren bien en esta serie de dibujos (proporciones, colores, sombreados, etc.), vuestras opiniones me serían de gran ayuda."
         ],
         "size": "2500x3500",
-        "parties": ["UP"],
+        "parties": ["Podemos", "Sumar"],
         "series": ["super_madre_protectora"]
     },
     "jueces_fascistas": {
@@ -4253,7 +4253,7 @@
         "url": "https://www.youtube.com/embed/S-aQsDsIaN8",
         "series": ["animacion"],
         "celebrities": ["Pablo Echenique"],
-        "parties": ["UP"]
+        "parties": ["Podemos"]
     },
     "soberania_popular": {
         "name": "Soberanía popular",
@@ -4263,7 +4263,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Íñigo Errejón"],
-        "parties": ["MP", "UP", "PSOE"]
+        "parties": ["MP", "Podemos", "PSOE"]
     },
     "argentina": {
         "name": "Argentina",
@@ -4300,7 +4300,7 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Yolanda Díaz", "Pedro Sánchez"],
-        "parties": ["UP", "PSOE"]
+        "parties": ["Sumar", "PSOE"]
     },
     "cria_cuervos": {
         "name": "Cría cuervos...",
@@ -5020,6 +5020,15 @@
         "url": "https://www.youtube.com/embed/UxNZ0o6Y3CQ",
         "series": ["animacion", "memes"],
         "celebrities": ["Ione Belarra", "Irene Montero", "Pablo Echenique", "Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
+    },
+    "glovo_publico": {
+        "name": "Glovo público",
+        "date": "2023-05-08T00:00",
+        "description": [
+            "Qué bien funciona todo lo público."
+        ],
+        "size": "3000x2000",
         "parties": ["Podemos"]
     }
 }

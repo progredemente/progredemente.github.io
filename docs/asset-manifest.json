@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.b7af10e6.chunk.js",
-    "main.js.map": "/static/js/main.b7af10e6.chunk.js.map",
+    "main.js": "/static/js/main.e322f818.chunk.js",
+    "main.js.map": "/static/js/main.e322f818.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.12d994c2.chunk.js": "/static/js/2.12d994c2.chunk.js",
-    "static/js/2.12d994c2.chunk.js.map": "/static/js/2.12d994c2.chunk.js.map",
+    "static/js/2.0dd51e2d.chunk.js": "/static/js/2.0dd51e2d.chunk.js",
+    "static/js/2.0dd51e2d.chunk.js.map": "/static/js/2.0dd51e2d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9a5664ebb27807b7f4a39dc045baa5f7.js": "/precache-manifest.9a5664ebb27807b7f4a39dc045baa5f7.js",
+    "precache-manifest.d86a20ce550744e0371af5a15729469e.js": "/precache-manifest.d86a20ce550744e0371af5a15729469e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.12d994c2.chunk.js.LICENSE.txt": "/static/js/2.12d994c2.chunk.js.LICENSE.txt",
+    "static/js/2.0dd51e2d.chunk.js.LICENSE.txt": "/static/js/2.0dd51e2d.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -254,6 +254,7 @@
     "static/media/gila.png": "/static/media/gila.3a0eb38a.png",
     "static/media/gimmighoul.png": "/static/media/gimmighoul.4dbc144d.png",
     "static/media/globo.png": "/static/media/globo.f670ee90.png",
+    "static/media/glovo_publico.png": "/static/media/glovo_publico.f1d7c5fd.png",
     "static/media/gobierno_ideal.png": "/static/media/gobierno_ideal.cc5342ab.png",
     "static/media/government_funded.png": "/static/media/government_funded.53a0a7ab.png",
     "static/media/government_funded.es.png": "/static/media/government_funded.es.10821832.png",
@@ -596,8 +597,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.12d994c2.chunk.js",
+    "static/js/2.0dd51e2d.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.b7af10e6.chunk.js"
+    "static/js/main.e322f818.chunk.js"
   ]
 }

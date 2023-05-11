@@ -5030,5 +5030,14 @@
         ],
         "size": "3000x2000",
         "parties": ["Podemos"]
+    },
+    "listas_bildu": {
+        "name": "Las listas de Bildu",
+        "date": "2023-05-11T00:00",
+        "description": [
+            "La falsa dicotomía entre el terror o las instituciones."
+        ],
+        "size": "2000x2000",
+        "parties": ["EH Bildu"]
     }
 }

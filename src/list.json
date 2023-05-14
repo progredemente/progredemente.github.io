@@ -5039,5 +5039,16 @@
         ],
         "size": "2000x2000",
         "parties": ["EH Bildu"]
+    },
+    "precios_justos": {
+        "name": "Precios Justos",
+        "date": "2023-05-14T01:00",
+        "description": [
+            "Vamos, a por los supermercados públicos, ¿qué puede salir mal?",
+            "La gente que vivió en la República Popular de Polonia recuerda, además de las largas y absurdas colas, que los únicos productos disponibles en las tiendas eran el vinagre y la mostaza. Oficialmente, claro."
+        ],
+        "url": "https://www.youtube.com/embed/NSjr1OGVi7A",
+        "series": ["animacion", "memes"],
+        "parties": ["Podemos"]
     }
 }

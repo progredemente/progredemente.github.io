@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0eb268e643481a80bc3df14a373f531",
+    "revision": "a91bacee9787b401a352990d7e29ef00",
     "url": "/index.html"
   },
   {
-    "revision": "e7b246b9a1ceb6f12859",
+    "revision": "51d59a8c44d02454762d",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "394ad045fda983f24226",
-    "url": "/static/js/2.daa17b7a.chunk.js"
+    "revision": "f34e34544f28fa6537b2",
+    "url": "/static/js/2.6a4c38a2.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.daa17b7a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6a4c38a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7b246b9a1ceb6f12859",
-    "url": "/static/js/main.209226ff.chunk.js"
+    "revision": "51d59a8c44d02454762d",
+    "url": "/static/js/main.8353a145.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3362,6 +3362,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3324a512879ee954297b571d6b7fbafe",
     "url": "/static/media/pp_zumarraga.3324a512.png"
+  },
+  {
+    "revision": "3b82af14e1c005aa4d67f249e477a1f8",
+    "url": "/static/media/precios_justos.3b82af14.png"
   },
   {
     "revision": "010f11cb4611de659ef801fc7b2369a7",

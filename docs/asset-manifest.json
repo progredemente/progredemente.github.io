@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.209226ff.chunk.js",
-    "main.js.map": "/static/js/main.209226ff.chunk.js.map",
+    "main.js": "/static/js/main.8353a145.chunk.js",
+    "main.js.map": "/static/js/main.8353a145.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.daa17b7a.chunk.js": "/static/js/2.daa17b7a.chunk.js",
-    "static/js/2.daa17b7a.chunk.js.map": "/static/js/2.daa17b7a.chunk.js.map",
+    "static/js/2.6a4c38a2.chunk.js": "/static/js/2.6a4c38a2.chunk.js",
+    "static/js/2.6a4c38a2.chunk.js.map": "/static/js/2.6a4c38a2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1a2e1ff91bfe8fdfa306119e117b0e28.js": "/precache-manifest.1a2e1ff91bfe8fdfa306119e117b0e28.js",
+    "precache-manifest.558e352c67db8ac1d162aac886935ebe.js": "/precache-manifest.558e352c67db8ac1d162aac886935ebe.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.daa17b7a.chunk.js.LICENSE.txt": "/static/js/2.daa17b7a.chunk.js.LICENSE.txt",
+    "static/js/2.6a4c38a2.chunk.js.LICENSE.txt": "/static/js/2.6a4c38a2.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -463,6 +463,7 @@
     "static/media/portugal_oeste.png": "/static/media/portugal_oeste.86c64353.png",
     "static/media/postales_navidenas_banner.png": "/static/media/postales_navidenas_banner.78d15fa1.png",
     "static/media/pp_zumarraga.png": "/static/media/pp_zumarraga.3324a512.png",
+    "static/media/precios_justos.png": "/static/media/precios_justos.3b82af14.png",
     "static/media/preferencias.png": "/static/media/preferencias.5a911cd1.png",
     "static/media/presas.png": "/static/media/presas.78c53f76.png",
     "static/media/presupuestos.png": "/static/media/presupuestos.d1a3bf9a.png",
@@ -598,8 +599,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.daa17b7a.chunk.js",
+    "static/js/2.6a4c38a2.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.209226ff.chunk.js"
+    "static/js/main.8353a145.chunk.js"
   ]
 }

@@ -5050,5 +5050,15 @@
         "url": "https://www.youtube.com/embed/NSjr1OGVi7A",
         "series": ["animacion", "memes"],
         "parties": ["Podemos"]
+    },
+    "manchado": {
+        "name": "Manchado",
+        "date": "2023-05-17T00:00",
+        "description": [
+            "Por mucho que traten de lavar su imagen, la mancha va a estar siempre ahí."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Arnaldo Otegi"],
+        "parties": ["EH Bildu", "PSOE"]
     }
 }

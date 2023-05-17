@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.8353a145.chunk.js",
-    "main.js.map": "/static/js/main.8353a145.chunk.js.map",
+    "main.js": "/static/js/main.ff729bf4.chunk.js",
+    "main.js.map": "/static/js/main.ff729bf4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.6a4c38a2.chunk.js": "/static/js/2.6a4c38a2.chunk.js",
-    "static/js/2.6a4c38a2.chunk.js.map": "/static/js/2.6a4c38a2.chunk.js.map",
+    "static/js/2.5f68932a.chunk.js": "/static/js/2.5f68932a.chunk.js",
+    "static/js/2.5f68932a.chunk.js.map": "/static/js/2.5f68932a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.558e352c67db8ac1d162aac886935ebe.js": "/precache-manifest.558e352c67db8ac1d162aac886935ebe.js",
+    "precache-manifest.6947b78e77d9dafe6a457306357cf6b2.js": "/precache-manifest.6947b78e77d9dafe6a457306357cf6b2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.6a4c38a2.chunk.js.LICENSE.txt": "/static/js/2.6a4c38a2.chunk.js.LICENSE.txt",
+    "static/js/2.5f68932a.chunk.js.LICENSE.txt": "/static/js/2.5f68932a.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -346,6 +346,7 @@
     "static/media/magia.en.png": "/static/media/magia.en.7daeea8a.png",
     "static/media/mais_habitacao.png": "/static/media/mais_habitacao.bf5d07c5.png",
     "static/media/malversacion.png": "/static/media/malversacion.f407571b.png",
+    "static/media/manchado.png": "/static/media/manchado.ce3936c5.png",
     "static/media/mano_smash.png": "/static/media/mano_smash.799b9893.png",
     "static/media/manspreading.png": "/static/media/manspreading.d6d8f193.png",
     "static/media/manspreading.en.png": "/static/media/manspreading.en.41d4ffa6.png",
@@ -599,8 +600,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.6a4c38a2.chunk.js",
+    "static/js/2.5f68932a.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.8353a145.chunk.js"
+    "static/js/main.ff729bf4.chunk.js"
   ]
 }

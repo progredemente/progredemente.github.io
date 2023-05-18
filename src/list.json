@@ -5060,5 +5060,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Arnaldo Otegi"],
         "parties": ["EH Bildu", "PSOE"]
+    },
+    "senalamientos": {
+        "name": "Señalamientos",
+        "date": "2023-05-18T00:00",
+        "description": [
+            "Les faltó ponerle una diana en la cara."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ione Belarra"],
+        "parties": ["Podemos"]
     }
 }

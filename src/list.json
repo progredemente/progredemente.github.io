@@ -5070,5 +5070,15 @@
         "size": "2000x2000",
         "celebrities": ["Ione Belarra"],
         "parties": ["Podemos"]
+    },
+    "tu_eliges": {
+        "name": "Tú eliges",
+        "date": "2023-05-25T00:00",
+        "description": [
+            "La democracia."
+        ],
+        "size": "3000x3000",
+        "series": ["memes"],
+        "parties": ["PSOE"]
     }
 }

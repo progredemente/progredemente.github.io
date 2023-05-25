@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.3f2f19df.chunk.js",
-    "main.js.map": "/static/js/main.3f2f19df.chunk.js.map",
+    "main.js": "/static/js/main.f8e7f573.chunk.js",
+    "main.js.map": "/static/js/main.f8e7f573.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0d8d51b6.chunk.js": "/static/js/2.0d8d51b6.chunk.js",
-    "static/js/2.0d8d51b6.chunk.js.map": "/static/js/2.0d8d51b6.chunk.js.map",
+    "static/js/2.460751f2.chunk.js": "/static/js/2.460751f2.chunk.js",
+    "static/js/2.460751f2.chunk.js.map": "/static/js/2.460751f2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f93b0fcf0426a8b1bdeade5a035f7496.js": "/precache-manifest.f93b0fcf0426a8b1bdeade5a035f7496.js",
+    "precache-manifest.0741ab8cb3ded4a7b8ca710582ac02e3.js": "/precache-manifest.0741ab8cb3ded4a7b8ca710582ac02e3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.0d8d51b6.chunk.js.LICENSE.txt": "/static/js/2.0d8d51b6.chunk.js.LICENSE.txt",
+    "static/js/2.460751f2.chunk.js.LICENSE.txt": "/static/js/2.460751f2.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -573,6 +573,7 @@
     "static/media/tristan.png": "/static/media/tristan.fb07ea66.png",
     "static/media/trogloditas.png": "/static/media/trogloditas.d3cb8624.png",
     "static/media/trolliano.png": "/static/media/trolliano.b8752d30.png",
+    "static/media/tu_eliges.png": "/static/media/tu_eliges.7f39d3bb.png",
     "static/media/upa_morales.png": "/static/media/upa_morales.b9a4604d.png",
     "static/media/vacas_contaminantes.png": "/static/media/vacas_contaminantes.6a11bc86.png",
     "static/media/vacunarse_publicamente.png": "/static/media/vacunarse_publicamente.6ae8a95d.png",
@@ -601,8 +602,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0d8d51b6.chunk.js",
+    "static/js/2.460751f2.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.3f2f19df.chunk.js"
+    "static/js/main.f8e7f573.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.0b69f7d2.chunk.js",
-    "main.js.map": "/static/js/main.0b69f7d2.chunk.js.map",
+    "main.js": "/static/js/main.cd6cbda2.chunk.js",
+    "main.js.map": "/static/js/main.cd6cbda2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.869a4d3b.chunk.js": "/static/js/2.869a4d3b.chunk.js",
-    "static/js/2.869a4d3b.chunk.js.map": "/static/js/2.869a4d3b.chunk.js.map",
+    "static/js/2.5fa7b9be.chunk.js": "/static/js/2.5fa7b9be.chunk.js",
+    "static/js/2.5fa7b9be.chunk.js.map": "/static/js/2.5fa7b9be.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.142284f06407a2dce27c631257f075e4.js": "/precache-manifest.142284f06407a2dce27c631257f075e4.js",
+    "precache-manifest.1d312fa8f736398912f10c895ae39a76.js": "/precache-manifest.1d312fa8f736398912f10c895ae39a76.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.869a4d3b.chunk.js.LICENSE.txt": "/static/js/2.869a4d3b.chunk.js.LICENSE.txt",
+    "static/js/2.5fa7b9be.chunk.js.LICENSE.txt": "/static/js/2.5fa7b9be.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -221,6 +221,7 @@
     "static/media/evil_cartoonist.png": "/static/media/evil_cartoonist.29214315.png",
     "static/media/exprimidor.png": "/static/media/exprimidor.d3f14a56.png",
     "static/media/fabrica_votantes.png": "/static/media/fabrica_votantes.ce159a07.png",
+    "static/media/falcon.png": "/static/media/falcon.fb2ee8d4.png",
     "static/media/fallaras.png": "/static/media/fallaras.ac5464b8.png",
     "static/media/famosa.png": "/static/media/famosa.cbc87b9d.png",
     "static/media/fantasmas_izquierda.png": "/static/media/fantasmas_izquierda.edf8e525.png",
@@ -603,8 +604,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.869a4d3b.chunk.js",
+    "static/js/2.5fa7b9be.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.0b69f7d2.chunk.js"
+    "static/js/main.cd6cbda2.chunk.js"
   ]
 }

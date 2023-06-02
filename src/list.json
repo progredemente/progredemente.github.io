@@ -5100,5 +5100,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo", "Begoña Gómez"],
         "parties": ["PSOE", "PP"]
+    },
+    "caminando_juntos": {
+        "name": "Caminando Juntos",
+        "date": "2023-06-02T00:00",
+        "description": [
+            "Alguien no se quiere perder la función, no vaya a ser que se quede sin comer."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Macarena Olona"],
+        "parties": ["CJ"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.cd6cbda2.chunk.js",
-    "main.js.map": "/static/js/main.cd6cbda2.chunk.js.map",
+    "main.js": "/static/js/main.cc000f2c.chunk.js",
+    "main.js.map": "/static/js/main.cc000f2c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.5fa7b9be.chunk.js": "/static/js/2.5fa7b9be.chunk.js",
-    "static/js/2.5fa7b9be.chunk.js.map": "/static/js/2.5fa7b9be.chunk.js.map",
+    "static/js/2.1c95aded.chunk.js": "/static/js/2.1c95aded.chunk.js",
+    "static/js/2.1c95aded.chunk.js.map": "/static/js/2.1c95aded.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d312fa8f736398912f10c895ae39a76.js": "/precache-manifest.1d312fa8f736398912f10c895ae39a76.js",
+    "precache-manifest.3e86c91d9ee2b059da69b67f8215cd1a.js": "/precache-manifest.3e86c91d9ee2b059da69b67f8215cd1a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.5fa7b9be.chunk.js.LICENSE.txt": "/static/js/2.5fa7b9be.chunk.js.LICENSE.txt",
+    "static/js/2.1c95aded.chunk.js.LICENSE.txt": "/static/js/2.1c95aded.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -122,6 +122,7 @@
     "static/media/calor_gente.png": "/static/media/calor_gente.a99c84fb.png",
     "static/media/calvino_ino_ih.png": "/static/media/calvino_ino_ih.b5967d70.png",
     "static/media/camaleon.png": "/static/media/camaleon.da2bdede.png",
+    "static/media/caminando_juntos.png": "/static/media/caminando_juntos.afe764f8.png",
     "static/media/camioneros.png": "/static/media/camioneros.f8b17f8c.png",
     "static/media/campanilla.png": "/static/media/campanilla.e543d59e.png",
     "static/media/canal_red.png": "/static/media/canal_red.2518d89b.png",
@@ -604,8 +605,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.5fa7b9be.chunk.js",
+    "static/js/2.1c95aded.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.cd6cbda2.chunk.js"
+    "static/js/main.cc000f2c.chunk.js"
   ]
 }

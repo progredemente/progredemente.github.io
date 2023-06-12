@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.cc000f2c.chunk.js",
-    "main.js.map": "/static/js/main.cc000f2c.chunk.js.map",
+    "main.js": "/static/js/main.4860a70b.chunk.js",
+    "main.js.map": "/static/js/main.4860a70b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.1c95aded.chunk.js": "/static/js/2.1c95aded.chunk.js",
-    "static/js/2.1c95aded.chunk.js.map": "/static/js/2.1c95aded.chunk.js.map",
+    "static/js/2.f0dd2bf5.chunk.js": "/static/js/2.f0dd2bf5.chunk.js",
+    "static/js/2.f0dd2bf5.chunk.js.map": "/static/js/2.f0dd2bf5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3e86c91d9ee2b059da69b67f8215cd1a.js": "/precache-manifest.3e86c91d9ee2b059da69b67f8215cd1a.js",
+    "precache-manifest.6c8124b31c8e821bbd8cdbb2ae376c19.js": "/precache-manifest.6c8124b31c8e821bbd8cdbb2ae376c19.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.1c95aded.chunk.js.LICENSE.txt": "/static/js/2.1c95aded.chunk.js.LICENSE.txt",
+    "static/js/2.f0dd2bf5.chunk.js.LICENSE.txt": "/static/js/2.f0dd2bf5.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -216,7 +216,9 @@
     "static/media/es.svg": "/static/media/es.489a72f2.svg",
     "static/media/escaladores.png": "/static/media/escaladores.e9a8db3c.png",
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
+    "static/media/estabilizador.png": "/static/media/estabilizador.be6313d2.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
+    "static/media/estratega_audiovisual.png": "/static/media/estratega_audiovisual.a8cf2250.png",
     "static/media/etagoblikon.png": "/static/media/etagoblikon.a6d19ecd.png",
     "static/media/euro_digital.png": "/static/media/euro_digital.fc9e1aac.png",
     "static/media/evil_cartoonist.png": "/static/media/evil_cartoonist.29214315.png",
@@ -482,6 +484,7 @@
     "static/media/pt.svg": "/static/media/pt.8399d871.svg",
     "static/media/punto_violeta.png": "/static/media/punto_violeta.5110faec.png",
     "static/media/puntos_violeta.png": "/static/media/puntos_violeta.b4771a5e.png",
+    "static/media/purgar.png": "/static/media/purgar.87dfbe0b.png",
     "static/media/putin_lukashenko.png": "/static/media/putin_lukashenko.f9123c67.png",
     "static/media/racismo_disney.png": "/static/media/racismo_disney.d1eabf90.png",
     "static/media/radar_covid.png": "/static/media/radar_covid.c1de58ee.png",
@@ -605,8 +608,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.1c95aded.chunk.js",
+    "static/js/2.f0dd2bf5.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.cc000f2c.chunk.js"
+    "static/js/main.4860a70b.chunk.js"
   ]
 }

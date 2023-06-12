@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d6bf06bb52683347a526f4cb3d162a8",
+    "revision": "b371bed6c0943d3d7946e0e5e3e6e39e",
     "url": "/index.html"
   },
   {
-    "revision": "e4d91ef52b0fb8fa13e6",
+    "revision": "76e88e1f1628af2fc9db",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "8764c2b77c6dc9e8b47a",
-    "url": "/static/js/2.1c95aded.chunk.js"
+    "revision": "89805b660095e2b1c1c8",
+    "url": "/static/js/2.f0dd2bf5.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.1c95aded.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f0dd2bf5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4d91ef52b0fb8fa13e6",
-    "url": "/static/js/main.cc000f2c.chunk.js"
+    "revision": "76e88e1f1628af2fc9db",
+    "url": "/static/js/main.4860a70b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1544,12 +1544,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/escudo_social.9c980749.png"
   },
   {
+    "revision": "947434ba5bf7ea0e56996d5bcd1b0b2c",
+    "url": "/static/media/estabilizador.947434ba.png"
+  },
+  {
+    "revision": "be6313d205a9b984e89e4eedd11d9c3f",
+    "url": "/static/media/estabilizador.be6313d2.png"
+  },
+  {
     "revision": "7ae3298f1a14e15c6c680abaaaf99a42",
     "url": "/static/media/estado_totalitario.7ae3298f.png"
   },
   {
     "revision": "b1b684fe271ca5ffebaff2ea68ffec2e",
     "url": "/static/media/estado_totalitario.b1b684fe.png"
+  },
+  {
+    "revision": "6e1817a9b94e5a01423c98bab7a2304b",
+    "url": "/static/media/estratega_audiovisual.6e1817a9.png"
+  },
+  {
+    "revision": "a8cf2250a176cd84b44229abe20ecf2c",
+    "url": "/static/media/estratega_audiovisual.a8cf2250.png"
   },
   {
     "revision": "4b415ac01cbad4e10e791622c2754d38",
@@ -3498,6 +3514,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b4771a5edcbcd53a40f78e3a07f20b81",
     "url": "/static/media/puntos_violeta.b4771a5e.png"
+  },
+  {
+    "revision": "5554efe1c585b5fd244ea4468f94413c",
+    "url": "/static/media/purgar.5554efe1.png"
+  },
+  {
+    "revision": "87dfbe0b09c37af12cdae1fc62ccf396",
+    "url": "/static/media/purgar.87dfbe0b.png"
   },
   {
     "revision": "222ac6d85abdd98d1e2eb6af61a8eac2",

@@ -5110,5 +5110,33 @@
         "size": "2000x2000",
         "celebrities": ["Macarena Olona"],
         "parties": ["CJ"]
+    },
+    "estabilizador": {
+        "name": "Estabilizador",
+        "date": "2023-06-03T00:00",
+        "description": [
+            "Fixed."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Joe Biden"]
+    },
+    "estratega_audiovisual": {
+        "name": "Estratega audiovisual",
+        "date": "2023-06-05T00:00",
+        "description": [
+            "Tremenda idea de negocio la de montar un \"canal de televisión\" vinculado a un partido político a punto de desaparecer. Y luego quieren gobernar un país."
+        ],
+        "size": "2000x2000",
+        "parties": ["Podemos"]
+    },
+    "purgar": {
+        "name": "Purgar",
+        "date": "2023-06-12T00:00",
+        "description": [
+            "Me gusta ver como, después de una breve ausencia, la extrema izquierda sigue con el clásico proceso de purga, porque no es otra cosa."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
     }
 }

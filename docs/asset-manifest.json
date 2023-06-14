@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.4860a70b.chunk.js",
-    "main.js.map": "/static/js/main.4860a70b.chunk.js.map",
+    "main.js": "/static/js/main.c3cb8a37.chunk.js",
+    "main.js.map": "/static/js/main.c3cb8a37.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f0dd2bf5.chunk.js": "/static/js/2.f0dd2bf5.chunk.js",
-    "static/js/2.f0dd2bf5.chunk.js.map": "/static/js/2.f0dd2bf5.chunk.js.map",
+    "static/js/2.97084ca9.chunk.js": "/static/js/2.97084ca9.chunk.js",
+    "static/js/2.97084ca9.chunk.js.map": "/static/js/2.97084ca9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6c8124b31c8e821bbd8cdbb2ae376c19.js": "/precache-manifest.6c8124b31c8e821bbd8cdbb2ae376c19.js",
+    "precache-manifest.beec45a3a733ea7dcef12b992567b960.js": "/precache-manifest.beec45a3a733ea7dcef12b992567b960.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.f0dd2bf5.chunk.js.LICENSE.txt": "/static/js/2.f0dd2bf5.chunk.js.LICENSE.txt",
+    "static/js/2.97084ca9.chunk.js.LICENSE.txt": "/static/js/2.97084ca9.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -491,6 +491,7 @@
     "static/media/raposa.png": "/static/media/raposa.e54d3e71.png",
     "static/media/rapunzel.png": "/static/media/rapunzel.57e96611.png",
     "static/media/rebano.png": "/static/media/rebano.ea2c6348.png",
+    "static/media/recortes.png": "/static/media/recortes.5215cd83.png",
     "static/media/registro_civil.png": "/static/media/registro_civil.23e26c27.png",
     "static/media/reloj_roto.png": "/static/media/reloj_roto.aa25bfd4.png",
     "static/media/renta_basica.png": "/static/media/renta_basica.df988713.png",
@@ -608,8 +609,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f0dd2bf5.chunk.js",
+    "static/js/2.97084ca9.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.4860a70b.chunk.js"
+    "static/js/main.c3cb8a37.chunk.js"
   ]
 }

@@ -5138,5 +5138,15 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"]
+    },
+    "recortes": {
+        "name": "Recortes",
+        "date": "2023-06-14T00:00",
+        "description": [
+            "Muchas veces me pregunto si la PSOE debería volver a gobernar para comerse los marrones y que la gente sepa bien lo que está votando."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nadia Calviño"],
+        "parties": ["PSOE"]
     }
 }

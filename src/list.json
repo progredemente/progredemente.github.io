@@ -5148,5 +5148,13 @@
         "size": "2000x2000",
         "celebrities": ["Nadia Calviño"],
         "parties": ["PSOE"]
+    },
+    "primos": {
+        "name": "Primos",
+        "date": "2023-06-16T00:00",
+        "description": [
+            "Me parece fatal que Disney haga una serie sobre primos y no sean de la etnia. #stopgitanofobia"
+        ],
+        "size": "3000x2000"
     }
 }

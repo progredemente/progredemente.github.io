@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.c3cb8a37.chunk.js",
-    "main.js.map": "/static/js/main.c3cb8a37.chunk.js.map",
+    "main.js": "/static/js/main.92d208a7.chunk.js",
+    "main.js.map": "/static/js/main.92d208a7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.97084ca9.chunk.js": "/static/js/2.97084ca9.chunk.js",
-    "static/js/2.97084ca9.chunk.js.map": "/static/js/2.97084ca9.chunk.js.map",
+    "static/js/2.ad89f04d.chunk.js": "/static/js/2.ad89f04d.chunk.js",
+    "static/js/2.ad89f04d.chunk.js.map": "/static/js/2.ad89f04d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.beec45a3a733ea7dcef12b992567b960.js": "/precache-manifest.beec45a3a733ea7dcef12b992567b960.js",
+    "precache-manifest.c4ceb927baa1776041eb8d6348b26be8.js": "/precache-manifest.c4ceb927baa1776041eb8d6348b26be8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.97084ca9.chunk.js.LICENSE.txt": "/static/js/2.97084ca9.chunk.js.LICENSE.txt",
+    "static/js/2.ad89f04d.chunk.js.LICENSE.txt": "/static/js/2.ad89f04d.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -473,6 +473,7 @@
     "static/media/preferencias.png": "/static/media/preferencias.5a911cd1.png",
     "static/media/presas.png": "/static/media/presas.78c53f76.png",
     "static/media/presupuestos.png": "/static/media/presupuestos.d1a3bf9a.png",
+    "static/media/primos.png": "/static/media/primos.f96a79ec.png",
     "static/media/progrebranding_1.png": "/static/media/progrebranding_1.c478ff72.png",
     "static/media/progremon_0.png": "/static/media/progremon_0.61cb08bd.png",
     "static/media/progremon_1.png": "/static/media/progremon_1.d49be426.png",
@@ -609,8 +610,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.97084ca9.chunk.js",
+    "static/js/2.ad89f04d.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.c3cb8a37.chunk.js"
+    "static/js/main.92d208a7.chunk.js"
   ]
 }

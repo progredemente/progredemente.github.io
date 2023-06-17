@@ -5156,5 +5156,15 @@
             "Me parece fatal que Disney haga una serie sobre primos y no sean de la etnia. #stopgitanofobia"
         ],
         "size": "3000x2000"
+    },
+    "violencias": {
+        "name": "Violencias",
+        "date": "2023-06-17T00:00",
+        "description": [
+            "Hay violencias y violencias."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "parties": ["PSOE", "Vox"]
     }
 }

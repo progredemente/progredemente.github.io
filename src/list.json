@@ -5166,5 +5166,14 @@
         "size": "2000x2000",
         "series": ["memes"],
         "parties": ["PSOE", "Vox"]
+    },
+    "nngg": {
+        "name": "NNGG",
+        "date": "2023-06-17T01:00",
+        "description": [
+            "El próximo partnership de las NNGG después del de las discotecas. Van a cambiar el barra corazón por la barra libre."
+        ],
+        "size": "2000x2000",
+        "parties": ["PP"]
     }
 }

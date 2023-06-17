@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.7679616c.chunk.js",
-    "main.js.map": "/static/js/main.7679616c.chunk.js.map",
+    "main.js": "/static/js/main.562995eb.chunk.js",
+    "main.js.map": "/static/js/main.562995eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.3026e170.chunk.js": "/static/js/2.3026e170.chunk.js",
-    "static/js/2.3026e170.chunk.js.map": "/static/js/2.3026e170.chunk.js.map",
+    "static/js/2.0cd54337.chunk.js": "/static/js/2.0cd54337.chunk.js",
+    "static/js/2.0cd54337.chunk.js.map": "/static/js/2.0cd54337.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.32a1ae91a66b156ab404d0ff9cf2648d.js": "/precache-manifest.32a1ae91a66b156ab404d0ff9cf2648d.js",
+    "precache-manifest.3d6a1f830b9a609a2a830294ae7d5e90.js": "/precache-manifest.3d6a1f830b9a609a2a830294ae7d5e90.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.3026e170.chunk.js.LICENSE.txt": "/static/js/2.3026e170.chunk.js.LICENSE.txt",
+    "static/js/2.0cd54337.chunk.js.LICENSE.txt": "/static/js/2.0cd54337.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -405,6 +405,7 @@
     "static/media/nayeta.png": "/static/media/nayeta.f61a63af.png",
     "static/media/never_forgetti.png": "/static/media/never_forgetti.94c97b21.png",
     "static/media/niepodleglosc.png": "/static/media/niepodleglosc.cd307a07.png",
+    "static/media/nngg.png": "/static/media/nngg.822fb917.png",
     "static/media/noche_museo.png": "/static/media/noche_museo.8ac99547.png",
     "static/media/notice_me_senpai.png": "/static/media/notice_me_senpai.66f2e9d8.png",
     "static/media/npc.png": "/static/media/npc.11da561c.png",
@@ -611,8 +612,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.3026e170.chunk.js",
+    "static/js/2.0cd54337.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.7679616c.chunk.js"
+    "static/js/main.562995eb.chunk.js"
   ]
 }

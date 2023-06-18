@@ -5175,5 +5175,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PP"]
+    },
+    "las_feministas": {
+        "name": "Las feministas",
+        "date": "2023-06-18T00:00",
+        "description": [
+            "Parece que van a engordar las listas del paro."
+        ],
+        "size": "3000x2500",
+        "celebrities": ["Ángela Rodríguez Pam", "Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

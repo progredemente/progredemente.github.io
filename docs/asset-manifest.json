@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.562995eb.chunk.js",
-    "main.js.map": "/static/js/main.562995eb.chunk.js.map",
+    "main.js": "/static/js/main.6bce2b33.chunk.js",
+    "main.js.map": "/static/js/main.6bce2b33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.0cd54337.chunk.js": "/static/js/2.0cd54337.chunk.js",
-    "static/js/2.0cd54337.chunk.js.map": "/static/js/2.0cd54337.chunk.js.map",
+    "static/js/2.35f4fb03.chunk.js": "/static/js/2.35f4fb03.chunk.js",
+    "static/js/2.35f4fb03.chunk.js.map": "/static/js/2.35f4fb03.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3d6a1f830b9a609a2a830294ae7d5e90.js": "/precache-manifest.3d6a1f830b9a609a2a830294ae7d5e90.js",
+    "precache-manifest.05ecc6944d81eb5a5eb394f4af19556a.js": "/precache-manifest.05ecc6944d81eb5a5eb394f4af19556a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.0cd54337.chunk.js.LICENSE.txt": "/static/js/2.0cd54337.chunk.js.LICENSE.txt",
+    "static/js/2.35f4fb03.chunk.js.LICENSE.txt": "/static/js/2.35f4fb03.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -324,6 +324,7 @@
     "static/media/laberinto.fr.png": "/static/media/laberinto.fr.ceceb548.png",
     "static/media/laberinto.pt.png": "/static/media/laberinto.pt.b7ab5412.png",
     "static/media/lagrimas_autonomo.png": "/static/media/lagrimas_autonomo.af1fc19f.png",
+    "static/media/las_feministas.png": "/static/media/las_feministas.72f80592.png",
     "static/media/latino_ball_banner.png": "/static/media/latino_ball_banner.7b63093e.png",
     "static/media/libro_echenique.png": "/static/media/libro_echenique.6c0f6560.png",
     "static/media/licor_cafe.png": "/static/media/licor_cafe.a0892d31.png",
@@ -612,8 +613,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.0cd54337.chunk.js",
+    "static/js/2.35f4fb03.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.562995eb.chunk.js"
+    "static/js/main.6bce2b33.chunk.js"
   ]
 }

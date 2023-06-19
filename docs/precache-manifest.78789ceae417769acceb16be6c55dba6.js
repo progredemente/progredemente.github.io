@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56ae2ef73846e05b70e74106c02242cf",
+    "revision": "52a8b83ea9e355ee4f91e7c2a60d4bba",
     "url": "/index.html"
   },
   {
-    "revision": "34651313dc02a9b1defc",
+    "revision": "e4d2344dbd7355278cc5",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "510bb5ebe283f30c57ba",
-    "url": "/static/js/2.35f4fb03.chunk.js"
+    "revision": "d9f66b865a00c7b1ff01",
+    "url": "/static/js/2.91b7c4b8.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.35f4fb03.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.91b7c4b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34651313dc02a9b1defc",
-    "url": "/static/js/main.6bce2b33.chunk.js"
+    "revision": "e4d2344dbd7355278cc5",
+    "url": "/static/js/main.ad5bb91b.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -4242,6 +4242,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8752d30f6d04f72538135c394a8a1c2",
     "url": "/static/media/trolliano.b8752d30.png"
+  },
+  {
+    "revision": "3565b447aeba03f1ce5cdefdce2880bd",
+    "url": "/static/media/trumpismo.3565b447.png"
+  },
+  {
+    "revision": "9778292f03693e4759adccb31fd891af",
+    "url": "/static/media/trumpismo.9778292f.png"
   },
   {
     "revision": "56e4a608aff0d38209be03f9add718a6",

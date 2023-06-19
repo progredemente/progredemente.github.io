@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.6bce2b33.chunk.js",
-    "main.js.map": "/static/js/main.6bce2b33.chunk.js.map",
+    "main.js": "/static/js/main.ad5bb91b.chunk.js",
+    "main.js.map": "/static/js/main.ad5bb91b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.35f4fb03.chunk.js": "/static/js/2.35f4fb03.chunk.js",
-    "static/js/2.35f4fb03.chunk.js.map": "/static/js/2.35f4fb03.chunk.js.map",
+    "static/js/2.91b7c4b8.chunk.js": "/static/js/2.91b7c4b8.chunk.js",
+    "static/js/2.91b7c4b8.chunk.js.map": "/static/js/2.91b7c4b8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.05ecc6944d81eb5a5eb394f4af19556a.js": "/precache-manifest.05ecc6944d81eb5a5eb394f4af19556a.js",
+    "precache-manifest.78789ceae417769acceb16be6c55dba6.js": "/precache-manifest.78789ceae417769acceb16be6c55dba6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.35f4fb03.chunk.js.LICENSE.txt": "/static/js/2.35f4fb03.chunk.js.LICENSE.txt",
+    "static/js/2.91b7c4b8.chunk.js.LICENSE.txt": "/static/js/2.91b7c4b8.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -583,6 +583,7 @@
     "static/media/tristan.png": "/static/media/tristan.fb07ea66.png",
     "static/media/trogloditas.png": "/static/media/trogloditas.d3cb8624.png",
     "static/media/trolliano.png": "/static/media/trolliano.b8752d30.png",
+    "static/media/trumpismo.png": "/static/media/trumpismo.9778292f.png",
     "static/media/tu_eliges.png": "/static/media/tu_eliges.7f39d3bb.png",
     "static/media/upa_morales.png": "/static/media/upa_morales.b9a4604d.png",
     "static/media/vacas_contaminantes.png": "/static/media/vacas_contaminantes.6a11bc86.png",
@@ -613,8 +614,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.35f4fb03.chunk.js",
+    "static/js/2.91b7c4b8.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.6bce2b33.chunk.js"
+    "static/js/main.ad5bb91b.chunk.js"
   ]
 }

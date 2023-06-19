@@ -5185,5 +5185,15 @@
         "size": "3000x2500",
         "celebrities": ["Ángela Rodríguez Pam", "Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "trumpismo": {
+        "name": "Trumpismo",
+        "date": "2023-06-19T00:00",
+        "description": [
+            "Los de la izquierda bien podrían abrir unas salas de cine, menudas proyecciones."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

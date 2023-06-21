@@ -5195,5 +5195,17 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "open_arms": {
+        "name": "Open Arms",
+        "date": "2023-06-21T00:00",
+        "description": [
+            "No se pierden las costumbres en el Mediterráneo."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

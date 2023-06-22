@@ -5207,5 +5207,16 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "horrormiguero": {
+        "name": "Horrormiguero",
+        "date": "2023-06-22T00:00",
+        "description": [
+            "Que ahora está haciendo entrevistas...",
+            "Las gambas se llaman Tragas y Arcadas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

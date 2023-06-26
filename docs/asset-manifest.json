@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.81a44180.chunk.js",
-    "main.js.map": "/static/js/main.81a44180.chunk.js.map",
+    "main.js": "/static/js/main.71f97a0a.chunk.js",
+    "main.js.map": "/static/js/main.71f97a0a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e9c5656a.chunk.js": "/static/js/2.e9c5656a.chunk.js",
-    "static/js/2.e9c5656a.chunk.js.map": "/static/js/2.e9c5656a.chunk.js.map",
+    "static/js/2.32c14a7a.chunk.js": "/static/js/2.32c14a7a.chunk.js",
+    "static/js/2.32c14a7a.chunk.js.map": "/static/js/2.32c14a7a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1773970c1d59772a5bb0a69ea3cc8036.js": "/precache-manifest.1773970c1d59772a5bb0a69ea3cc8036.js",
+    "precache-manifest.93f6ac521f3db2a44285d3490af0079c.js": "/precache-manifest.93f6ac521f3db2a44285d3490af0079c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.e9c5656a.chunk.js.LICENSE.txt": "/static/js/2.e9c5656a.chunk.js.LICENSE.txt",
+    "static/js/2.32c14a7a.chunk.js.LICENSE.txt": "/static/js/2.32c14a7a.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -562,6 +562,7 @@
     "static/media/super_pablo.png": "/static/media/super_pablo.e8281f3d.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
     "static/media/tanxugueiras.png": "/static/media/tanxugueiras.501781ae.png",
+    "static/media/team_r.png": "/static/media/team_r.0f56f164.png",
     "static/media/techo_gasto.png": "/static/media/techo_gasto.91f2d34c.png",
     "static/media/tecnicas_ligar.png": "/static/media/tecnicas_ligar.ff3c0b67.png",
     "static/media/telegram.png": "/static/media/telegram.2c84be4c.png",
@@ -618,8 +619,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e9c5656a.chunk.js",
+    "static/js/2.32c14a7a.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.81a44180.chunk.js"
+    "static/js/main.71f97a0a.chunk.js"
   ]
 }

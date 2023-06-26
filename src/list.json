@@ -5228,5 +5228,16 @@
         "size": "2000x2000",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "team_r": {
+        "name": "Team (R)",
+        "date": "2023-06-26T00:00",
+        "description": [
+            "No me he enterado muy bien, ¿al final los van a enchufar en el Canal (R)ata? No sé si con tanto lastre van a terminar de despegar.",
+            "Voy a estar algo más inactivo por unos días, portaos bien."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Irene Montero", "Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

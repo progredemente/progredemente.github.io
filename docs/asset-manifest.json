@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.71f97a0a.chunk.js",
-    "main.js.map": "/static/js/main.71f97a0a.chunk.js.map",
+    "main.js": "/static/js/main.62489b1f.chunk.js",
+    "main.js.map": "/static/js/main.62489b1f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.32c14a7a.chunk.js": "/static/js/2.32c14a7a.chunk.js",
-    "static/js/2.32c14a7a.chunk.js.map": "/static/js/2.32c14a7a.chunk.js.map",
+    "static/js/2.7bf312b7.chunk.js": "/static/js/2.7bf312b7.chunk.js",
+    "static/js/2.7bf312b7.chunk.js.map": "/static/js/2.7bf312b7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.93f6ac521f3db2a44285d3490af0079c.js": "/precache-manifest.93f6ac521f3db2a44285d3490af0079c.js",
+    "precache-manifest.a06bac5d1eac55782594aa809382839f.js": "/precache-manifest.a06bac5d1eac55782594aa809382839f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.32c14a7a.chunk.js.LICENSE.txt": "/static/js/2.32c14a7a.chunk.js.LICENSE.txt",
+    "static/js/2.7bf312b7.chunk.js.LICENSE.txt": "/static/js/2.7bf312b7.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -39,6 +39,7 @@
     "static/media/ana_botella.png": "/static/media/ana_botella.6bb29ca7.png",
     "static/media/anillo.png": "/static/media/anillo.5f66fae6.png",
     "static/media/animacion_banner.png": "/static/media/animacion_banner.f688137f.png",
+    "static/media/animals_rioting.png": "/static/media/animals_rioting.dce6de8c.png",
     "static/media/ano_marmota.png": "/static/media/ano_marmota.5118b97f.png",
     "static/media/ano_rata.png": "/static/media/ano_rata.d1768431.png",
     "static/media/antisistema.png": "/static/media/antisistema.531d1be5.png",
@@ -619,8 +620,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.32c14a7a.chunk.js",
+    "static/js/2.7bf312b7.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.71f97a0a.chunk.js"
+    "static/js/main.62489b1f.chunk.js"
   ]
 }

@@ -5239,5 +5239,13 @@
         "size": "3000x2000",
         "celebrities": ["Pablo Iglesias", "Pablo Echenique", "Irene Montero", "Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "animals_rioting": {
+        "name": "Animals Rioting",
+        "date": "2023-07-04T00:00",
+        "description": [
+            "A lo mejor es que en Francia solo juegan a juegos de Riot Games y se hacen la picha un lío."
+        ],
+        "size": "2000x2000"
     }
 }

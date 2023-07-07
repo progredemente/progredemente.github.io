@@ -5247,5 +5247,14 @@
             "A lo mejor es que en Francia solo juegan a juegos de Riot Games y se hacen la picha un lío."
         ],
         "size": "2000x2000"
+    },
+    "paredon": {
+        "name": "Paredón",
+        "date": "2023-07-07T00:00",
+        "description": [
+            "Muy democrático eso de querer censurar a periodistas. Lo han rectificado en el programa electoral, pero no porque les parezca una barbaridad, sino porque todavía no se ha movido la ventana de Overton lo suficiente. Y mientras tanto sus votantes llamando censura a que no financien con dinero público sus chorradas."
+        ],
+        "size": "3000x2000",
+        "parties": ["Sumar"]
     }
 }

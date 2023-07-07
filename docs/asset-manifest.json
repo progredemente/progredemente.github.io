@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.62489b1f.chunk.js",
-    "main.js.map": "/static/js/main.62489b1f.chunk.js.map",
+    "main.js": "/static/js/main.1c1fb8b6.chunk.js",
+    "main.js.map": "/static/js/main.1c1fb8b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7bf312b7.chunk.js": "/static/js/2.7bf312b7.chunk.js",
-    "static/js/2.7bf312b7.chunk.js.map": "/static/js/2.7bf312b7.chunk.js.map",
+    "static/js/2.740d3e99.chunk.js": "/static/js/2.740d3e99.chunk.js",
+    "static/js/2.740d3e99.chunk.js.map": "/static/js/2.740d3e99.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a06bac5d1eac55782594aa809382839f.js": "/precache-manifest.a06bac5d1eac55782594aa809382839f.js",
+    "precache-manifest.f2bdb9c90b4c51f251be0349e1a986db.js": "/precache-manifest.f2bdb9c90b4c51f251be0349e1a986db.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.7bf312b7.chunk.js.LICENSE.txt": "/static/js/2.7bf312b7.chunk.js.LICENSE.txt",
+    "static/js/2.740d3e99.chunk.js.LICENSE.txt": "/static/js/2.740d3e99.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -438,6 +438,7 @@
     "static/media/papa_noel.png": "/static/media/papa_noel.7a49197b.png",
     "static/media/parametros.png": "/static/media/parametros.e2f46b34.png",
     "static/media/parasitos.png": "/static/media/parasitos.d270d045.png",
+    "static/media/paredon.png": "/static/media/paredon.4d2fdd13.png",
     "static/media/parking.png": "/static/media/parking.23e2c94c.png",
     "static/media/pasado.png": "/static/media/pasado.91693951.png",
     "static/media/pasar_aro.png": "/static/media/pasar_aro.b23ec93c.png",
@@ -620,8 +621,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7bf312b7.chunk.js",
+    "static/js/2.740d3e99.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.62489b1f.chunk.js"
+    "static/js/main.1c1fb8b6.chunk.js"
   ]
 }

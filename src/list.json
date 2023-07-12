@@ -5256,5 +5256,15 @@
         ],
         "size": "3000x2000",
         "parties": ["Sumar"]
+    },
+    "bizcochito": {
+        "name": "Bizcochito",
+        "date": "2023-07-11T00:00",
+        "description": [
+            "Voy un poco tarde con esta viñeta, pero bueno, tenía ganas de dibujar a estos dos."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pedro Sánchez", "Jordi Évole", "El Gran Wyoming"],
+        "parties": ["PSOE"]
     }
 }

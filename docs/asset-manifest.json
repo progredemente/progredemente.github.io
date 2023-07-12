@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.1c1fb8b6.chunk.js",
-    "main.js.map": "/static/js/main.1c1fb8b6.chunk.js.map",
+    "main.js": "/static/js/main.a1c1cc78.chunk.js",
+    "main.js.map": "/static/js/main.a1c1cc78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.740d3e99.chunk.js": "/static/js/2.740d3e99.chunk.js",
-    "static/js/2.740d3e99.chunk.js.map": "/static/js/2.740d3e99.chunk.js.map",
+    "static/js/2.29fdb403.chunk.js": "/static/js/2.29fdb403.chunk.js",
+    "static/js/2.29fdb403.chunk.js.map": "/static/js/2.29fdb403.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f2bdb9c90b4c51f251be0349e1a986db.js": "/precache-manifest.f2bdb9c90b4c51f251be0349e1a986db.js",
+    "precache-manifest.1b2f8675cce9b05e09dcc231f4d37d9b.js": "/precache-manifest.1b2f8675cce9b05e09dcc231f4d37d9b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.740d3e99.chunk.js.LICENSE.txt": "/static/js/2.740d3e99.chunk.js.LICENSE.txt",
+    "static/js/2.29fdb403.chunk.js.LICENSE.txt": "/static/js/2.29fdb403.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -94,6 +94,7 @@
     "static/media/bici.png": "/static/media/bici.815dbfbb.png",
     "static/media/billy_el_nino.png": "/static/media/billy_el_nino.9cd410db.png",
     "static/media/bisagranos.png": "/static/media/bisagranos.8ba558ca.png",
+    "static/media/bizcochito.png": "/static/media/bizcochito.ba485f2b.png",
     "static/media/blablabla.png": "/static/media/blablabla.f0620681.png",
     "static/media/blancanieves.png": "/static/media/blancanieves.cf337ff4.png",
     "static/media/blandengue.png": "/static/media/blandengue.74d6e021.png",
@@ -621,8 +622,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.740d3e99.chunk.js",
+    "static/js/2.29fdb403.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.1c1fb8b6.chunk.js"
+    "static/js/main.a1c1cc78.chunk.js"
   ]
 }

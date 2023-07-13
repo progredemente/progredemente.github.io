@@ -5266,5 +5266,14 @@
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez", "Jordi Évole", "El Gran Wyoming"],
         "parties": ["PSOE"]
+    },
+    "sufrimiento_victimas": {
+        "name": "El sufrimiento de las víctimas",
+        "date": "2023-07-13T00:00",
+        "description": [
+            "Es surrealista ver a Bildu pidiendo respeto por las víctimas de ETA."
+        ],
+        "size": "2000x2000",
+        "parties": ["EH Bildu"]
     }
 }

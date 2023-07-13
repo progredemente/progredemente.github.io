@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.a1c1cc78.chunk.js",
-    "main.js.map": "/static/js/main.a1c1cc78.chunk.js.map",
+    "main.js": "/static/js/main.a31d82bb.chunk.js",
+    "main.js.map": "/static/js/main.a31d82bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.29fdb403.chunk.js": "/static/js/2.29fdb403.chunk.js",
-    "static/js/2.29fdb403.chunk.js.map": "/static/js/2.29fdb403.chunk.js.map",
+    "static/js/2.695d08d7.chunk.js": "/static/js/2.695d08d7.chunk.js",
+    "static/js/2.695d08d7.chunk.js.map": "/static/js/2.695d08d7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1b2f8675cce9b05e09dcc231f4d37d9b.js": "/precache-manifest.1b2f8675cce9b05e09dcc231f4d37d9b.js",
+    "precache-manifest.df188dd449ce702e4ef4b0dbe878a440.js": "/precache-manifest.df188dd449ce702e4ef4b0dbe878a440.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.29fdb403.chunk.js.LICENSE.txt": "/static/js/2.29fdb403.chunk.js.LICENSE.txt",
+    "static/js/2.695d08d7.chunk.js.LICENSE.txt": "/static/js/2.695d08d7.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -558,6 +558,7 @@
     "static/media/sube_el_contador.png": "/static/media/sube_el_contador.d22180a3.png",
     "static/media/sube_el_pan.png": "/static/media/sube_el_pan.e6bf4868.png",
     "static/media/subida_impuestos.png": "/static/media/subida_impuestos.e462ed5d.png",
+    "static/media/sufrimiento_victimas.png": "/static/media/sufrimiento_victimas.ccaff006.png",
     "static/media/suicidio_politico.png": "/static/media/suicidio_politico.d92d5ffb.png",
     "static/media/sumar.png": "/static/media/sumar.ec4fb43a.png",
     "static/media/sumision.png": "/static/media/sumision.7d39d107.png",
@@ -622,8 +623,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.29fdb403.chunk.js",
+    "static/js/2.695d08d7.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.a1c1cc78.chunk.js"
+    "static/js/main.a31d82bb.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c76b1baf2293093c8dd21d41a7d48b28",
+    "revision": "74310c1b9c495daba136f4b5523f65e7",
     "url": "/index.html"
   },
   {
-    "revision": "92a93902c91710b8bbe9",
+    "revision": "598960a23950437e728e",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "351f480f91a3a0948942",
-    "url": "/static/js/2.29fdb403.chunk.js"
+    "revision": "37a2994b5900dd669296",
+    "url": "/static/js/2.695d08d7.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.29fdb403.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.695d08d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92a93902c91710b8bbe9",
-    "url": "/static/js/main.a1c1cc78.chunk.js"
+    "revision": "598960a23950437e728e",
+    "url": "/static/js/main.a31d82bb.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -4054,6 +4054,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e462ed5d1d72024d2f47d0b1065fff8b",
     "url": "/static/media/subida_impuestos.e462ed5d.png"
+  },
+  {
+    "revision": "ccaff006cbb50c82cc7c5e70e4f54f7f",
+    "url": "/static/media/sufrimiento_victimas.ccaff006.png"
   },
   {
     "revision": "be96f5637a8284711217efb7f0178ded",

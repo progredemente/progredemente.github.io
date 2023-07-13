@@ -19,6 +19,7 @@ class Welcome extends Component {
             cable: false,
             camaleon: false,
             calor: false,
+            buon_appetito: false,
             showAllSocialNetworks: false
         }
     }
@@ -50,6 +51,23 @@ class Welcome extends Component {
                             }}
                         /> Web
                     </Link>
+                    <p>Sígueme en</p>
+                    {
+                        social2.map((s) => {
+                            return (
+                                <Social key={s.id} page={s} name/>
+                            )
+                        })
+                    }
+                    <div
+                        className={`social-link more${this.state.showAllSocialNetworks ? " hidden": ""}`}
+                        onClick={() => {
+                            this.setState({ showAllSocialNetworks: true })
+                        }}
+                    >
+                        +
+                    </div>
+                    <p>Apps</p>
                     <a href="/perroflautum" className="social-link">
                         <Loading
                             hidden={this.state.perroflautum}
@@ -96,7 +114,7 @@ class Welcome extends Component {
                         <img
                             src={'./camaleon.png'}
                             alt={'camaleon'}
-                            className={this.state.cable ? "" : "hidden"}
+                            className={this.state.camaleon ? "" : "hidden"}
                             onLoad={ () => {
                                 this.setState({ camaleon: true})
                             }}
@@ -109,28 +127,25 @@ class Welcome extends Component {
                         <img
                             src={'./calor.png'}
                             alt={'calor'}
-                            className={this.state.cable ? "" : "hidden"}
+                            className={this.state.calor ? "" : "hidden"}
                             onLoad={ () => {
                                 this.setState({ calor: true})
                             }}
                         /> ¡Calor!
                     </a>
-                    <p>Sígueme en</p>
-                    {
-                        social2.map((s) => {
-                            return (
-                                <Social key={s.id} page={s} name/>
-                            )
-                        })
-                    }
-                    <div
-                        className={`social-link more${this.state.showAllSocialNetworks ? " hidden": ""}`}
-                        onClick={() => {
-                            this.setState({ showAllSocialNetworks: true })
-                        }}
-                    >
-                        +
-                    </div>
+                    <a href="/buon-appetito" className="social-link">
+                        <Loading
+                            hidden={this.state.buon_appetito}
+                        />
+                        <img
+                            src={'./buon_appetito.png'}
+                            alt={'buon_appetito'}
+                            className={this.state.buon_appetito ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ buon_appetito: true})
+                            }}
+                        /> Buon Appetito
+                    </a>
                 </div>
                 <Footer />
             </div>

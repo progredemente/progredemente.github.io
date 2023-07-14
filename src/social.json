@@ -10,14 +10,14 @@
         "url": "https://twitter.com/progredemente"
     },
     {
-        "id": "telegram",
-        "name": "Telegram",
-        "url": "https://t.me/progredemente"
-    },
-    {
         "id": "youtube",
         "name": "YouTube",
         "url": "https://www.youtube.com/channel/UCZtxGIqOUgIyKxzSLUOgDpA"
+    },
+    {
+        "id": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/progredemente"
     },
     {
         "id": "gab",
@@ -28,10 +28,5 @@
         "id": "minds",
         "name": "Minds",
         "url": "https://www.minds.com/progredemente"
-    },
-    {
-        "id": "gettr",
-        "name": "GETTR",
-        "url": "https://gettr.com/user/progredemente"
     }
 ]

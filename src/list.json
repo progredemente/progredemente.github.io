@@ -5275,5 +5275,15 @@
         ],
         "size": "2000x2000",
         "parties": ["EH Bildu"]
+    },
+    "buon_appetito": {
+        "name": "Buon Appetito",
+        "date": "2023-07-14T00:00",
+        "description": [
+            "Otro generador de GIFs para la concordia. Cuando no haya para comer, sacia tu hambre en:",
+            "{https://progredemente.com/buon-appetito}"
+        ],
+        "url": "https://www.youtube.com/embed/SALnHceqG_4",
+        "series": ["animacion"]
     }
 }

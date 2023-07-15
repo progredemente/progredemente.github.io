@@ -5285,5 +5285,14 @@
         ],
         "url": "https://www.youtube.com/embed/SALnHceqG_4",
         "series": ["animacion"]
+    },
+    "ibanez": {
+        "name": "Ibáñez",
+        "date": "2023-07-15T00:00",
+        "description": [
+            "DEP"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Francisco Ibáñez"]
     }
 }

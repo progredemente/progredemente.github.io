@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c1eb5ded4eb28c08ffccdc78c8dba33",
+    "revision": "085e60e37c959c06fbae3e6bd8139df5",
     "url": "/index.html"
   },
   {
-    "revision": "7605a0ddb470c542ba11",
+    "revision": "8256cc0768926c38aa45",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "7c15b520198159c5b8d0",
-    "url": "/static/js/2.2445d680.chunk.js"
+    "revision": "c8d1ebe0bbfca7891c3b",
+    "url": "/static/js/2.3f525f1e.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.2445d680.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3f525f1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7605a0ddb470c542ba11",
-    "url": "/static/js/main.eb50a4ec.chunk.js"
+    "revision": "8256cc0768926c38aa45",
+    "url": "/static/js/main.81e8a2bb.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2098,6 +2098,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "edb97eca8ee370161e2399a57570140c",
     "url": "/static/media/humor_lazoamarillo.edb97eca.png"
+  },
+  {
+    "revision": "3323a5ffe1a5992d5e38323a24c9de8f",
+    "url": "/static/media/ibanez.3323a5ff.png"
+  },
+  {
+    "revision": "36386653189f74760f8ee04a7865f110",
+    "url": "/static/media/ibanez.36386653.png"
   },
   {
     "revision": "7edb28f034e658cf81dc0135c4dec331",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.eb50a4ec.chunk.js",
-    "main.js.map": "/static/js/main.eb50a4ec.chunk.js.map",
+    "main.js": "/static/js/main.81e8a2bb.chunk.js",
+    "main.js.map": "/static/js/main.81e8a2bb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2445d680.chunk.js": "/static/js/2.2445d680.chunk.js",
-    "static/js/2.2445d680.chunk.js.map": "/static/js/2.2445d680.chunk.js.map",
+    "static/js/2.3f525f1e.chunk.js": "/static/js/2.3f525f1e.chunk.js",
+    "static/js/2.3f525f1e.chunk.js.map": "/static/js/2.3f525f1e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.138a85374378f232e1c6af4e3c785d27.js": "/precache-manifest.138a85374378f232e1c6af4e3c785d27.js",
+    "precache-manifest.9de2e01c91ff0cf40d588d7304203d49.js": "/precache-manifest.9de2e01c91ff0cf40d588d7304203d49.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.2445d680.chunk.js.LICENSE.txt": "/static/js/2.2445d680.chunk.js.LICENSE.txt",
+    "static/js/2.3f525f1e.chunk.js.LICENSE.txt": "/static/js/2.3f525f1e.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -289,6 +289,7 @@
     "static/media/huelga_juguetes.png": "/static/media/huelga_juguetes.4626b404.png",
     "static/media/huelga_sanitarios.png": "/static/media/huelga_sanitarios.aca9aca7.png",
     "static/media/humor_lazoamarillo.png": "/static/media/humor_lazoamarillo.edb97eca.png",
+    "static/media/ibanez.png": "/static/media/ibanez.36386653.png",
     "static/media/idangelion.png": "/static/media/idangelion.b34ccaf1.png",
     "static/media/iii_regne.png": "/static/media/iii_regne.23e3e6a0.png",
     "static/media/imanol.png": "/static/media/imanol.e9d6e75f.png",
@@ -623,8 +624,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2445d680.chunk.js",
+    "static/js/2.3f525f1e.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.eb50a4ec.chunk.js"
+    "static/js/main.81e8a2bb.chunk.js"
   ]
 }

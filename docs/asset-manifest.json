@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.81e8a2bb.chunk.js",
-    "main.js.map": "/static/js/main.81e8a2bb.chunk.js.map",
+    "main.js": "/static/js/main.342fa9e6.chunk.js",
+    "main.js.map": "/static/js/main.342fa9e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.3f525f1e.chunk.js": "/static/js/2.3f525f1e.chunk.js",
-    "static/js/2.3f525f1e.chunk.js.map": "/static/js/2.3f525f1e.chunk.js.map",
+    "static/js/2.4dc8f9f2.chunk.js": "/static/js/2.4dc8f9f2.chunk.js",
+    "static/js/2.4dc8f9f2.chunk.js.map": "/static/js/2.4dc8f9f2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9de2e01c91ff0cf40d588d7304203d49.js": "/precache-manifest.9de2e01c91ff0cf40d588d7304203d49.js",
+    "precache-manifest.7e282572252933125a95d54901ce834d.js": "/precache-manifest.7e282572252933125a95d54901ce834d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.3f525f1e.chunk.js.LICENSE.txt": "/static/js/2.3f525f1e.chunk.js.LICENSE.txt",
+    "static/js/2.4dc8f9f2.chunk.js.LICENSE.txt": "/static/js/2.4dc8f9f2.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -493,6 +493,7 @@
     "static/media/psoeta.png": "/static/media/psoeta.b964f73b.png",
     "static/media/pt.svg": "/static/media/pt.8399d871.svg",
     "static/media/pulpo.png": "/static/media/pulpo.d7b3efcf.png",
+    "static/media/punch_nazis.png": "/static/media/punch_nazis.dae450d1.png",
     "static/media/punto_violeta.png": "/static/media/punto_violeta.5110faec.png",
     "static/media/puntos_violeta.png": "/static/media/puntos_violeta.b4771a5e.png",
     "static/media/purgar.png": "/static/media/purgar.87dfbe0b.png",
@@ -624,8 +625,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.3f525f1e.chunk.js",
+    "static/js/2.4dc8f9f2.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.81e8a2bb.chunk.js"
+    "static/js/main.342fa9e6.chunk.js"
   ]
 }

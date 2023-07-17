@@ -5294,5 +5294,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Francisco Ibáñez"]
+    },
+    "punch_nazis": {
+        "name": "Punch nazis",
+        "date": "2023-07-17T00:00",
+        "description": [
+            "Estoy seguro de que la gran mayoría del progrerío, si tuviese que enfrentarse a uno de verdad, se cagaría por la pata abajo."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1248b00142f92e7c6dd5d4761d27f55d",
+    "revision": "35cc5069f170ec2caec63ae68f532ec4",
     "url": "/index.html"
   },
   {
-    "revision": "68b7ce58e612bffc6d15",
+    "revision": "98678cdf163572f92f1d",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "f9dd1262a34596a2d943",
-    "url": "/static/js/2.4dc8f9f2.chunk.js"
+    "revision": "2505e436a9996691e9dc",
+    "url": "/static/js/2.ce3cf526.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.4dc8f9f2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ce3cf526.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68b7ce58e612bffc6d15",
-    "url": "/static/js/main.342fa9e6.chunk.js"
+    "revision": "98678cdf163572f92f1d",
+    "url": "/static/js/main.e747e970.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3462,6 +3462,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a7e7ca301c7f1029f482f50820f82c93",
     "url": "/static/media/pollo.a7e7ca30.png"
+  },
+  {
+    "revision": "170a733f52b172486c4a3039c02b4cea",
+    "url": "/static/media/porco_rosso.170a733f.png"
+  },
+  {
+    "revision": "5936886d76e4236f1710b1d61a4c4800",
+    "url": "/static/media/porco_rosso.5936886d.png"
+  },
+  {
+    "revision": "6ca876ab35b32c65820e380f87a2cc86",
+    "url": "/static/media/porco_rosso_chileno.6ca876ab.png"
+  },
+  {
+    "revision": "7d46bdfaa934ede2a53159e86409250c",
+    "url": "/static/media/porco_rosso_chileno.7d46bdfa.png"
   },
   {
     "revision": "86c64353828a213c913de1f134828939",

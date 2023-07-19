@@ -5302,5 +5302,21 @@
             "Estoy seguro de que la gran mayoría del progrerío, si tuviese que enfrentarse a uno de verdad, se cagaría por la pata abajo."
         ],
         "size": "2000x2000"
+    },
+    "porco_rosso": {
+        "name": "Porco Rosso",
+        "date": "2023-07-18T00:00",
+        "description": [
+            "He visto a varios dibujantes animando a votar a la gente con un dibujo de Porco Rosso y he querido sumarme para aportar mi granito de arena. Espero que os guste."
+        ],
+        "size": "3800x2000"
+    },
+    "porco_rosso_chileno": {
+        "name": "Porco Rosso chileno",
+        "date": "2023-07-19T00:00",
+        "description": [
+            "He hecho la versión chilena de mi anterior viñeta. Para todos mis seguidores del país austral."
+        ],
+        "size": "3800x2000"
     }
 }

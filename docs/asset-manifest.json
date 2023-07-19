@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.342fa9e6.chunk.js",
-    "main.js.map": "/static/js/main.342fa9e6.chunk.js.map",
+    "main.js": "/static/js/main.e747e970.chunk.js",
+    "main.js.map": "/static/js/main.e747e970.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.4dc8f9f2.chunk.js": "/static/js/2.4dc8f9f2.chunk.js",
-    "static/js/2.4dc8f9f2.chunk.js.map": "/static/js/2.4dc8f9f2.chunk.js.map",
+    "static/js/2.ce3cf526.chunk.js": "/static/js/2.ce3cf526.chunk.js",
+    "static/js/2.ce3cf526.chunk.js.map": "/static/js/2.ce3cf526.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7e282572252933125a95d54901ce834d.js": "/precache-manifest.7e282572252933125a95d54901ce834d.js",
+    "precache-manifest.20989a359622ba6cb49446ab796ba21d.js": "/precache-manifest.20989a359622ba6cb49446ab796ba21d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.4dc8f9f2.chunk.js.LICENSE.txt": "/static/js/2.4dc8f9f2.chunk.js.LICENSE.txt",
+    "static/js/2.ce3cf526.chunk.js.LICENSE.txt": "/static/js/2.ce3cf526.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -475,6 +475,8 @@
     "static/media/pocos_impuestos.png": "/static/media/pocos_impuestos.df1a372b.png",
     "static/media/pokemon_espana.png": "/static/media/pokemon_espana.cee10b9b.png",
     "static/media/pollo.png": "/static/media/pollo.a7e7ca30.png",
+    "static/media/porco_rosso.png": "/static/media/porco_rosso.5936886d.png",
+    "static/media/porco_rosso_chileno.png": "/static/media/porco_rosso_chileno.7d46bdfa.png",
     "static/media/portugal_oeste.png": "/static/media/portugal_oeste.86c64353.png",
     "static/media/postales_navidenas_banner.png": "/static/media/postales_navidenas_banner.78d15fa1.png",
     "static/media/pp_zumarraga.png": "/static/media/pp_zumarraga.3324a512.png",
@@ -625,8 +627,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.4dc8f9f2.chunk.js",
+    "static/js/2.ce3cf526.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.342fa9e6.chunk.js"
+    "static/js/main.e747e970.chunk.js"
   ]
 }

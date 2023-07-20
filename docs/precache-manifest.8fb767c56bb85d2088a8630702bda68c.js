@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35cc5069f170ec2caec63ae68f532ec4",
+    "revision": "dbb6572aa8c0f3d13c585d496a0a6e7f",
     "url": "/index.html"
   },
   {
-    "revision": "98678cdf163572f92f1d",
+    "revision": "da03d0f252d5cbb6ac28",
     "url": "/static/css/main.fba28a7f.chunk.css"
   },
   {
-    "revision": "2505e436a9996691e9dc",
-    "url": "/static/js/2.ce3cf526.chunk.js"
+    "revision": "6dca24ff6ff078e0d3ea",
+    "url": "/static/js/2.6a3cf9c1.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ce3cf526.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6a3cf9c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98678cdf163572f92f1d",
-    "url": "/static/js/main.e747e970.chunk.js"
+    "revision": "da03d0f252d5cbb6ac28",
+    "url": "/static/js/main.d30af93d.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3254,6 +3254,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc3981a6a3569dadfd28eafa76769bc4",
     "url": "/static/media/peajes.cc3981a6.png"
+  },
+  {
+    "revision": "336790bd3507a7a05d78a4922e314e86",
+    "url": "/static/media/peajes_autovias.336790bd.png"
+  },
+  {
+    "revision": "aa4c95ed95824128c0f8fe3755e1cbae",
+    "url": "/static/media/peajes_autovias.aa4c95ed.png"
   },
   {
     "revision": "5a5985d91c2b2d0c4f22faeb3b85ce48",

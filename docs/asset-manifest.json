@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.e747e970.chunk.js",
-    "main.js.map": "/static/js/main.e747e970.chunk.js.map",
+    "main.js": "/static/js/main.d30af93d.chunk.js",
+    "main.js.map": "/static/js/main.d30af93d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ce3cf526.chunk.js": "/static/js/2.ce3cf526.chunk.js",
-    "static/js/2.ce3cf526.chunk.js.map": "/static/js/2.ce3cf526.chunk.js.map",
+    "static/js/2.6a3cf9c1.chunk.js": "/static/js/2.6a3cf9c1.chunk.js",
+    "static/js/2.6a3cf9c1.chunk.js.map": "/static/js/2.6a3cf9c1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.20989a359622ba6cb49446ab796ba21d.js": "/precache-manifest.20989a359622ba6cb49446ab796ba21d.js",
+    "precache-manifest.8fb767c56bb85d2088a8630702bda68c.js": "/precache-manifest.8fb767c56bb85d2088a8630702bda68c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.ce3cf526.chunk.js.LICENSE.txt": "/static/js/2.ce3cf526.chunk.js.LICENSE.txt",
+    "static/js/2.6a3cf9c1.chunk.js.LICENSE.txt": "/static/js/2.6a3cf9c1.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -448,6 +448,7 @@
     "static/media/paulo.png": "/static/media/paulo.b74b3eb4.png",
     "static/media/payasos.png": "/static/media/payasos.683628eb.png",
     "static/media/peajes.png": "/static/media/peajes.cc3981a6.png",
+    "static/media/peajes_autovias.png": "/static/media/peajes_autovias.aa4c95ed.png",
     "static/media/pedo_irene.png": "/static/media/pedo_irene.e429a003.png",
     "static/media/pegada_silla.png": "/static/media/pegada_silla.a6ae9ffd.png",
     "static/media/pegasus.png": "/static/media/pegasus.f136a6e8.png",
@@ -627,8 +628,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ce3cf526.chunk.js",
+    "static/js/2.6a3cf9c1.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.e747e970.chunk.js"
+    "static/js/main.d30af93d.chunk.js"
   ]
 }

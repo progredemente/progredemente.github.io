@@ -5318,5 +5318,15 @@
             "He hecho la versión chilena de mi anterior viñeta. Para todos mis seguidores del país austral."
         ],
         "size": "3800x2000"
+    },
+    "peajes_autovias": {
+        "name": "Peajes en las autovías",
+        "date": "2023-07-20T00:00",
+        "description": [
+            "Me juego un huevo y no lo pierdo a que, si el bloque de la derecha acaba formando gobierno, le cargarán este muerto, como hacen con la crisis del 2008."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

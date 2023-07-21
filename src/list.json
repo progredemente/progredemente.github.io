@@ -5328,5 +5328,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "peaje_progresista": {
+        "name": "Peaje progresista",
+        "date": "2023-07-21T00:00",
+        "description": [
+            "Quizás así consiguen engañar a los más mermados."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

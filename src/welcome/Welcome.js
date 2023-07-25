@@ -20,6 +20,7 @@ class Welcome extends Component {
             camaleon: false,
             calor: false,
             buon_appetito: false,
+            d_hondt: false,
             showAllSocialNetworks: false
         }
     }
@@ -145,6 +146,19 @@ class Welcome extends Component {
                                 this.setState({ buon_appetito: true})
                             }}
                         /> Buon Appetito
+                    </a>
+                    <a href="/d-hondt" className="social-link">
+                        <Loading
+                            hidden={this.state.d_hondt}
+                        />
+                        <img
+                            src={'./d_hondt.png'}
+                            alt={'d_hondt'}
+                            className={this.state.d_hondt ? "" : "hidden"}
+                            onLoad={ () => {
+                                this.setState({ d_hondt: true})
+                            }}
+                        /> d'Hondt tread on me
                     </a>
                 </div>
                 <Footer />

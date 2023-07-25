@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.ccf9d095.chunk.js",
-    "main.js.map": "/static/js/main.ccf9d095.chunk.js.map",
+    "main.js": "/static/js/main.362e1a84.chunk.js",
+    "main.js.map": "/static/js/main.362e1a84.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.68d7627d.chunk.js": "/static/js/2.68d7627d.chunk.js",
-    "static/js/2.68d7627d.chunk.js.map": "/static/js/2.68d7627d.chunk.js.map",
+    "static/js/2.f9ca51c3.chunk.js": "/static/js/2.f9ca51c3.chunk.js",
+    "static/js/2.f9ca51c3.chunk.js.map": "/static/js/2.f9ca51c3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.46a27e20b005e7241440ba05f05f9a10.js": "/precache-manifest.46a27e20b005e7241440ba05f05f9a10.js",
+    "precache-manifest.4fefc7c99ab2b2a205928fb7b67ee73c.js": "/precache-manifest.4fefc7c99ab2b2a205928fb7b67ee73c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.68d7627d.chunk.js.LICENSE.txt": "/static/js/2.68d7627d.chunk.js.LICENSE.txt",
+    "static/js/2.f9ca51c3.chunk.js.LICENSE.txt": "/static/js/2.f9ca51c3.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -183,6 +183,7 @@
     "static/media/cumplir.png": "/static/media/cumplir.b87544da.png",
     "static/media/cuotas.png": "/static/media/cuotas.788a2cad.png",
     "static/media/curriculum.png": "/static/media/curriculum.83d6a998.png",
+    "static/media/d_hondt.png": "/static/media/d_hondt.885f58c1.png",
     "static/media/davos.png": "/static/media/davos.d930363c.png",
     "static/media/de_compras.png": "/static/media/de_compras.b95cceb5.png",
     "static/media/debilidad_mental.png": "/static/media/debilidad_mental.2b0e9d48.png",
@@ -470,6 +471,7 @@
     "static/media/pinocho.png": "/static/media/pinocho.f57ed1a0.png",
     "static/media/pisapapeles.png": "/static/media/pisapapeles.d1562186.png",
     "static/media/pistola_dinero.png": "/static/media/pistola_dinero.712e2378.png",
+    "static/media/planchar.png": "/static/media/planchar.50b09300.png",
     "static/media/planton.png": "/static/media/planton.b95a67b1.png",
     "static/media/playa_madrid.png": "/static/media/playa_madrid.a34d2e21.png",
     "static/media/pocas_luces.png": "/static/media/pocas_luces.a505c7d1.png",
@@ -629,8 +631,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.68d7627d.chunk.js",
+    "static/js/2.f9ca51c3.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.ccf9d095.chunk.js"
+    "static/js/main.362e1a84.chunk.js"
   ]
 }

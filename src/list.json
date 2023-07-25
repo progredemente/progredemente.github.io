@@ -5337,5 +5337,23 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "planchar": {
+        "name": "Planchar",
+        "date": "2023-07-22T00:00",
+        "description": [
+            "Lanchas y narcos VS planchas y pedos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
+    },
+    "d_hondt": {
+        "name": "d'Hondt tread on me",
+        "date": "2023-07-25T00:00",
+        "description": [
+            "He hecho un simulador de asignación de escaños usando el método d'Hondt. Tírate de los pelos en: {https://progredemente.com/d-hondt}"
+        ],
+        "size": "2000x2000"
     }
 }

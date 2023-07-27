@@ -5355,5 +5355,13 @@
             "He hecho un simulador de asignación de escaños usando el método d'Hondt. Tírate de los pelos en: {https://progredemente.com/d-hondt}"
         ],
         "size": "2000x2000"
+    },
+    "capacitismo": {
+        "name": "Capacitismo",
+        "date": "2023-07-27T00:00",
+        "description": [
+            "La diversidad*."
+        ],
+        "size": "2000x2000"
     }
 }

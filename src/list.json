@@ -5363,5 +5363,15 @@
             "La diversidad*."
         ],
         "size": "2000x2000"
+    },
+    "bebes": {
+        "name": "Bebés",
+        "date": "2023-07-28T00:00",
+        "description": [
+            "Lo aplaudirían."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

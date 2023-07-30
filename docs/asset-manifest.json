@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.fba28a7f.chunk.css",
-    "main.js": "/static/js/main.89840de9.chunk.js",
-    "main.js.map": "/static/js/main.89840de9.chunk.js.map",
+    "main.js": "/static/js/main.6fd79f8c.chunk.js",
+    "main.js.map": "/static/js/main.6fd79f8c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.a1271ec5.chunk.js": "/static/js/2.a1271ec5.chunk.js",
-    "static/js/2.a1271ec5.chunk.js.map": "/static/js/2.a1271ec5.chunk.js.map",
+    "static/js/2.bc85468d.chunk.js": "/static/js/2.bc85468d.chunk.js",
+    "static/js/2.bc85468d.chunk.js.map": "/static/js/2.bc85468d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.02d579c9f34e7f594cbe9e2556590d99.js": "/precache-manifest.02d579c9f34e7f594cbe9e2556590d99.js",
+    "precache-manifest.f1eb82979a122da1b9fd7b299934a874.js": "/precache-manifest.f1eb82979a122da1b9fd7b299934a874.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
-    "static/js/2.a1271ec5.chunk.js.LICENSE.txt": "/static/js/2.a1271ec5.chunk.js.LICENSE.txt",
+    "static/js/2.bc85468d.chunk.js.LICENSE.txt": "/static/js/2.bc85468d.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -42,6 +42,7 @@
     "static/media/animals_rioting.png": "/static/media/animals_rioting.dce6de8c.png",
     "static/media/ano_marmota.png": "/static/media/ano_marmota.5118b97f.png",
     "static/media/ano_rata.png": "/static/media/ano_rata.d1768431.png",
+    "static/media/antifascismo.png": "/static/media/antifascismo.23741bd6.png",
     "static/media/antisistema.png": "/static/media/antisistema.531d1be5.png",
     "static/media/antonio.png": "/static/media/antonio.a170b2be.png",
     "static/media/antonium.png": "/static/media/antonium.72a71b4e.png",
@@ -633,8 +634,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.a1271ec5.chunk.js",
+    "static/js/2.bc85468d.chunk.js",
     "static/css/main.fba28a7f.chunk.css",
-    "static/js/main.89840de9.chunk.js"
+    "static/js/main.6fd79f8c.chunk.js"
   ]
 }

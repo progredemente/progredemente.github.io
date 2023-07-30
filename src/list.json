@@ -5373,5 +5373,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "antifascismo": {
+        "name": "Antifascismo",
+        "date": "2023-07-30T00:00",
+        "description": [
+            "En su cabeza la vergüenza ajena se ve espectacular."
+        ],
+        "size": "3800x2000",
+        "parties": ["Vox"]
     }
 }

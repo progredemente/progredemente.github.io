@@ -1,4 +1,4 @@
 .icon::before {
-  font-family: comic_icons;
+  font-family: ComicIcons;
   content: var(--content);
 }

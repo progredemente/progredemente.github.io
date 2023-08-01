@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: comic_typo;
+  font-family: ComicTypo;
   max-width: var(--body-width);
   margin: 0 auto;
   font-size: 1.5em;

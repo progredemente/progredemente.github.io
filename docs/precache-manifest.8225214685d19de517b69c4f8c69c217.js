@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "461587899385a7d7d8565ffe81e4c4b6",
+    "revision": "e180f35fdc8037dc4b2ac7bcb2e6cc30",
     "url": "/index.html"
   },
   {
-    "revision": "04f2caf63189f5298765",
-    "url": "/static/css/main.fba28a7f.chunk.css"
+    "revision": "cf1216a9010edf6c58d8",
+    "url": "/static/css/main.d587cc5a.chunk.css"
   },
   {
     "revision": "e6e49a8dd414d03624eb",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.55c42906.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04f2caf63189f5298765",
+    "revision": "cf1216a9010edf6c58d8",
     "url": "/static/js/main.7c23f24a.chunk.js"
   },
   {
@@ -1202,14 +1202,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6597e975b2c3d998b164f8238b53920",
     "url": "/static/media/color_carne.b6597e97.png"
-  },
-  {
-    "revision": "f8fb0df1152a3b1b06c6a8366573a584",
-    "url": "/static/media/comic_icons.f8fb0df1.ttf"
-  },
-  {
-    "revision": "a1ab424fbc09613cc961cb2db6a88ec3",
-    "url": "/static/media/comic_typo.a1ab424f.ttf"
   },
   {
     "revision": "1b1d9821e9da83aa09eb5af24b5202cb",

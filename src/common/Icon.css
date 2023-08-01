@@ -1,9 +1,4 @@
-@font-face {
-  font-family: ComicIcons;
-  src: url('../comic_icons.ttf');
-}
-
 .icon::before {
+  font-family: comic_icons;
   content: var(--content);
-  font-family: ComicIcons;
 }

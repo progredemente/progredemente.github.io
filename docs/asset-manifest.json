@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fba28a7f.chunk.css",
+    "main.css": "/static/css/main.d587cc5a.chunk.css",
     "main.js": "/static/js/main.7c23f24a.chunk.js",
     "main.js.map": "/static/js/main.7c23f24a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
@@ -8,9 +8,9 @@
     "static/js/2.55c42906.chunk.js": "/static/js/2.55c42906.chunk.js",
     "static/js/2.55c42906.chunk.js.map": "/static/js/2.55c42906.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b1defe7cd4f845f5f34a2ef36c69d787.js": "/precache-manifest.b1defe7cd4f845f5f34a2ef36c69d787.js",
+    "precache-manifest.8225214685d19de517b69c4f8c69c217.js": "/precache-manifest.8225214685d19de517b69c4f8c69c217.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fba28a7f.chunk.css.map": "/static/css/main.fba28a7f.chunk.css.map",
+    "static/css/main.d587cc5a.chunk.css.map": "/static/css/main.d587cc5a.chunk.css.map",
     "static/js/2.55c42906.chunk.js.LICENSE.txt": "/static/js/2.55c42906.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
@@ -65,7 +65,7 @@
     "static/media/autoridad_sanitaria.png": "/static/media/autoridad_sanitaria.52be29c1.png",
     "static/media/avestrudeau.png": "/static/media/avestrudeau.f4d34279.png",
     "static/media/avispero.png": "/static/media/avispero.0ac3625c.png",
-    "static/media/index.css": "/static/media/comic_typo.a1ab424f.ttf",
+    "static/media/index.css": "/static/media/background.5c1476f6.png",
     "static/media/bajada_iva.png": "/static/media/bajada_iva.6989e994.png",
     "static/media/bandera_buena.png": "/static/media/bandera_buena.bb3a1a01.png",
     "static/media/bandera_canadazi.png": "/static/media/bandera_canadazi.2426a3be.png",
@@ -170,7 +170,6 @@
     "static/media/cirque.png": "/static/media/cirque.d73054c6.png",
     "static/media/colegio_mayor.png": "/static/media/colegio_mayor.e29e6afc.png",
     "static/media/color_carne.png": "/static/media/color_carne.b6597e97.png",
-    "static/media/Icon.css": "/static/media/comic_icons.f8fb0df1.ttf",
     "static/media/compra_votos.png": "/static/media/compra_votos.54ec28a9.png",
     "static/media/con_irene.png": "/static/media/con_irene.f2f69c5d.png",
     "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
@@ -636,7 +635,7 @@
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
     "static/js/2.55c42906.chunk.js",
-    "static/css/main.fba28a7f.chunk.css",
+    "static/css/main.d587cc5a.chunk.css",
     "static/js/main.7c23f24a.chunk.js"
   ]
 }

@@ -5382,5 +5382,13 @@
         ],
         "size": "3800x2000",
         "parties": ["Vox"]
+    },
+    "cambio_chiringuitos": {
+        "name": "Cambio de chiringuitos",
+        "date": "2023-08-01T00:00",
+        "description": [
+            "Parece que cuando no gobiernan los suyos la democracia ya no les mola tanto."
+        ],
+        "size": "3000x2000"
     }
 }

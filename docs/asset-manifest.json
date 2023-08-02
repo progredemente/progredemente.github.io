@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.7c23f24a.chunk.js",
-    "main.js.map": "/static/js/main.7c23f24a.chunk.js.map",
+    "main.js": "/static/js/main.685e3c01.chunk.js",
+    "main.js.map": "/static/js/main.685e3c01.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.55c42906.chunk.js": "/static/js/2.55c42906.chunk.js",
-    "static/js/2.55c42906.chunk.js.map": "/static/js/2.55c42906.chunk.js.map",
+    "static/js/2.2341f467.chunk.js": "/static/js/2.2341f467.chunk.js",
+    "static/js/2.2341f467.chunk.js.map": "/static/js/2.2341f467.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4a0d0d712a3e58633a89b212555b442b.js": "/precache-manifest.4a0d0d712a3e58633a89b212555b442b.js",
+    "precache-manifest.59148b7831a36a23baedd69d24984c10.js": "/precache-manifest.59148b7831a36a23baedd69d24984c10.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.55c42906.chunk.js.LICENSE.txt": "/static/js/2.55c42906.chunk.js.LICENSE.txt",
+    "static/js/2.2341f467.chunk.js.LICENSE.txt": "/static/js/2.2341f467.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -207,6 +207,7 @@
     "static/media/doble_vara.png": "/static/media/doble_vara.eb52f66d.png",
     "static/media/donaciones.png": "/static/media/donaciones.d4ad9fd9.png",
     "static/media/donde_simon.png": "/static/media/donde_simon.c3e5703e.png",
+    "static/media/dos_espanas.png": "/static/media/dos_espanas.862b775c.png",
     "static/media/duquemar.png": "/static/media/duquemar.b4a333ad.png",
     "static/media/duquemar.mp3": "/static/media/duquemar.db3e25c1.mp3",
     "static/media/ecoansiedad.png": "/static/media/ecoansiedad.d5924dfa.png",
@@ -634,8 +635,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.55c42906.chunk.js",
+    "static/js/2.2341f467.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.7c23f24a.chunk.js"
+    "static/js/main.685e3c01.chunk.js"
   ]
 }

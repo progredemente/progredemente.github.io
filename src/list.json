@@ -5390,5 +5390,14 @@
             "Parece que cuando no gobiernan los suyos la democracia ya no les mola tanto."
         ],
         "size": "3000x2000"
+    },
+    "dos_espanas": {
+        "name": "Las dos Españas",
+        "date": "2023-08-02T00:00",
+        "description": [
+            "Ni izquierda contra derecha, ni ricos contra pobres, ni los de arriba contra los de abajo, las dos Españas verdaderas enfrentadas son la de la fiesta contra la que la paga, y cada vez hay más gente en la primera."
+        ],
+        "size": "3000x2500",
+        "series": ["memes"]
     }
 }

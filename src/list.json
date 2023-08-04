@@ -5399,5 +5399,14 @@
         ],
         "size": "3000x2500",
         "series": ["memes"]
+    },
+    "traductores": {
+        "name": "Traductores",
+        "date": "2023-08-04T00:00",
+        "description": [
+            "Porque en España no se nos da bien el inglés, pero están a un cubata de proponerlo como lengua vehicular en el congreso con el consiguiente aplauso de sus votantes."
+        ],
+        "size": "2000x2000",
+        "parties": ["Sumar"]
     }
 }

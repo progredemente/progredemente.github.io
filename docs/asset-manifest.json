@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.e2622135.chunk.js",
-    "main.js.map": "/static/js/main.e2622135.chunk.js.map",
+    "main.js": "/static/js/main.eaf78af2.chunk.js",
+    "main.js.map": "/static/js/main.eaf78af2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.10d2b25f.chunk.js": "/static/js/2.10d2b25f.chunk.js",
-    "static/js/2.10d2b25f.chunk.js.map": "/static/js/2.10d2b25f.chunk.js.map",
+    "static/js/2.2b559b9b.chunk.js": "/static/js/2.2b559b9b.chunk.js",
+    "static/js/2.2b559b9b.chunk.js.map": "/static/js/2.2b559b9b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cc790b94ed49ec652ba61818d9cd6561.js": "/precache-manifest.cc790b94ed49ec652ba61818d9cd6561.js",
+    "precache-manifest.74f0e02a25a7434ff22db097e01b30e6.js": "/precache-manifest.74f0e02a25a7434ff22db097e01b30e6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.10d2b25f.chunk.js.LICENSE.txt": "/static/js/2.10d2b25f.chunk.js.LICENSE.txt",
+    "static/js/2.2b559b9b.chunk.js.LICENSE.txt": "/static/js/2.2b559b9b.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -170,6 +170,7 @@
     "static/media/cirque.png": "/static/media/cirque.d73054c6.png",
     "static/media/colegio_mayor.png": "/static/media/colegio_mayor.e29e6afc.png",
     "static/media/color_carne.png": "/static/media/color_carne.b6597e97.png",
+    "static/media/comemierding.png": "/static/media/comemierding.65eb49d3.png",
     "static/media/compra_votos.png": "/static/media/compra_votos.54ec28a9.png",
     "static/media/con_irene.png": "/static/media/con_irene.f2f69c5d.png",
     "static/media/concurso_democratico.png": "/static/media/concurso_democratico.20ca64b8.png",
@@ -636,8 +637,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.10d2b25f.chunk.js",
+    "static/js/2.2b559b9b.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.e2622135.chunk.js"
+    "static/js/main.eaf78af2.chunk.js"
   ]
 }

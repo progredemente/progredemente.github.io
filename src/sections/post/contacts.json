@@ -276,5 +276,14 @@
                 "url": "https://twitter.com/nuno_saraiva_"
             }
         ]
+    },
+    "ibaicanales": {
+        "name": "Ibai Canales",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/ibaicanales/"
+            }
+        ]
     }
 }

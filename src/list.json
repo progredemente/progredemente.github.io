@@ -5408,5 +5408,15 @@
         ],
         "size": "2000x2000",
         "parties": ["Sumar"]
+    },
+    "comemierding": {
+        "name": "Comemierding",
+        "date": "2023-08-05T00:00",
+        "description": [
+            "Me apetecía seguir profanando al Porco Rosso. Viñeta inspirada en una de {contact:ibaicanales} que hizo recientemente."
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

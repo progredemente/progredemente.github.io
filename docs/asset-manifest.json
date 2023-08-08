@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.eaf78af2.chunk.js",
-    "main.js.map": "/static/js/main.eaf78af2.chunk.js.map",
+    "main.js": "/static/js/main.5024e61a.chunk.js",
+    "main.js.map": "/static/js/main.5024e61a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2b559b9b.chunk.js": "/static/js/2.2b559b9b.chunk.js",
-    "static/js/2.2b559b9b.chunk.js.map": "/static/js/2.2b559b9b.chunk.js.map",
+    "static/js/2.2169d42a.chunk.js": "/static/js/2.2169d42a.chunk.js",
+    "static/js/2.2169d42a.chunk.js.map": "/static/js/2.2169d42a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.74f0e02a25a7434ff22db097e01b30e6.js": "/precache-manifest.74f0e02a25a7434ff22db097e01b30e6.js",
+    "precache-manifest.e3dea8f09ceadc4143611f1089922e60.js": "/precache-manifest.e3dea8f09ceadc4143611f1089922e60.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.2b559b9b.chunk.js.LICENSE.txt": "/static/js/2.2b559b9b.chunk.js.LICENSE.txt",
+    "static/js/2.2169d42a.chunk.js.LICENSE.txt": "/static/js/2.2169d42a.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -254,6 +254,7 @@
     "static/media/franco_kazooie.png": "/static/media/franco_kazooie.8f7c48aa.png",
     "static/media/franco_kazooie.mp3": "/static/media/franco_kazooie.50e60ed0.mp3",
     "static/media/fresisuis.png": "/static/media/fresisuis.c6b16961.png",
+    "static/media/friganismo.png": "/static/media/friganismo.74f5d2ad.png",
     "static/media/frigodedo_senalador.png": "/static/media/frigodedo_senalador.19e3866f.png",
     "static/media/frox.png": "/static/media/frox.da0013e3.png",
     "static/media/fugitivo.png": "/static/media/fugitivo.72a67ba7.png",
@@ -637,8 +638,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2b559b9b.chunk.js",
+    "static/js/2.2169d42a.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.eaf78af2.chunk.js"
+    "static/js/main.5024e61a.chunk.js"
   ]
 }

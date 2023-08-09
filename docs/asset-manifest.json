@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.5024e61a.chunk.js",
-    "main.js.map": "/static/js/main.5024e61a.chunk.js.map",
+    "main.js": "/static/js/main.aad05f0b.chunk.js",
+    "main.js.map": "/static/js/main.aad05f0b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.2169d42a.chunk.js": "/static/js/2.2169d42a.chunk.js",
-    "static/js/2.2169d42a.chunk.js.map": "/static/js/2.2169d42a.chunk.js.map",
+    "static/js/2.c221b4b1.chunk.js": "/static/js/2.c221b4b1.chunk.js",
+    "static/js/2.c221b4b1.chunk.js.map": "/static/js/2.c221b4b1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e3dea8f09ceadc4143611f1089922e60.js": "/precache-manifest.e3dea8f09ceadc4143611f1089922e60.js",
+    "precache-manifest.3e04fa6d3acb642bd0214f82fd53c35b.js": "/precache-manifest.3e04fa6d3acb642bd0214f82fd53c35b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.2169d42a.chunk.js.LICENSE.txt": "/static/js/2.2169d42a.chunk.js.LICENSE.txt",
+    "static/js/2.c221b4b1.chunk.js.LICENSE.txt": "/static/js/2.c221b4b1.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -221,6 +221,7 @@
     "static/media/empape.png": "/static/media/empape.a5c0a4f4.png",
     "static/media/en.svg": "/static/media/en.da08e077.svg",
     "static/media/energia_verde.png": "/static/media/energia_verde.b55245bd.png",
+    "static/media/ere_podemos.png": "/static/media/ere_podemos.cd751816.png",
     "static/media/eres.png": "/static/media/eres.f45e3c17.png",
     "static/media/es.svg": "/static/media/es.489a72f2.svg",
     "static/media/escaladores.png": "/static/media/escaladores.e9a8db3c.png",
@@ -638,8 +639,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.2169d42a.chunk.js",
+    "static/js/2.c221b4b1.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.5024e61a.chunk.js"
+    "static/js/main.aad05f0b.chunk.js"
   ]
 }

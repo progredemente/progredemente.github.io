@@ -5428,5 +5428,14 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "ere_podemos": {
+        "name": "Friganismo",
+        "date": "2023-08-09T00:00",
+        "description": [
+            "Hay que reconocer que, pese a todo, no se rinden. También es verdad que se les va el comer en ello..."
+        ],
+        "size": "2000x2000",
+        "parties": ["Podemos"]
     }
 }

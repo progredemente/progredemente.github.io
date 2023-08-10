@@ -5430,12 +5430,22 @@
         "parties": ["Podemos"]
     },
     "ere_podemos": {
-        "name": "Friganismo",
+        "name": "El ERE de Podemos",
         "date": "2023-08-09T00:00",
         "description": [
             "Hay que reconocer que, pese a todo, no se rinden. También es verdad que se les va el comer en ello..."
         ],
         "size": "2000x2000",
         "parties": ["Podemos"]
+    },
+    "purgas": {
+        "name": "Purgas",
+        "date": "2023-08-10T00:00",
+        "description": [
+            "Sánchez estará comiendo palomitas en la Mareta."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Iván Espinosa de los Monteros"],
+        "parties": ["Podemos", "Vox"]
     }
 }

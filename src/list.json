@@ -5447,5 +5447,13 @@
         "size": "4000x3000",
         "celebrities": ["Iván Espinosa de los Monteros"],
         "parties": ["Podemos", "Vox"]
+    },
+    "ascensor": {
+        "name": "Ascensor",
+        "date": "2023-08-11T00:00",
+        "description": [
+            "Hay gente que vive en un estado de paranoia autoinducida."
+        ],
+        "size": "2000x2000"
     }
 }

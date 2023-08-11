@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.b3fa9cdf.chunk.js",
-    "main.js.map": "/static/js/main.b3fa9cdf.chunk.js.map",
+    "main.js": "/static/js/main.a8dcee90.chunk.js",
+    "main.js.map": "/static/js/main.a8dcee90.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.9d863953.chunk.js": "/static/js/2.9d863953.chunk.js",
-    "static/js/2.9d863953.chunk.js.map": "/static/js/2.9d863953.chunk.js.map",
+    "static/js/2.cdd13e64.chunk.js": "/static/js/2.cdd13e64.chunk.js",
+    "static/js/2.cdd13e64.chunk.js.map": "/static/js/2.cdd13e64.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b08d266ea9cf7efcc9d5f997889878cb.js": "/precache-manifest.b08d266ea9cf7efcc9d5f997889878cb.js",
+    "precache-manifest.1d68b0ceb4e36c081d79d7212dd6e547.js": "/precache-manifest.1d68b0ceb4e36c081d79d7212dd6e547.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.9d863953.chunk.js.LICENSE.txt": "/static/js/2.9d863953.chunk.js.LICENSE.txt",
+    "static/js/2.cdd13e64.chunk.js.LICENSE.txt": "/static/js/2.cdd13e64.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -58,6 +58,7 @@
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/argentina.png": "/static/media/argentina.c0f410ab.png",
     "static/media/arvore_natal.png": "/static/media/arvore_natal.e6364771.png",
+    "static/media/ascensor.png": "/static/media/ascensor.937eaf74.png",
     "static/media/atencion_sanitaria.png": "/static/media/atencion_sanitaria.607f1c53.png",
     "static/media/atlas.png": "/static/media/atlas.79072fd9.png",
     "static/media/atlas.en.png": "/static/media/atlas.en.e82c6e83.png",
@@ -640,8 +641,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.9d863953.chunk.js",
+    "static/js/2.cdd13e64.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.b3fa9cdf.chunk.js"
+    "static/js/main.a8dcee90.chunk.js"
   ]
 }

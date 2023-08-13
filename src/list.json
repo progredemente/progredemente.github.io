@@ -5455,5 +5455,13 @@
             "Hay gente que vive en un estado de paranoia autoinducida."
         ],
         "size": "2000x2000"
+    },
+    "bomberos": {
+        "name": "Bomberos",
+        "date": "2023-08-13T00:00",
+        "description": [
+            "Me hizo gracia lo que dijo uno en un programa de televisión, algo así como que, si no ponemos mínimos diferentes en las pruebas según el sexo, beneficia a los hombres y perjudica a las mujeres. Lo que no dijo es que, si lo hacemos, beneficia al fuego y perjudica a las víctimas."
+        ],
+        "size": "2000x2000"
     }
 }

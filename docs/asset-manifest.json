@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.a8dcee90.chunk.js",
-    "main.js.map": "/static/js/main.a8dcee90.chunk.js.map",
+    "main.js": "/static/js/main.c5b50eaa.chunk.js",
+    "main.js.map": "/static/js/main.c5b50eaa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.cdd13e64.chunk.js": "/static/js/2.cdd13e64.chunk.js",
-    "static/js/2.cdd13e64.chunk.js.map": "/static/js/2.cdd13e64.chunk.js.map",
+    "static/js/2.ef352463.chunk.js": "/static/js/2.ef352463.chunk.js",
+    "static/js/2.ef352463.chunk.js.map": "/static/js/2.ef352463.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d68b0ceb4e36c081d79d7212dd6e547.js": "/precache-manifest.1d68b0ceb4e36c081d79d7212dd6e547.js",
+    "precache-manifest.4e21a8d895e2969413b943d9793d4903.js": "/precache-manifest.4e21a8d895e2969413b943d9793d4903.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.cdd13e64.chunk.js.LICENSE.txt": "/static/js/2.cdd13e64.chunk.js.LICENSE.txt",
+    "static/js/2.ef352463.chunk.js.LICENSE.txt": "/static/js/2.ef352463.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -105,6 +105,7 @@
     "static/media/bloqueo.png": "/static/media/bloqueo.72dd288d.png",
     "static/media/bobo.png": "/static/media/bobo.c0c34648.png",
     "static/media/bodegas.png": "/static/media/bodegas.e747eb0d.png",
+    "static/media/bomberos.png": "/static/media/bomberos.93d69719.png",
     "static/media/boo_iden.png": "/static/media/boo_iden.f7778d8b.png",
     "static/media/booric.png": "/static/media/booric.f36ab607.png",
     "static/media/boot_facha.png": "/static/media/boot_facha.87ffe8f0.png",
@@ -641,8 +642,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.cdd13e64.chunk.js",
+    "static/js/2.ef352463.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.a8dcee90.chunk.js"
+    "static/js/main.c5b50eaa.chunk.js"
   ]
 }

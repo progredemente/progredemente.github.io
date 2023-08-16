@@ -5472,5 +5472,13 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "espainderman": {
+        "name": "Espainder-Man",
+        "date": "2023-08-16T00:00",
+        "description": [
+            "Recién salido del Demente-Verso. Portada inspirada en el Amazing Fantasy #15, donde Spider-Man hace su primera aparición."
+        ],
+        "size": "2500x3500"
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.1bbb50f0.chunk.js",
-    "main.js.map": "/static/js/main.1bbb50f0.chunk.js.map",
+    "main.js": "/static/js/main.43ae0d77.chunk.js",
+    "main.js.map": "/static/js/main.43ae0d77.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.ef0a9dfd.chunk.js": "/static/js/2.ef0a9dfd.chunk.js",
-    "static/js/2.ef0a9dfd.chunk.js.map": "/static/js/2.ef0a9dfd.chunk.js.map",
+    "static/js/2.e5abad0a.chunk.js": "/static/js/2.e5abad0a.chunk.js",
+    "static/js/2.e5abad0a.chunk.js.map": "/static/js/2.e5abad0a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.977a180608cc3cc3ae3a023677229743.js": "/precache-manifest.977a180608cc3cc3ae3a023677229743.js",
+    "precache-manifest.e321530e4fcf2502188d3d52a98e4dff.js": "/precache-manifest.e321530e4fcf2502188d3d52a98e4dff.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.ef0a9dfd.chunk.js.LICENSE.txt": "/static/js/2.ef0a9dfd.chunk.js.LICENSE.txt",
+    "static/js/2.e5abad0a.chunk.js.LICENSE.txt": "/static/js/2.e5abad0a.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -228,6 +228,7 @@
     "static/media/es.svg": "/static/media/es.489a72f2.svg",
     "static/media/escaladores.png": "/static/media/escaladores.e9a8db3c.png",
     "static/media/escudo_social.png": "/static/media/escudo_social.9c980749.png",
+    "static/media/espainderman.png": "/static/media/espainderman.e8bb66c8.png",
     "static/media/estabilizador.png": "/static/media/estabilizador.be6313d2.png",
     "static/media/estado_totalitario.png": "/static/media/estado_totalitario.b1b684fe.png",
     "static/media/estratega_audiovisual.png": "/static/media/estratega_audiovisual.a8cf2250.png",
@@ -643,8 +644,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.ef0a9dfd.chunk.js",
+    "static/js/2.e5abad0a.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.1bbb50f0.chunk.js"
+    "static/js/main.43ae0d77.chunk.js"
   ]
 }

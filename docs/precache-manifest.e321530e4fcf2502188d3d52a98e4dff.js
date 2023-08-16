@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef8ab0ce921304455661de57bcbbd02c",
+    "revision": "b3f7f2363a80bf29acfe8668e750585e",
     "url": "/index.html"
   },
   {
-    "revision": "f2baba04c766b32de495",
+    "revision": "6fc1ad55968cfe3c7c36",
     "url": "/static/css/main.4c9fe3c6.chunk.css"
   },
   {
-    "revision": "538881b38e31aa1202b7",
-    "url": "/static/js/2.ef0a9dfd.chunk.js"
+    "revision": "f85e53a18e166c45b747",
+    "url": "/static/js/2.e5abad0a.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.ef0a9dfd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e5abad0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2baba04c766b32de495",
-    "url": "/static/js/main.1bbb50f0.chunk.js"
+    "revision": "6fc1ad55968cfe3c7c36",
+    "url": "/static/js/main.43ae0d77.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -1634,6 +1634,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c98074949934fb7c1a61d0e26c97952",
     "url": "/static/media/escudo_social.9c980749.png"
+  },
+  {
+    "revision": "d496de8d6a54e03f328f5fa3711e9f68",
+    "url": "/static/media/espainderman.d496de8d.png"
+  },
+  {
+    "revision": "e8bb66c8a05c1b194eb2f71f9b0cac8f",
+    "url": "/static/media/espainderman.e8bb66c8.png"
   },
   {
     "revision": "947434ba5bf7ea0e56996d5bcd1b0b2c",

@@ -126,7 +126,7 @@ class PageStats extends Component {
             "PSOE": "#f31912",
             "MP": "#0fddc4",
             "PP": "#0bb2ff",
-            "JxC": "#e73452",
+            "JxC": "#00c4b2",
             "Vox": "#7cbd2a",
             "EH Bildu": "#95c11f",
             "ERC": "#ffb018",

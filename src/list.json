@@ -5480,5 +5480,15 @@
             "Recién salido del Demente-Verso. Portada inspirada en el Amazing Fantasy #15, donde Spider-Man hace su primera aparición."
         ],
         "size": "2500x3500"
+    },
+    "marionetrioskas": {
+        "name": "Marionetrioskas",
+        "date": "2023-08-17T00:00",
+        "description": [
+            "Imagina ser votante de Sumar."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz", "Pedro Sánchez", "Carles Puigdemont"],
+        "parties": ["Sumar", "PSOE", "JxC"]
     }
 }

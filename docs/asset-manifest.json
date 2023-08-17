@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.43ae0d77.chunk.js",
-    "main.js.map": "/static/js/main.43ae0d77.chunk.js.map",
+    "main.js": "/static/js/main.500df040.chunk.js",
+    "main.js.map": "/static/js/main.500df040.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e5abad0a.chunk.js": "/static/js/2.e5abad0a.chunk.js",
-    "static/js/2.e5abad0a.chunk.js.map": "/static/js/2.e5abad0a.chunk.js.map",
+    "static/js/2.e373e4a6.chunk.js": "/static/js/2.e373e4a6.chunk.js",
+    "static/js/2.e373e4a6.chunk.js.map": "/static/js/2.e373e4a6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e321530e4fcf2502188d3d52a98e4dff.js": "/precache-manifest.e321530e4fcf2502188d3d52a98e4dff.js",
+    "precache-manifest.e2d165c82f3ab033567568620f59395d.js": "/precache-manifest.e2d165c82f3ab033567568620f59395d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.e5abad0a.chunk.js.LICENSE.txt": "/static/js/2.e5abad0a.chunk.js.LICENSE.txt",
+    "static/js/2.e373e4a6.chunk.js.LICENSE.txt": "/static/js/2.e373e4a6.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -378,6 +378,7 @@
     "static/media/marianic.png": "/static/media/marianic.6bdaca56.png",
     "static/media/marianic.mp3": "/static/media/marianic.7e5ec128.mp3",
     "static/media/marionetas.png": "/static/media/marionetas.45ba5986.png",
+    "static/media/marionetrioskas.png": "/static/media/marionetrioskas.d5017c3c.png",
     "static/media/marketing.png": "/static/media/marketing.1955ef9a.png",
     "static/media/marketing.en.png": "/static/media/marketing.en.17c19855.png",
     "static/media/mascarillas.png": "/static/media/mascarillas.e40438ad.png",
@@ -644,8 +645,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e5abad0a.chunk.js",
+    "static/js/2.e373e4a6.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.43ae0d77.chunk.js"
+    "static/js/main.500df040.chunk.js"
   ]
 }

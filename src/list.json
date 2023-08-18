@@ -5490,5 +5490,15 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz", "Pedro Sánchez", "Carles Puigdemont"],
         "parties": ["Sumar", "PSOE", "JxC"]
+    },
+    "tarta": {
+        "name": "Tarta",
+        "date": "2023-08-18T00:00",
+        "description": [
+            "Que siga esperando su cacho de tarta."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Alberto Núñez Feijóo", "Yolanda Díaz", "Pedro Sánchez", "Ana Pontón", "Carles Puigdemont", "Arnaldo Otegi", "Oriol Junqueras", "Andoni Ortuzar"],
+        "parties": ["PP", "Sumar", "PSOE", "BNG", "JxC", "EH Bildu", "ERC", "PNV"]
     }
 }

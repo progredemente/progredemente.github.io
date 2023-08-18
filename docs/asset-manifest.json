@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.500df040.chunk.js",
-    "main.js.map": "/static/js/main.500df040.chunk.js.map",
+    "main.js": "/static/js/main.5cd97e48.chunk.js",
+    "main.js.map": "/static/js/main.5cd97e48.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.e373e4a6.chunk.js": "/static/js/2.e373e4a6.chunk.js",
-    "static/js/2.e373e4a6.chunk.js.map": "/static/js/2.e373e4a6.chunk.js.map",
+    "static/js/2.2b25e677.chunk.js": "/static/js/2.2b25e677.chunk.js",
+    "static/js/2.2b25e677.chunk.js.map": "/static/js/2.2b25e677.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e2d165c82f3ab033567568620f59395d.js": "/precache-manifest.e2d165c82f3ab033567568620f59395d.js",
+    "precache-manifest.9548446f42a2d0d7edbfeb7d0ecc5536.js": "/precache-manifest.9548446f42a2d0d7edbfeb7d0ecc5536.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.e373e4a6.chunk.js.LICENSE.txt": "/static/js/2.e373e4a6.chunk.js.LICENSE.txt",
+    "static/js/2.2b25e677.chunk.js.LICENSE.txt": "/static/js/2.2b25e677.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -587,6 +587,7 @@
     "static/media/superhiperultramegaderecha.png": "/static/media/superhiperultramegaderecha.b6280383.png",
     "static/media/tacticas_evasion.png": "/static/media/tacticas_evasion.729dda8f.png",
     "static/media/tanxugueiras.png": "/static/media/tanxugueiras.501781ae.png",
+    "static/media/tarta.png": "/static/media/tarta.87f07d06.png",
     "static/media/team_r.png": "/static/media/team_r.0f56f164.png",
     "static/media/techo_gasto.png": "/static/media/techo_gasto.91f2d34c.png",
     "static/media/tecnicas_ligar.png": "/static/media/tecnicas_ligar.ff3c0b67.png",
@@ -645,8 +646,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.e373e4a6.chunk.js",
+    "static/js/2.2b25e677.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.500df040.chunk.js"
+    "static/js/main.5cd97e48.chunk.js"
   ]
 }

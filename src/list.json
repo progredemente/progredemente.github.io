@@ -5500,5 +5500,15 @@
         "size": "3000x2000",
         "celebrities": ["Alberto Núñez Feijóo", "Yolanda Díaz", "Pedro Sánchez", "Ana Pontón", "Carles Puigdemont", "Arnaldo Otegi", "Oriol Junqueras", "Andoni Ortuzar"],
         "parties": ["PP", "Sumar", "PSOE", "BNG", "JxC", "EH Bildu", "ERC", "PNV"]
+    },
+    "las_futbolistas": {
+        "name": "Las futbolistas",
+        "date": "2023-08-22T00:00",
+        "description": [
+            "Politizaron Eurovisión, no iban a politizar el mundial femenino."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
     }
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f416e84f74189b8add25d9e4a606ec14",
+    "revision": "ff34a3e977a40f1fa060399d9935f6d4",
     "url": "/index.html"
   },
   {
-    "revision": "5c3538859e518dfb6a5b",
+    "revision": "d4e658c177d3e7a389ad",
     "url": "/static/css/main.4c9fe3c6.chunk.css"
   },
   {
-    "revision": "3b27762fe9b0336406b6",
-    "url": "/static/js/2.2b25e677.chunk.js"
+    "revision": "a454ef5acf60ce9d2c6d",
+    "url": "/static/js/2.892c44cb.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.2b25e677.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.892c44cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c3538859e518dfb6a5b",
-    "url": "/static/js/main.5cd97e48.chunk.js"
+    "revision": "d4e658c177d3e7a389ad",
+    "url": "/static/js/main.1e11fce9.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2474,6 +2474,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72f80592c621b10a7c627151279280d9",
     "url": "/static/media/las_feministas.72f80592.png"
+  },
+  {
+    "revision": "081fce93cd8fb4676cd243faddd7eabd",
+    "url": "/static/media/las_futbolistas.081fce93.png"
+  },
+  {
+    "revision": "7aa8ebe84e589a34ffe01f9557c39219",
+    "url": "/static/media/las_futbolistas.7aa8ebe8.png"
   },
   {
     "revision": "7b63093e5c7739b2110d795e1353b4f1",

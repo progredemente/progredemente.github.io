@@ -5507,8 +5507,18 @@
         "description": [
             "Politizaron Eurovisión, no iban a politizar el mundial femenino."
         ],
-        "size": "3000x2000",
+        "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"]
+    },
+    "bilis": {
+        "name": "Bilis",
+        "date": "2023-08-23T00:00",
+        "description": [
+            "¿A qué se dedicará a investigar Echenique en el CSIC? Vista su actividad reciente en redes sociales, creo que sabemos todos a qué."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Echenique"],
+        "parties": ["Podemos"]
     }
 }

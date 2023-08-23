@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.1e11fce9.chunk.js",
-    "main.js.map": "/static/js/main.1e11fce9.chunk.js.map",
+    "main.js": "/static/js/main.49ea6a88.chunk.js",
+    "main.js.map": "/static/js/main.49ea6a88.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.892c44cb.chunk.js": "/static/js/2.892c44cb.chunk.js",
-    "static/js/2.892c44cb.chunk.js.map": "/static/js/2.892c44cb.chunk.js.map",
+    "static/js/2.f33e7965.chunk.js": "/static/js/2.f33e7965.chunk.js",
+    "static/js/2.f33e7965.chunk.js.map": "/static/js/2.f33e7965.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6cdb0812fa3c76cd91fb4444206002c3.js": "/precache-manifest.6cdb0812fa3c76cd91fb4444206002c3.js",
+    "precache-manifest.4869791228307bc34205a8eae268eba7.js": "/precache-manifest.4869791228307bc34205a8eae268eba7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.892c44cb.chunk.js.LICENSE.txt": "/static/js/2.892c44cb.chunk.js.LICENSE.txt",
+    "static/js/2.f33e7965.chunk.js.LICENSE.txt": "/static/js/2.f33e7965.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -95,6 +95,7 @@
     "static/media/becas_mediocres.png": "/static/media/becas_mediocres.d727d7b5.png",
     "static/media/bella_durmiente.png": "/static/media/bella_durmiente.c60a25fd.png",
     "static/media/bici.png": "/static/media/bici.815dbfbb.png",
+    "static/media/bilis.png": "/static/media/bilis.9bec7d56.png",
     "static/media/billy_el_nino.png": "/static/media/billy_el_nino.9cd410db.png",
     "static/media/bisagranos.png": "/static/media/bisagranos.8ba558ca.png",
     "static/media/bizcochito.png": "/static/media/bizcochito.ba485f2b.png",
@@ -647,8 +648,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.892c44cb.chunk.js",
+    "static/js/2.f33e7965.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.1e11fce9.chunk.js"
+    "static/js/main.49ea6a88.chunk.js"
   ]
 }

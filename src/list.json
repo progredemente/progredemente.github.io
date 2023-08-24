@@ -5520,5 +5520,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Echenique"],
         "parties": ["Podemos"]
+    },
+    "armengol": {
+        "name": "Armengol",
+        "date": "2023-08-24T00:00",
+        "description": [
+            "Vamos a tener PSOE hasta el final de los tiempos y merecidamente."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

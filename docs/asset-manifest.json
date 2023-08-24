@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.49ea6a88.chunk.js",
-    "main.js.map": "/static/js/main.49ea6a88.chunk.js.map",
+    "main.js": "/static/js/main.f47d202c.chunk.js",
+    "main.js.map": "/static/js/main.f47d202c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f33e7965.chunk.js": "/static/js/2.f33e7965.chunk.js",
-    "static/js/2.f33e7965.chunk.js.map": "/static/js/2.f33e7965.chunk.js.map",
+    "static/js/2.020c1c57.chunk.js": "/static/js/2.020c1c57.chunk.js",
+    "static/js/2.020c1c57.chunk.js.map": "/static/js/2.020c1c57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4869791228307bc34205a8eae268eba7.js": "/precache-manifest.4869791228307bc34205a8eae268eba7.js",
+    "precache-manifest.9b52ed92bb0832e0517993df43e01615.js": "/precache-manifest.9b52ed92bb0832e0517993df43e01615.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.f33e7965.chunk.js.LICENSE.txt": "/static/js/2.f33e7965.chunk.js.LICENSE.txt",
+    "static/js/2.020c1c57.chunk.js.LICENSE.txt": "/static/js/2.020c1c57.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -57,6 +57,7 @@
     "static/media/arbre_noel.png": "/static/media/arbre_noel.733d75c0.png",
     "static/media/arde_troya.png": "/static/media/arde_troya.66c919fe.png",
     "static/media/argentina.png": "/static/media/argentina.c0f410ab.png",
+    "static/media/armengol.png": "/static/media/armengol.60e6538b.png",
     "static/media/arvore_natal.png": "/static/media/arvore_natal.e6364771.png",
     "static/media/ascensor.png": "/static/media/ascensor.937eaf74.png",
     "static/media/atencion_sanitaria.png": "/static/media/atencion_sanitaria.607f1c53.png",
@@ -648,8 +649,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f33e7965.chunk.js",
+    "static/js/2.020c1c57.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.49ea6a88.chunk.js"
+    "static/js/main.f47d202c.chunk.js"
   ]
 }

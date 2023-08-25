@@ -5530,5 +5530,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "uberwittchen": {
+        "name": "Überwittchen",
+        "date": "2023-08-25T00:00",
+        "description": [
+            "¿Qué tipo de películas y series harían compañías como Disney, Netflix o Amazon si la brújula moral occidental apuntase hacia otra dirección? Os traigo Überwittchen, una producción de Thirdney, el Disney del universo tercerposicionista."
+        ],
+        "size": "4000x4000",
+        "series": ["memes"]
     }
 }

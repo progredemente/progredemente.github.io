@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.106bd1b1.chunk.js",
-    "main.js.map": "/static/js/main.106bd1b1.chunk.js.map",
+    "main.js": "/static/js/main.043a9669.chunk.js",
+    "main.js.map": "/static/js/main.043a9669.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.cdcd65fd.chunk.js": "/static/js/2.cdcd65fd.chunk.js",
-    "static/js/2.cdcd65fd.chunk.js.map": "/static/js/2.cdcd65fd.chunk.js.map",
+    "static/js/2.2a29a6d8.chunk.js": "/static/js/2.2a29a6d8.chunk.js",
+    "static/js/2.2a29a6d8.chunk.js.map": "/static/js/2.2a29a6d8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6e0d65ed97d81066f7585e2fbfbc9459.js": "/precache-manifest.6e0d65ed97d81066f7585e2fbfbc9459.js",
+    "precache-manifest.a618a3ad9d96c5983eeb47f832e72bb6.js": "/precache-manifest.a618a3ad9d96c5983eeb47f832e72bb6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.cdcd65fd.chunk.js.LICENSE.txt": "/static/js/2.cdcd65fd.chunk.js.LICENSE.txt",
+    "static/js/2.2a29a6d8.chunk.js.LICENSE.txt": "/static/js/2.2a29a6d8.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -130,6 +130,7 @@
     "static/media/calor.png": "/static/media/calor.3af787ac.png",
     "static/media/calor_gente.png": "/static/media/calor_gente.a99c84fb.png",
     "static/media/calvino_ino_ih.png": "/static/media/calvino_ino_ih.b5967d70.png",
+    "static/media/calvorota.png": "/static/media/calvorota.6071167b.png",
     "static/media/camaleon.png": "/static/media/camaleon.da2bdede.png",
     "static/media/cambio_chiringuitos.png": "/static/media/cambio_chiringuitos.d5fcb44b.png",
     "static/media/caminando_juntos.png": "/static/media/caminando_juntos.afe764f8.png",
@@ -650,8 +651,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.cdcd65fd.chunk.js",
+    "static/js/2.2a29a6d8.chunk.js",
     "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.106bd1b1.chunk.js"
+    "static/js/main.043a9669.chunk.js"
   ]
 }

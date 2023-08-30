@@ -5539,5 +5539,14 @@
         ],
         "size": "4000x4000",
         "series": ["memes"]
+    },
+    "calvorota": {
+        "name": "Calvorota",
+        "date": "2023-08-30T00:00",
+        "description": [
+            "¿Por qué le llaman rubiales si está calvo?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Luis Rubiales"]
     }
 }

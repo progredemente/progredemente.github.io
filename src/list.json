@@ -5548,5 +5548,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Luis Rubiales"]
+    },
+    "celebrar_condenar": {
+        "name": "Celebrar condenar",
+        "date": "2023-08-30T01:00",
+        "description": [
+            "He estado en fiestas menos animadas que estas manifestaciones para \"condenar agresiones\"."
+        ],
+        "size": "4000x2500"
     }
 }

@@ -20,13 +20,11 @@ class Welcome extends Component {
             camaleon: false,
             calor: false,
             buon_appetito: false,
-            d_hondt: false,
-            showAllSocialNetworks: false
+            d_hondt: false
         }
     }
 
     render() {
-        let social2 = this.state.showAllSocialNetworks ? social : social.slice(0, 4);
         return (
             <div className="welcome">
                 <div className="welcome-logo">
@@ -54,20 +52,12 @@ class Welcome extends Component {
                     </Link>
                     <p>Sígueme en</p>
                     {
-                        social2.map((s) => {
+                        social.map((s) => {
                             return (
                                 <Social key={s.id} page={s} name/>
                             )
                         })
                     }
-                    <div
-                        className={`social-link more${this.state.showAllSocialNetworks ? " hidden": ""}`}
-                        onClick={() => {
-                            this.setState({ showAllSocialNetworks: true })
-                        }}
-                    >
-                        +
-                    </div>
                     <p>Apps</p>
                     <a href="/perroflautum" className="social-link">
                         <Loading

@@ -5556,5 +5556,17 @@
             "He estado en fiestas menos animadas que estas manifestaciones para \"condenar agresiones\"."
         ],
         "size": "4000x2500"
+    },
+    "aceite": {
+        "name": "Aceite de oliva",
+        "date": "2023-08-31T00:00",
+        "description": [
+            "Dentro de poco vamos a tener que usar mantequilla para aliñar las ensaladas."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["it", "pt", "el"]
+        }
     }
 }

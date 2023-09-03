@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c9fe3c6.chunk.css",
-    "main.js": "/static/js/main.77748c79.chunk.js",
-    "main.js.map": "/static/js/main.77748c79.chunk.js.map",
+    "main.css": "/static/css/main.e8a493dd.chunk.css",
+    "main.js": "/static/js/main.37c12bc0.chunk.js",
+    "main.js.map": "/static/js/main.37c12bc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.73ae2b9f.chunk.js": "/static/js/2.73ae2b9f.chunk.js",
-    "static/js/2.73ae2b9f.chunk.js.map": "/static/js/2.73ae2b9f.chunk.js.map",
+    "static/js/2.35fb7a50.chunk.js": "/static/js/2.35fb7a50.chunk.js",
+    "static/js/2.35fb7a50.chunk.js.map": "/static/js/2.35fb7a50.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ffa95ecef52e7668032a01cf67372470.js": "/precache-manifest.ffa95ecef52e7668032a01cf67372470.js",
+    "precache-manifest.7305a641283b3fedd2bdc921b99f41f7.js": "/precache-manifest.7305a641283b3fedd2bdc921b99f41f7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4c9fe3c6.chunk.css.map": "/static/css/main.4c9fe3c6.chunk.css.map",
-    "static/js/2.73ae2b9f.chunk.js.LICENSE.txt": "/static/js/2.73ae2b9f.chunk.js.LICENSE.txt",
+    "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
+    "static/js/2.35fb7a50.chunk.js.LICENSE.txt": "/static/js/2.35fb7a50.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -32,6 +32,7 @@
     "static/media/alboran_dolmayan.png": "/static/media/alboran_dolmayan.c81e8bb0.png",
     "static/media/alerta_antifascista.png": "/static/media/alerta_antifascista.a5481c75.png",
     "static/media/alerta_antifascista_animado.png": "/static/media/alerta_antifascista_animado.7368691f.png",
+    "static/media/aliades.png": "/static/media/aliades.edf31638.png",
     "static/media/alicio.png": "/static/media/alicio.76410b22.png",
     "static/media/altavoz_mediatico.png": "/static/media/altavoz_mediatico.a377f0bb.png",
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
@@ -657,8 +658,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.73ae2b9f.chunk.js",
-    "static/css/main.4c9fe3c6.chunk.css",
-    "static/js/main.77748c79.chunk.js"
+    "static/js/2.35fb7a50.chunk.js",
+    "static/css/main.e8a493dd.chunk.css",
+    "static/js/main.37c12bc0.chunk.js"
   ]
 }

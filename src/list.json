@@ -5568,5 +5568,13 @@
             "default": "es",
             "available": ["it", "pt", "el"]
         }
+    },
+    "aliades": {
+        "name": "Aliades",
+        "date": "2023-09-01T00:00",
+        "description": [
+            "¿Con qué tipo de hombres se relacionan más las mujeres feministas? Es una cuestión de probabilidad."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -5576,5 +5576,13 @@
             "¿Con qué tipo de hombres se relacionan más las mujeres feministas? Es una cuestión de probabilidad."
         ],
         "size": "2000x2000"
+    },
+    "nina": {
+        "name": "Niña",
+        "date": "2023-09-06T00:00",
+        "description": [
+            "Y vosotros, ¿qué queríais ser de mayores cuando erais pequeños?"
+        ],
+        "size": "2000x2000"
     }
 }

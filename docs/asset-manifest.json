@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.3807660e.chunk.js",
-    "main.js.map": "/static/js/main.3807660e.chunk.js.map",
+    "main.js": "/static/js/main.6cd77849.chunk.js",
+    "main.js.map": "/static/js/main.6cd77849.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.48f14a07.chunk.js": "/static/js/2.48f14a07.chunk.js",
-    "static/js/2.48f14a07.chunk.js.map": "/static/js/2.48f14a07.chunk.js.map",
+    "static/js/2.74fed28d.chunk.js": "/static/js/2.74fed28d.chunk.js",
+    "static/js/2.74fed28d.chunk.js.map": "/static/js/2.74fed28d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6fa6dd232e60faa948169fa80c036467.js": "/precache-manifest.6fa6dd232e60faa948169fa80c036467.js",
+    "precache-manifest.62c55e93ebbf89e5c6800a32354f8b69.js": "/precache-manifest.62c55e93ebbf89e5c6800a32354f8b69.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.48f14a07.chunk.js.LICENSE.txt": "/static/js/2.48f14a07.chunk.js.LICENSE.txt",
+    "static/js/2.74fed28d.chunk.js.LICENSE.txt": "/static/js/2.74fed28d.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -407,6 +407,7 @@
     "static/media/meritocracia.png": "/static/media/meritocracia.8422905e.png",
     "static/media/mermelada.png": "/static/media/mermelada.22fa195e.png",
     "static/media/meta.png": "/static/media/meta.491cd660.png",
+    "static/media/metoca.png": "/static/media/metoca.9bb0af25.png",
     "static/media/milei_cyrus.png": "/static/media/milei_cyrus.a8db9dfa.png",
     "static/media/mileiku.png": "/static/media/mileiku.d8409faa.png",
     "static/media/milenio_live.png": "/static/media/milenio_live.7b73573d.png",
@@ -659,8 +660,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.48f14a07.chunk.js",
+    "static/js/2.74fed28d.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.3807660e.chunk.js"
+    "static/js/main.6cd77849.chunk.js"
   ]
 }

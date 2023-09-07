@@ -5584,5 +5584,13 @@
             "Y vosotros, ¿qué queríais ser de mayores cuando erais pequeños?"
         ],
         "size": "2000x2000"
+    },
+    "metoca": {
+        "name": "MeToca",
+        "date": "2023-09-07T00:00",
+        "description": [
+            "Si tienes que utilizar una aplicación hecha por el gobierno para gestionar las tareas del hogar, siento decirte que la mayoría de edad te la dieron demasiado pronto."
+        ],
+        "size": "3000x2000"
     }
 }

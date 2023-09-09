@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a8ea492ee3c2f7cf7c393d90d15af39",
+    "revision": "e4219cf5c90b7bd414c7257612b654ea",
     "url": "/index.html"
   },
   {
-    "revision": "96a91290dd542b112833",
+    "revision": "ec5cf81f481090b1b6f1",
     "url": "/static/css/main.e8a493dd.chunk.css"
   },
   {
-    "revision": "0da75e8b8036b3fb13ce",
-    "url": "/static/js/2.74fed28d.chunk.js"
+    "revision": "d28aa07af849447c719e",
+    "url": "/static/js/2.7a0bfc27.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.74fed28d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7a0bfc27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96a91290dd542b112833",
-    "url": "/static/js/main.6cd77849.chunk.js"
+    "revision": "ec5cf81f481090b1b6f1",
+    "url": "/static/js/main.93aab644.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -3662,6 +3662,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cee10b9b0d21bbb3c15cb640969c3b9c",
     "url": "/static/media/pokemon_espana.cee10b9b.png"
+  },
+  {
+    "revision": "5fd8b2272d8689de62d2238abc680dc7",
+    "url": "/static/media/polemicas.5fd8b227.png"
+  },
+  {
+    "revision": "7c79f89d9558ce3bd4ff6b0ba1a750ca",
+    "url": "/static/media/polemicas.7c79f89d.png"
   },
   {
     "revision": "4d751c26555f7e596ac50e4380b225af",

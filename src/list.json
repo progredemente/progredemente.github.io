@@ -5592,5 +5592,15 @@
             "Si tienes que utilizar una aplicación hecha por el gobierno para gestionar las tareas del hogar, siento decirte que la mayoría de edad te la dieron demasiado pronto."
         ],
         "size": "3000x2000"
+    },
+    "polemicas": {
+        "name": "Polémicas",
+        "date": "2023-09-09T00:00",
+        "description": [
+            "Visto lo visto, les merece la pena mantenerla como ministra de igualdad, pasa cualquier chorrada y ya sale esta y su séquito de charos a montar el espectáculo con toda la prensa entrando al trapo. Sería estúpido por su parte perder semejante señuelo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE", "Podemos"]
     }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.6cd77849.chunk.js",
-    "main.js.map": "/static/js/main.6cd77849.chunk.js.map",
+    "main.js": "/static/js/main.93aab644.chunk.js",
+    "main.js.map": "/static/js/main.93aab644.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.74fed28d.chunk.js": "/static/js/2.74fed28d.chunk.js",
-    "static/js/2.74fed28d.chunk.js.map": "/static/js/2.74fed28d.chunk.js.map",
+    "static/js/2.7a0bfc27.chunk.js": "/static/js/2.7a0bfc27.chunk.js",
+    "static/js/2.7a0bfc27.chunk.js.map": "/static/js/2.7a0bfc27.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.62c55e93ebbf89e5c6800a32354f8b69.js": "/precache-manifest.62c55e93ebbf89e5c6800a32354f8b69.js",
+    "precache-manifest.f88e994c06628475c8940c2b5437a68a.js": "/precache-manifest.f88e994c06628475c8940c2b5437a68a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.74fed28d.chunk.js.LICENSE.txt": "/static/js/2.74fed28d.chunk.js.LICENSE.txt",
+    "static/js/2.7a0bfc27.chunk.js.LICENSE.txt": "/static/js/2.7a0bfc27.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -502,6 +502,7 @@
     "static/media/pocilgazis.png": "/static/media/pocilgazis.9fa73543.png",
     "static/media/pocos_impuestos.png": "/static/media/pocos_impuestos.df1a372b.png",
     "static/media/pokemon_espana.png": "/static/media/pokemon_espana.cee10b9b.png",
+    "static/media/polemicas.png": "/static/media/polemicas.7c79f89d.png",
     "static/media/pollo.png": "/static/media/pollo.a7e7ca30.png",
     "static/media/porco_rosso.png": "/static/media/porco_rosso.5936886d.png",
     "static/media/porco_rosso_chileno.png": "/static/media/porco_rosso_chileno.7d46bdfa.png",
@@ -660,8 +661,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.74fed28d.chunk.js",
+    "static/js/2.7a0bfc27.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.6cd77849.chunk.js"
+    "static/js/main.93aab644.chunk.js"
   ]
 }

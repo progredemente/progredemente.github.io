@@ -5575,7 +5575,8 @@
         "description": [
             "¿Con qué tipo de hombres se relacionan más las mujeres feministas? Es una cuestión de probabilidad."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     },
     "nina": {
         "name": "Niña",
@@ -5602,5 +5603,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE", "Podemos"]
+    },
+    "amnistia": {
+        "name": "Amnistía",
+        "date": "2023-09-11T00:00",
+        "description": [
+            "La amnistía es posible gracias a la amnesia del votante."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Luis Rubiales"],
+        "parties": ["PSOE", "JxC"]
     }
 }

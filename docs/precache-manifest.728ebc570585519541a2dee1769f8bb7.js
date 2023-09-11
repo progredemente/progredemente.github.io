@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4219cf5c90b7bd414c7257612b654ea",
+    "revision": "6294d7434187185f81ad9a57db8a9e45",
     "url": "/index.html"
   },
   {
-    "revision": "ec5cf81f481090b1b6f1",
+    "revision": "f04f96f0671267d66164",
     "url": "/static/css/main.e8a493dd.chunk.css"
   },
   {
-    "revision": "d28aa07af849447c719e",
-    "url": "/static/js/2.7a0bfc27.chunk.js"
+    "revision": "6504cd6589dbf14d9fdc",
+    "url": "/static/js/2.66a4e4ad.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.7a0bfc27.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.66a4e4ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec5cf81f481090b1b6f1",
-    "url": "/static/js/main.93aab644.chunk.js"
+    "revision": "f04f96f0671267d66164",
+    "url": "/static/js/main.197669fe.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -222,6 +222,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed795a7a9446e694ca1871ee0f3aafa5",
     "url": "/static/media/amistad.ed795a7a.png"
+  },
+  {
+    "revision": "5b1dbaa5495a9039ca5145fdb75b3209",
+    "url": "/static/media/amnistia.5b1dbaa5.png"
+  },
+  {
+    "revision": "af2f566d89d3585a917260fd01163f70",
+    "url": "/static/media/amnistia.af2f566d.png"
   },
   {
     "revision": "1ea4755914971195515d3ae1c89e4d30",

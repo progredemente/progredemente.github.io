@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.93aab644.chunk.js",
-    "main.js.map": "/static/js/main.93aab644.chunk.js.map",
+    "main.js": "/static/js/main.197669fe.chunk.js",
+    "main.js.map": "/static/js/main.197669fe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.7a0bfc27.chunk.js": "/static/js/2.7a0bfc27.chunk.js",
-    "static/js/2.7a0bfc27.chunk.js.map": "/static/js/2.7a0bfc27.chunk.js.map",
+    "static/js/2.66a4e4ad.chunk.js": "/static/js/2.66a4e4ad.chunk.js",
+    "static/js/2.66a4e4ad.chunk.js.map": "/static/js/2.66a4e4ad.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f88e994c06628475c8940c2b5437a68a.js": "/precache-manifest.f88e994c06628475c8940c2b5437a68a.js",
+    "precache-manifest.728ebc570585519541a2dee1769f8bb7.js": "/precache-manifest.728ebc570585519541a2dee1769f8bb7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.7a0bfc27.chunk.js.LICENSE.txt": "/static/js/2.7a0bfc27.chunk.js.LICENSE.txt",
+    "static/js/2.66a4e4ad.chunk.js.LICENSE.txt": "/static/js/2.66a4e4ad.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -40,6 +40,7 @@
     "static/media/amenazas.png": "/static/media/amenazas.decc8d55.png",
     "static/media/amiguis_rey.png": "/static/media/amiguis_rey.d819a020.png",
     "static/media/amistad.png": "/static/media/amistad.ed795a7a.png",
+    "static/media/amnistia.png": "/static/media/amnistia.af2f566d.png",
     "static/media/among_us.png": "/static/media/among_us.9baa711e.png",
     "static/media/ana_botella.png": "/static/media/ana_botella.6bb29ca7.png",
     "static/media/anillo.png": "/static/media/anillo.5f66fae6.png",
@@ -661,8 +662,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.7a0bfc27.chunk.js",
+    "static/js/2.66a4e4ad.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.93aab644.chunk.js"
+    "static/js/main.197669fe.chunk.js"
   ]
 }

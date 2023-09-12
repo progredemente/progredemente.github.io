@@ -5613,5 +5613,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Luis Rubiales"],
         "parties": ["PSOE", "JxC"]
+    },
+    "amaral": {
+        "name": "amaral",
+        "date": "2023-09-12T00:00",
+        "description": [
+            "Alguien tenía que hacerlo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Eva Amaral"]
     }
 }

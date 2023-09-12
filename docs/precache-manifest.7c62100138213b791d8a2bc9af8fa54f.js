@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6294d7434187185f81ad9a57db8a9e45",
+    "revision": "30a9ef277b4c9f7fce9ffb985d1caed3",
     "url": "/index.html"
   },
   {
-    "revision": "f04f96f0671267d66164",
+    "revision": "947db4e8068774aa4cc2",
     "url": "/static/css/main.e8a493dd.chunk.css"
   },
   {
-    "revision": "6504cd6589dbf14d9fdc",
-    "url": "/static/js/2.66a4e4ad.chunk.js"
+    "revision": "1772e58c68e966fab1fc",
+    "url": "/static/js/2.f79009ca.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.66a4e4ad.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f79009ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f04f96f0671267d66164",
-    "url": "/static/js/main.197669fe.chunk.js"
+    "revision": "947db4e8068774aa4cc2",
+    "url": "/static/js/main.4d3e87f6.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -198,6 +198,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8ea407bcf5020764a232f065d7fe56c",
     "url": "/static/media/alvarez_de_hyrule.c8ea407b.png"
+  },
+  {
+    "revision": "0b9095ffcfb3d80ba323468e9ce8c4f1",
+    "url": "/static/media/amaral.0b9095ff.png"
+  },
+  {
+    "revision": "a21087daafcf928ec899ef1d3e852d73",
+    "url": "/static/media/amaral.a21087da.png"
   },
   {
     "revision": "c8a4be6772c684c44c05d2c9d88f510c",

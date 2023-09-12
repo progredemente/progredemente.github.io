@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.197669fe.chunk.js",
-    "main.js.map": "/static/js/main.197669fe.chunk.js.map",
+    "main.js": "/static/js/main.4d3e87f6.chunk.js",
+    "main.js.map": "/static/js/main.4d3e87f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.66a4e4ad.chunk.js": "/static/js/2.66a4e4ad.chunk.js",
-    "static/js/2.66a4e4ad.chunk.js.map": "/static/js/2.66a4e4ad.chunk.js.map",
+    "static/js/2.f79009ca.chunk.js": "/static/js/2.f79009ca.chunk.js",
+    "static/js/2.f79009ca.chunk.js.map": "/static/js/2.f79009ca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.728ebc570585519541a2dee1769f8bb7.js": "/precache-manifest.728ebc570585519541a2dee1769f8bb7.js",
+    "precache-manifest.7c62100138213b791d8a2bc9af8fa54f.js": "/precache-manifest.7c62100138213b791d8a2bc9af8fa54f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.66a4e4ad.chunk.js.LICENSE.txt": "/static/js/2.66a4e4ad.chunk.js.LICENSE.txt",
+    "static/js/2.f79009ca.chunk.js.LICENSE.txt": "/static/js/2.f79009ca.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -37,6 +37,7 @@
     "static/media/altavoz_mediatico.png": "/static/media/altavoz_mediatico.a377f0bb.png",
     "static/media/alvarez_de_hyrule.png": "/static/media/alvarez_de_hyrule.c8ea407b.png",
     "static/media/alvarez_de_hyrule.mp3": "/static/media/alvarez_de_hyrule.bed48e4b.mp3",
+    "static/media/amaral.png": "/static/media/amaral.a21087da.png",
     "static/media/amenazas.png": "/static/media/amenazas.decc8d55.png",
     "static/media/amiguis_rey.png": "/static/media/amiguis_rey.d819a020.png",
     "static/media/amistad.png": "/static/media/amistad.ed795a7a.png",
@@ -662,8 +663,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.66a4e4ad.chunk.js",
+    "static/js/2.f79009ca.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.197669fe.chunk.js"
+    "static/js/main.4d3e87f6.chunk.js"
   ]
 }

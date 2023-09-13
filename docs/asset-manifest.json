@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.4d3e87f6.chunk.js",
-    "main.js.map": "/static/js/main.4d3e87f6.chunk.js.map",
+    "main.js": "/static/js/main.75e19878.chunk.js",
+    "main.js.map": "/static/js/main.75e19878.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.f79009ca.chunk.js": "/static/js/2.f79009ca.chunk.js",
-    "static/js/2.f79009ca.chunk.js.map": "/static/js/2.f79009ca.chunk.js.map",
+    "static/js/2.31d90ec2.chunk.js": "/static/js/2.31d90ec2.chunk.js",
+    "static/js/2.31d90ec2.chunk.js.map": "/static/js/2.31d90ec2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7c62100138213b791d8a2bc9af8fa54f.js": "/precache-manifest.7c62100138213b791d8a2bc9af8fa54f.js",
+    "precache-manifest.2be4e7bdd1823021f7727903d6b5902a.js": "/precache-manifest.2be4e7bdd1823021f7727903d6b5902a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.f79009ca.chunk.js.LICENSE.txt": "/static/js/2.f79009ca.chunk.js.LICENSE.txt",
+    "static/js/2.31d90ec2.chunk.js.LICENSE.txt": "/static/js/2.31d90ec2.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -214,6 +214,7 @@
     "static/media/dia_libro.png": "/static/media/dia_libro.a67845ba.png",
     "static/media/dia_trabajo.png": "/static/media/dia_trabajo.bf014ec7.png",
     "static/media/diarrea_legislativa.png": "/static/media/diarrea_legislativa.dba495ab.png",
+    "static/media/dimitir.png": "/static/media/dimitir.575afa12.png",
     "static/media/discapacitada.png": "/static/media/discapacitada.932d86a9.png",
     "static/media/discapacitada.en.png": "/static/media/discapacitada.en.18e0577f.png",
     "static/media/disciplina_partido.png": "/static/media/disciplina_partido.c329d699.png",
@@ -663,8 +664,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.f79009ca.chunk.js",
+    "static/js/2.31d90ec2.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.4d3e87f6.chunk.js"
+    "static/js/main.75e19878.chunk.js"
   ]
 }

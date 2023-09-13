@@ -5622,5 +5622,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Eva Amaral"]
+    },
+    "dimitir": {
+        "name": "Dimitir",
+        "date": "2023-09-13T00:00",
+        "description": [
+            "Lleva en modo Rubiales desde marzo de 2020."
+        ],
+        "url": "https://www.youtube.com/embed/HaBQhaevflA",
+        "series": ["animacion"],
+        "celebrities": ["Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

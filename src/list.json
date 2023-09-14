@@ -5633,5 +5633,15 @@
         "series": ["animacion"],
         "celebrities": ["Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "golpista": {
+        "name": "Golpista",
+        "date": "2023-09-14T00:00",
+        "description": [
+            "Cree el ladrón..."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Oriol Junqueras", "José María Aznar"],
+        "parties": ["ERC", "PP"]
     }
 }

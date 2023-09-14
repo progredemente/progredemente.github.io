@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.75e19878.chunk.js",
-    "main.js.map": "/static/js/main.75e19878.chunk.js.map",
+    "main.js": "/static/js/main.c6a84aaa.chunk.js",
+    "main.js.map": "/static/js/main.c6a84aaa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.31d90ec2.chunk.js": "/static/js/2.31d90ec2.chunk.js",
-    "static/js/2.31d90ec2.chunk.js.map": "/static/js/2.31d90ec2.chunk.js.map",
+    "static/js/2.afed4e61.chunk.js": "/static/js/2.afed4e61.chunk.js",
+    "static/js/2.afed4e61.chunk.js.map": "/static/js/2.afed4e61.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2be4e7bdd1823021f7727903d6b5902a.js": "/precache-manifest.2be4e7bdd1823021f7727903d6b5902a.js",
+    "precache-manifest.8b57fab72444b20e3363c9818c184595.js": "/precache-manifest.8b57fab72444b20e3363c9818c184595.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.31d90ec2.chunk.js.LICENSE.txt": "/static/js/2.31d90ec2.chunk.js.LICENSE.txt",
+    "static/js/2.afed4e61.chunk.js.LICENSE.txt": "/static/js/2.afed4e61.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -286,6 +286,7 @@
     "static/media/globo.png": "/static/media/globo.f670ee90.png",
     "static/media/glovo_publico.png": "/static/media/glovo_publico.f1d7c5fd.png",
     "static/media/gobierno_ideal.png": "/static/media/gobierno_ideal.cc5342ab.png",
+    "static/media/golpista.png": "/static/media/golpista.94b6ec32.png",
     "static/media/government_funded.png": "/static/media/government_funded.53a0a7ab.png",
     "static/media/government_funded.es.png": "/static/media/government_funded.es.10821832.png",
     "static/media/goya.png": "/static/media/goya.fef045de.png",
@@ -664,8 +665,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.31d90ec2.chunk.js",
+    "static/js/2.afed4e61.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.75e19878.chunk.js"
+    "static/js/main.c6a84aaa.chunk.js"
   ]
 }

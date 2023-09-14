@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe3c1d71655ecd8cbd0795f3a77d1c24",
+    "revision": "64d52e93cc3e1d2366dddb6d99031fec",
     "url": "/index.html"
   },
   {
-    "revision": "d033ed9ddf04e63a3a97",
+    "revision": "3b259590d2d888016aaa",
     "url": "/static/css/main.e8a493dd.chunk.css"
   },
   {
-    "revision": "385cf488b860016d9609",
-    "url": "/static/js/2.31d90ec2.chunk.js"
+    "revision": "ffc25c5a0028af351509",
+    "url": "/static/js/2.afed4e61.chunk.js"
   },
   {
     "revision": "ca3cfcda77dc9f4f71fda9fdfcf14fb0",
-    "url": "/static/js/2.31d90ec2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.afed4e61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d033ed9ddf04e63a3a97",
-    "url": "/static/js/main.75e19878.chunk.js"
+    "revision": "3b259590d2d888016aaa",
+    "url": "/static/js/main.c6a84aaa.chunk.js"
   },
   {
     "revision": "7c05b084e6b8136abe36",
@@ -2062,6 +2062,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc5342ab066895679c3dd356c915b6e3",
     "url": "/static/media/gobierno_ideal.cc5342ab.png"
+  },
+  {
+    "revision": "46429dcfbd5e6be7302eeed50e832428",
+    "url": "/static/media/golpista.46429dcf.png"
+  },
+  {
+    "revision": "94b6ec32f73a468aacca04a904ccebfb",
+    "url": "/static/media/golpista.94b6ec32.png"
   },
   {
     "revision": "449a7ddc5067cb8c2a33884f93b981fa",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.c6a84aaa.chunk.js",
-    "main.js.map": "/static/js/main.c6a84aaa.chunk.js.map",
+    "main.js": "/static/js/main.f62db684.chunk.js",
+    "main.js.map": "/static/js/main.f62db684.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.afed4e61.chunk.js": "/static/js/2.afed4e61.chunk.js",
-    "static/js/2.afed4e61.chunk.js.map": "/static/js/2.afed4e61.chunk.js.map",
+    "static/js/2.90008d1d.chunk.js": "/static/js/2.90008d1d.chunk.js",
+    "static/js/2.90008d1d.chunk.js.map": "/static/js/2.90008d1d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8b57fab72444b20e3363c9818c184595.js": "/precache-manifest.8b57fab72444b20e3363c9818c184595.js",
+    "precache-manifest.0dcefc3d47077c2feb705705724a6d62.js": "/precache-manifest.0dcefc3d47077c2feb705705724a6d62.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.afed4e61.chunk.js.LICENSE.txt": "/static/js/2.afed4e61.chunk.js.LICENSE.txt",
+    "static/js/2.90008d1d.chunk.js.LICENSE.txt": "/static/js/2.90008d1d.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -213,6 +213,7 @@
     "static/media/despertar_mujer.png": "/static/media/despertar_mujer.b75b6842.png",
     "static/media/dia_libro.png": "/static/media/dia_libro.a67845ba.png",
     "static/media/dia_trabajo.png": "/static/media/dia_trabajo.bf014ec7.png",
+    "static/media/diario_red.png": "/static/media/diario_red.9a0b4779.png",
     "static/media/diarrea_legislativa.png": "/static/media/diarrea_legislativa.dba495ab.png",
     "static/media/dimitir.png": "/static/media/dimitir.575afa12.png",
     "static/media/discapacitada.png": "/static/media/discapacitada.932d86a9.png",
@@ -665,8 +666,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.afed4e61.chunk.js",
+    "static/js/2.90008d1d.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.c6a84aaa.chunk.js"
+    "static/js/main.f62db684.chunk.js"
   ]
 }

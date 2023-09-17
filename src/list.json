@@ -5643,5 +5643,15 @@
         "size": "3000x2000",
         "celebrities": ["Oriol Junqueras", "José María Aznar"],
         "parties": ["ERC", "PP"]
+    },
+    "diario_red": {
+        "name": "{Diario}Red",
+        "date": "2023-09-17T00:00",
+        "description": [
+            "La clásica jugada."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["Podemos"]
     }
 }

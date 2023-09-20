@@ -5653,5 +5653,16 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["Podemos"]
+    },
+    "presunto": {
+        "name": "Presunto",
+        "date": "2023-09-20T00:00",
+        "description": [
+            "Ruffles debería contratarme para sus campañas de marketing."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero", "Ángela Rodríguez Pam"],
+        "parties": ["Podemos"],
+        "tags": ["jamón"]
     }
 }

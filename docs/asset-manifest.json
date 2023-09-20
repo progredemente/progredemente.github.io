@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.f62db684.chunk.js",
-    "main.js.map": "/static/js/main.f62db684.chunk.js.map",
+    "main.js": "/static/js/main.24db5714.chunk.js",
+    "main.js.map": "/static/js/main.24db5714.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.90008d1d.chunk.js": "/static/js/2.90008d1d.chunk.js",
-    "static/js/2.90008d1d.chunk.js.map": "/static/js/2.90008d1d.chunk.js.map",
+    "static/js/2.be21203c.chunk.js": "/static/js/2.be21203c.chunk.js",
+    "static/js/2.be21203c.chunk.js.map": "/static/js/2.be21203c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0dcefc3d47077c2feb705705724a6d62.js": "/precache-manifest.0dcefc3d47077c2feb705705724a6d62.js",
+    "precache-manifest.2e60e9a87b140b975ff02b163b26594c.js": "/precache-manifest.2e60e9a87b140b975ff02b163b26594c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.90008d1d.chunk.js.LICENSE.txt": "/static/js/2.90008d1d.chunk.js.LICENSE.txt",
+    "static/js/2.be21203c.chunk.js.LICENSE.txt": "/static/js/2.be21203c.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -517,6 +517,7 @@
     "static/media/precios_justos.png": "/static/media/precios_justos.3b82af14.png",
     "static/media/preferencias.png": "/static/media/preferencias.5a911cd1.png",
     "static/media/presas.png": "/static/media/presas.78c53f76.png",
+    "static/media/presunto.png": "/static/media/presunto.ad27dc64.png",
     "static/media/presupuestos.png": "/static/media/presupuestos.d1a3bf9a.png",
     "static/media/primos.png": "/static/media/primos.f96a79ec.png",
     "static/media/progrebranding_1.png": "/static/media/progrebranding_1.c478ff72.png",
@@ -666,8 +667,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.90008d1d.chunk.js",
+    "static/js/2.be21203c.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.f62db684.chunk.js"
+    "static/js/main.24db5714.chunk.js"
   ]
 }

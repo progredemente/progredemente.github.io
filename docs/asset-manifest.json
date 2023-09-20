@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e8a493dd.chunk.css",
-    "main.js": "/static/js/main.24db5714.chunk.js",
-    "main.js.map": "/static/js/main.24db5714.chunk.js.map",
+    "main.js": "/static/js/main.15579218.chunk.js",
+    "main.js.map": "/static/js/main.15579218.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d10d1acb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d10d1acb.js.map",
-    "static/js/2.be21203c.chunk.js": "/static/js/2.be21203c.chunk.js",
-    "static/js/2.be21203c.chunk.js.map": "/static/js/2.be21203c.chunk.js.map",
+    "static/js/2.dac51f1f.chunk.js": "/static/js/2.dac51f1f.chunk.js",
+    "static/js/2.dac51f1f.chunk.js.map": "/static/js/2.dac51f1f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2e60e9a87b140b975ff02b163b26594c.js": "/precache-manifest.2e60e9a87b140b975ff02b163b26594c.js",
+    "precache-manifest.1584ebe0f8ec2d98953f1a1ae479a145.js": "/precache-manifest.1584ebe0f8ec2d98953f1a1ae479a145.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e8a493dd.chunk.css.map": "/static/css/main.e8a493dd.chunk.css.map",
-    "static/js/2.be21203c.chunk.js.LICENSE.txt": "/static/js/2.be21203c.chunk.js.LICENSE.txt",
+    "static/js/2.dac51f1f.chunk.js.LICENSE.txt": "/static/js/2.dac51f1f.chunk.js.LICENSE.txt",
     "static/media/1_cop_8_cup.png": "/static/media/1_cop_8_cup.beb5e6bd.png",
     "static/media/20319000000.png": "/static/media/20319000000.cd6f5617.png",
     "static/media/2_patas.png": "/static/media/2_patas.e0269c52.png",
@@ -158,6 +158,7 @@
     "static/media/casinos_furcias.png": "/static/media/casinos_furcias.ed3583c7.png",
     "static/media/castillo.png": "/static/media/castillo.95f13f3f.png",
     "static/media/castillo_naipes.png": "/static/media/castillo_naipes.9a1ca709.png",
+    "static/media/catala.png": "/static/media/catala.180d50e9.png",
     "static/media/ccoo.png": "/static/media/ccoo.f80ac54c.png",
     "static/media/celaa_de_vil.png": "/static/media/celaa_de_vil.c12a8382.png",
     "static/media/celebrar_condenar.png": "/static/media/celebrar_condenar.9620061c.png",
@@ -667,8 +668,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d10d1acb.js",
-    "static/js/2.be21203c.chunk.js",
+    "static/js/2.dac51f1f.chunk.js",
     "static/css/main.e8a493dd.chunk.css",
-    "static/js/main.24db5714.chunk.js"
+    "static/js/main.15579218.chunk.js"
   ]
 }

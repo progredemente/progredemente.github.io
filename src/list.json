@@ -5664,5 +5664,16 @@
         "celebrities": ["Irene Montero", "Ángela Rodríguez Pam"],
         "parties": ["Podemos"],
         "tags": ["jamón"]
+    },
+    "catala": {
+        "name": "Català",
+        "date": "2023-09-20T01:00",
+        "description": [
+            "Yo creo que en 18 meses consigue aprenderlo."
+        ],
+        "url": "https://www.youtube.com/embed/rWN0RnzRZHM",
+        "series": ["animacion"],
+        "celebrities": ["Gabriel Rufián"],
+        "parties": ["ERC"]
     }
 }

@@ -17,7 +17,7 @@ class Banner extends Component {
                 />
                 <img
                     className={ this.state.load ? "": " hidden" }
-                    src={require(`../img/banners/${this.props.id}_banner.png`)}
+                    src={`../img/banners/${this.props.id}_banner.png`}
                     alt={this.props.alt}
                     onLoad={ () => {
                         this.setState({ load: true })

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Social.css';
 import Loading from './Loading';
-import Icon from './Icon';
+import { Icon } from 'components/Icon';
 
 class Social extends Component{
 
@@ -27,7 +27,7 @@ class Social extends Component{
                             hidden={this.state.load}
                         />
                         <img
-                            src={require(`../img/social/${this.props.page.id}.png`)}
+                            src={`/img/social/${this.props.page.id}.png`}
                             alt={this.props.page.id}
                             className={this.state.load ? "" : "hidden"}
                             onLoad={ () => {

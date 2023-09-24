@@ -5,7 +5,7 @@ import './Post.css';
 import PostNavigator from './PostNavigator';
 import Roster from './Roster';
 import {Link} from 'react-router-dom';
-import {formatDate} from '../../common/utils.js';
+import {formatDate, withParams} from '../../common/utils.js';
 import Loading from '../../common/Loading.js';
 import Banner from '../../common/Banner';
 import RichText from './RichText.js';
@@ -38,16 +38,25 @@ class Post extends Component {
             currentLang: null
         }
     }
+    
+    componentDidUpdate(prevProps) {
+        if(prevProps.params.id !== this.props.params.id){
+            this.changeImg(true);
+        }
+    }
 
-    changeImg = () => {
-        this.setState({ load: false });
+    changeImg = (render=false) => {
+        this.setState({ load: false }, () => {
+            if(render) {
+                this.render();
+            }
+        });
     }
 
     render() {
-        let id = this.props.match.params.id;
+        let urlSplit = window.location.href.split('#')[1].split("/");
+        let id = urlSplit.pop();
         let list_ = list;
-        let urlSplit = this.props.match.url.split("/");
-        urlSplit.pop();
         let series = urlSplit[urlSplit.length - 1];
         if(Object.keys(seriesList).includes(series)){
             if(series === "progremon"){
@@ -92,7 +101,7 @@ class Post extends Component {
                         >
                             <Loading />
                         </div>
-                        <img key={id} className={ this.state.load ? "": "hidden" } src={require(`../../img/comic/${id}${lang}.png`)} alt={list_[id].name} onLoad={ () => {
+                        <img key={id} className={ this.state.load ? "": "hidden" } src={`../../img/comic/${id}${lang}.png`} alt={list_[id].name} onLoad={ () => {
                                 this.setState({ load: true })
                         } }/>
                     </>
@@ -147,4 +156,4 @@ class Post extends Component {
     }
 }
  
-export default Post;
+export default withParams(Post);

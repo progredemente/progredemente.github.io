@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './RosterCharacter.css';
 import { Link } from 'react-router-dom';
-import hand from '../../img/mano_smash.png';
 import Loading from '../../common/Loading';
  
 class RosterCharacter extends Component {
@@ -33,7 +32,7 @@ class RosterCharacter extends Component {
                     className={`character${this.state.load ? "": " hidden" }`}
                 >
                     <img    
-                        src={require(`../../img/thumbnails/${this.props.id}.png`)}
+                        src={`../../img/thumbnails/${this.props.id}.png`}
                         alt={this.props.name}
                         title={this.props.name}
                         className="character-img"
@@ -45,7 +44,7 @@ class RosterCharacter extends Component {
                         <>
                         <div className="character-selected"></div>
                         <img
-                            src={hand}
+                            src={'../../img/mano_smash.png'}
                             alt="mano"
                             className="hand"
                             key="hand"

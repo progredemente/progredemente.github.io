@@ -122,7 +122,6 @@ class Unemployment extends Component {
                         <div className="line-picker">
                             {
                                 this.state.unemploymentYears.map((year, index) => {
-                                    console.log(year);
                                     return (
                                         <div key={year.year}>
                                             <input

@@ -1,3 +1,4 @@
+import { withParams } from '../../common/utils';
 import Search from './Search';
  
 class Celebrity extends Search {
@@ -11,4 +12,4 @@ class Celebrity extends Search {
     }
 }
  
-export default Celebrity;
+export default withParams(Celebrity);

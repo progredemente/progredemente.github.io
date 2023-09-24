@@ -1,3 +1,4 @@
+import { withParams } from '../../common/utils';
 import Search from './Search';
  
 class Tag extends Search {
@@ -11,4 +12,4 @@ class Tag extends Search {
     }
 }
  
-export default Tag;
+export default withParams(Tag);

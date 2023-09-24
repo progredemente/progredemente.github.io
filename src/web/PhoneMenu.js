@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Icon from "../common/Icon";
+import { Icon } from 'components/Icon';
 import './PhoneMenu.css';
 
 class PhoneMenu extends Component {
@@ -20,11 +20,11 @@ class PhoneMenu extends Component {
                 {
                     this.state.showMenu &&
                     <nav className="phone-menu-list" onClick={() => this.setState({showMenu: false})}>
-                        <Link to={`${this.props.url}`}>Inicio</Link>
-                        <Link to={`${this.props.url}/series`}>Series</Link>
-                        <Link to={`${this.props.url}/archivo`}>Archivo</Link>
-                        <Link to={`${this.props.url}/estadisticas`}>Estadísticas</Link>
-                        <Link to={`${this.props.url}/sobre_mi`}>Sobre&nbsp;mí</Link>
+                        <Link to={'/web'}>Inicio</Link>
+                        <Link to={'/web/series'}>Series</Link>
+                        <Link to={'/web/archivo'}>Archivo</Link>
+                        <Link to={'/web/estadisticas'}>Estadísticas</Link>
+                        <Link to={'/web/sobre_mi'}>Sobre&nbsp;mí</Link>
                         <div className="phone-menu-close">×</div>
                     </nav>
                 }

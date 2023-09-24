@@ -13,7 +13,7 @@ class Thumbnail extends Component {
 
     render() {
         return (
-            <Link to={`${this.props.url}/post/${this.props.post.id}`} key={this.props.post.id} className="thumbnail">
+            <Link to={`/web/post/${this.props.post.id}`} key={this.props.post.id} className="thumbnail">
                 <div
                     className={ `loading-thumbnail${this.state.load ? " hidden": ""}` }
                 >
@@ -21,7 +21,7 @@ class Thumbnail extends Component {
                 </div>
                 <img
                     className={ this.state.load ? "": "hidden" }
-                    src={require(`../img/thumbnails/${this.props.post.id}.png`)}
+                    src={`../img/thumbnails/${this.props.post.id}.png`}
                     alt={this.props.post.name}
                     title={`${formatDate(new Date(this.props.post.date))} - ${this.props.post.name}`}
                     onLoad={ () => {

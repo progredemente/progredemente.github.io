@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Loading from "../common/Loading";
-import logo from '../img/logo.png';
 import './Welcome.css';
 import Social from "../common/Social";
 import social from '../social.json';
@@ -30,7 +29,7 @@ class Welcome extends Component {
                 <div className="welcome-logo">
                     <Loading hidden={this.state.logo} />
                     <img
-                        src={logo}
+                        src="/img/logo.png"
                         alt="Logo"
                         className={this.state.logo ? "" : "hidden" }
                         onLoad={() => this.setState({ logo: true })}
@@ -42,7 +41,7 @@ class Welcome extends Component {
                             hidden={this.state.favicon}
                         />
                         <img
-                            src={'./favicon.png'}
+                            src={`${process.env.RESOURCES_URL}/web.png`}
                             alt={'web'}
                             className={this.state.favicon ? "" : "hidden"}
                             onLoad={ () => {
@@ -64,7 +63,7 @@ class Welcome extends Component {
                             hidden={this.state.perroflautum}
                         />
                         <img
-                            src={'./perroflautum.png'}
+                            src={`${process.env.RESOURCES_URL}/perroflautum.png`}
                             alt={'perroflautum'}
                             className={this.state.perroflautum ? "" : "hidden"}
                             onLoad={ () => {
@@ -77,7 +76,7 @@ class Welcome extends Component {
                             hidden={this.state.strawman}
                         />
                         <img
-                            src={'./strawman.png'}
+                            src={`${process.env.RESOURCES_URL}/strawman.png`}
                             alt={'strawman'}
                             className={this.state.strawman ? "" : "hidden"}
                             onLoad={ () => {
@@ -90,7 +89,7 @@ class Welcome extends Component {
                             hidden={this.state.cable}
                         />
                         <img
-                            src={'./cable.png'}
+                            src={`${process.env.RESOURCES_URL}/cable.png`}
                             alt={'cable'}
                             className={this.state.cable ? "" : "hidden"}
                             onLoad={ () => {
@@ -103,7 +102,7 @@ class Welcome extends Component {
                             hidden={this.state.camaleon}
                         />
                         <img
-                            src={'./camaleon.png'}
+                            src={`${process.env.RESOURCES_URL}/camaleon.png`}
                             alt={'camaleon'}
                             className={this.state.camaleon ? "" : "hidden"}
                             onLoad={ () => {
@@ -116,7 +115,7 @@ class Welcome extends Component {
                             hidden={this.state.calor}
                         />
                         <img
-                            src={'./calor.png'}
+                            src={`${process.env.RESOURCES_URL}/calor.png`}
                             alt={'calor'}
                             className={this.state.calor ? "" : "hidden"}
                             onLoad={ () => {
@@ -129,7 +128,7 @@ class Welcome extends Component {
                             hidden={this.state.buon_appetito}
                         />
                         <img
-                            src={'./buon_appetito.png'}
+                            src={`${process.env.RESOURCES_URL}/buon_appetito.png`}
                             alt={'buon_appetito'}
                             className={this.state.buon_appetito ? "" : "hidden"}
                             onLoad={ () => {
@@ -142,7 +141,7 @@ class Welcome extends Component {
                             hidden={this.state.d_hondt}
                         />
                         <img
-                            src={'./d_hondt.png'}
+                            src={`${process.env.RESOURCES_URL}/d_hondt.png`}
                             alt={'d_hondt'}
                             className={this.state.d_hondt ? "" : "hidden"}
                             onLoad={ () => {

@@ -7,21 +7,20 @@ class Roster extends Component {
 
     constructor(props){
         super(props);
-        this.song = new Audio(require("../../audio/smash.ogg"));
+        this.song = new Audio("../../audio/smash.ogg");
     }
 
     changePlayer = (player) => {
         this.props.changeImg();
-        let audio = new Audio(require(`../../audio/${player}.mp3`));
-        audio.play();
+        let audio = new Audio(`../../audio/${player}.mp3`);
+        audio.play().then(()=>{}, ()=>{});
     }
-
 
     componentDidMount() {
         this.song.volume = .5;
         this.song.loop = true;
-        this.song.play();
-        let currentPlayer = this.props.match.params.id;
+        this.song.play().then(()=>{}, ()=>{});
+        let currentPlayer = this.props.params.id;
         this.changePlayer(currentPlayer);
     }
 
@@ -37,7 +36,7 @@ class Roster extends Component {
             }
             return list[post].series.includes("smash");
         })
-        let currentPlayer = this.props.match.params.id;
+        let currentPlayer = this.props.params.id;
         return (
             <div className="roster">
                 {

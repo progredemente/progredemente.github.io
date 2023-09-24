@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import Loading from "../common/Loading";
-import logo from '../img/logo.png';
 import './MainHeader.css'
 import PhoneMenu from "./PhoneMenu";
 import SocialBar from "./SocialBar";
@@ -17,11 +16,11 @@ class MainHeader extends Component {
     render() {
         return (
             <header className="main-header">
-                <PhoneMenu url={this.props.url}/>
-                <Link to={this.props.url} className="logo">
+                {<PhoneMenu />}
+                <Link to={'/web'} className="logo">
                     <Loading hidden={this.state.logo} />
                     <img
-                        src={logo}
+                        src={'../img/logo.png'}
                         alt="Logo"
                         className={this.state.logo ? "" : "hidden" }
                         onLoad={() => this.setState({ logo: true })}

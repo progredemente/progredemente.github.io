@@ -10,7 +10,7 @@ class ThumbnailContainer extends Component {
             {
                 this.props.posts.map((post) => {
                     return (
-                        <Thumbnail post={post} key={post.id} url={this.props.url}/>
+                        <Thumbnail post={post} key={post.id}/>
                     )
                 })
             }

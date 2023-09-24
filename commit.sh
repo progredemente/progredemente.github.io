@@ -1,7 +1,5 @@
 #!/bin/sh
 npm run build
-rm -Rf docs
-mv build docs
 cp .well-known docs/. -R
 cp _config.yml docs/.
 cp CNAME docs/.

@@ -1,3 +1,6 @@
+import React from "react";
+import { useParams } from "react-router-dom";
+
 function restartStoredData() {
     let currentYear = (new Date()).getFullYear();
     let data = {
@@ -32,4 +35,10 @@ export function setStoredValue(key, value) {
     let data = getStoredData();
     data[key] = value;
     window.localStorage.setItem('web', JSON.stringify(data));
+}
+
+export function withParams(Component) {
+    return (props) => {
+        return <Component {...props} params={useParams()}/>
+    }
 }

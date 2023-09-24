@@ -49,7 +49,6 @@ class Archive extends Component {
                             posts={listByYears[year]}
                             show={this.state.years[year]}
                             key={year}
-                            url={this.props.url}
                             changeVisibility={() => {
                                 this.setState({ years: {...this.state.years, [year]: !this.state.years[year]} }, () => {
                                     setStoredValue('archiveYears', this.state.years);

@@ -9,7 +9,7 @@ class Language extends Component {
             <div className="language">
                 <span>Ver la viñeta en:</span>
                 <img
-                    src={require(`../../img/lang/${this.props.langs.default}.svg`)}
+                    src={`../../img/lang/${this.props.langs.default}.svg`}
                     className={checkCurrentLang ? "selected" : ""}
                     onClick={() => {
                         if(!checkCurrentLang) {
@@ -22,7 +22,7 @@ class Language extends Component {
                     this.props.langs.available.map((lang) => {
                         return (
                             <img
-                                src={require(`../../img/lang/${lang}.svg`)}
+                                src={`../../img/lang/${lang}.svg`}
                                 className={this.props.currentLang === lang ? "selected": ""}
                                 onClick={() => {
                                     if(this.props.currentLang !== lang)

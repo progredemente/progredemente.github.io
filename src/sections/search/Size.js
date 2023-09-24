@@ -1,3 +1,4 @@
+import { withParams } from '../../common/utils';
 import Search from './Search';
  
 class Size extends Search {
@@ -11,4 +12,4 @@ class Size extends Search {
     }
 }
  
-export default Size;
+export default withParams(Size);

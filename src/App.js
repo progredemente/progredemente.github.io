@@ -82,38 +82,45 @@ class App extends Component{
                                     <Post {...this.props}/>
                                 </div>
                             }/>
-                            <Route exact path={'banderas'} element={<Navigate to={'bandera_galibertaria'}/>}/>
+                            <Route exact path={'banderas'} element={<Navigate to={'bandera_galibertaria'} replace/>}/>
                             <Route exact path={'banderas/:id'} element={
                                 <div>
                                     <Banner id="banderas" alt={series["banderas"]} key={`banner-banderas`} />
                                     <Post { ...this.props}/>
                                 </div>
                             }/>
-                            <Route exact path={'latino_ball'} element={<Navigate to={'booric'}/>}/>
+                            <Route exact path={'latino_ball'} element={<Navigate to={'booric'} replace/>}/>
                             <Route exact path={'latino_ball/:id'} element={
                                 <div>
                                     <Banner id="latino_ball" alt={series["latino_ball"]} key={`banner-latino_ball`} />
                                     <Post { ...this.props}/>
                                 </div>
                             }/>
-                            <Route exact path={'sinegrita'} element={<Navigate to={'sinegrita_0'}/>}/>
+                            <Route exact path={'sinegrita'} element={<Navigate to={'sinegrita_0'} replace/>}/>
                             <Route exact path={'sinegrita/:id'} element={
                                 <div>
                                     <Banner id="sinegrita" alt={series["sinegrita"]} key={`banner-sinegrita`} />
                                     <Post { ...this.props}/>
                                 </div>
                             }/>
-                            <Route exact path={'animacion'} element={<Navigate to={'alerta_antifascista_animado'}/>}/>
-                            <Route exact path={'animacion/:id'} element={
-                                <div>
-                                    <Banner id="animacion" alt={series["animacion"]} key={`banner-animacion`} />
-                                    <Post { ...this.props}/>
-                                </div>
-                            }/>
-                            <Route exact path={'super_madre_protectora'} element={<Navigate to={'madres_protectoras'}/>}/>
+                            <Route exact path={'super_madre_protectora'} element={<Navigate to={'madres_protectoras'} replace/>}/>
                             <Route exact path={'super_madre_protectora/:id'} element={
                                 <div>
                                     <Banner id="super_madre_protectora" alt={series["super_madre_protectora"]} key={`banner-super_madre_protectora`} />
+                                    <Post { ...this.props}/>
+                                </div>
+                            }/>
+                            <Route exact path={'thirdney'} element={<Navigate to={'uberwittchen'} replace/>}/>
+                            <Route exact path={'thirdney/:id'} element={
+                                <div>
+                                    <Banner id="thirdney" alt={series["thirdney"]} key={`banner-thirdney`} />
+                                    <Post { ...this.props}/>
+                                </div>
+                            }/>
+                            <Route exact path={'animacion'} element={<Navigate to={'alerta_antifascista_animado'} replace/>}/>
+                            <Route exact path={'animacion/:id'} element={
+                                <div>
+                                    <Banner id="animacion" alt={series["animacion"]} key={`banner-animacion`} />
                                     <Post { ...this.props}/>
                                 </div>
                             }/>

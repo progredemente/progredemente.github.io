@@ -78,3 +78,8 @@ a:visited {
       transform: rotate(0deg);
   }
 }
+
+.labs-icon {
+  height: 1em;
+  width: 1em;
+}

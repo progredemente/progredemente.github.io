@@ -25,6 +25,7 @@ class PhoneMenu extends Component {
                         <Link to={'/web/archivo'}>Archivo</Link>
                         <Link to={'/web/estadisticas'}>Estadísticas</Link>
                         <Link to={'/web/sobre_mi'}>Sobre&nbsp;mí</Link>
+                        <a href={'/labs'}><img className="labs-icon" src={`${process.env.RESOURCES_URL}/labs_favicon.png`}/>Labs</a>
                         <div className="phone-menu-close">×</div>
                     </nav>
                 }

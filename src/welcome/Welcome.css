@@ -26,6 +26,10 @@
     text-align: center;
 }
 
+.welcome-links {
+    width: 400px;
+}
+
 .welcome-links > .social-link {
     border: 4px solid black;
     padding: 10px 10px;

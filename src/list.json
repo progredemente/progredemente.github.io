@@ -5684,5 +5684,14 @@
         ],
         "size": "4000x4000",
         "series": ["thirdney"]
+    },
+    "santa_compana": {
+        "name": "Santa Compaña",
+        "date": "2023-09-29T00:00",
+        "description": [
+            "Inspirado en un meme que vi el otro día. Es curioso que, a pesar de estar el océano de por medio y ya no pertenecer a la misma entidad política, en la antes conocida como Nueva Galicia pervivan ciertas prácticas supersticiosas de la vieja Galicia."
+        ],
+        "size": "3800x2000",
+        "series": ["memes"]
     }
 }

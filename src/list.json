@@ -5693,5 +5693,17 @@
         ],
         "size": "3800x2000",
         "series": ["memes"]
+    },
+    "gordofobia": {
+        "name": "Gordofobia",
+        "date": "2023-10-02T00:00",
+        "description": [
+            "La progresía está empeñada en convertir a la sociedad en un circo de los horrores."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

@@ -5705,5 +5705,15 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "oscar_puente": {
+        "name": "Óscar Puente",
+        "date": "2023-10-03T00:00",
+        "description": [
+            "Muy buen fichaje ha hecho el director del circo. Le da tanto a la acción como al drama. Le va a encantar a todos los públicos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Óscar Puente"],
+        "parties": ["PSOE"]
     }
 }

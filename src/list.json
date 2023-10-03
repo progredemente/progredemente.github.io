@@ -5723,5 +5723,13 @@
         "size": "2000x2000",
         "celebrities": ["Óscar Puente"],
         "parties": ["PSOE"]
+    },
+    "perretes": {
+        "name": "Perretes",
+        "date": "2023-10-04T00:00",
+        "description": [
+            "¿En serio la Policía se va a prestar a esto?"
+        ],
+        "size": "4000x3000"
     }
 }

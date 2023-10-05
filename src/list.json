@@ -5731,5 +5731,15 @@
             "¿En serio la Policía se va a prestar a esto?"
         ],
         "size": "4000x3000"
+    },
+    "pobres_gordos": {
+        "name": "Pobres gordos",
+        "date": "2023-10-05T00:00",
+        "description": [
+            "¿Cómo de alejado de la realidad tiene que vivir alguien para relacionar ser pobre con estar gordo?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

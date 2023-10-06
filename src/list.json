@@ -5741,5 +5741,15 @@
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "rana_escorpion": {
+        "name": "La rana y el escorpión",
+        "date": "2023-10-06T00:00",
+        "description": [
+            "Ayer {contact:stonetoss} sacó una viñeta inspirada en la misma fábula. Ya tenía la idea de antes así que la hice igualmente, aparte de que no hacen referencia al mismo tema. Pero bueno, es una putada cuando esto pasa."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias", "Yolanda Díaz"],
+        "parties": ["Podemos", "Sumar"]
     }
 }

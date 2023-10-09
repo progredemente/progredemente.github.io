@@ -5751,5 +5751,16 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Yolanda Díaz"],
         "parties": ["Podemos", "Sumar"]
+    },
+    "horizonte": {
+        "name": "Horizonte",
+        "date": "2023-10-10T00:00",
+        "description": [
+            "Destruir cobetes es bonito."
+        ],
+        "url": "https://www.youtube.com/embed/NikNQ1S9NBM",
+        "series": ["animacion"],
+        "celebrities": ["Yolanda Díaz", "Elon Musk", "Mark Zuckerberg"],
+        "parties": ["Sumar"]
     }
 }

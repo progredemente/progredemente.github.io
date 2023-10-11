@@ -5762,5 +5762,13 @@
         "series": ["animacion"],
         "celebrities": ["Yolanda Díaz", "Elon Musk", "Mark Zuckerberg"],
         "parties": ["Sumar"]
+    },
+    "doble_ondear": {
+        "name": "Doble ondear",
+        "date": "2023-10-11T00:00",
+        "description": [
+            "¿Equidistancia la izquierda? ¡Hamás!"
+        ],
+        "size": "3800x2000"
     }
 }

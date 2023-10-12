@@ -5770,5 +5770,13 @@
             "¿Equidistancia la izquierda? ¡Hamás!"
         ],
         "size": "3800x2000"
+    },
+    "hispanidad_3": {
+        "name": "Hispanidad",
+        "date": "2023-10-12T00:00",
+        "description": [
+            "Hoy es un día para dejar toda diferencia de lado y sentirnos orgullosos de lo que nos une."
+        ],
+        "size": "4000x4000"
     }
 }

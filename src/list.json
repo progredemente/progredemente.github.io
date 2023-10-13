@@ -5778,5 +5778,14 @@
             "Hoy es un día para dejar toda diferencia de lado y sentirnos orgullosos de lo que nos une."
         ],
         "size": "4000x4000"
+    },
+    "jesus_palestino": {
+        "name": "Jesús palestino",
+        "date": "2023-10-13T00:00",
+        "description": [
+            "Que se vaya a Gaza a rezarle a su dios, el mayor antiimperialista de los últimos tres milenios, a ver que tal lo tratan sus hermanos musulmanes."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Nicolás Maduro"]
     }
 }

@@ -5787,5 +5787,15 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Nicolás Maduro"]
+    },
+    "planchabragas": {
+        "name": "Plancha Bragas",
+        "date": "2023-10-14T00:00",
+        "description": [
+            "Sí, es otro generador de GIFs, esta vez para nuestros amigos aliades. Plancha bragas en:",
+            "{https://progredemente.com/planchabragas}"
+        ],
+        "url": "https://www.youtube.com/embed/8eiAIBXEtew",
+        "series": ["animacion", "memes"]
     }
 }

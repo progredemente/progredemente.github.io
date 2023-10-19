@@ -5806,5 +5806,16 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Ursula von der Leyen"]
+    },
+    "pruebas": {
+        "name": "Pruebas",
+        "date": "2023-10-19T01:00",
+        "description": [
+            "¿Para qué quieren pruebas si ya tienen el relato?"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Ione Belarra"],
+        "parties": ["Podemos"]
     }
 }

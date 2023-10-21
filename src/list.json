@@ -5817,5 +5817,15 @@
         "series": ["memes"],
         "celebrities": ["Ione Belarra"],
         "parties": ["Podemos"]
+    },
+    "pie_conflicto": {
+        "name": "Al pie del conflicto",
+        "date": "2023-10-21T00:00",
+        "description": [
+            "Venga, todos a financiarle la expedición al colega, que la información que nos llega no está lo suficientemente sesgada."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias", "Willy Veleta"],
+        "parties": ["Podemos"]
     }
 }

@@ -5827,5 +5827,26 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Willy Veleta"],
         "parties": ["Podemos"]
+    },
+    "negocios_judios": {
+        "name": "Negocios judíos",
+        "date": "2023-10-23T00:00",
+        "description": [
+            "Hay gente que lleva tiempo sin verse en un espejo."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "videojuegos": {
+        "name": "Videojuegos",
+        "date": "2023-10-25T00:00",
+        "description": [
+            "Los medios especializados deberían centrarse en su tema existencial, no en contentar a los cuatro activistas desnortados de turno, creo yo."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

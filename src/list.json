@@ -5848,5 +5848,15 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "iuc": {
+        "name": "IUC",
+        "date": "2023-10-26T00:00",
+        "description": [
+            "El gobierno portugués quiere aumentar el impuesto de circulación, en especial a los coches de antes de 2007. Vamos, un impuesto a los pobres.",
+            "La izquierda portuguesa es muy de hacerle ojitos a las ideas desnortadas de la izquierda patria. Esperemos que esta vez no pase al revés."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["António Costa"]
     }
 }

@@ -5858,5 +5858,14 @@
         ],
         "size": "4000x3000",
         "celebrities": ["António Costa"]
+    },
+    "bambi": {
+        "name": "Bambi",
+        "date": "2023-10-27T00:00",
+        "description": [
+            "Vi que Disney va a hacer un remake de Bambi donde puede que cambien la escena trágica de la película. En Thirdney también."
+        ],
+        "size": "4000x4000",
+        "series": ["thirdney"]
     }
 }

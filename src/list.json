@@ -1778,7 +1778,7 @@
         "name": "Matronus",
         "date": "2021-09-02T00:00",
         "description": [
-            "Inspirado en un tweet e ilustración de {contact:ojota_patrick}. Seguidlo."
+            "Inspirado en un tweet e ilustración de {contact:patrickojota}. Seguidlo."
         ],
         "size": "4000x3000"
     },
@@ -5867,5 +5867,24 @@
         ],
         "size": "4000x4000",
         "series": ["thirdney"]
+    },
+    "tania": {
+        "name": "Tania",
+        "date": "2023-10-28T00:00",
+        "description": [
+            "Después de que {contact:patrickojota} hiciese una versión de Tania imitando mi estilo, quise hacer yo lo mismo y qué mejor que compartiendo viñeta con mi primera \"superheroína\".",
+            "Podéis haceros con el integral de \"Tania, la última pelirroja\" en el siguiente enlace: {https://amzn.eu/d/68LTlOf}"
+        ],
+        "size": "2000x2000",
+        "series": ["super_madre_protectora", "memes"],
+        "spoiler": true
+    },
+    "heces": {
+        "name": "Heces",
+        "date": "2023-10-30T00:00",
+        "description": [
+            "Imagínate tener que respetar a quien toma muestras de deposiciones caninas para multar a la gente."
+        ],
+        "size": "2000x2000"
     }
 }

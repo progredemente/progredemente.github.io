@@ -35,7 +35,8 @@ class Post extends Component {
         super(props);
         this.state = {
             load: false,
-            currentLang: null
+            currentLang: null,
+            showSpoiler: false
         }
     }
     
@@ -46,7 +47,7 @@ class Post extends Component {
     }
 
     changeImg = (render=false) => {
-        this.setState({ load: false }, () => {
+        this.setState({ load: false, showSpoiler: false }, () => {
             if(render) {
                 this.render();
             }
@@ -101,10 +102,18 @@ class Post extends Component {
                         >
                             <Loading />
                         </div>
-                        <img key={id} className={ this.state.load ? "": "hidden" } src={`../../img/comic/${id}${lang}.png`} alt={list_[id].name} onLoad={ () => {
+                        <img key={id} className={ this.state.load ? "": "hidden" } src={`../../img/comic/${id}${lang}${this.state.showSpoiler === false && post.spoiler ? '.spoiler' : ''}.png`} alt={list_[id].name} onLoad={ () => {
                                 this.setState({ load: true })
                         } }/>
                     </>
+                }
+                {
+                    this.state.showSpoiler === false && post.spoiler &&
+                    <div className='spoiler-button' onClick={() => {
+                        this.setState({showSpoiler: true, load: false})
+                    }}>
+                        Mostrar spoiler
+                    </div>
                 }
                 {
                     post.url &&

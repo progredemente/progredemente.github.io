@@ -5886,5 +5886,15 @@
             "Imagínate tener que respetar a quien toma muestras de deposiciones caninas para multar a la gente."
         ],
         "size": "2000x2000"
+    },
+    "investidura": {
+        "name": "Investidura",
+        "date": "2023-11-01T00:00",
+        "description": [
+            "Que los árboles no nos impidan ver el bosque."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
+        "parties": ["PSOE", "JxC"]
     }
 }

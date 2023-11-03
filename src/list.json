@@ -5896,5 +5896,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
         "parties": ["PSOE", "JxC"]
+    },
+    "fla": {
+        "name": "FLA",
+        "date": "2023-11-03T00:00",
+        "description": [
+            "A los \"pagapensiones\" se les llama así de forma irónica, pero a nosotros nos van a empezar a llamar \"pagafiestas\" de forma no irónica."
+        ],
+        "size": "2000x2000"
     }
 }

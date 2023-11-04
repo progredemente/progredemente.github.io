@@ -5904,5 +5904,15 @@
             "A los \"pagapensiones\" se les llama así de forma irónica, pero a nosotros nos van a empezar a llamar \"pagafiestas\" de forma no irónica."
         ],
         "size": "2000x2000"
+    },
+    "acuerdo": {
+        "name": "Acuerdo",
+        "date": "2023-11-04T00:00",
+        "description": [
+            "Si hice bien las cuentas, los que creen representar a Galicia con un (1) diputado estan negociando lo de los peajes a cambio de que, entre otras cosas, los gallegos tengan un aumento de deuda de casi 600€ por persona al centralizar el 20% de la deuda del FLA de cada comunidad."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Néstor Rego"],
+        "parties": ["BNG"]
     }
 }

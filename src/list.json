@@ -5923,5 +5923,16 @@
         ],
         "size": "2000x2000",
         "series": ["memes"]
+    },
+    "antonio_real": {
+        "name": "El António real",
+        "date": "2023-11-07T01:00",
+        "description": [
+            "Dimite António Costa, primer ministro de Portugal, por verse envuelto en un caso de corrupción para no manchar las instituciones portuguesas. Mientras tanto, nuestro Antonio...",
+            "Dos viñetas me duró el diseño, supongo que esta será la tercera y última."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "António Costa"],
+        "parties": ["PSOE"]
     }
 }

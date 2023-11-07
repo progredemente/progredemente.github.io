@@ -5914,5 +5914,14 @@
         "size": "2000x2000",
         "celebrities": ["Néstor Rego"],
         "parties": ["BNG"]
+    },
+    "policia": {
+        "name": "La Policía",
+        "date": "2023-11-07T00:00",
+        "description": [
+            "Pocos representan mejor eso de no morder la mano que les da de comer."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"]
     }
 }

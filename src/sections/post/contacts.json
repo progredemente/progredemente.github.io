@@ -285,5 +285,18 @@
                 "url": "https://www.instagram.com/ibaicanales/"
             }
         ]
+    },
+    "uilegal": {
+        "name": "Un Ilegal",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/Uilegal"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/uilegal/"
+            }
+        ]
     }
 }

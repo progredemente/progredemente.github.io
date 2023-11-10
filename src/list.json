@@ -5944,5 +5944,15 @@
         "size": "2000x2000",
         "celebrities": ["Fernando Grande-Marlaska"],
         "parties": ["PSOE"]
+    },
+    "carnicero": {
+        "name": "Carnicero",
+        "date": "2023-11-10T00:00",
+        "description": [
+            "Para esta viñeta he actuado como una IA, {contact:uilegal} me ha dado el prompt y yo la he dibujado. Me podéis sugerir más ideas si queréis, la diferencia con las IAs de verdad es el tiempo de entrega y que su ejecución se va a ver condicionada por su viabilidad y mi disponibilidad."
+        ],
+        "size": "3000x2500",
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Andoni Ortuzar"],
+        "parties": ["PSOE", "JxC", "PNV"]
     }
 }

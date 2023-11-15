@@ -107,20 +107,21 @@ class PageStats extends Component {
             { name: "PP", count: 0 },
             { name: "JxC", count: 0 },
             { name: "Vox", count: 0 },
-            { name: "EH Bildu", count: 0},
-            { name: "ERC", count: 0},
-            { name: "C's", count: 0},
-            { name: "Compromís", count: 0},
-            { name: "MDyC", count: 0},
-            { name: "BNG", count: 0},
-            { name: "Podemos", count: 0},
-            { name: "IU", count: 0},
-            { name: "Sumar", count: 0},
-            { name: "CUP", count: 0},
-            { name: "AA", count: 0},
-            { name: "Drago", count: 0},
-            { name: "CJ", count: 0},
-            { name: "PNV", count: 0}
+            { name: "EH Bildu", count: 0 },
+            { name: "ERC", count: 0 },
+            { name: "C's", count: 0 },
+            { name: "Compromís", count: 0 },
+            { name: "MDyC", count: 0 },
+            { name: "BNG", count: 0 },
+            { name: "Podemos", count: 0 },
+            { name: "IU", count: 0 },
+            { name: "Sumar", count: 0 },
+            { name: "CUP", count: 0 },
+            { name: "AA", count: 0 },
+            { name: "Drago", count: 0 },
+            { name: "CJ", count: 0 },
+            { name: "PNV", count: 0 },
+            { name: "TE", count: 0 }
         ];
         let partyColors = {
             "BComú": "#e8412c",
@@ -142,7 +143,8 @@ class PageStats extends Component {
             "AA": "#24c87f",
             "Drago": "#009ee0",
             "CJ": "#233B90",
-            "PNV": "#228b22"
+            "PNV": "#228b22",
+            "TE": "#007f51;"
         }
         let listKeys = this.getListKeys(this.state.partyYear);
         for(let key of listKeys) {

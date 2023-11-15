@@ -5954,5 +5954,15 @@
         "size": "3000x2500",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Andoni Ortuzar"],
         "parties": ["PSOE", "JxC", "PNV"]
+    },
+    "esquizobanderas": {
+        "name": "Esquizobanderas",
+        "date": "2023-11-15T00:00",
+        "description": [
+            "Otra aplicacioncilla: {https://progredemente.com/esquizobanderas}"
+        ],
+        "url": "https://www.youtube.com/embed/KFygdZFix-I",
+        "series": ["animacion"],
+        "parties": ["PSOE", "PP", "Vox", "Sumar", "Podemos", "CJ", "TE"]
     }
 }

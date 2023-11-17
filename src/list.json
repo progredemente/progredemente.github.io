@@ -5964,5 +5964,15 @@
         "url": "https://www.youtube.com/embed/KFygdZFix-I",
         "series": ["animacion"],
         "parties": ["PSOE", "PP", "Vox", "Sumar", "Podemos", "CJ", "TE"]
+    },
+    "reaccion_internacional": {
+        "name": "Reacción internacional",
+        "date": "2023-11-18T00:00",
+        "description": [
+            "Ya tenemos \"nuevo\" presidente. La reacción desde el extranjero parece parcialmente positiva."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Mohamed VI"],
+        "parties": ["PSOE", "JxC"]
     }
 }

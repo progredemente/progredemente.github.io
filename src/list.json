@@ -5974,5 +5974,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Mohamed VI"],
         "parties": ["PSOE", "JxC"]
+    },
+    "jodan_fachas": {
+        "name": "Que se jodan los fachas",
+        "date": "2023-11-20T00:00",
+        "description": [
+            "Hay gente que aún se cree que no le va a tocar pagar su parte de una fiesta a la que no está invitado."
+        ],
+        "size": "3000x3000"
     }
 }

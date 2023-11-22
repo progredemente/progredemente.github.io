@@ -5982,5 +5982,15 @@
             "Hay gente que aún se cree que no le va a tocar pagar su parte de una fiesta a la que no está invitado."
         ],
         "size": "3000x3000"
+    },
+    "pedidos_ferraz": {
+        "name": "Pedidos a Ferraz",
+        "date": "2023-11-22T00:00",
+        "description": [
+            "Me dicen que Pam estará hoy a las 20:00 en Ferraz firmando hamburguesas."
+        ],
+        "size": "4000x2500",
+        "celebrities": ["Ángela Rodríguez Pam"],
+        "parties": ["Podemos"]
     }
 }

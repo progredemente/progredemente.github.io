@@ -5992,5 +5992,15 @@
         "size": "4000x2500",
         "celebrities": ["Ángela Rodríguez Pam"],
         "parties": ["Podemos"]
+    },
+    "peinado": {
+        "name": "Peinado",
+        "date": "2023-11-24T00:00",
+        "description": [
+            "Hay que pedirle que vuelva a la política a Quintana Paz, yo lo veo claro."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Donald Trump", "Boris Johnson", "Javier Milei", "Geert Wilders", "Alberto Núñez Feijóo", "Santiago Abascal"],
+        "parties": ["PP", "Vox"]
     }
 }

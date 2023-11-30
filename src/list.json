@@ -6002,5 +6002,13 @@
         "size": "2000x2000",
         "celebrities": ["Donald Trump", "Boris Johnson", "Javier Milei", "Geert Wilders", "Alberto Núñez Feijóo", "Santiago Abascal"],
         "parties": ["PP", "Vox"]
+    },
+    "pichonet": {
+        "name": "Pichonet",
+        "date": "2023-11-30T00:00",
+        "description": [
+            "Una chorrada que se me ocurrió. No estoy muy inspirado últimamente."
+        ],
+        "size": "2000x2000"
     }
 }

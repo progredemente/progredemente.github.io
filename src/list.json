@@ -6010,5 +6010,15 @@
             "Una chorrada que se me ocurrió. No estoy muy inspirado últimamente."
         ],
         "size": "2000x2000"
+    },
+    "eche2d2": {
+        "name": "ECHE2-D2",
+        "date": "2023-12-05T00:00",
+        "description": [
+            "Otra chorrada, esta vez con nuestro productor de bilis favorito."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Echenique"],
+        "parties": ["Podemos"]
     }
 }

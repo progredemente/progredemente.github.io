@@ -6020,5 +6020,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Echenique"],
         "parties": ["Podemos"]
+    },
+    "erre3po": {
+        "name": "ERRE-3PO",
+        "date": "2023-12-06T00:00",
+        "description": [
+            "La brasa intergaláctica."
+        ],
+        "size": "3000x2500",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     }
 }

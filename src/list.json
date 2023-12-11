@@ -6030,5 +6030,16 @@
         "size": "3000x2500",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "colauzilla": {
+        "name": "Colauzilla",
+        "date": "2023-12-11T00:00",
+        "description": [
+            "Rescato esta idea que se me quedó en el tintero aprovechando que sale la nueva película de Godzilla."
+        ],
+        "url": "https://www.youtube.com/embed/CSK_yQdeKwk",
+        "series": ["animacion"],
+        "celebrities": ["Ada Colau"],
+        "parties": ["BComú"]
     }
 }

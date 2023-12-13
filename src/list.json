@@ -6041,5 +6041,15 @@
         "series": ["animacion"],
         "celebrities": ["Ada Colau"],
         "parties": ["BComú"]
+    },
+    "humillacion": {
+        "name": "Humillación",
+        "date": "2023-12-13T00:00",
+        "description": [
+            "Una cosa es que se humille él, pero toda esa gente que lo hace por él, ¿de verdad no saben hacer nada fuera de la política?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Óscar Puente"],
+        "parties": ["PSOE"]
     }
 }

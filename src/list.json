@@ -6051,5 +6051,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Óscar Puente"],
         "parties": ["PSOE"]
+    },
+    "raya": {
+        "name": "Raya",
+        "date": "2023-12-14T00:00",
+        "description": [
+            "Le dice la olla al cazo."
+        ],
+        "size": "2500x2000",
+        "celebrities": ["Pablo Iglesias", "Roberto Sotomayor"],
+        "parties": ["PSOE"]
     }
 }

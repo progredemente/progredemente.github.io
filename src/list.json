@@ -6061,5 +6061,14 @@
         "size": "2500x2000",
         "celebrities": ["Pablo Iglesias", "Roberto Sotomayor"],
         "parties": ["PSOE"]
+    },
+    "europeas": {
+        "name": "Europeas",
+        "date": "2023-12-16T00:00",
+        "description": [
+            "Si saca escaño en las elecciones europeas, las que menos contentas van a estar van a ser las propias europeas."
+        ],
+        "size": "2000x2000",
+        "parties": ["Podemos"]
     }
 }

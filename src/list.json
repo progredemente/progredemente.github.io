@@ -6060,15 +6060,25 @@
         ],
         "size": "2500x2000",
         "celebrities": ["Pablo Iglesias", "Roberto Sotomayor"],
-        "parties": ["PSOE"]
+        "parties": ["Podemos"]
     },
     "europeas": {
         "name": "Europeas",
-        "date": "2023-12-16T00:00",
+        "date": "2023-12-17T00:00",
         "description": [
             "Si saca escaño en las elecciones europeas, las que menos contentas van a estar van a ser las propias europeas."
         ],
         "size": "2000x2000",
         "parties": ["Podemos"]
+    },
+    "vater": {
+        "name": "Váter",
+        "date": "2023-12-17T01:00",
+        "description": [
+            "Me acabo de dar cuenta de que el personaje dibujado y el personaje referenciado son Sánchez los dos, aunque el primero, de tener una pistola interdimensional, seguiría usando el avión."
+        ],
+        "size": "6000x4000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

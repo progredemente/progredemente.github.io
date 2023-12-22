@@ -6080,5 +6080,15 @@
         "size": "6000x4000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "pesebre": {
+        "name": "Pesebre",
+        "date": "2023-12-22T01:00",
+        "description": [
+            "No es la magia de la Navidad, son tus impuestos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

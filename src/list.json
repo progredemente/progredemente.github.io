@@ -6083,12 +6083,21 @@
     },
     "pesebre": {
         "name": "Pesebre",
-        "date": "2023-12-22T01:00",
+        "date": "2023-12-22T00:00",
         "description": [
             "No es la magia de la Navidad, son tus impuestos."
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "sonreir": {
+        "name": "Sonreír",
+        "date": "2023-12-23T00:00",
+        "description": [
+            "Cuando dibujo a gente famosa, suelo dibujar a gente a la que desprecio, porque casi siempre son políticos, o como mucho gente que ni me va ni me viene, pues son parte de la actualidad. Ya era hora de dibujar a alguien a quien admiro."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Javier Milei", "Juan Ramón Rallo"]
     }
 }

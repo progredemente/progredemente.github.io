@@ -6099,5 +6099,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Javier Milei", "Juan Ramón Rallo"]
+    },
+    "nacimiento": {
+        "name": "Nacimiento",
+        "date": "2023-12-24T00:00",
+        "description": [
+            "¡Feliz Navidad!"
+        ],
+        "size": "6000x4000",
+        "series": ["postales_navidenas"]
     }
 }

@@ -6108,5 +6108,14 @@
         ],
         "size": "6000x4000",
         "series": ["postales_navidenas"]
+    },
+    "numeros_romanos": {
+        "name": "Números romanos",
+        "date": "2023-12-27T00:00",
+        "description": [
+            "La progresía española es tan antiimperialista que repudia incluso el Imperio Romano hasta el punto de negarse a aprender a formar los números de la moda de aquella época."
+        ],
+        "size": "3000x2000",
+        "parties": ["Podemos", "Sumar"]
     }
 }

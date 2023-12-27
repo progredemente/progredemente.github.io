@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: progredemente.com
-Token: f33b052925ae8ffa6368c742c7ae81aada08ea62b137a7f6cc8464917d59377b

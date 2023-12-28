@@ -6117,5 +6117,15 @@
         ],
         "size": "3000x2000",
         "parties": ["Podemos", "Sumar"]
+    },
+    "ratman": {
+        "name": "Ratman",
+        "date": "2023-12-28T00:00",
+        "description": [
+            "Vengo a anunciaros que me han fichado en Canal Red. Debido al éxito de su proyecto de animación, han decidido lanzarse al mundo del cómic de superhéroes y me han contactado a mí. Debieron de gustarles mis portadas de Super Madre Protectora y Espainder-Man."
+        ],
+        "size": "5000x7000",
+        "celebrities": ["Pablo Iglesias", "Antonio García Ferreras", "Yolanda Díaz"],
+        "parties": ["Podemos", "Sumar"]
     }
 }

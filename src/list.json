@@ -6127,5 +6127,14 @@
         "size": "5000x7000",
         "celebrities": ["Pablo Iglesias", "Antonio García Ferreras", "Yolanda Díaz"],
         "parties": ["Podemos", "Sumar"]
+    },
+    "pamplona": {
+        "name": "Pamplona",
+        "date": "2023-12-29T00:00",
+        "description": [
+            "Dejemos de hablar de fregar escaleras, por favor."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE", "EH Bildu"]
     }
 }

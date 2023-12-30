@@ -6136,5 +6136,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE", "EH Bildu"]
+    },
+    "palabra_socialista": {
+        "name": "Palabra de socialista",
+        "date": "2023-12-30T00:00",
+        "description": [
+            "No sé a quién pretenden engañar, todos sabemos que la tienen adentrísimo y a sus votantes se la suda."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Arnaldo Otegi", "Eneko Andueza"],
+        "parties": ["PSOE", "EH Bildu"]
     }
 }

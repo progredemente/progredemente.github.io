@@ -6146,5 +6146,14 @@
         "size": "2000x2000",
         "celebrities": ["Arnaldo Otegi", "Eneko Andueza"],
         "parties": ["PSOE", "EH Bildu"]
+    },
+    "feliz_2024": {
+        "name": "¡Feliz 2024!",
+        "date": "2023-12-31T00:00",
+        "description": [
+            "¡Que tengáis un feliz 2024!",
+            "¿Se terminará de dinamitar nuestra Españita en este año entrante? Haced vuestras apuestas."
+        ],
+        "size": "2000x2000"
     }
 }

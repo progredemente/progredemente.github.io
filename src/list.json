@@ -6155,5 +6155,15 @@
             "¿Se terminará de dinamitar nuestra Españita en este año entrante? Haced vuestras apuestas."
         ],
         "size": "2000x2000"
+    },
+    "tve": {
+        "name": "TVE",
+        "date": "2024-01-03T00:00",
+        "description": [
+            "Si alguna vez aparece un Milei en España y consigue la presidencia del gobierno, lo primero que debería hacer es cerrar TVE."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

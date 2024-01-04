@@ -6165,5 +6165,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "no_remuneradas": {
+        "name": "Prácticas no remuneradas",
+        "date": "2024-01-04T00:00",
+        "description": [
+            "También leí que la cotización la pueden llegar a pagar los centros formativos, que si son públicos la estaríamos pagando entre todos y si son privados la pagaría el propio alumno."
+        ],
+        "size": "3000x2000",
+        "parties": ["PSOE", "Sumar"]
     }
 }

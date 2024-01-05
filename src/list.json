@@ -6174,5 +6174,15 @@
         ],
         "size": "3000x2000",
         "parties": ["PSOE", "Sumar"]
+    },
+    "epstein": {
+        "name": "Epstein",
+        "date": "2024-01-05T00:00",
+        "description": [
+            "Lo raro es que no hubiesen metido a Feijóo o a Abascal en el titular para decir en el artículo que ni los mencionan."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"],
+        "celebrities": ["Donald Trump"]
     }
 }

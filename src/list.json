@@ -6184,5 +6184,13 @@
         "size": "2000x2000",
         "series": ["el_palmero"],
         "celebrities": ["Donald Trump"]
+    },
+    "rey_pintado": {
+        "name": "Rey pintado",
+        "date": "2024-01-06T00:00",
+        "description": [
+            "La gente que piensa que esto lo hacen para reírse de los negros y no para hacer felices a los niños debería hacérselo ver."
+        ],
+        "size": "2000x2000"
     }
 }

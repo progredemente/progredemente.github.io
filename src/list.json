@@ -6202,5 +6202,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Mónica García"],
         "parties": ["PSOE", "MP"]
+    },
+    "jit": {
+        "name": "Jit",
+        "date": "2024-01-11T00:00",
+        "description": [
+            "Qué movida lo de los túneles."
+        ],
+        "size": "2000x2000"
     }
 }

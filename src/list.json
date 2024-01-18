@@ -6221,10 +6221,20 @@
     },
     "subsuelo": {
         "name": "Subsuelo",
-        "date": "2024-01-12T01:00",
+        "date": "2024-01-12T00:00",
         "description": [
             "La última ya sobre el tema."
         ],
         "size": "3000x3000"
+    },
+    "perro": {
+        "name": "El Perro",
+        "date": "2024-01-18T00:00",
+        "description": [
+            "¡Buen chico!"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Klaus Schwab"],
+        "parties": ["PSOE"]
     }
 }

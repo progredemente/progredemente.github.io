@@ -6236,5 +6236,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Klaus Schwab"],
         "parties": ["PSOE"]
+    },
+    "cuota_tragedias": {
+        "name": "Cuotas en las tragedias",
+        "date": "2024-01-19T00:00",
+        "description": [
+            "Están tardando en pedir cuotas para ser víctimas de masacres y guerras."
+        ],
+        "size": "2000x2000"
     }
 }

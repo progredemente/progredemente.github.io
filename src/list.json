@@ -6243,6 +6243,19 @@
         "description": [
             "Están tardando en pedir cuotas para ser víctimas de masacres y guerras."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "terrorismo_bueno": {
+        "name": "Terrorismo del bueno",
+        "date": "2024-01-24T00:00",
+        "description": [
+            "Son atentados de colegueo."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

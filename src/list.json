@@ -6257,5 +6257,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "ley_hierro": {
+        "name": "Ley de hierro",
+        "date": "2024-01-25T00:00",
+        "description": [
+            "Necesitaba una excusa para dibujarlo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Juan Carlos Monedero", "Miguel Anxo Bastos"],
+        "parties": ["Podemos"]
     }
 }

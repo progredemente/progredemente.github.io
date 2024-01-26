@@ -6267,5 +6267,13 @@
         "size": "2000x2000",
         "celebrities": ["Juan Carlos Monedero", "Miguel Anxo Bastos"],
         "parties": ["Podemos"]
+    },
+    "ikea_pt": {
+        "name": "Ikea Portugal",
+        "date": "2024-01-26T00:00",
+        "description": [
+            "Ojalá alguna empresa grande en España tuviese la décima parte de los huevos que ha tenido Ikea en Portugal."
+        ],
+        "size": "2000x2000"
     }
 }

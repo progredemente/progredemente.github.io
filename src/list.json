@@ -6275,5 +6275,16 @@
             "Ojalá alguna empresa grande en España tuviese la décima parte de los huevos que ha tenido Ikea en Portugal."
         ],
         "size": "2000x2000"
+    },
+    "metodo_goku": {
+        "name": "El método Goku",
+        "date": "2024-01-28T00:00",
+        "description": [
+            "He ilustrado un tweet que escribí el otro día.",
+            "¿Qué significará \"{jap:おまえ男だな}\"?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elizabeth Duval"],
+        "parties": ["Sumar"]
     }
 }

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import contacts from './contacts.json';
 import Contact from './Contact.js';
+import './RichText.css';
 
 class RichText extends Component{
 
@@ -18,6 +19,9 @@ class RichText extends Component{
                         }
                         if(text.contact){
                             return <Contact key={i} contact={text.contact} />
+                        }
+                        if(text.jap){
+                            return <span className='jap-text' key={i}>{text.jap}</span>
                         }
                     }
                     return <></>
@@ -59,6 +63,11 @@ class RichText extends Component{
         if(text.startsWith("contact")){
             return {
                 contact: contacts[text.split(":")[1]]
+            }
+        }
+        if(text.startsWith("jap")){
+            return {
+                jap: text.split(":")[1]
             }
         }
         throw new Error(`Invalid rich text format ${text}`);

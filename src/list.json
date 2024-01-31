@@ -6286,5 +6286,15 @@
         "size": "2000x2000",
         "celebrities": ["Elizabeth Duval"],
         "parties": ["Sumar"]
+    },
+    "bm_s01e01": {
+        "name": "BM S01E01",
+        "date": "2024-01-31T00:00",
+        "description": [
+            "Poco les falta."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
+        "parties": ["PSOE", "JxC"]
     }
 }

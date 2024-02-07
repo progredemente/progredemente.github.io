@@ -6296,5 +6296,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
         "parties": ["PSOE", "JxC"]
+    },
+    "tractorada_mariscada": {
+        "name": "Tractorada o mariscada",
+        "date": "2024-02-07T00:00",
+        "description": [
+            "Qué pena que los langostinos no salgan de la tierra."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Unai Sordo"]
     }
 }

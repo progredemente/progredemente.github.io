@@ -6305,5 +6305,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Unai Sordo"]
+    },
+    "solo_mirar": {
+        "name": "Con sólo mirar",
+        "date": "2024-02-09T00:00",
+        "description": [
+            "¿Os acordáis de cuando Krilin pertenecía a esa asociación donde los integrantes van con la cabeza rapada? Eso le confería ciertas habilidades con las que Goku sólo podía soñar."
+        ],
+        "size": "2000x2000"
     }
 }

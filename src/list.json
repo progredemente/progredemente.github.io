@@ -6313,5 +6313,14 @@
             "¿Os acordáis de cuando Krilin pertenecía a esa asociación donde los integrantes van con la cabeza rapada? Eso le confería ciertas habilidades con las que Goku sólo podía soñar."
         ],
         "size": "2000x2000"
+    },
+    "lamida": {
+        "name": "Lamida",
+        "date": "2024-02-14T00:00",
+        "description": [
+            "Todo son risotas hasta que te acuerdas de que lo estás pagando tú."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Inés Hernand"]
     }
 }

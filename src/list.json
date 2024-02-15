@@ -6322,5 +6322,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Inés Hernand"]
+    },
+    "mina_terra": {
+        "name": "Miña terra",
+        "date": "2024-02-15T00:00",
+        "description": [
+            "Menos mal que nos queda Portugal."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ana Pontón", "Alfonso Rueda"],
+        "parties": ["PP", "BNG"]
     }
 }

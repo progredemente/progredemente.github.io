@@ -6332,5 +6332,15 @@
         "size": "2000x2000",
         "celebrities": ["Ana Pontón", "Alfonso Rueda"],
         "parties": ["PP", "BNG"]
+    },
+    "rueda": {
+        "name": "Rueda",
+        "date": "2024-02-19T00:00",
+        "description": [
+            "Tuve que buscar que carallo era un pontón. Parece que es un tipo de listón de madera o algo así. Pues eso."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ana Pontón", "Alfonso Rueda"],
+        "parties": ["PP", "BNG"]
     }
 }

@@ -6342,5 +6342,14 @@
         "size": "2000x2000",
         "celebrities": ["Ana Pontón", "Alfonso Rueda"],
         "parties": ["PP", "BNG"]
+    },
+    "koldo": {
+        "name": "Koldo",
+        "date": "2024-02-21T00:00",
+        "description": [
+            "Y dice Torrente que no sabe nada..."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

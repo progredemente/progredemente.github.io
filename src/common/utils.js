@@ -1,5 +1,5 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 
 function restartStoredData() {
     let currentYear = (new Date()).getFullYear();
@@ -40,5 +40,11 @@ export function setStoredValue(key, value) {
 export function withParams(Component) {
     return (props) => {
         return <Component {...props} params={useParams()}/>
+    }
+}
+
+export function withNavigate(Component) {
+    return (props) => {
+        return <Component {...props} navigate={useNavigate()}/>
     }
 }

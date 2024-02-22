@@ -19,6 +19,7 @@ import PageStats from './sections/stats/PageStats';
 import Celebrity from './sections/search/Celebrity';
 import Size from './sections/search/Size';
 import Tag from './sections/search/Tag';
+import NotFound from './sections/not-found/NotFound';
 
 class App extends Component{
 
@@ -29,7 +30,7 @@ class App extends Component{
                         <Route index element={<Welcome />} />
                         <Route path="web" element={<Web />}>
                             <Route exact index element={<Navigate to={'post'} replace/>}/>
-                            <Route exact path={'post'} element={<Navigate to={`${Object.keys(list)[Object.keys(list).length - 1]}`} replace/>}/>
+                            <Route exact path={'post'} element={<Navigate to={Object.keys(list).at(-1)} replace/>}/>
                             <Route exact path={'post/:id'} element={<Post { ...this.props}/>}/>
                             <Route exact path={'series'} element={<Series />}/>
                             <Route exact path={'archivo'} element={<Archive />}/>
@@ -136,7 +137,11 @@ class App extends Component{
                             <Route exact path={'.etiqueta/:searchText'} element={
                                 <Tag {...this.props} />
                             }/>
+                            <Route exact path={'404'} element={
+                                <NotFound />
+                            } />
                         </Route>
+                        <Route path="*" element={<Navigate to={'web/404'} replace/>}/>
                     </Routes>
             </Router>
         );

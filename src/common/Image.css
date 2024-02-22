@@ -1,0 +1,18 @@
+.image {
+    max-width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.loading-image {
+    width: calc(100% - 20px);
+    padding: calc((100% - 20px) * var(--height) / var(--width)) 10px 0 10px;
+    position: relative;
+    display: inline-block;
+}
+.loading-image > .loading {
+    position: absolute;
+    width: calc(100% - 20px);
+    transform: translateY(-100%);
+}

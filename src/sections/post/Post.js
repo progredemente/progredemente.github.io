@@ -5,11 +5,11 @@ import './Post.css';
 import PostNavigator from './PostNavigator';
 import Roster from './Roster';
 import {Link} from 'react-router-dom';
-import {formatDate, withParams} from '../../common/utils.js';
-import Loading from '../../common/Loading.js';
+import {formatDate, withNavigate, withParams} from '../../common/utils.js';
 import Banner from '../../common/Banner';
 import RichText from './RichText.js';
 import Language from './Language';
+import Image from '../../common/Image';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -34,7 +34,6 @@ class Post extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            load: false,
             currentLang: null,
             showSpoiler: false
         }
@@ -47,7 +46,7 @@ class Post extends Component {
     }
 
     changeImg = (render=false) => {
-        this.setState({ load: false, showSpoiler: false }, () => {
+        this.setState({ showSpoiler: false }, () => {
             if(render) {
                 this.render();
             }
@@ -71,6 +70,10 @@ class Post extends Component {
             }
         }
         let post = list_[id];
+        if(post === undefined) {
+            setTimeout(() => this.props.navigate('/web/404', {replace: true}));
+            return;
+        }
         let size = post.size ? post.size.split("x") : null;
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
@@ -92,25 +95,12 @@ class Post extends Component {
                 }
                 {
                     !post.url &&
-                    <>
-                        <div
-                            className={ `loading-image ${this.state.load ? " hidden": ""}` }
-                            style={{
-                                "--width": `${size[0]}`, 
-                                "--height": `${size[1]}`
-                            }}
-                        >
-                            <Loading />
-                        </div>
-                        <img key={id} className={ this.state.load ? "": "hidden" } src={`../../img/comic/${id}${lang}${this.state.showSpoiler === false && post.spoiler ? '.spoiler' : ''}.png`} alt={list_[id].name} onLoad={ () => {
-                                this.setState({ load: true })
-                        } }/>
-                    </>
+                    <Image key={id} size={size} imageUrl={`../../img/comic/${id}${lang}${this.state.showSpoiler === false && post.spoiler ? '.spoiler' : ''}.png`}/>
                 }
                 {
                     this.state.showSpoiler === false && post.spoiler &&
                     <div className='spoiler-button' onClick={() => {
-                        this.setState({showSpoiler: true, load: false})
+                        this.setState({showSpoiler: true})
                     }}>
                         Mostrar spoiler
                     </div>
@@ -138,7 +128,7 @@ class Post extends Component {
                     {
                         post.lang &&
                         <Language currentLang={this.state.currentLang} langs={post.lang} change={(lang) => {
-                            this.setState({currentLang: lang, load: false})
+                            this.setState({currentLang: lang})
                         }}/>
                     }
                     {list_[id].description.map((text, index) => {
@@ -165,4 +155,4 @@ class Post extends Component {
     }
 }
  
-export default withParams(Post);
+export default withNavigate(withParams(Post));

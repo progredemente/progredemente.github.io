@@ -1,0 +1,30 @@
+.not-found {
+    position: relative;
+}
+
+.not-found a {
+    text-decoration: none;
+}
+
+.return-home {
+    border-radius: 10px;
+    border: 4px solid black;
+    color: initial;
+    cursor: pointer;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    background-color: white;
+    position: absolute;
+    transform: translate(100px, -200px);
+
+}
+
+@media all and (max-width: 900px){
+    .return-home {
+        position: initial;
+        transform: none;
+    }
+}

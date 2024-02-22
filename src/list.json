@@ -6350,6 +6350,17 @@
             "Y dice Torrente que no sabe nada..."
         ],
         "size": "2000x2000",
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "series": ["memes"]
+    },
+    "404_": {
+        "name": "404",
+        "date": "2024-02-22T00:00",
+        "description": [
+            "Imagen para cuando alguien intente acceder a partes de mi web que no existan."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
     }
 }

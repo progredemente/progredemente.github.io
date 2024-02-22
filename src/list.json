@@ -6362,5 +6362,15 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"]
+    },
+    "alves": {
+        "name": "Alves",
+        "date": "2024-02-22T01:00",
+        "description": [
+            "Me cuentan que Sánchez también le dio las gracias por intentar acaparar algo el foco mediático que los apunta por lo del caso Koldo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Dani Alves"],
+        "parties": ["Podemos"]
     }
 }

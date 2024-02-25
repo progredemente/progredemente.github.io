@@ -6372,5 +6372,15 @@
         "size": "2000x2000",
         "celebrities": ["Dani Alves"],
         "parties": ["Podemos"]
+    },
+    "pajillas": {
+        "name": "Pajillas",
+        "date": "2024-02-25T00:00",
+        "description": [
+            "Y así fue como empezó todo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Ábalos", "Koldo García"],
+        "parties": ["PSOE"]
     }
 }

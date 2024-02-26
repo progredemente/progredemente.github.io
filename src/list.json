@@ -6382,5 +6382,15 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Ábalos", "Koldo García"],
         "parties": ["PSOE"]
+    },
+    "chivo_expiatorio": {
+        "name": "Chivo expiatorio",
+        "date": "2024-02-26T00:00",
+        "description": [
+            "Y así expiarán sus culpas. La PSOE lo va a volver a hacer."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Ábalos"],
+        "parties": ["PSOE"]
     }
 }

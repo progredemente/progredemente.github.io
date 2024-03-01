@@ -6392,5 +6392,15 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Ábalos"],
         "parties": ["PSOE"]
+    },
+    "feliz_cumpleanos": {
+        "name": "Feliz cumpleaños",
+        "date": "2024-03-01T00:00",
+        "description": [
+            "No me dio tiempo a hacerla ayer. Happy birthday, Mr. President."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez", "Francina Armengol", "Fernando Grande-Marlaska", "Ángel Víctor Torres", "Salvador Illa", "María Jesús Montero"],
+        "parties": ["PSOE"]
     }
 }

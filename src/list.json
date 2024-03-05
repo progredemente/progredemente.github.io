@@ -6402,5 +6402,16 @@
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez", "Francina Armengol", "Fernando Grande-Marlaska", "Ángel Víctor Torres", "Salvador Illa", "María Jesús Montero"],
         "parties": ["PSOE"]
+    },
+    "ha_sido_usted": {
+        "name": "Ha sido usted",
+        "date": "2024-03-05T00:00",
+        "description": [
+            "Es surrealista. Y aún habrá gente que se crea el relato."
+        ],
+        "url": "https://www.youtube.com/embed/CtaOQxOn4RU",
+        "series": ["animacion", "memes"],
+        "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo"],
+        "parties": ["PSOE", "PP"]
     }
 }

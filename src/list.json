@@ -6413,5 +6413,15 @@
         "series": ["animacion", "memes"],
         "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo"],
         "parties": ["PSOE", "PP"]
+    },
+    "timewitch": {
+        "name": "TimeWitch",
+        "date": "2024-03-07T00:00",
+        "description": [
+            "Ha llegado para salvarnos de los malvados hosteleros, la cúspide de la pirámide del farcimmou de los mercados."
+        ],
+        "size": "2500x3500",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
     }
 }

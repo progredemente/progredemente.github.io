@@ -6423,5 +6423,14 @@
         "size": "2500x3500",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"]
+    },
+    "toriyama": {
+        "name": "Toriyama",
+        "date": "2024-03-08T00:00",
+        "description": [
+            "DEP"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Akira Toriyama"]
     }
 }

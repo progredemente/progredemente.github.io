@@ -6432,5 +6432,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Akira Toriyama"]
+    },
+    "mortagua": {
+        "name": "Mariana Mortágua",
+        "date": "2024-03-08T01:00",
+        "description": [
+            "Por culpa de la PSOE no estoy al día todo lo que querría con las elecciones en Portugal. Lo que más ha captado mi atención, para mal, es el Bloco de Esquerda de Mariana Mortágua: una mujer que parece poseída por la rata chepuda y la señora que quiere destruir Galicia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Mariana Mortágua", "Pablo Iglesias", "Ana Pontón"],
+        "parties": ["Podemos", "BNG"]
     }
 }

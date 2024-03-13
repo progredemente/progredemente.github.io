@@ -6442,5 +6442,15 @@
         "size": "2000x2000",
         "celebrities": ["Mariana Mortágua", "Pablo Iglesias", "Ana Pontón"],
         "parties": ["Podemos", "BNG"]
+    },
+    "ojo_ajeno": {
+        "name": "Ojo ajeno",
+        "date": "2024-03-13T00:00",
+        "description": [
+            "Menudo despliegue de cinismo: pasan de señalar familiares a pedir que no se usen las cuestiones familiares para hacer política para luego volver a señalar familiares."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Isabel Díaz Ayuso"],
+        "parties": ["PSOE", "PP"]
     }
 }

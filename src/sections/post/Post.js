@@ -87,9 +87,6 @@ class Post extends Component {
         }
         return (
             <div className="post-img-container">
-                { series !== "smash" &&
-                    <PostNavigator currentId={id} list={Object.keys(list_)} url={currentUrl} changeImg={this.changeImg}/>
-                }
                 { series === "smash" &&
                     <Roster {...this.props} changeImg={this.changeImg} url={currentUrl}/>
                 }

@@ -27,7 +27,7 @@ class Image extends Component {
 
     render() {
         return (
-            <>
+            <div className='image-container'>
                 <div
                     className={ `loading-image ${this.state.load ? " hidden": ""}` }
                     style={{
@@ -35,12 +35,11 @@ class Image extends Component {
                         "--height": `${this.props.size[1]}`
                     }}
                 >
-                    <Loading />
                 </div>
                 <img className={`image${this.state.load ? "": " hidden"}`} src={this.props.imageUrl} alt={this.props.alt} onLoad={ () => {
                         this.setState({ load: true })
                 } }/>
-            </>
+            </div>
         );
     }
 }

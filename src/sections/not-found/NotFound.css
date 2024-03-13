@@ -15,10 +15,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 2em;
+    font-size: 1.25em;
     background-color: white;
     position: absolute;
-    transform: translate(100px, -200px);
+    transform: translate(250px, -150px);
 
 }
 

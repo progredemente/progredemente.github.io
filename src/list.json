@@ -6461,5 +6461,14 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE", "PP"]
+    },
+    "castas": {
+        "name": "Castas",
+        "date": "2024-03-14T01:00",
+        "description": [
+            "Queda inaugurado el nuevo sistema social en España."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

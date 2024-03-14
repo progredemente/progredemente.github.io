@@ -6452,5 +6452,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Isabel Díaz Ayuso"],
         "parties": ["PSOE", "PP"]
+    },
+    "atencion": {
+        "name": "Atención",
+        "date": "2024-03-14T00:00",
+        "description": [
+            "Son jodidos magos."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE", "PP"]
     }
 }

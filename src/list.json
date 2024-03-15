@@ -6470,5 +6470,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "pitonisa": {
+        "name": "Pitonisa",
+        "date": "2024-03-15T00:00",
+        "description": [
+            "La pillaron con el carrito de los helados y le da igual."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["María Jesús Montero"],
+        "parties": ["PSOE"]
     }
 }

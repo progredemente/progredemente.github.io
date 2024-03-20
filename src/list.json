@@ -6480,5 +6480,14 @@
         "size": "2000x2000",
         "celebrities": ["María Jesús Montero"],
         "parties": ["PSOE"]
+    },
+    "carla2": {
+        "name": "Carla 2",
+        "date": "2024-03-20T00:00",
+        "description": [
+            "Quería publicarla hace unos días, pero qué difícil es dibujar manos."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Carla Galeote"]
     }
 }

@@ -6460,7 +6460,8 @@
             "Son jodidos magos."
         ],
         "size": "2000x2000",
-        "parties": ["PSOE", "PP"]
+        "parties": ["PSOE", "PP"],
+        "series": ["el_palmero"]
     },
     "castas": {
         "name": "Castas",
@@ -6468,7 +6469,7 @@
         "description": [
             "Queda inaugurado el nuevo sistema social en España."
         ],
-        "size": "2000x2000",
+        "size": "3000x2000",
         "parties": ["PSOE"]
     },
     "pitonisa": {
@@ -6489,5 +6490,13 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Carla Galeote"]
+    },
+    "telegram": {
+        "name": "Telegram",
+        "date": "2024-03-24T00:00",
+        "description": [
+            "Nos vamos a unir a un selecto club."
+        ],
+        "size": "3000x2000"
     }
 }

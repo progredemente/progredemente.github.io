@@ -6498,5 +6498,15 @@
             "Nos vamos a unir a un selecto club."
         ],
         "size": "3000x2000"
+    },
+    "munecos": {
+        "name": "Muñecos",
+        "date": "2024-03-27T00:00",
+        "description": [
+            "Está jugando con ellos. Bueno, y con nosotros también."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Pablo Iglesias", "Yolanda Díaz", "Isabel Díaz Ayuso"],
+        "parties": ["PSOE", "Podemos", "Sumar", "PP"]
     }
 }

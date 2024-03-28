@@ -6508,5 +6508,16 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Pablo Iglesias", "Yolanda Díaz", "Isabel Díaz Ayuso"],
         "parties": ["PSOE", "Podemos", "Sumar", "PP"]
+    },
+    "falcon_time": {
+        "name": "Falcon time",
+        "date": "2024-03-28T00:00",
+        "description": [
+            "Vamos a tener que cambiar la expresión \"estar más quemado que la moto de un hippie\" a \"estar más quemado que el Falcon presidencial\"."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "series": ["memes"]
     }
 }

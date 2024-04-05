@@ -6519,5 +6519,24 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "series": ["memes"]
+    },
+    "midas": {
+        "name": "Midas",
+        "date": "2024-04-04T00:00",
+        "description": [
+            "La gallina de los huevos de oro."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Begoña Gómez"],
+        "parties": ["PSOE"]
+    },
+    "carla3": {
+        "name": "Carla 3",
+        "date": "2024-04-05T00:00",
+        "description": [
+            "Me hizo gracia un meme brasileño que decía que acabábamos antes si al colectivo lo llamásemos \"-H\" en vez de toda la ristra de letras, porque hay de todo menos heteros."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Carla Galeote"]
     }
 }

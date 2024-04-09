@@ -6546,5 +6546,15 @@
             "Pobre hombre."
         ],
         "size": "2000x2000"
+    },
+    "romeo_creatura": {
+        "name": "Romeo & La Creatura",
+        "date": "2024-04-09T00:00",
+        "description": [
+            "Título alternativo: Spiderman y La Luz Extinguido."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Tom Holland"],
+        "series": ["memes"]
     }
 }

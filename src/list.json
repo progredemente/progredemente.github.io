@@ -6564,5 +6564,15 @@
             "El nuevo logo del programa de Broncano. No sé si se le habrá ocurrido ya a alguien esto."
         ],
         "size": "2000x2000"
+    },
+    "7_votos": {
+        "name": "7 votos",
+        "date": "2024-04-16T00:00",
+        "description": [
+            "Inspirado en la reciente frase de moda."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
+        "parties": ["PSOE", "JxC"]
     }
 }

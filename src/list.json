@@ -6574,5 +6574,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
         "parties": ["PSOE", "JxC"]
+    },
+    "demokrazia": {
+        "name": "Demokrazia",
+        "date": "2024-04-17T00:00",
+        "description": [
+            "Pauso bat fanatizatziorantz, Euskal Herriaren nazionalsozialismorantz."
+        ],
+        "size": "2000x2000"
     }
 }

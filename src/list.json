@@ -6582,5 +6582,14 @@
             "Pauso bat fanatizatziorantz, Euskal Herriaren nazionalsozialismorantz."
         ],
         "size": "2000x2000"
+    },
+    "ehdildu": {
+        "name": "EH Dildu",
+        "date": "2024-04-19T00:00",
+        "description": [
+            "Sánchez tiene uno."
+        ],
+        "size": "2000x2000",
+        "parties": ["EH Bildu"]
     }
 }

@@ -6312,7 +6312,11 @@
         "description": [
             "¿Os acordáis de cuando Krilin pertenecía a esa asociación donde los integrantes van con la cabeza rapada? Eso le confería ciertas habilidades con las que Goku sólo podía soñar."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     },
     "lamida": {
         "name": "Lamida",
@@ -6591,5 +6595,45 @@
         ],
         "size": "2000x2000",
         "parties": ["EH Bildu"]
+    },
+    "euskal_hernia": {
+        "name": "Euskal Hernia",
+        "date": "2024-04-22T00:00",
+        "description": [
+            "Nunca supe como se escribe."
+        ],
+        "size": "2000x2000"
+    },
+    "tiritas": {
+        "name": "Tiritas",
+        "date": "2024-04-25T00:00",
+        "description": [
+            "La realidad siempre gana."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "fascismo_racismo": {
+        "name": "Fascismo y racismo",
+        "date": "2024-04-28T00:00",
+        "description": [
+            "Me da la sensación de que mucha gente ha salido poco de su burbuja."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "amego": {
+        "name": "Amego",
+        "date": "2024-05-01T00:00",
+        "description": [
+            "Amego date cuenta."
+        ],
+        "size": "2000x2000"
     }
 }

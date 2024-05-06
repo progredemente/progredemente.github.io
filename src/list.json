@@ -6635,5 +6635,15 @@
             "Amego date cuenta."
         ],
         "size": "2000x2000"
+    },
+    "mi_mujer": {
+        "name": "Mi mujer",
+        "date": "2024-05-06T00:00",
+        "description": [
+            "Esta táctica todavía no la ha utilizado."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
     }
 }

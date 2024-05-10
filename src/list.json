@@ -6645,5 +6645,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
         "parties": ["PSOE"]
+    },
+    "charoemon": {
+        "name": "Charoemon",
+        "date": "2024-05-10T00:00",
+        "description": [
+            "El opening de la serie empieza así: ojalá mis sueños se volvieran derechos, se volvieran derechos porque tengo un montón.",
+            "La versión en gallego mola más: Charoemon ten un peto máxico, e teno cheo de diñeiro público."
+        ],
+        "size": "2000x2000"
     }
 }

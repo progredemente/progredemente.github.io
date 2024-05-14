@@ -6654,5 +6654,16 @@
             "La versión en gallego mola más: Charoemon ten un peto máxico, e teno cheo de diñeiro público."
         ],
         "size": "2000x2000"
+    },
+    "juguete_roto": {
+        "name": "Juguete roto",
+        "date": "2024-05-14T00:00",
+        "description": [
+            "Illa o la silla. Me soprendería que no eligiese la segunda opción."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Salvador Illa"],
+        "parties": ["PSOE"],
+        "series": ["memes"]
     }
 }

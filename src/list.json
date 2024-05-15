@@ -6665,5 +6665,15 @@
         "celebrities": ["Pedro Sánchez", "Salvador Illa"],
         "parties": ["PSOE"],
         "series": ["memes"]
+    },
+    "54_provincias": {
+        "name": "54 provincias",
+        "date": "2024-05-15T00:00",
+        "description": [
+            "El franquismo sociológico de la PSOE. Me hubiese gustado animar el meme de los Simpsons de la URSS, con banderas ecuatoguineanas, marroquís y saharauis volviéndose franquistas y con Franco saliendo de la tumba, pero para cuando terminase ya nadie se iba a acordar."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Óscar Puente"],
+        "parties": ["PSOE"]
     }
 }

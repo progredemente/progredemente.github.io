@@ -6675,5 +6675,16 @@
         "size": "2000x2000",
         "celebrities": ["Óscar Puente"],
         "parties": ["PSOE"]
+    },
+    "milei_espana": {
+        "name": "Milei en España",
+        "date": "2024-05-19T00:00",
+        "description": [
+            "Hacía tiempo que no la dibujaba y como está nadando en la irrelevancia y llorando por la visita de Milei para ver si le ayuda a rascar algún voto para las europeas, he aprovechado la oportunidad para intentar rediseñarla un poco, que falta ya le hacía."
+        ],
+        "size": "3800x2000",
+        "celebrities": ["Javier Milei", "Irene Montero"],
+        "parties": ["Podemos", "Vox"],
+        "series": ["memes"]
     }
 }

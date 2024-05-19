@@ -6686,5 +6686,15 @@
         "celebrities": ["Javier Milei", "Irene Montero"],
         "parties": ["Podemos", "Vox"],
         "series": ["memes"]
+    },
+    "viva24": {
+        "name": "VIVA24",
+        "date": "2024-05-19T01:00",
+        "description": [
+            "Para el año Voxaventura va a pasar a ser Terra Miléitica."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Javier Milei", "Santiago Abascal"],
+        "parties": ["Vox"]
     }
 }

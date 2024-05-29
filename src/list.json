@@ -6696,5 +6696,15 @@
         "size": "2000x2000",
         "celebrities": ["Javier Milei", "Santiago Abascal"],
         "parties": ["Vox"]
+    },
+    "gisbert": {
+        "name": "Gisbert",
+        "date": "2024-05-29T00:00",
+        "description": [
+            "Los productores de papel están ahora un poco más tristes."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Rubén Gisbert"],
+        "series": ["el_palmero","memes"]
     }
 }

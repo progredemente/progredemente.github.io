@@ -6706,5 +6706,15 @@
         "size": "2000x2000",
         "celebrities": ["Rubén Gisbert"],
         "series": ["el_palmero","memes"]
+    },
+    "pantalones": {
+        "name": "Pantalones",
+        "date": "2024-05-30T00:00",
+        "description": [
+            "Los que lo siguen creyendo serán los mismos que crean que abrir su relación facilita que su pareja no los deje por otra persona."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

@@ -6716,5 +6716,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "spamchez": {
+        "name": "Spamchez",
+        "date": "2024-06-04T00:00",
+        "description": [
+            "Deja de enviarnos spam, Pedro Spamchez."
+        ],
+        "size": "4000x3000",
+        "parties": ["PSOE"]
     }
 }

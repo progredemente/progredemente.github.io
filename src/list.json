@@ -6725,5 +6725,15 @@
         ],
         "size": "4000x3000",
         "parties": ["PSOE"]
+    },
+    "cartas": {
+        "name": "Cartas",
+        "date": "2024-06-05T00:00",
+        "description": [
+            "La clave para la convivencia con tu pareja."
+        ],
+        "size": "200x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
     }
 }

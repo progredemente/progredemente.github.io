@@ -2685,7 +2685,7 @@
         "name": "Nayeta",
         "date": "2022-02-22T00:00",
         "description": [
-            "Una vez conocí a una chica boliviana que le aterraba la idea de volver a Bolivia aunque solo fuese de visita."
+            "HODL"
         ],
         "size": "2000x2000",
         "celebrities": ["Nayib Bukele"],
@@ -2748,7 +2748,7 @@
         "name": "Mileiku",
         "date": "2022-03-02T00:00",
         "description": [
-            "Una vez conocí a una chica boliviana que le aterraba la idea de volver a Bolivia aunque solo fuese de visita."
+            "No sé si es mi estilo, el tipo de cara, mi habilidad para dibujar o una combinación de todo esto, pero me cuesta un montón dibujar a ciertas personas."
         ],
         "size": "2000x2000",
         "celebrities": ["Javier Milei"],
@@ -5623,7 +5623,7 @@
         "parties": ["PSOE", "JxC"]
     },
     "amaral": {
-        "name": "amaral",
+        "name": "Amaral",
         "date": "2023-09-12T00:00",
         "description": [
             "Alguien tenía que hacerlo."
@@ -6732,8 +6732,18 @@
         "description": [
             "La clave para la convivencia con tu pareja."
         ],
-        "size": "200x2000",
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
+    },
+    "fango": {
+        "name": "Fango",
+        "date": "2024-06-07T00:00",
+        "description": [
+            "El próximo inquilino va a tener que ventilar y bien."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
     }
 }

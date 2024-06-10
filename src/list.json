@@ -6745,5 +6745,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "azagra": {
+        "name": "Azagra",
+        "date": "2024-06-11T00:00",
+        "description": [
+            "Con el problema con la vivienda que hay en Portugal y resulta que hay casas deshabitadas en Elvas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["David Azagra"],
+        "parties": ["PSOE"]
     }
 }

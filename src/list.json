@@ -6755,5 +6755,15 @@
         "size": "2000x2000",
         "celebrities": ["David Azagra"],
         "parties": ["PSOE"]
+    },
+    "francomon": {
+        "name": "Francómon",
+        "date": "2024-06-12T00:00",
+        "description": [
+            "Ya tardaban en sacarlo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Francisco Franco"],
+        "parties": ["PSOE"]
     }
 }

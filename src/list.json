@@ -6765,5 +6765,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Francisco Franco"],
         "parties": ["PSOE"]
+    },
+    "barrabes": {
+        "name": "Barrabés",
+        "date": "2024-06-14T00:00",
+        "description": [
+            "Hilando finísimo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
     }
 }

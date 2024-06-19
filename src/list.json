@@ -6775,5 +6775,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
         "parties": ["PSOE"]
+    },
+    "oscar_falton": {
+        "name": "Óscar el faltón",
+        "date": "2024-06-19T00:00",
+        "description": [
+            "Con esta marioneta, el Barrio Psoésamo tendrá bien entretenida a su audiencia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Óscar Puente"],
+        "parties": ["PSOE"]
     }
 }

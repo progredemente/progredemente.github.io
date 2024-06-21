@@ -6785,5 +6785,13 @@
         "size": "2000x2000",
         "celebrities": ["Óscar Puente"],
         "parties": ["PSOE"]
+    },
+    "lluvia": {
+        "name": "Lluvia",
+        "date": "2024-06-21T00:00",
+        "description": [
+            "Está Madrid inundado."
+        ],
+        "size": "2000x2000"
     }
 }

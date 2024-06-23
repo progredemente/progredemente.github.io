@@ -298,5 +298,22 @@
                 "url": "https://www.instagram.com/uilegal/"
             }
         ]
+    },
+    "Proserpinasb": {
+        "name": "Guadalupe Sánchez",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/Proserpinasb"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/proserpinasb/"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/people/Lupe-S%C3%A1nchez-Proserpina/pfbid02nFhRFszZSU3qfa1fnA4rvs8QHGS8AS6aNjhjRpax1niYreYsQQPPTJqfyQSjU9uhl/"
+            }
+        ]
     }
 }

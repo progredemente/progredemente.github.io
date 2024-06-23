@@ -6069,7 +6069,8 @@
             "Si saca escaño en las elecciones europeas, las que menos contentas van a estar van a ser las propias europeas."
         ],
         "size": "2000x2000",
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "series": ["el_palmero"]
     },
     "vater": {
         "name": "Váter",
@@ -6792,6 +6793,15 @@
         "description": [
             "Está Madrid inundado."
         ],
-        "size": "2000x2000"
+        "size": "3000x2000"
+    },
+    "abucheos": {
+        "name": "Abucheos",
+        "date": "2024-06-23T00:00",
+        "description": [
+            "Bulería, bulería."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

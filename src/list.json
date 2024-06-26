@@ -6813,5 +6813,13 @@
         "size": "2000x2000",
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"]
+    },
+    "circo": {
+        "name": "Circo",
+        "date": "2024-06-26T01:00",
+        "description": [
+            "En el cartel del año que viene que pongan a alguien quejándose."
+        ],
+        "size": "3000x3000"
     }
 }

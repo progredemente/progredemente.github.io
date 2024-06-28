@@ -6821,5 +6821,13 @@
             "En el cartel del año que viene que pongan a alguien quejándose."
         ],
         "size": "3000x3000"
+    },
+    "24h": {
+        "name": "24H",
+        "date": "2024-06-28T01:00",
+        "description": [
+            "Está el brócoli en oferta en los 24 horas de Tarragona."
+        ],
+        "size": "2000x2000"
     }
 }

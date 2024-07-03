@@ -6838,6 +6838,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["José Luis Escrivá", "UTBH"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "series": ["memes"]
+    },
+    "juez_peinado": {
+        "name": "Juez Peinado",
+        "date": "2024-07-04T00:00",
+        "description": [
+            "Una coña estúpida que se me ocurrió con el bulazo del Plural."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Juan Carlos Peinado"]
     }
 }

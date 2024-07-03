@@ -6829,5 +6829,15 @@
             "Está el brócoli en oferta en los 24 horas de Tarragona."
         ],
         "size": "2000x2000"
+    },
+    "pajaporte": {
+        "name": "Pajaporte",
+        "date": "2024-07-03T00:00",
+        "description": [
+            "Un plan sin fisuras, lo de la DGT no va a volver a pasar porque patatas. Sin meterme en las implicaciones de que el estado se meta en tu ordenador así, de risas. Mientras tanto, la PSOE sigue a lo suyo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Escrivá", "UTBH"],
+        "parties": ["PSOE"]
     }
 }

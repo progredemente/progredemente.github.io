@@ -6849,5 +6849,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Juan Carlos Peinado"]
+    },
+    "principios": {
+        "name": "Principios",
+        "date": "2024-07-04T01:00",
+        "description": [
+            "No sé si había hecho ya una viñeta con este juego de palabras."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

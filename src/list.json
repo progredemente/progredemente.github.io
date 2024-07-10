@@ -5487,7 +5487,8 @@
         "description": [
             "Recién salido del Demente-Verso. Portada inspirada en el Amazing Fantasy #15, donde Spider-Man hace su primera aparición."
         ],
-        "size": "2500x3500"
+        "size": "2500x3500",
+        "series": ["espainderman"]
     },
     "marionetrioskas": {
         "name": "Marionetrioskas",
@@ -6859,5 +6860,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "vascuende": {
+        "name": "El Vascuende",
+        "date": "2024-07-10T00:00",
+        "description": [
+            "En esta segunda entrega, vuestro superhéroe favorito lucha contra uno de sus archienemigos. Me basé en una ilustración que encontré en internet del Duende Verde, aunque le cambié un poco la pose."
+        ],
+        "size": "2500x3500",
+        "series": ["espainderman"]
     }
 }

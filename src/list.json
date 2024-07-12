@@ -6869,5 +6869,14 @@
         ],
         "size": "2500x3500",
         "series": ["espainderman"]
+    },
+    "charonan": {
+        "name": "Charonan",
+        "date": "2024-07-12T00:00",
+        "description": [
+            "La de blanquear a los inspectores de hacienda en una serie no me la esperaba, la verdad."
+        ],
+        "size": "2500x3500",
+        "celebrities": ["Carmen Machi"]
     }
 }

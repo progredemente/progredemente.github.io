@@ -6286,6 +6286,7 @@
             "¿Qué significará \"{jap:おまえ男だな}\"?"
         ],
         "size": "2000x2000",
+        "series": ["db"],
         "celebrities": ["Elizabeth Duval"],
         "parties": ["Sumar"]
     },
@@ -6315,6 +6316,7 @@
             "¿Os acordáis de cuando Krilin pertenecía a esa asociación donde los integrantes van con la cabeza rapada? Eso le confería ciertas habilidades con las que Goku sólo podía soñar."
         ],
         "size": "2000x2000",
+        "series": ["db"],
         "lang": {
             "default": "es",
             "available": ["en"]
@@ -6878,5 +6880,18 @@
         ],
         "size": "2500x3500",
         "celebrities": ["Carmen Machi"]
+    },
+    "saiyans": {
+        "name": "Saiyans",
+        "date": "2024-07-18T00:00",
+        "description": [
+            "Versión de una de las viñetas de {contact:stonetoss} llevada al universo de Dragon Ball."
+        ],
+        "size": "2000x2000",
+        "series": ["db"],
+        "lang": {
+            "default": "en",
+            "available": ["es"]
+        }
     }
 }

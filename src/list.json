@@ -6893,5 +6893,16 @@
             "default": "en",
             "available": ["es"]
         }
+    },
+    "fundie_baby_voice": {
+        "name": "Fundie baby voice",
+        "date": "2024-07-24T00:00",
+        "description": [
+            "Pobre Pedro, su \"mujer\" no le da más que disgustos."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
+
     }
 }

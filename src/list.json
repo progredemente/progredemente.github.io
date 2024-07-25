@@ -6903,6 +6903,13 @@
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
         "parties": ["PSOE"]
-
+    },
+    "paris_2024": {
+        "name": "Fundie baby voice",
+        "date": "2024-07-25T00:00",
+        "description": [
+            "El final de la Champions en Saint-Denis no fue suficiente."
+        ],
+        "size": "3800x2000"
     }
 }

@@ -6911,5 +6911,13 @@
             "El final de la Champions en Saint-Denis no fue suficiente."
         ],
         "size": "3800x2000"
+    },
+    "elecciones_venezuela": {
+        "name": "Elecciones en Venezuela",
+        "date": "2024-07-28T00:00",
+        "description": [
+            "La necrocracia en Venezuela. Imagina que el régimen de Maduro acabe con tu vida para después acabar votando a tus verdugos. Ojalá los venezolanos empiecen a salir del agujero."
+        ],
+        "size": "3000x2000"
     }
 }

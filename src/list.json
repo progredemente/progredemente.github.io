@@ -6919,5 +6919,15 @@
             "La necrocracia en Venezuela. Imagina que el régimen de Maduro acabe con tu vida para después acabar votando a tus verdugos. Ojalá los venezolanos empiecen a salir del agujero."
         ],
         "size": "3000x2000"
+    },
+    "bano_sangre": {
+        "name": "Baño de sangre",
+        "date": "2024-07-31T00:00",
+        "description": [
+            "Zapatero y Monedero: tontos útiles por dinero. Parece que a Maduro le van maduritos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Rodríguez Zapatero", "Juan Carlos Monedero", "Nicolás Maduro"],
+        "parties": ["PSOE", "Podemos"]
     }
 }

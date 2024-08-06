@@ -6905,7 +6905,7 @@
         "parties": ["PSOE"]
     },
     "paris_2024": {
-        "name": "Fundie baby voice",
+        "name": "París 2024",
         "date": "2024-07-25T00:00",
         "description": [
             "El final de la Champions en Saint-Denis no fue suficiente."
@@ -6929,5 +6929,14 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Rodríguez Zapatero", "Juan Carlos Monedero", "Nicolás Maduro"],
         "parties": ["PSOE", "Podemos"]
+    },
+    "farinaman": {
+        "name": "Fariñamán",
+        "date": "2024-08-06T00:00",
+        "description": [
+            "Nuestro superhéroe parece que ha encontrado su kriptonita."
+        ],
+        "size": "2500x3500",
+        "series": ["espainderman"]
     }
 }

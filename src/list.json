@@ -6938,5 +6938,17 @@
         ],
         "size": "2500x3500",
         "series": ["espainderman"]
+    },
+    "uchiha_maduro": {
+        "name": "Uchiha Maduro",
+        "date": "2024-08-07T00:00",
+        "description": [
+            "El terror de Arepagakure, la Aldea Oculta de la Arepa."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["ja"]
+        }
     }
 }

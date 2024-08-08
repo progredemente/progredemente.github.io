@@ -6959,5 +6959,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Alberto Fernández"]
+    },
+    "tornada": {
+        "name": "Tornada",
+        "date": "2024-08-08T01:00",
+        "description": [
+            "Puigdemont ha vuelto a Al-Qatalunia."
+        ],
+        "size": "3000x2500",
+        "celebrities": ["Carles Puigdemont"],
+        "parties": ["JxC"]
     }
 }

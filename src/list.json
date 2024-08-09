@@ -6969,5 +6969,17 @@
         "size": "3000x2500",
         "celebrities": ["Carles Puigdemont"],
         "parties": ["JxC"]
+    },
+    "coptcha": {
+        "name": "COPTCHA",
+        "date": "2024-08-09T01:00",
+        "description": [
+            "El CAPTCHA definitivo. Pruébalo en:",
+            "{https://progredemente.com/coptcha}"
+        ],
+        "url": "https://www.youtube.com/embed/wNFfXnw2Sd4",
+        "series": ["animacion", "memes"],
+        "celebrities": ["Carles Puigdemont"],
+        "parties": ["JxC"]
     }
 }

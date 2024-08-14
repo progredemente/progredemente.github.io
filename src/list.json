@@ -6962,7 +6962,7 @@
     },
     "tornada": {
         "name": "Tornada",
-        "date": "2024-08-08T01:00",
+        "date": "2024-08-08T00:00",
         "description": [
             "Puigdemont ha vuelto a Al-Qatalunia."
         ],
@@ -6972,7 +6972,7 @@
     },
     "coptcha": {
         "name": "COPTCHA",
-        "date": "2024-08-09T01:00",
+        "date": "2024-08-09T00:00",
         "description": [
             "El CAPTCHA definitivo. Pruébalo en:",
             "{https://progredemente.com/coptcha}"
@@ -6981,5 +6981,14 @@
         "series": ["animacion", "memes"],
         "celebrities": ["Carles Puigdemont"],
         "parties": ["JxC"]
+    },
+    "capitan_beto": {
+        "name": "Capitán Beto",
+        "date": "2024-08-14T00:00",
+        "description": [
+            "Al igual que a Maduro, a Alberto Fernández le hicieron un superhéroe inspirado en su persona y, debido a los últimos acontecimientos, me tomé la libertad de actualizarlo dentro de mi estilo. También le cambié a Dylan por un gato."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Fernández"]
     }
 }

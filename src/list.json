@@ -6952,7 +6952,7 @@
         }
     },
     "sho_si_te_creo": {
-        "name": "Hermana, sho si te creo",
+        "name": "Hermana, sho sí te creo",
         "date": "2024-08-07T01:00",
         "description": [
             "Me cuentan que Alberto Fernández se iba a cambiar el nombre a Alberto Pugilato, pero ya estaba cogido."
@@ -6990,5 +6990,17 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Alberto Fernández"]
+    },
+    "ets": {
+        "name": "ETS",
+        "date": "2024-08-15T00:00",
+        "description": [
+            "Hermona, yo sí te creo."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

@@ -7002,5 +7002,14 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "salir_bien": {
+        "name": "TODO VA A SALIR BIEN",
+        "date": "2024-08-20T00:00",
+        "description": [
+            "Kuririn entiende los phenomena y abraza el futuro como low-rank male. El maestro Toriyama nos adelantó parte de lo que {contact:spermifex} nos contaría años después."
+        ],
+        "size": "2000x2000",
+        "series": ["db"]
     }
 }

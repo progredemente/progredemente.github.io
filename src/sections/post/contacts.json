@@ -315,5 +315,14 @@
                 "url": "https://www.facebook.com/people/Lupe-S%C3%A1nchez-Proserpina/pfbid02nFhRFszZSU3qfa1fnA4rvs8QHGS8AS6aNjhjRpax1niYreYsQQPPTJqfyQSjU9uhl/"
             }
         ]
+    },
+    "spermifex": {
+        "name": "Spermifex",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://twitter.com/spermifex"
+            }
+        ]
     }
 }

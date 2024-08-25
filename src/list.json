@@ -6553,7 +6553,8 @@
         "description": [
             "Pobre hombre."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "series": ["db"]
     },
     "romeo_creatura": {
         "name": "Romeo & La Creatura",
@@ -7011,5 +7012,17 @@
         ],
         "size": "2000x2000",
         "series": ["db"]
+    },
+    "carreteras": {
+        "name": "Carreteras",
+        "date": "2024-08-25T00:00",
+        "description": [
+            "Inspirado en uno de mis primeros viajes largos en coche como adulto."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

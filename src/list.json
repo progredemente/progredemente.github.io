@@ -5692,7 +5692,8 @@
             "La de pasta que se podrían haber ahorrado en el live action si hubiesen contratado a un solo actor."
         ],
         "size": "4000x4000",
-        "series": ["thirdney"]
+        "series": ["thirdney"],
+        "tags": ["madera", "chino"]
     },
     "santa_compana": {
         "name": "Santa Compaña",
@@ -5701,7 +5702,8 @@
             "Inspirado en un meme que vi el otro día. Es curioso que, a pesar de estar el océano de por medio y ya no pertenecer a la misma entidad política, en la antes conocida como Nueva Galicia pervivan ciertas prácticas supersticiosas de la vieja Galicia."
         ],
         "size": "3800x2000",
-        "series": ["memes"]
+        "series": ["memes"],
+        "tags": ["helecho", "fantasma", "calavera"]
     },
     "gordofobia": {
         "name": "Gordofobia",
@@ -5713,7 +5715,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["hierba", "cielo", "ojos verdes", "castaño"]
     },
     "oscar_puente": {
         "name": "Óscar Puente",
@@ -5723,7 +5726,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Óscar Puente"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["renfe", "edificio"]
     },
     "perretes": {
         "name": "Perretes",
@@ -5731,7 +5735,8 @@
         "description": [
             "¿En serio la Policía se va a prestar a esto?"
         ],
-        "size": "4000x3000"
+        "size": "4000x3000",
+        "tags": ["asfixia", "lengua", "policía", "perro", "gominola"]
     },
     "pobres_gordos": {
         "name": "Pobres gordos",
@@ -5741,7 +5746,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["tierra"]
     },
     "rana_escorpion": {
         "name": "La rana y el escorpión",
@@ -5751,7 +5757,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Yolanda Díaz"],
-        "parties": ["Podemos", "Sumar"]
+        "parties": ["Podemos", "Sumar"],
+        "tags": ["hierba", "mierda"]
     },
     "horizonte": {
         "name": "Horizonte",
@@ -5770,7 +5777,8 @@
         "description": [
             "¿Equidistancia la izquierda? ¡Hamás!"
         ],
-        "size": "3800x2000"
+        "size": "3800x2000",
+        "tags": ["palestina", "lgbt", "moro"]
     },
     "hispanidad_3": {
         "name": "Hispanidad",
@@ -5778,7 +5786,8 @@
         "description": [
             "Hoy es un día para dejar toda diferencia de lado y sentirnos orgullosos de lo que nos une."
         ],
-        "size": "4000x4000"
+        "size": "4000x4000",
+        "tags": ["españa", "argentina", "méxico", "chile", "uruguay", "paraguay", "perú", "bolivia", "colombia", "venezuela", "panamá", "honduras", "el salvador", "ecuador", "nicaragua", "guatemala", "guinea ecuatorial", "cuba", "puerto rico", "costa rica", "república dominicana", "imperio español", "nube"]
     },
     "jesus_palestino": {
         "name": "Jesús palestino",
@@ -5787,7 +5796,8 @@
             "Que se vaya a Gaza a rezarle a su dios, el mayor antiimperialista de los últimos tres milenios, a ver que tal lo tratan sus hermanos musulmanes."
         ],
         "size": "3000x3000",
-        "celebrities": ["Nicolás Maduro"]
+        "celebrities": ["Nicolás Maduro"],
+        "tags": ["palestina", "venezuela", "morrión", "cruz de santiago"]
     },
     "planchabragas": {
         "name": "Plancha Bragas",
@@ -5806,7 +5816,8 @@
             "El verdadero motivo del cambio de postura con respecto a la inmigración por parte de la eurocharo."
         ],
         "size": "3000x2000",
-        "celebrities": ["Ursula von der Leyen"]
+        "celebrities": ["Ursula von der Leyen"],
+        "tags": ["moro", "psg", "poni", "árbol", "hierba", "arena", "madera"]
     },
     "pruebas": {
         "name": "Pruebas",
@@ -5817,7 +5828,8 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Ione Belarra"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["ojos azules", "castaño"]
     },
     "pie_conflicto": {
         "name": "Al pie del conflicto",
@@ -5827,7 +5839,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Willy Veleta"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["canal red"]
     },
     "negocios_judios": {
         "name": "Negocios judíos",
@@ -5839,7 +5852,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["edificio", "cristal"]
     },
     "videojuegos": {
         "name": "Videojuegos",
@@ -5848,7 +5862,8 @@
             "Los medios especializados deberían centrarse en su tema existencial, no en contentar a los cuatro activistas desnortados de turno, creo yo."
         ],
         "size": "2000x2000",
-        "series": ["el_palmero"]
+        "series": ["el_palmero"],
+        "tags": ["mesa"]
     },
     "iuc": {
         "name": "IUC",
@@ -5858,7 +5873,8 @@
             "La izquierda portuguesa es muy de hacerle ojitos a las ideas desnortadas de la izquierda patria. Esperemos que esta vez no pase al revés."
         ],
         "size": "4000x3000",
-        "celebrities": ["António Costa"]
+        "celebrities": ["António Costa"],
+        "tags": ["hierba", "arena", "árbol", "madera", "piedra", "indio"]
     },
     "bambi": {
         "name": "Bambi",
@@ -5867,7 +5883,8 @@
             "Vi que Disney va a hacer un remake de Bambi donde puede que cambien la escena trágica de la película. En Thirdney también."
         ],
         "size": "4000x4000",
-        "series": ["thirdney"]
+        "series": ["thirdney"],
+        "tags": ["madera"]
     },
     "tania": {
         "name": "Tania",
@@ -5878,7 +5895,8 @@
         ],
         "size": "2000x2000",
         "series": ["super_madre_protectora", "memes"],
-        "spoiler": true
+        "spoiler": true,
+        "tags": ["oro", "pelirrojo"]
     },
     "heces": {
         "name": "Heces",
@@ -5886,7 +5904,8 @@
         "description": [
             "Imagínate tener que respetar a quien toma muestras de deposiciones caninas para multar a la gente."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["policía", "mierda"]
     },
     "investidura": {
         "name": "Investidura",
@@ -5896,7 +5915,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
-        "parties": ["PSOE", "JxC"]
+        "parties": ["PSOE", "JxC"],
+        "tags": ["españa", "cuero", "mesa"]
     },
     "fla": {
         "name": "FLA",
@@ -5904,7 +5924,8 @@
         "description": [
             "A los \"pagapensiones\" se les llama así de forma irónica, pero a nosotros nos van a empezar a llamar \"pagafiestas\" de forma no irónica."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["cataluña", "castilla-la mancha", "extremadura", "galicia", "mantel"]
     },
     "acuerdo": {
         "name": "Acuerdo",
@@ -5923,7 +5944,8 @@
             "Pocos representan mejor eso de no morder la mano que les da de comer."
         ],
         "size": "2000x2000",
-        "series": ["memes"]
+        "series": ["memes"],
+        "tags": ["fuego", "ladrillo", "madera", "boina", "antidisturbios"]
     },
     "antonio_real": {
         "name": "El António real",
@@ -5934,7 +5956,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "António Costa"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["indio", "mierda"]
     },
     "tontos_utiles": {
         "name": "Tontos útiles",
@@ -5944,7 +5967,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Fernando Grande-Marlaska"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["antidisturbios"]
     },
     "carnicero": {
         "name": "Carnicero",
@@ -5954,7 +5978,8 @@
         ],
         "size": "3000x2500",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Andoni Ortuzar"],
-        "parties": ["PSOE", "JxC", "PNV"]
+        "parties": ["PSOE", "JxC", "PNV"],
+        "tags": ["carne"]
     },
     "esquizobanderas": {
         "name": "Esquizobanderas",
@@ -5974,7 +5999,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Mohamed VI"],
-        "parties": ["PSOE", "JxC"]
+        "parties": ["PSOE", "JxC"],
+        "tags": ["moro", "moreno", "ganchito", "botella", "cobre", "agua", "arena"]
     },
     "jodan_fachas": {
         "name": "Que se jodan los fachas",
@@ -5982,7 +6008,8 @@
         "description": [
             "Hay gente que aún se cree que no le va a tocar pagar su parte de una fiesta a la que no está invitado."
         ],
-        "size": "3000x3000"
+        "size": "3000x3000",
+        "tags": ["cataluña", "tierra"]
     },
     "pedidos_ferraz": {
         "name": "Pedidos a Ferraz",
@@ -5992,7 +6019,8 @@
         ],
         "size": "4000x2500",
         "celebrities": ["Ángela Rodríguez Pam"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["españa", "cartón", "noche", "uber", "falafel", "hamburguesa"]
     },
     "peinado": {
         "name": "Peinado",
@@ -6002,7 +6030,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Donald Trump", "Boris Johnson", "Javier Milei", "Geert Wilders", "Alberto Núñez Feijóo", "Santiago Abascal"],
-        "parties": ["PP", "Vox"]
+        "parties": ["PP", "Vox"],
+        "tags": ["argentina", "países bajos", "eeuu", "reino unido", "cristal"]
     },
     "pichonet": {
         "name": "Pichonet",
@@ -6020,7 +6049,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pablo Echenique"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["arena"]
     },
     "erre3po": {
         "name": "ERRE-3PO",
@@ -6030,7 +6060,8 @@
         ],
         "size": "3000x2500",
         "celebrities": ["Íñigo Errejón"],
-        "parties": ["MP"]
+        "parties": ["MP"],
+        "tags": ["helecho", "madera", "fusil", "bazuca", "oro"]
     },
     "colauzilla": {
         "name": "Colauzilla",
@@ -6061,7 +6092,8 @@
         ],
         "size": "2500x2000",
         "celebrities": ["Pablo Iglesias", "Roberto Sotomayor"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["república"]
     },
     "europeas": {
         "name": "Europeas",
@@ -6071,7 +6103,8 @@
         ],
         "size": "2000x2000",
         "parties": ["Podemos"],
-        "series": ["el_palmero"]
+        "series": ["el_palmero"],
+        "tags": ["moro"]
     },
     "vater": {
         "name": "Váter",
@@ -6081,7 +6114,8 @@
         ],
         "size": "6000x4000",
         "celebrities": ["Pedro Sánchez"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["hierba", "margarita", "montaña", "árbol", "madera", "agua"]
     },
     "pesebre": {
         "name": "Pesebre",
@@ -6100,7 +6134,8 @@
             "Cuando dibujo a gente famosa, suelo dibujar a gente a la que desprecio, porque casi siempre son políticos, o como mucho gente que ni me va ni me viene, pues son parte de la actualidad. Ya era hora de dibujar a alguien a quien admiro."
         ],
         "size": "2000x2000",
-        "celebrities": ["Javier Milei", "Juan Ramón Rallo"]
+        "celebrities": ["Javier Milei", "Juan Ramón Rallo"],
+        "tags": ["argentina", "ancap", "cristal"]
     },
     "nacimiento": {
         "name": "Nacimiento",
@@ -6109,7 +6144,8 @@
             "¡Feliz Navidad!"
         ],
         "size": "6000x4000",
-        "series": ["postales_navidenas"]
+        "series": ["postales_navidenas"],
+        "tags": ["moro", "arena", "madera", "hierba", "noche", "vaca", "burro", "virgen"]
     },
     "numeros_romanos": {
         "name": "Números romanos",
@@ -6137,7 +6173,8 @@
             "Dejemos de hablar de fregar escaleras, por favor."
         ],
         "size": "2000x2000",
-        "parties": ["PSOE", "EH Bildu"]
+        "parties": ["PSOE", "EH Bildu"],
+        "tags": ["chorizo"]
     },
     "palabra_socialista": {
         "name": "Palabra de socialista",
@@ -6156,7 +6193,8 @@
             "¡Que tengáis un feliz 2024!",
             "¿Se terminará de dinamitar nuestra Españita en este año entrante? Haced vuestras apuestas."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["dinamita"]
     },
     "tve": {
         "name": "TVE",
@@ -6166,7 +6204,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["fuego", "dinero", "mesa", "humo"]
     },
     "no_remuneradas": {
         "name": "Prácticas no remuneradas",
@@ -6185,7 +6224,8 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"],
-        "celebrities": ["Donald Trump"]
+        "celebrities": ["Donald Trump"],
+        "tags": ["roca", "madera", "árbol", "oro"]
     },
     "rey_pintado": {
         "name": "Rey pintado",
@@ -6193,7 +6233,8 @@
         "description": [
             "La gente que piensa que esto lo hacen para reírse de los negros y no para hacer felices a los niños debería hacérselo ver."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["regalo", "caramelo", "cuero"]
     },
     "mimema": {
         "name": "MiMeMa",
@@ -6203,7 +6244,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Mónica García"],
-        "parties": ["PSOE", "MP"]
+        "parties": ["PSOE", "MP"],
+        "tags": ["mascarilla"]
     },
     "jit": {
         "name": "Jit",
@@ -6211,7 +6253,8 @@
         "description": [
             "Qué movida lo de los túneles."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["agua", "árbol", "hierba", "chubasquero"]
     },
     "jewglett": {
         "name": "Jewglett",
@@ -6227,7 +6270,8 @@
         "description": [
             "La última ya sobre el tema."
         ],
-        "size": "3000x3000"
+        "size": "3000x3000",
+        "tags": ["hierba", "madera"]
     },
     "perro": {
         "name": "El Perro",
@@ -6237,7 +6281,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Klaus Schwab"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["2030"]
     },
     "cuota_tragedias": {
         "name": "Cuotas en las tragedias",
@@ -6249,7 +6294,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["boina", "cabina"]
     },
     "terrorismo_bueno": {
         "name": "Terrorismo del bueno",
@@ -6258,7 +6304,8 @@
             "Son atentados de colegueo."
         ],
         "size": "2000x2000",
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["hierba", "madera", "árbol", "sangre"]
     },
     "ley_hierro": {
         "name": "Ley de hierro",
@@ -6298,7 +6345,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont"],
-        "parties": ["PSOE", "JxC"]
+        "parties": ["PSOE", "JxC"],
+        "tags": ["cerdo"]
     },
     "tractorada_mariscada": {
         "name": "Tractorada o mariscada",
@@ -6320,7 +6368,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["hierba", "paja", "arena", "árbol"]
     },
     "lamida": {
         "name": "Lamida",
@@ -6329,7 +6378,8 @@
             "Todo son risotas hasta que te acuerdas de que lo estás pagando tú."
         ],
         "size": "2000x2000",
-        "celebrities": ["Inés Hernand"]
+        "celebrities": ["Inés Hernand"],
+        "tags": ["lengua"]
     },
     "mina_terra": {
         "name": "Miña terra",
@@ -6349,7 +6399,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Ana Pontón", "Alfonso Rueda"],
-        "parties": ["PP", "BNG"]
+        "parties": ["PP", "BNG"],
+        "tags": ["2030", "madera", "tierra", "hierba"]
     },
     "koldo": {
         "name": "Koldo",
@@ -6359,7 +6410,8 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"],
-        "series": ["memes"]
+        "series": ["memes"],
+        "tags": ["escopeta"]
     },
     "404_": {
         "name": "404",
@@ -6369,7 +6421,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
-        "parties": ["Sumar"]
+        "parties": ["Sumar"],
+        "tags": ["arena"]
     },
     "alves": {
         "name": "Alves",
@@ -6379,7 +6432,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Dani Alves"],
-        "parties": ["Podemos"]
+        "parties": ["Podemos"],
+        "tags": ["latino"]
     },
     "pajillas": {
         "name": "Pajillas",
@@ -6409,7 +6463,8 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez", "Francina Armengol", "Fernando Grande-Marlaska", "Ángel Víctor Torres", "Salvador Illa", "María Jesús Montero"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["mierda", "mascarilla"]
     },
     "ha_sido_usted": {
         "name": "Ha sido usted",
@@ -6478,7 +6533,8 @@
             "Queda inaugurado el nuevo sistema social en España."
         ],
         "size": "3000x2000",
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["españa", "india", "marruecos", "euskadi", "cataluña"]
     },
     "pitonisa": {
         "name": "Pitonisa",
@@ -6488,7 +6544,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["María Jesús Montero"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["hacienda"]
     },
     "carla2": {
         "name": "Carla 2",
@@ -6497,7 +6554,8 @@
             "Quería publicarla hace unos días, pero qué difícil es dibujar manos."
         ],
         "size": "3000x3000",
-        "celebrities": ["Carla Galeote"]
+        "celebrities": ["Carla Galeote"],
+        "tags": ["sangre"]
     },
     "telegram": {
         "name": "Telegram",
@@ -6505,7 +6563,8 @@
         "description": [
             "Nos vamos a unir a un selecto club."
         ],
-        "size": "3000x2000"
+        "size": "3000x2000",
+        "tags": ["españa", "corea del norte", "tailandia", "pakistán", "china", "cuba", "irán"]
     },
     "munecos": {
         "name": "Muñecos",
@@ -6536,7 +6595,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Begoña Gómez"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["oro"]
     },
     "carla3": {
         "name": "Carla 3",
@@ -6545,7 +6605,8 @@
             "Me hizo gracia un meme brasileño que decía que acabábamos antes si al colectivo lo llamásemos \"-H\" en vez de toda la ristra de letras, porque hay de todo menos heteros."
         ],
         "size": "3000x3000",
-        "celebrities": ["Carla Galeote"]
+        "celebrities": ["Carla Galeote"],
+        "tags": ["lgbt"]
     },
     "roshi": {
         "name": "Roshi",
@@ -6564,7 +6625,8 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Tom Holland"],
-        "series": ["memes"]
+        "series": ["memes"],
+        "tags": ["noche", "árbol", "edificio", "hierba"]
     },
     "resistencia": {
         "name": "La \"Resistencia\"",
@@ -6590,7 +6652,8 @@
         "description": [
             "Pauso bat fanatizatziorantz, Euskal Herriaren nazionalsozialismorantz."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["árbol", "edificio", "hierba"]
     },
     "ehdildu": {
         "name": "EH Dildu",
@@ -6619,7 +6682,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["negro"]
     },
     "fascismo_racismo": {
         "name": "Fascismo y racismo",
@@ -6631,7 +6695,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["cabina", "edificio", "cristal"]
     },
     "amego": {
         "name": "Amego",
@@ -6639,7 +6704,8 @@
         "description": [
             "Amego date cuenta."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["república", "lgbt", "palestina", "urss"]
     },
     "mi_mujer": {
         "name": "Mi mujer",
@@ -6658,7 +6724,8 @@
             "El opening de la serie empieza así: ojalá mis sueños se volvieran derechos, se volvieran derechos porque tengo un montón.",
             "La versión en gallego mola más: Charoemon ten un peto máxico, e teno cheo de diñeiro público."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["árbol", "edificio", "hierba", "madera"]
     },
     "juguete_roto": {
         "name": "Juguete roto",
@@ -6679,7 +6746,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Óscar Puente"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["españa"]
     },
     "milei_espana": {
         "name": "Milei en España",
@@ -6690,7 +6758,8 @@
         "size": "3800x2000",
         "celebrities": ["Javier Milei", "Irene Montero"],
         "parties": ["Podemos", "Vox"],
-        "series": ["memes"]
+        "series": ["memes"],
+        "tags": ["españa", "ancap", "gadsden"]
     },
     "viva24": {
         "name": "VIVA24",
@@ -6749,7 +6818,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["mierda", "moncloa"]
     },
     "azagra": {
         "name": "Azagra",
@@ -6779,7 +6849,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["edificio"]
     },
     "oscar_falton": {
         "name": "Óscar el faltón",
@@ -6789,7 +6860,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Óscar Puente"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["mierda"]
     },
     "lluvia": {
         "name": "Lluvia",
@@ -6797,7 +6869,8 @@
         "description": [
             "Está Madrid inundado."
         ],
-        "size": "3000x2000"
+        "size": "3000x2000",
+        "tags": ["lluvia", "chubasquero"]
     },
     "abucheos": {
         "name": "Abucheos",
@@ -6806,7 +6879,8 @@
             "Bulería, bulería."
         ],
         "size": "2000x2000",
-        "series": ["el_palmero"]
+        "series": ["el_palmero"],
+        "tags": ["españa", "edificio", "argentina", "gadsden"]
     },
     "oposicion": {
         "name": "\"Oposición\"",
@@ -6832,7 +6906,8 @@
         "description": [
             "Está el brócoli en oferta en los 24 horas de Tarragona."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "tags": ["psg", "edificio"]
     },
     "pajaporte": {
         "name": "Pajaporte",
@@ -6843,7 +6918,8 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Escrivá", "UTBH"],
         "parties": ["PSOE"],
-        "series": ["memes"]
+        "series": ["memes"],
+        "tags": ["andorra"]
     },
     "juez_peinado": {
         "name": "Juez Peinado",
@@ -6903,7 +6979,8 @@
         ],
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "tags": ["dinero", "saco"]
     },
     "paris_2024": {
         "name": "París 2024",
@@ -6911,7 +6988,8 @@
         "description": [
             "El final de la Champions en Saint-Denis no fue suficiente."
         ],
-        "size": "3800x2000"
+        "size": "3800x2000",
+        "tags": ["olimpiadas", "moro", "psg"]
     },
     "elecciones_venezuela": {
         "name": "Elecciones en Venezuela",
@@ -6919,7 +6997,8 @@
         "description": [
             "La necrocracia en Venezuela. Imagina que el régimen de Maduro acabe con tu vida para después acabar votando a tus verdugos. Ojalá los venezolanos empiecen a salir del agujero."
         ],
-        "size": "3000x2000"
+        "size": "3000x2000",
+        "tags": ["zombi", "venezuela", "tierra", "hierba"]
     },
     "bano_sangre": {
         "name": "Baño de sangre",
@@ -6929,7 +7008,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["José Luis Rodríguez Zapatero", "Juan Carlos Monedero", "Nicolás Maduro"],
-        "parties": ["PSOE", "Podemos"]
+        "parties": ["PSOE", "Podemos"],
+        "tags": ["venezuela", "sangre", "latino"]
     },
     "farinaman": {
         "name": "Fariñamán",
@@ -6950,7 +7030,8 @@
         "lang": {
             "default": "es",
             "available": ["ja"]
-        }
+        },
+        "tags": ["venezuela"]
     },
     "sho_si_te_creo": {
         "name": "Hermana, sho sí te creo",
@@ -6959,7 +7040,8 @@
             "Me cuentan que Alberto Fernández se iba a cambiar el nombre a Alberto Pugilato, pero ya estaba cogido."
         ],
         "size": "2000x2000",
-        "celebrities": ["Alberto Fernández"]
+        "celebrities": ["Alberto Fernández"],
+        "tags": ["argentina"]
     },
     "tornada": {
         "name": "Tornada",
@@ -6969,7 +7051,8 @@
         ],
         "size": "3000x2500",
         "celebrities": ["Carles Puigdemont"],
-        "parties": ["JxC"]
+        "parties": ["JxC"],
+        "tags": ["palestina", "contenedor", "fuego", "moro", "psg", "cabra"]
     },
     "coptcha": {
         "name": "COPTCHA",
@@ -6990,7 +7073,8 @@
             "Al igual que a Maduro, a Alberto Fernández le hicieron un superhéroe inspirado en su persona y, debido a los últimos acontecimientos, me tomé la libertad de actualizarlo dentro de mi estilo. También le cambié a Dylan por un gato."
         ],
         "size": "2000x2000",
-        "celebrities": ["Alberto Fernández"]
+        "celebrities": ["Alberto Fernández"],
+        "tags": ["argentina", "botella", "porro"]
     },
     "ets": {
         "name": "ETS",
@@ -7002,7 +7086,8 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["roca", "mono", "marruecos", "burka", "hiyab"]
     },
     "salir_bien": {
         "name": "TODO VA A SALIR BIEN",
@@ -7023,6 +7108,18 @@
         "lang": {
             "default": "es",
             "available": ["en"]
-        }
+        },
+        "tags": ["peaje", "coche", "árbol"]
+    },
+    "desayuno_revolucionario": {
+        "name": "Desayuno revolucionario",
+        "date": "2024-08-28T00:00",
+        "description": [
+            "Parece que están tratando bien a Monedero en sus vacaciones en Venezuela: se lo ve bien alimentado y con un buen tono de piel. A ver si se queda allí."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Juan Carlos Monedero"],
+        "parties": ["Podemos"],
+        "tags": ["arena", "agua", "moreno", "árbol", "semen", "plátano"]
     }
 }

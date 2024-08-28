@@ -7121,5 +7121,15 @@
         "celebrities": ["Juan Carlos Monedero"],
         "parties": ["Podemos"],
         "tags": ["arena", "agua", "moreno", "árbol", "semen", "plátano"]
+    },
+    "superheroes_australes": {
+        "name": "Superhéroes australes",
+        "date": "2024-08-28T01:00",
+        "description": [
+            "Parece que están tratando bien a Monedero en sus vacaciones en Venezuela: se lo ve bien alimentado y con un buen tono de piel. A ver si se queda allí."
+        ],
+        "size": "3000x2500",
+        "celebrities": ["Javier Milei", "Alberto Fernández", "Nicolás Maduro"],
+        "tags": ["argentina", "venezuela", "ancap"]
     }
 }

@@ -7131,5 +7131,16 @@
         "size": "3000x2500",
         "celebrities": ["Javier Milei", "Alberto Fernández", "Nicolás Maduro"],
         "tags": ["argentina", "venezuela", "ancap"]
+    },
+    "ligar_mercadona": {
+        "name": "Ligar en el Mercadona",
+        "date": "2024-08-30T00:00",
+        "description": [
+            "Tremenda estrategia de mercadotecnia.",
+            "¿Habéis pillado la referencia?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Adolf Hitler"],
+        "tags": ["piña"]
     }
 }

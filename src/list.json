@@ -7142,5 +7142,14 @@
         "size": "2000x2000",
         "celebrities": ["Adolf Hitler"],
         "tags": ["piña"]
+    },
+    "concord": {
+        "name": "Concord",
+        "date": "2024-09-04T00:00",
+        "description": [
+            "Woke fuel can't melt steel audiences."
+        ],
+        "size": "2000x2000",
+        "tags": ["escopeta"]
     }
 }

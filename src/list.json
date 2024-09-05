@@ -7151,5 +7151,16 @@
         ],
         "size": "2000x2000",
         "tags": ["escopeta"]
+    },
+    "lambo": {
+        "name": "Lambo",
+        "date": "2024-09-05T00:00",
+        "description": [
+            "A pagar impuestos, gente, que los vuelos para ir a cagar no se van a pagar solos."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "tags": ["falcon", "nube"]
     }
 }

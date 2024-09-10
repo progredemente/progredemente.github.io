@@ -7162,5 +7162,14 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "tags": ["falcon", "nube"]
+    },
+    "esquizonte": {
+        "name": "Esquizonte",
+        "date": "2024-09-10T00:00",
+        "description": [
+            "En esta entrega, nuestro superhéroe adquiere temporalmente una pequeña actualización en el traje. Inspirado en un póster de Spider-Man 3."
+        ],
+        "size": "2500x3500",
+        "series": ["espainderman"]
     }
 }

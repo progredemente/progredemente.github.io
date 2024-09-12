@@ -7171,5 +7171,13 @@
         ],
         "size": "2500x3500",
         "series": ["espainderman"]
+    },
+    "gatos_springfield": {
+        "name": "Los gatos de Springfield",
+        "date": "2024-09-12T00:00",
+        "description": [
+            "Parece que ha convencido a al menos una persona en Springfield."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -7179,5 +7179,15 @@
             "Parece que ha convencido a al menos una persona en Springfield."
         ],
         "size": "2000x2000"
+    },
+    "navidad_venezuela": {
+        "name": "Empieza la Navidad en Venezuela",
+        "date": "2024-09-13T00:00",
+        "description": [
+            "Abel Caballero, presidente de la República Olivariana de Vigozuela."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Abel Caballero", "Nicolás Maduro"],
+        "parties": ["PSOE"]
     }
 }

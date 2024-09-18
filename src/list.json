@@ -7189,5 +7189,15 @@
         "size": "2000x2000",
         "celebrities": ["Abel Caballero", "Nicolás Maduro"],
         "parties": ["PSOE"]
+    },
+    "la_revuelta": {
+        "name": "La Revuelta",
+        "date": "2024-09-14T00:00",
+        "description": [
+            "Son daños colaterales perfectamente asumibles, porque cualquier cosa es asumible mientras no se hable de su mujer, de su hermano, de su cuñada, de su exministro, del chófer de este último, de sus alianzas, de qué le debe a los vecinos del sur, de su gestión..."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "David Broncano"],
+        "parties": ["PSOE"]
     }
 }

@@ -7199,5 +7199,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "David Broncano"],
         "parties": ["PSOE"]
+    },
+    "mentiras": {
+        "name": "Mentiras",
+        "date": "2024-09-18T00:00",
+        "description": [
+            "Dicen que las mentiras tienen las patas cortas, será por eso que se desplazan en Falcon, para no cansarse tanto."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

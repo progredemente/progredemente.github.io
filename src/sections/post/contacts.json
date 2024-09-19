@@ -324,5 +324,39 @@
                 "url": "https://twitter.com/spermifex"
             }
         ]
+    },
+    "yes_but": {
+        "name": "Yes, but",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://x.com/_yesbut_"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/_yes_but/"
+            },
+            {
+                "id": "telegram",
+                "url": "https://t.me/yesbut_official"
+            }
+        ]
+    },
+    "gudim_public": {
+        "name": "Anton Gudim",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://x.com/like_gudim"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/gudim_public/"
+            },
+            {
+                "id": "telegram",
+                "url": "https://t.me/gudim_public"
+            }
+        ]
     }
 }

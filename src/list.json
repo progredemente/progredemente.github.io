@@ -7219,5 +7219,14 @@
         "size": "2000x2000",
         "celebrities": ["Begoña Gómez"],
         "parties": ["PSOE"]
+    },
+    "50_pension": {
+        "name": "Por 50€ en la pensión",
+        "date": "2024-09-19T01:00",
+        "description": [
+            "Viñeta basada en la serie {contact:yes_but} de {contact:gudim_public} pero tratando temas nacionales."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

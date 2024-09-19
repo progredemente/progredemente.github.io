@@ -7209,5 +7209,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "pichona": {
+        "name": "Pichona",
+        "date": "2024-09-19T00:00",
+        "description": [
+            "¿Por qué le dicen \"pichona\"?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Begoña Gómez"],
+        "parties": ["PSOE"]
     }
 }

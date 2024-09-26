@@ -7228,5 +7228,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "hathaway": {
+        "name": "Anne Hathaway",
+        "date": "2024-09-26T00:00",
+        "description": [
+            "Es gracioso el plantón de Anne Hathaway hasta que te enteras de que este circo se pagó con nuestro dinero."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

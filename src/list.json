@@ -7238,5 +7238,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "ardilla": {
+        "name": "Ardilla",
+        "date": "2024-09-28T00:00",
+        "description": [
+            "Me compré un ordenador nuevo e hice esto como prueba. No estoy muy inspirado así que escogí el tema de Alvise y CryptoSpain e hice lo primero que se me vino a la cabeza."
+        ],
+        "size": "2000x2000",
+        "parties": ["SALF"]
     }
 }

@@ -7247,5 +7247,13 @@
         ],
         "size": "2000x2000",
         "parties": ["SALF"]
+    },
+    "mundo_fantasia": {
+        "name": "Mundo de fantasía",
+        "date": "2024-09-29T00:00",
+        "description": [
+            "¿Habrá clínicas de \"reasignación de género\" en el nuevo Dragon Age? Lo digo por la coherencia. Lo de la inmersión ya tal..."
+        ],
+        "size": "3800x2000"
     }
 }

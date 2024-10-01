@@ -7255,5 +7255,14 @@
             "¿Habrá clínicas de \"reasignación de género\" en el nuevo Dragon Age? Lo digo por la coherencia. Lo de la inmersión ya tal..."
         ],
         "size": "3800x2000"
+    },
+    "san_nicolas": {
+        "name": "San Nicolás Maduro",
+        "date": "2024-10-01T00:00",
+        "description": [
+            "Maduro sigue ahí porque a los niños malos les reparte petróleo en vez de carbón."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nicolás Maduro"]
     }
 }

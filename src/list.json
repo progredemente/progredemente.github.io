@@ -7282,5 +7282,15 @@
         ],
         "size": "4000x3000",
         "parties": ["PSOE", "PP", "Vox", "Podemos", "Sumar", "MP"]
+    },
+    "ajo": {
+        "name": "Ajo",
+        "date": "2024-10-10T01:00",
+        "description": [
+            "Sánchez estaba en el ajo con lo de la visita de Delcy Rodríguez, pero da igual, siempre da igual, nothing ever happens."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Delcy Rodríguez"],
+        "parties": ["PSOE"]
     }
 }

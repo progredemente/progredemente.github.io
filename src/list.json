@@ -7264,5 +7264,23 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Nicolás Maduro"]
+    },
+    "goku_politico": {
+        "name": "Goku político",
+        "date": "2024-10-07T00:00",
+        "description": [
+            "¿Qué opináis?"
+        ],
+        "size": "2000x2000",
+        "series": ["db"]
+    },
+    "mono_pulsador": {
+        "name": "Mono pulsador",
+        "date": "2024-10-10T00:00",
+        "description": [
+            "¡Compre, señora, que me lo quitan de las monos!"
+        ],
+        "size": "4000x3000",
+        "parties": ["PSOE", "PP", "Vox", "Podemos", "Sumar", "MP"]
     }
 }

@@ -7292,5 +7292,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Delcy Rodríguez"],
         "parties": ["PSOE"]
+    },
+    "balazos_gomazos": {
+        "name": "Balazos, no gomazos",
+        "date": "2024-10-11T00:00",
+        "description": [
+            "Normal que antes fuesen encapuchados."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Mertxe Aizpurua"],
+        "parties": ["EH Bildu"]
     }
 }

@@ -7302,5 +7302,16 @@
         "size": "2000x2000",
         "celebrities": ["Mertxe Aizpurua"],
         "parties": ["EH Bildu"]
+    },
+    "emosido_embestido": {
+        "name": "EMOSIDO EMBESTIDO",
+        "date": "2024-10-11T01:00",
+        "description": [
+            "Grande Ábalos.",
+            "Contexto: {https://theobjective.com/espana/2024-10-11/abalos-delcy-carta-faltas-ortografia/}"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "parties": ["PSOE"]
     }
 }

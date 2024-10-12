@@ -7313,5 +7313,14 @@
         "size": "2000x2000",
         "series": ["memes"],
         "parties": ["PSOE"]
+    },
+    "hispanidad_4": {
+        "name": "Hispanidad",
+        "date": "2024-10-12T00:00",
+        "description": [
+            "La unión de dos mundos, la perfección gastronómica. Que no os engañen con el debate de con o sin cebolla, lo hacen para polarizar y dividir a la sociedad.",
+            "No hay que pedir perdón por nada. Menos gente como Claudia Sheinbaum y más como Larry Shy."
+        ],
+        "size": "3000x3000"
     }
 }

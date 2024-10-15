@@ -7322,5 +7322,14 @@
             "No hay que pedir perdón por nada. Menos gente como Claudia Sheinbaum y más como Larry Shy."
         ],
         "size": "3000x3000"
+    },
+    "logo_psoe": {
+        "name": "Logo de la PSOE",
+        "date": "2024-10-15T00:00",
+        "description": [
+            "Sé que a veces mis viñetas no se entienden y esta me tiene pinta de que es de esas, así que vamos a hacer un cosa: al primero que me explique por qué he escogido esta flor para rediseñar el logo de la PSOE (por tanto, también hay que adivinar qué flor es), le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

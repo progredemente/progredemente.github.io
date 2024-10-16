@@ -7331,5 +7331,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "goblins": {
+        "name": "Goblins",
+        "date": "2024-10-16T00:00",
+        "description": [
+            "Goblins."
+        ],
+        "size": "2500x2500",
+        "celebrities": ["José Luis Ábalos"],
+        "parties": ["PSOE"]
     }
 }

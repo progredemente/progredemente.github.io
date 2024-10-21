@@ -7341,5 +7341,22 @@
         "size": "2500x2500",
         "celebrities": ["José Luis Ábalos"],
         "parties": ["PSOE"]
+    },
+    "alessi": {
+        "name": "Alessi",
+        "date": "2024-10-20T00:00",
+        "description": [
+            "Este es el dibujo que le hice al primero que acertó lo que quería representar en la viñeta del otro día. Para ganar había que relacionar a la PSOE con el fango a través de la flor, que era loto. Tengo pensado hacer más concursos de este tipo en el futuro, estad atentos."
+        ],
+        "size": "3000x3000"
+    },
+    "focas": {
+        "name": "Focas",
+        "date": "2024-10-21T00:00",
+        "description": [
+            "Parece que han puesto a Elon Musk a experimentar con la madre de más de uno antes de poder tirar cohetes."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elon Musk"]
     }
 }

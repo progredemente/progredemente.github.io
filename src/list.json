@@ -7358,5 +7358,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Elon Musk"]
+    },
+    "piolet": {
+        "name": "Piolet",
+        "date": "2024-10-25T00:00",
+        "description": [
+            "Sánchez debe de estar contentísimo de que no se hable de su caso gracias a lo de Milhouse."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Cristina Fallarás", "Íñigo Errejón"],
+        "parties": ["PSOE", "Podemos", "MP"]
     }
 }

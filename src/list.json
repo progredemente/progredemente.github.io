@@ -7368,5 +7368,14 @@
         "size": "2000x2000",
         "celebrities": ["Cristina Fallarás", "Íñigo Errejón"],
         "parties": ["PSOE", "Podemos", "MP"]
+    },
+    "uno_gominas": {
+        "name": "El Uno y el Gominas",
+        "date": "2024-10-27T00:00",
+        "description": [
+            "La foto de El Mundo."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

@@ -7377,5 +7377,25 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "comunicado_sumar": {
+        "name": "El comunicado de Sumar",
+        "date": "2024-10-27T01:00",
+        "description": [
+            "Cómo odio cuando me mandan hacer formaciones obligatorias que no sirven para nada."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elizabeth Duval", "Ernest Urtasun", "Amanda Andrades"],
+        "parties": ["Sumar"]
+    },
+    "encubrir": {
+        "name": "Encubrir",
+        "date": "2024-10-28T00:00",
+        "description": [
+            "Encubrir es bonito."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"]
     }
 }

@@ -7397,5 +7397,15 @@
         "size": "2000x2000",
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"]
+    },
+    "saqueos": {
+        "name": "Saqueos",
+        "date": "2024-10-31T00:00",
+        "description": [
+            "En fin."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

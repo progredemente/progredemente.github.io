@@ -7407,5 +7407,15 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "mas_impuestos": {
+        "name": "Más impuestos",
+        "date": "2024-11-03T00:00",
+        "description": [
+            "Siempre tiene que salir el oligofrénico de turno a decir una subnormalidad como esta o hablando del cambio climático."
+        ],
+        "size": "4000x4000",
+        "celebrities": ["Pedro Sánchez", "Carlos Mazón"],
+        "parties": ["PSOE", "PP"]
     }
 }

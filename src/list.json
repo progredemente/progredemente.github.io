@@ -7417,5 +7417,14 @@
         "size": "4000x4000",
         "celebrities": ["Pedro Sánchez", "Carlos Mazón"],
         "parties": ["PSOE", "PP"]
+    },
+    "relato": {
+        "name": "Relato",
+        "date": "2024-11-05T00:00",
+        "description": [
+            "Están tan ocupados con el relato que se les va a poner en su contra."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"]
     }
 }

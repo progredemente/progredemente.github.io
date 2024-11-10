@@ -358,5 +358,39 @@
                 "url": "https://t.me/gudim_public"
             }
         ]
+    },
+    "jaetanakaosr": {
+        "name": "Jae Tanaka",
+        "pages": [
+            {
+                "id": "twitter",
+                "url": "https://x.com/tanakaosr"
+            },
+            {
+                "id": "twitter",
+                "url": "https://x.com/jae_tanaka_17"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/jaetanakaosr/"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/tanaka_humor_grafico/"
+            }
+        ]
+    },
+    "rpesqueira87": {
+        "name": "Rubén Pesqueira",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/rpesqueira87/"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/rpesqueirailustracion/"
+            }
+        ]
     }
 }

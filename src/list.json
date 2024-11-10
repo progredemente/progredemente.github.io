@@ -7426,5 +7426,15 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "alector": {
+        "name": "Alector",
+        "date": "2024-11-10T00:00",
+        "description": [
+            "Alector, personaje del cómic Ruinas de {contact:jaetanakaosr} . Ojalá pudiese dominar la perspectiva y el dinamismo que muestra en la obra.",
+            "Vi el dibujo que hizo {contact:rpesqueira87} el otro día y quise hacer mi versión también.",
+            "Podéis comprar el primer volumen aquí: {https://dawnent.es/producto/ruinas-vol-1-la-espada/}"
+        ],
+        "size": "3000x3000"
     }
 }

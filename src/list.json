@@ -7197,7 +7197,7 @@
             "Son daños colaterales perfectamente asumibles, porque cualquier cosa es asumible mientras no se hable de su mujer, de su hermano, de su cuñada, de su exministro, del chófer de este último, de sus alianzas, de qué le debe a los vecinos del sur, de su gestión..."
         ],
         "size": "2000x2000",
-        "celebrities": ["Pedro Sánchez", "David Broncano"],
+        "celebrities": ["Pedro Sánchez", "David Broncano", "El Gran Wyoming"],
         "parties": ["PSOE"]
     },
     "mentiras": {
@@ -7436,5 +7436,14 @@
             "Podéis comprar el primer volumen aquí: {https://dawnent.es/producto/ruinas-vol-1-la-espada/}"
         ],
         "size": "3000x3000"
+    },
+    "bufon": {
+        "name": "Bufón",
+        "date": "2024-11-11T00:00",
+        "description": [
+            "Imagínate creerte periodista no siendo más que un payaso del gobierno, el cual en una guerra por el relato creó un programa ad hoc en la televisión pública que acabó robándole audiencia, y cuestionar la condición de periodista de alguien. El Gran Bufón."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Iker Jiménez", "El Gran Wyoming"]
     }
 }

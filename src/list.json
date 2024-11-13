@@ -7445,5 +7445,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Iker Jiménez", "El Gran Wyoming"]
+    },
+    "ayuda_nazi": {
+        "name": "Ayuda nazi",
+        "date": "2024-11-13T00:00",
+        "description": [
+            "Esta gota fría me ha confirmado una creencia que tengo desde hace tiempo: ante un problema grave, ya sabemos quiénes nos van a ayudar y defender y quiénes van a huir o poner palos en las ruedas."
+        ],
+        "size": "2000x2000"
     }
 }

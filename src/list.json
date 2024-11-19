@@ -7461,5 +7461,13 @@
             "¡Nuevo concurso! Esta vez creo que va a ser algo más complicado que la vez anterior. En este cómic hay algo que no debería estar ahí, tenéis que acertar qué es. Al primero que acierte le hago un dibujo. Tenéis dos semanas, si nadie acierta publicaré la respuesta correcta."
         ],
         "size": "2000x2000"
+    },
+    "charo_vs_charo": {
+        "name": "Charo vs charo",
+        "date": "2024-11-19T00:00",
+        "description": [
+            "Parece ser que, como se carguen Muface, la charocracia va a tener que enfrentarse, aparte del colapso agravado de la sanidad pública, a la propia charocracia."
+        ],
+        "size": "2000x2000"
     }
 }

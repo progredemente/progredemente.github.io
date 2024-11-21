@@ -7376,6 +7376,7 @@
             "La foto de El Mundo."
         ],
         "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Víctor de Aldama"],
         "parties": ["PSOE"]
     },
     "comunicado_sumar": {
@@ -7469,5 +7470,14 @@
             "Parece ser que, como se carguen Muface, la charocracia va a tener que enfrentarse, aparte del colapso agravado de la sanidad pública, a la propia charocracia."
         ],
         "size": "2000x2000"
+    },
+    "aldama": {
+        "name": "Aldama",
+        "date": "2024-11-21T00:00",
+        "description": [
+            "Tremendo temazo. Ojalá saque un álbum."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Víctor de Aldama"]
     }
 }

@@ -7479,5 +7479,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Víctor de Aldama"]
+    },
+    "fachacop": {
+        "name": "FachaCop",
+        "date": "2024-11-23T00:00",
+        "description": [
+            "El dibujo de premio a quien acertó lo que estaba de más en cómic del otro día. En la cuarta viñeta están todas las portadas falsas de cómic que hice, pero hay una de más, de Espainder-Man, que no debería estar ahí porque no la he publicado todavía. Atentos al próximo concurso."
+        ],
+        "size": "3000x3000"
     }
 }

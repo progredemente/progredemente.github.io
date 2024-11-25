@@ -7487,5 +7487,15 @@
             "El dibujo de premio a quien acertó lo que estaba de más en cómic del otro día. En la cuarta viñeta están todas las portadas falsas de cómic que hice, pero hay una de más, de Espainder-Man, que no debería estar ahí porque no la he publicado todavía. Atentos al próximo concurso."
         ],
         "size": "3000x3000"
+    },
+    "surfeando_ola": {
+        "name": "Surfeando la ola",
+        "date": "2024-11-25T00:00",
+        "description": [
+            "Hoy el Perro, en su particular rickrolleada matutina, ha encumbrado a la charo que manda a Uropa, quien está surfeando la mierda, la de la gota fría y la del señalamiento directo de Aldama."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Teresa Ribera"],
+        "parties": ["PSOE"]
     }
 }

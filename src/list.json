@@ -7508,5 +7508,13 @@
         "series": ["memes"],
         "celebrities": ["Víctor de Aldama"],
         "parties": ["PSOE"]
+    },
+    "cordero_lobo": {
+        "name": "Cordero con piel de lobo",
+        "date": "2024-11-27T01:00",
+        "description": [
+            "Venga, tenemos nuevo concurso, al primero que acierte a quién representa esta viñeta le hago un dibujo. Esta vez creo que es bastante fácil."
+        ],
+        "size": "2000x2000"
     }
 }

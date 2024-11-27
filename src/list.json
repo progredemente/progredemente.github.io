@@ -7497,5 +7497,16 @@
         "size": "3000x3000",
         "celebrities": ["Teresa Ribera"],
         "parties": ["PSOE"]
+    },
+    "gorras": {
+        "name": "Gorras",
+        "date": "2024-11-27T00:00",
+        "description": [
+            "Pretenden ridiculizarlo comparándolo con Mortadelo, pero, leyendo lo último que sale en prensa sobre Aldama, ¿y si estamos ante el infiltrado definitivo?"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Víctor de Aldama"],
+        "parties": ["PSOE"]
     }
 }

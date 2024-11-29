@@ -3742,6 +3742,7 @@
         ],
         "size": "2000x2000",
         "series": ["memes"],
+        "celebrities": ["Juan Lobato"],
         "parties": ["PSOE"]
     },
     "logica_aplastante": {
@@ -7515,6 +7516,17 @@
         "description": [
             "Venga, tenemos nuevo concurso, al primero que acierte a quién representa esta viñeta le hago un dibujo. Esta vez creo que es bastante fácil."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "celebrities": ["Juan Lobato"],
+        "parties": ["PSOE"]
+    },
+    "charo_marine": {
+        "name": "Charo Marine",
+        "date": "2024-11-29T01:00",
+        "description": [
+            "El premio al que acertó quién era el de la viñeta del otro día. Era Juan Lobato."
+        ],
+        "size": "3000x3000",
+        "parties": ["PSOE"]
     }
 }

@@ -7528,5 +7528,14 @@
         ],
         "size": "3000x3000",
         "parties": ["PSOE"]
+    },
+    "cagar_bar": {
+        "name": "Cagar en el bar",
+        "date": "2024-11-30T01:00",
+        "description": [
+            "Ni vi el programa ni sé de qué va."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Jordi Évole", "Henar Álvarez"]
     }
 }

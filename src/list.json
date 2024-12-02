@@ -7531,11 +7531,19 @@
     },
     "cagar_bar": {
         "name": "Cagar en el bar",
-        "date": "2024-11-30T01:00",
+        "date": "2024-11-30T00:00",
         "description": [
             "Ni vi el programa ni sé de qué va."
         ],
         "size": "2000x2000",
         "celebrities": ["Jordi Évole", "Henar Álvarez"]
+    },
+    "body_positive": {
+        "name": "Body positive",
+        "date": "2024-12-02T01:00",
+        "description": [
+            "Parece que al final el \"body positivity\" no era otra cosa que, para sorpresa de nadie, falta de autocontrol."
+        ],
+        "size": "2000x2000"
     }
 }

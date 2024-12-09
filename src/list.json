@@ -7545,5 +7545,17 @@
             "Parece que al final el \"body positivity\" no era otra cosa que, para sorpresa de nadie, falta de autocontrol."
         ],
         "size": "2000x2000"
+    },
+    "hijos_revolucion": {
+        "name": "Hijos de la revolución",
+        "date": "2024-12-09T01:00",
+        "description": [
+            "Viendo como vuelan los piolets últimamente, más de uno de los que apoyan activamente este tipo de revoluciones acabaría purgado en el minuto uno."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

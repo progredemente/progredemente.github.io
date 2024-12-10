@@ -7540,7 +7540,7 @@
     },
     "body_positive": {
         "name": "Body positive",
-        "date": "2024-12-02T01:00",
+        "date": "2024-12-02T00:00",
         "description": [
             "Parece que al final el \"body positivity\" no era otra cosa que, para sorpresa de nadie, falta de autocontrol."
         ],
@@ -7548,7 +7548,7 @@
     },
     "hijos_revolucion": {
         "name": "Hijos de la revolución",
-        "date": "2024-12-09T01:00",
+        "date": "2024-12-09T00:00",
         "description": [
             "Viendo como vuelan los piolets últimamente, más de uno de los que apoyan activamente este tipo de revoluciones acabaría purgado en el minuto uno."
         ],
@@ -7557,5 +7557,16 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "pensando_otra": {
+        "name": "Pensando en otra",
+        "date": "2024-12-10T00:00",
+        "description": [
+            "Ojalá abran un parque de atracciones."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez", "Francisco Franco"],
+        "parties": ["PSOE"]
     }
 }

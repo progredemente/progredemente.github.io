@@ -7568,5 +7568,14 @@
         "series": ["memes"],
         "celebrities": ["Pedro Sánchez", "Begoña Gómez", "Francisco Franco"],
         "parties": ["PSOE"]
+    },
+    "francobeo": {
+        "name": "Francobeo",
+        "date": "2024-12-12T00:00",
+        "description": [
+            "2025 va a ser un año increíble."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Francisco Franco"]
     }
 }

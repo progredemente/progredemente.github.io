@@ -7577,5 +7577,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Francisco Franco"]
+    },
+    "jovenom": {
+        "name": "Jovenom",
+        "date": "2024-12-18T00:00",
+        "description": [
+            "En esta entrega, nuestro querido superhéroe viaja a Barcelona y se enfrenta a su némesis. ¿Podrá acabar con él?"
+        ],
+        "size": "2500x3500",
+        "series": ["espainderman"]
     }
 }

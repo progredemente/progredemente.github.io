@@ -7586,5 +7586,13 @@
         ],
         "size": "2500x3500",
         "series": ["espainderman"]
+    },
+    "coche": {
+        "name": "Coche",
+        "date": "2024-12-21T00:00",
+        "description": [
+            "Cochelandia."
+        ],
+        "size": "2000x2000"
     }
 }

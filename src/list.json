@@ -7594,5 +7594,48 @@
             "Cochelandia."
         ],
         "size": "2000x2000"
+    },
+    "felices_f": {
+        "name": "Felices fie...",
+        "date": "2024-12-23T00:00",
+        "description": [
+            "¡Feliz Navidad!",
+            "No soy yo el mayor fan de Pantera, pero la portada del disco está guapísima.",
+            "Estoy sin acceso a mi equipo de trabajo habitual pero tengo varias viñetas ya hechas de hace tiempo para estos días. Si hay alguna inexactitud por motivos de actualidad, es lo que hay."
+        ],
+        "size": "2500x2500",
+        "series": ["postales_navidenas"],
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
+    },
+    "40_euros": {
+        "name": "40 euros",
+        "date": "2024-12-25T00:00",
+        "description": [
+            "La crisis llega hasta las más altas esferas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Begoña Gómez"],
+        "parties": ["PSOE"]
+    },
+    "feliz_2025": {
+        "name": "¡Feliz 2025!",
+        "date": "2024-12-31T00:00",
+        "description": [
+            "¡Que tengáis un feliz 2025!",
+            "Tenía que hacerlo. Vi que ya se me adelantaron con la broma, lo cual era inevitable. De hecho, me parecería mal que a nadie más se le hubiese ocurrido."
+        ],
+        "size": "2000x2000"
+    },
+    "nuevos_reyes": {
+        "name": "Los Nuevos Reyes Magos",
+        "date": "2025-01-05T00:00",
+        "description": [
+            "El primer mago lanza hechizos, el segundo se saca conejos de la chistera y el tercero, ¿alguien me puede decir qué hace? Al primero que acierte le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Charles III", "Felipe VI", "Mohamed VI"]
     }
 }

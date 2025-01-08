@@ -12,16 +12,11 @@
     {
         "id": "youtube",
         "name": "YouTube",
-        "url": "https://www.youtube.com/channel/UCZtxGIqOUgIyKxzSLUOgDpA"
+        "url": "https://www.youtube.com/@progredemente"
     },
     {
         "id": "telegram",
         "name": "Telegram",
         "url": "https://t.me/progredemente"
-    },
-    {
-        "id": "gab",
-        "name": "Gab",
-        "url": "https://gab.com/progredemente"
     }
 ]

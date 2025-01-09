@@ -7637,5 +7637,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Charles III", "Felipe VI", "Mohamed VI"]
+    },
+    "charo_marine_mini": {
+        "name": "Charo Marine mini",
+        "date": "2025-01-09T00:00",
+        "description": [
+            "Es la primera vez que modifico e incluso pinto miniaturas. Mi equipo de grabación era bastante deficiente. Hice lo que pude."
+        ],
+        "url": "https://www.youtube.com/embed/wTGGFfxWm_Q",
+        "parties": ["PSOE"]
     }
 }

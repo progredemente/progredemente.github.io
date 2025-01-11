@@ -7646,5 +7646,13 @@
         ],
         "url": "https://www.youtube.com/embed/wTGGFfxWm_Q",
         "parties": ["PSOE"]
+    },
+    "yayo_antifranquista": {
+        "name": "Yayo antifranquista",
+        "date": "2025-01-11T00:00",
+        "description": [
+            "No puedo esperar a hacerme viejo para ver a Alán Barroso echar pestes de Pedro Sánchez."
+        ],
+        "size": "2000x2000"
     }
 }

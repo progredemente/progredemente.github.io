@@ -20,6 +20,7 @@ import Celebrity from './sections/search/Celebrity';
 import Size from './sections/search/Size';
 import Tag from './sections/search/Tag';
 import NotFound from './sections/not-found/NotFound';
+import Contests from './sections/contests/Contests';
 
 class App extends Component{
 
@@ -140,6 +141,7 @@ class App extends Component{
                                 </div>
                             }/>
                             <Route exact path={'sobre_mi'} element={<About />}/>
+                            <Route exact path={'concursos'} element={<Contests />}/>
                             <Route exact path={'estadisticas'} element={<Stats />}/>
                             <Route exact path={'.estadisticas'} element={<PageStats />}/>
                             <Route exact path={'personaje/:searchText'} element={

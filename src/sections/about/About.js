@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
  
-class Series extends Component {
+class About extends Component {
     render() {
         return (
             <>
@@ -14,4 +14,4 @@ class Series extends Component {
     }
 }
  
-export default Series;
+export default About;

@@ -7331,7 +7331,8 @@
             "Sé que a veces mis viñetas no se entienden y esta me tiene pinta de que es de esas, así que vamos a hacer un cosa: al primero que me explique por qué he escogido esta flor para rediseñar el logo de la PSOE (por tanto, también hay que adivinar qué flor es), le hago un dibujo."
         ],
         "size": "2000x2000",
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "contest": "alessi"
     },
     "goblins": {
         "name": "Goblins",
@@ -7462,7 +7463,8 @@
         "description": [
             "¡Nuevo concurso! Esta vez creo que va a ser algo más complicado que la vez anterior. En este cómic hay algo que no debería estar ahí, tenéis que acertar qué es. Al primero que acierte le hago un dibujo. Tenéis dos semanas, si nadie acierta publicaré la respuesta correcta."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "contest": "fachacop"
     },
     "charo_vs_charo": {
         "name": "Charo vs charo",
@@ -7518,7 +7520,8 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Juan Lobato"],
-        "parties": ["PSOE"]
+        "parties": ["PSOE"],
+        "contest": "charo_marine"
     },
     "charo_marine": {
         "name": "Charo Marine",
@@ -7636,7 +7639,8 @@
             "El primer mago lanza hechizos, el segundo se saca conejos de la chistera y el tercero, ¿alguien me puede decir qué hace? Al primero que acierte le hago un dibujo."
         ],
         "size": "2000x2000",
-        "celebrities": ["Charles III", "Felipe VI", "Mohamed VI"]
+        "celebrities": ["Charles III", "Felipe VI", "Mohamed VI"],
+        "contest": true
     },
     "charo_marine_mini": {
         "name": "Charo Marine mini",

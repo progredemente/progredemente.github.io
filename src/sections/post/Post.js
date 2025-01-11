@@ -10,6 +10,8 @@ import Banner from '../../common/Banner';
 import RichText from './RichText.js';
 import Language from './Language';
 import Image from '../../common/Image';
+import { Icon } from 'components/Icon';
+import Thumbnail from '../../common/Thumbnail.js';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -145,6 +147,29 @@ class Post extends Component {
                         <div className="celebrity-list">Personaje{postCelebrities.length > 1 ? "s" : ""}: {postCelebrities.map((c, i) => {
                             return <Link to={`${parentUrl}/personaje/${c}`} key={c}>{c}</Link>
                         })}</div>
+                    }
+                    {
+                        post.contest &&
+                        <>
+                        <span className="contest-banner"><Icon icon="🏆"/>&nbsp;CONCURSO&nbsp;<Icon icon="🏆"/></span>
+                        {
+                            post.contest !== true &&
+                            <>
+                                <p>Alguien ya ha ganado el concurso. Este es el premio recibido:</p>
+                                <Thumbnail
+                                    post={{
+                                        id: post.contest,
+                                        name: list[post.contest].name,
+                                        date: new Date(list[post.contest].date)
+                                    }}
+                                />
+                            </>
+                        }
+                        {
+                            post.contest === true &&
+                            <p>Sigue las instrucciones de la descripción para ganar un premio. Para saber cómo participar, ve a la sección <Link to="../concursos">concursos</Link>.</p>
+                        }
+                        </>
                     }
                 </div>
             </div>

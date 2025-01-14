@@ -7658,5 +7658,23 @@
             "No puedo esperar a hacerme viejo para ver a Alán Barroso echar pestes de Pedro Sánchez."
         ],
         "size": "2000x2000"
+    },
+    "piel": {
+        "name": "Piel",
+        "date": "2025-01-12T00:00",
+        "description": [
+            "Ya tenemos un lagarto en nuestro equipo y estamos muy contentos con él, por mucho que te cambies la piel todos sabemos cómo eres por dentro."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Mark Zuckerberg"]
+    },
+    "aquellos_polvos": {
+        "name": "De Aquellos Polvos",
+        "date": "2025-01-14T00:00",
+        "description": [
+            "Hacedle caso a Españita y comprad \"De Aquellos Polvos\", un cómic de {contact:merimonas} sobre la historia de este nuestro país.",
+            "Lo tenéis disponible aquí: {https://amzn.eu/d/64cVaXY}"
+        ],
+        "size": "2000x2000"
     }
 }

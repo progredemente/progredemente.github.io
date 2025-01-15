@@ -7676,5 +7676,14 @@
             "Lo tenéis disponible aquí: {https://amzn.eu/d/64cVaXY}"
         ],
         "size": "2000x2000"
+    },
+    "5_aniversario": {
+        "name": "5º aniversario",
+        "date": "2025-01-15T00:00",
+        "description": [
+            "Este proyecto cumple 5 años y quería hacer un breve repaso con algunas de mis viñetas favoritas.",
+            "Gracias por estar ahí."
+        ],
+        "size": "2000x2000"
     }
 }

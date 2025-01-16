@@ -7685,5 +7685,16 @@
             "Gracias por estar ahí."
         ],
         "size": "2000x2000"
+    },
+    "de_vuelta": {
+        "name": "De vuelta",
+        "date": "2025-01-16T00:00",
+        "description": [
+            "¿Alguien sabe en qué sitio de Madrid he colocado la esfinge? Al primero que me lo diga le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"],
+        "contest": true
     }
 }

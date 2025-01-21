@@ -7640,7 +7640,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Charles III", "Felipe VI", "Mohamed VI"],
-        "contest": true
+        "contest": "--unclaimed"
     },
     "charo_marine_mini": {
         "name": "Charo Marine mini",
@@ -7695,6 +7695,16 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
-        "contest": true
+        "contest": "--unclaimed"
+    },
+    "fachada": {
+        "name": "Fachada",
+        "date": "2025-01-21T00:00",
+        "description": [
+            "No todo sale a pedir de Milhouse. Es poesía verlo delante del juez reconociendo que es un hipócrita."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Íñigo Errejón"],
+        "parties": ["MP"]
     }
 }

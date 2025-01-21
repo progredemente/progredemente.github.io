@@ -155,14 +155,23 @@ class Post extends Component {
                         {
                             post.contest !== true &&
                             <>
-                                <p>Alguien ya ha ganado el concurso. Este es el premio recibido:</p>
-                                <Thumbnail
-                                    post={{
-                                        id: post.contest,
-                                        name: list[post.contest].name,
-                                        date: new Date(list[post.contest].date)
-                                    }}
-                                />
+                            {
+                                post.contest === "--unclaimed" &&
+                                <p>Alguien ya ha ganado el concurso, pero no ha reclamado premio todavía.</p>
+                            }
+                            {
+                                post.contest !== "--unclaimed" &&
+                                <>
+                                    <p>Alguien ya ha ganado el concurso. Este es el premio recibido:</p>
+                                    <Thumbnail
+                                        post={{
+                                            id: post.contest,
+                                            name: list[post.contest].name,
+                                            date: new Date(list[post.contest].date)
+                                        }}
+                                    />
+                                </>
+                            }
                             </>
                         }
                         {

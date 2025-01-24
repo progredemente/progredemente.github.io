@@ -7706,5 +7706,15 @@
         "size": "2000x2000",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "bocadillo_omnibus": {
+        "name": "Bocadillo ómnibus",
+        "date": "2025-01-24T00:00",
+        "description": [
+            "¿A qué anime hago una referencia en esta viñeta? Al primero que acierte le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "parties": ["PP", "PSOE"],
+        "contest": "--unclaimed"
     }
 }

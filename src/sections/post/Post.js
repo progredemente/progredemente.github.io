@@ -160,7 +160,11 @@ class Post extends Component {
                                 <p>Alguien ya ha ganado el concurso, pero no ha reclamado premio todavía.</p>
                             }
                             {
-                                post.contest !== "--unclaimed" &&
+                                post.contest === "--in-process" &&
+                                <p>Alguien ya ha ganado el concurso, el premio está en proceso.</p>
+                            }
+                            {
+                                post.contest !== "--unclaimed" && post.contest !== "--in-process" &&
                                 <>
                                     <p>Alguien ya ha ganado el concurso. Este es el premio recibido:</p>
                                     <Thumbnail

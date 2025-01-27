@@ -7715,6 +7715,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PP", "PSOE"],
-        "contest": "--unclaimed"
+        "contest": "--in-process"
+    },
+    "petro": {
+        "name": "Petro",
+        "date": "2025-01-27T00:00",
+        "description": [
+            "Qué manera de hacer el ridículo. Patético."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gustavo Petro"]
     }
 }

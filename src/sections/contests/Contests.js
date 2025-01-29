@@ -54,7 +54,7 @@ class Contests extends Component {
                     <p>No hay concursos activos por el momento, pero no te preocupes, pronto habrá más.</p>
                 }
                 <h2 className="section-title">Concursos terminados</h2>
-                <p>Estos son los concursos ya terminados, por si quieres echarles un ojo para saber cómo son los concursos.</p>
+                <p>Estos son los concursos ya terminados, por si quieres echarles un ojo para saber cómo son.</p>
                 <ThumbnailContainer posts={contests.ended}/>
             </>
         );

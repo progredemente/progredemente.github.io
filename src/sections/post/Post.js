@@ -157,16 +157,16 @@ class Post extends Component {
                             <>
                             {
                                 post.contest === "--unclaimed" &&
-                                <p>Alguien ya ha ganado el concurso, pero no ha reclamado premio todavía.</p>
+                                <p>Alguien ha ganado el concurso, pero no ha reclamado premio todavía.</p>
                             }
                             {
                                 post.contest === "--in-process" &&
-                                <p>Alguien ya ha ganado el concurso, el premio está en proceso.</p>
+                                <p>Alguien ha ganado el concurso, el premio está en proceso.</p>
                             }
                             {
                                 post.contest !== "--unclaimed" && post.contest !== "--in-process" &&
                                 <>
-                                    <p>Alguien ya ha ganado el concurso. Este es el premio recibido:</p>
+                                    <p>Alguien ha ganado el concurso. Este es el premio recibido:</p>
                                     <Thumbnail
                                         post={{
                                             id: post.contest,

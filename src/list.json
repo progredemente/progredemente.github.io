@@ -7640,7 +7640,7 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Charles III", "Felipe VI", "Mohamed VI"],
-        "contest": "--unclaimed"
+        "contest": "vanessa"
     },
     "charo_marine_mini": {
         "name": "Charo Marine mini",
@@ -7725,5 +7725,13 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Gustavo Petro"]
+    },
+    "vanessa": {
+        "name": "Vanessa",
+        "date": "2025-01-29T00:00",
+        "description": [
+            "El premio para el que acertó qué hacía el tercer Rey Mago, Mohamed VI, en la viñeta que publiqué el día de Reyes, para ser considerado mago, que era hacerte desaparecer el móvil."
+        ],
+        "size": "3000x3000"
     }
 }

@@ -7733,5 +7733,16 @@
             "El premio para el que acertó qué hacía el tercer Rey Mago, Mohamed VI, en la viñeta que publiqué el día de Reyes, para ser considerado mago, que era hacerte desaparecer el móvil."
         ],
         "size": "3000x3000"
+    },
+    "bocadillo_omnibus_2": {
+        "name": "Bocadillo ómnibus 2",
+        "date": "2025-01-30T00:00",
+        "description": [
+            "Invotables.",
+            "Esta viñeta es continuación de la que publiqué el día 24 de este mes."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Núñez Feijóo"],
+        "parties": ["PP"]
     }
 }

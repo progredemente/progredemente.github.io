@@ -7744,5 +7744,15 @@
         "size": "2000x2000",
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"]
+    },
+    "programa_pp": {
+        "name": "El programa del PP",
+        "date": "2025-01-31T00:00",
+        "description": [
+            "Me filtran el próximo programa electoral del PP."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Núñez Feijóo"],
+        "parties": ["PP"]
     }
 }

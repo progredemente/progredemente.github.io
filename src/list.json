@@ -7715,7 +7715,7 @@
         ],
         "size": "2000x2000",
         "parties": ["PP", "PSOE"],
-        "contest": "--in-process"
+        "contest": "fujur"
     },
     "petro": {
         "name": "Petro",
@@ -7754,5 +7754,13 @@
         "size": "2000x2000",
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"]
+    },
+    "fujur": {
+        "name": "Fujur",
+        "date": "2025-02-03T00:00",
+        "description": [
+            "El premio para el que acertó a qué anime hacía una referencia en la viñeta del bocadillo ómnibus. El anime es \"{jap:ダンジョン飯}\" (\"Danjon Meshi\"). En español lo llamaron \"Tragones y Mazmorras\" y, como persona amante de los juegos de palabras, me parece una traducción muy original."
+        ],
+        "size": "3000x3000"
     }
 }

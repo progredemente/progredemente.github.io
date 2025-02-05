@@ -7762,5 +7762,13 @@
             "El premio para el que acertó a qué anime hacía una referencia en la viñeta del bocadillo ómnibus. El anime es \"{jap:ダンジョン飯}\" (\"Danjon Meshi\"). En español lo llamaron \"Tragones y Mazmorras\" y, como persona amante de los juegos de palabras, me parece una traducción muy original."
         ],
         "size": "3000x3000"
+    },
+    "30_minutos": {
+        "name": "30 minutos",
+        "date": "2025-02-05T00:00",
+        "description": [
+            "Y tú, ¿cómo aprovecharías esos 30 minutos diarios?"
+        ],
+        "size": "2000x2000"
     }
 }

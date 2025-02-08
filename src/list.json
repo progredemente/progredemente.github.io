@@ -7770,5 +7770,15 @@
             "Y tú, ¿cómo aprovecharías esos 30 minutos diarios?"
         ],
         "size": "2000x2000"
+    },
+    "espiritu_ley": {
+        "name": "El espóritu de la ley",
+        "date": "2025-02-08T00:00",
+        "description": [
+            "Quería volver a rediseñar la caricatura de nuestra estimada eurodiputada. Me cuesta bastante dibujarla en mi estilo."
+        ],
+        "size": "3800x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

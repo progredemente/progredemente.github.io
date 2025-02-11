@@ -7780,5 +7780,15 @@
         "size": "3800x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "destruccion_pruebas": {
+        "name": "Destrucción de pruebas",
+        "date": "2025-02-11T00:00",
+        "description": [
+            "Cómo le gusta al fiscal general del Estado colaborar con la justicia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Álvaro García Ortiz"],
+        "parties": ["PSOE"]
     }
 }

@@ -7790,5 +7790,15 @@
         "size": "2000x2000",
         "celebrities": ["Álvaro García Ortiz"],
         "parties": ["PSOE"]
+    },
+    "mundo_digital": {
+        "name": "Mundo digital",
+        "date": "2025-02-12T00:00",
+        "description": [
+            "Es algo de la semana pasada, pero lo acabo de ver y no pude evitar acordarme de una de mis series favoritas de mi infancia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

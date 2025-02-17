@@ -7800,5 +7800,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "olla_oro": {
+        "name": "Olla de oro",
+        "date": "2025-02-17T00:00",
+        "description": [
+            "Al primero que me explique correctamente esta viñeta le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "contest": true
     }
 }

@@ -7809,5 +7809,13 @@
         ],
         "size": "2000x2000",
         "contest": true
+    },
+    "pagar_sanidad": {
+        "name": "Pagar la sanidad",
+        "date": "2025-02-19T00:00",
+        "description": [
+            "Ojalá poder dejar de financiar la charocracia. Inspirado en algo que vi el otro día en X."
+        ],
+        "size": "3800x2000"
     }
 }

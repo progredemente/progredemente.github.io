@@ -7817,5 +7817,15 @@
             "Ojalá poder dejar de financiar la charocracia. Inspirado en algo que vi el otro día en X."
         ],
         "size": "3800x2000"
+    },
+    "libra": {
+        "name": "$LIBRA",
+        "date": "2025-02-20T00:00",
+        "description": [
+            "Grande el Javo dándole un arma política a la oposición.",
+            "De entre todas las red flags, como argentino ya tendría que haber sospechado cuando el nombre de la memecoin es el mismo que el de la moneda del Reino Unido."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Javier Milei"]
     }
 }

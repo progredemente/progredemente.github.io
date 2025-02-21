@@ -7827,5 +7827,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Javier Milei"]
+    },
+    "olla": {
+        "name": "Olla",
+        "date": "2025-02-21T00:00",
+        "description": [
+            "El refranero español es un pozo de sabiduría ancestral. ¿A qué refrán hago referencia en esta viñeta? Al primero que me lo diga le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Juan Carlos Monedero"],
+        "parties": ["Podemos"],
+        "contest": true
     }
 }

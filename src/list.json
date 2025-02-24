@@ -7837,6 +7837,14 @@
         "size": "2000x2000",
         "celebrities": ["Juan Carlos Monedero"],
         "parties": ["Podemos"],
-        "contest": true
+        "contest": "pato"
+    },
+    "pato": {
+        "name": "Pato",
+        "date": "2025-02-24T00:00",
+        "description": [
+            "El premio para el que acertó qué refrán era el de la viñeta de Monedero del otro día, que empieza así: \"donde tengas la olla...\", y ya sabéis cómo termina."
+        ],
+        "size": "3000x3000"
     }
 }

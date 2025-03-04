@@ -7863,5 +7863,14 @@
         ],
         "size": "2000x2000",
         "parties": ["Podemos"]
+    },
+    "figuritas": {
+        "name": "Figuritas",
+        "date": "2025-03-04T01:00",
+        "description": [
+            "¿Cuántas figuritas del tipo de las primeras y cuántas del tipo de las segundas tienes en casa, joven occidental?"
+        ],
+        "size": "4000x2500",
+        "series": ["memes"]
     }
 }

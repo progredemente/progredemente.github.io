@@ -7872,5 +7872,16 @@
         ],
         "size": "4000x2500",
         "series": ["memes"]
+    },
+    "debate_inmigracion": {
+        "name": "El debate de la inmigración",
+        "date": "2025-03-10T01:00",
+        "description": [
+            "Basada en la mítica viñeta de {contact:sunnystreetcomics} adaptada a temas de actualidad."
+        ],
+        "size": "3500x4000",
+        "series": ["memes"],
+        "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Santiago Abascal"],
+        "parties": ["PSOE", "JxC", "Vox"]
     }
 }

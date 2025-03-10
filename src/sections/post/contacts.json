@@ -388,5 +388,15 @@
                 "url": "https://www.facebook.com/rpesqueirailustracion/"
             }
         ]
+    },
+    "sunnystreetcomics": {
+        "name": "Sunny Street Comics",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/sunnystreetcomics/"
+            }
+        ]
+
     }
 }

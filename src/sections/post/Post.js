@@ -5,13 +5,14 @@ import './Post.css';
 import PostNavigator from './PostNavigator';
 import Roster from './Roster';
 import {Link} from 'react-router-dom';
-import {formatDate, withNavigate, withParams} from '../../common/utils.js';
+import {formatDate, getNextDayForX, withNavigate, withParams} from '../../common/utils.js';
 import Banner from '../../common/Banner';
 import RichText from './RichText.js';
 import Language from './Language';
 import Image from '../../common/Image';
 import { Icon } from 'components/Icon';
 import Thumbnail from '../../common/Thumbnail.js';
+import Loading from '../../common/Loading.js';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -37,7 +38,8 @@ class Post extends Component {
         super(props);
         this.state = {
             currentLang: null,
-            showSpoiler: false
+            showSpoiler: false,
+            xLoad: false
         }
     }
     
@@ -122,7 +124,28 @@ class Post extends Component {
                     <PostNavigator currentId={id} list={Object.keys(list_)} url={currentUrl} changeImg={this.changeImg}/>
                 }
                 <div>
-                    <p className="name">{list_[id].name}</p>
+                    <p className="name">
+                        {list_[id].name}
+                        {
+                            JSON.parse(window.localStorage.getItem("xButton")) && list_[id].date &&
+                            <>
+                                &nbsp;
+                                <a className='x-button' target="_blank" rel="noopener noreferrer" href={`https://x.com/search?q=from%3Aprogredemente%20until%3A${getNextDayForX(new Date(list_[id].date))}&src=typed_query&f=live`}>
+                                    <Loading
+                                        hidden={this.state.xLoad}
+                                    />
+                                    <img
+                                        src={`/img/social/x.png`}
+                                        alt={"X"}
+                                        className={this.state.xLoad ? "" : " hidden"}
+                                        onLoad={ () => {
+                                            this.setState({ xLoad: true })
+                                        }}
+                                    />
+                                </a>
+                            </>
+                        }
+                    </p>
                     <p className="date">{date}</p>
                     {
                         post.lang &&

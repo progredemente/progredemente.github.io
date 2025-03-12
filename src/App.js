@@ -21,6 +21,7 @@ import Size from './sections/search/Size';
 import Tag from './sections/search/Tag';
 import NotFound from './sections/not-found/NotFound';
 import Contests from './sections/contests/Contests';
+import Options from './sections/options/Options';
 
 class App extends Component{
 
@@ -152,6 +153,9 @@ class App extends Component{
                             }/>
                             <Route exact path={'.etiqueta/:searchText'} element={
                                 <Tag {...this.props} />
+                            }/>
+                            <Route exact path={'.opciones'} element={
+                                <Options />
                             }/>
                             <Route exact path={'404'} element={
                                 <NotFound />

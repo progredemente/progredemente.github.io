@@ -120,3 +120,17 @@
         margin-top: 10px
     }
 }
+
+.x-button {
+    text-decoration: none;
+}
+.x-button img {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.x-button .loading {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}

@@ -7857,7 +7857,7 @@
     },
     "alfombra": {
         "name": "Alfombra",
-        "date": "2025-02-26T01:00",
+        "date": "2025-02-26T00:00",
         "description": [
             "Realmente esta viñeta se puede aplicar a cualquier otro partido con cualquier otro problema, pero disfrutemos en estos momentos del hundimiento de Podemos."
         ],
@@ -7866,7 +7866,7 @@
     },
     "figuritas": {
         "name": "Figuritas",
-        "date": "2025-03-04T01:00",
+        "date": "2025-03-04T00:00",
         "description": [
             "¿Cuántas figuritas del tipo de las primeras y cuántas del tipo de las segundas tienes en casa, joven occidental?"
         ],
@@ -7875,7 +7875,7 @@
     },
     "debate_inmigracion": {
         "name": "El debate de la inmigración",
-        "date": "2025-03-10T01:00",
+        "date": "2025-03-10T00:00",
         "description": [
             "Basada en la mítica viñeta de {contact:sunnystreetcomics} adaptada a temas de actualidad."
         ],
@@ -7883,5 +7883,15 @@
         "series": ["memes"],
         "celebrities": ["Pedro Sánchez", "Carles Puigdemont", "Santiago Abascal"],
         "parties": ["PSOE", "JxC", "Vox"]
+    },
+    "paloma_mensajera": {
+        "name": "Paloma mensajera",
+        "date": "2025-03-14T00:00",
+        "description": [
+            "No me sorprendería ver a alguno de estos tarados proponiendo la creación de un Google o Whatsapp público con el pretexto de que nuestros datos no estén en manos de la «tecnocasta», porque es mucho mejor que estén en manos de hackers rusos."
+        ],
+        "size": "3500x2350",
+        "celebrities": ["Pedro Sánchez", "Álvaro García Ortiz"],
+        "parties": ["PSOE"]
     }
 }

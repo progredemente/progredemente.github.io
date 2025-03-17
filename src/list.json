@@ -7893,5 +7893,13 @@
         "size": "3500x2350",
         "celebrities": ["Pedro Sánchez", "Álvaro García Ortiz"],
         "parties": ["PSOE"]
+    },
+    "iman_salt": {
+        "name": "El imán de Salt",
+        "date": "2025-03-15T00:00",
+        "description": [
+            "¿Cuál es el imán más exótico que tenéis en vuestas neveras?"
+        ],
+        "size": "2000x2000"
     }
 }

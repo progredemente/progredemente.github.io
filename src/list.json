@@ -7901,5 +7901,13 @@
             "¿Cuál es el imán más exótico que tenéis en vuestas neveras?"
         ],
         "size": "2000x2000"
+    },
+    "hablar_espanol": {
+        "name": "Hablar español",
+        "date": "2025-03-17T00:00",
+        "description": [
+            "La viñeta \"Blitzed\" de {contact:stonetoss} adaptada a la realidad española."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -7909,5 +7909,13 @@
             "La viñeta \"Blitzed\" de {contact:stonetoss} adaptada a la realidad española."
         ],
         "size": "2000x2000"
+    },
+    "parasitar_mas": {
+        "name": "Parasitar más",
+        "date": "2025-03-18T00:00",
+        "description": [
+            "Para garantizar tu supervivencia como parásito tienes que asegurarte de que tu huesped no se muera. Algo así reconoció Mujica en una entrevista, aunque luego Évole le dio la vuelta torticeramente a lo que estaba diciendo."
+        ],
+        "size": "2000x2000"
     }
 }

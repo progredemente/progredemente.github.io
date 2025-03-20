@@ -7917,5 +7917,15 @@
             "Para garantizar tu supervivencia como parásito tienes que asegurarte de que tu huesped no se muera. Algo así reconoció Mujica en una entrevista, aunque luego Évole le dio la vuelta torticeramente a lo que estaba diciendo."
         ],
         "size": "2000x2000"
+    },
+    "terrateniente": {
+        "name": "Terrateniente",
+        "date": "2025-03-20T00:00",
+        "description": [
+            "El hecho de que Ábalos sea de Torrente y que se llame también José Luis me hace pensar que Santiago Segura sabía cosas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Ábalos"],
+        "parties": ["PSOE"]
     }
 }

@@ -7927,5 +7927,17 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Ábalos"],
         "parties": ["PSOE"]
+    },
+    "rearme": {
+        "name": "Rearme",
+        "date": "2025-03-23T00:00",
+        "description": [
+            "El rearme desde la charía, nada puede salir mal. Los Koldos de turno estarán frotándose las manos."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en"]
+        }
     }
 }

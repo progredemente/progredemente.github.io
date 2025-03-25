@@ -7939,5 +7939,14 @@
             "default": "es",
             "available": ["en"]
         }
+    },
+    "bob_pop": {
+        "name": "Bob Pop",
+        "date": "2025-03-25T00:00",
+        "description": [
+            "Qué turbio."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Bob Pop"]
     }
 }

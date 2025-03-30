@@ -7948,5 +7948,18 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Bob Pop"]
+    },
+    "espejo": {
+        "name": "Espejo",
+        "date": "2025-03-30T00:00",
+        "description": [
+            "Y a ti, ¿quién te parece la más hermosa?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gal Gadot", "Rachel Zegler"],
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        }
     }
 }

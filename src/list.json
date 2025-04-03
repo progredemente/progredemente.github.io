@@ -7961,5 +7961,17 @@
             "default": "es",
             "available": ["en", "pt"]
         }
+    },
+    "combustion": {
+        "name": "Combustión",
+        "date": "2025-04-03T00:00",
+        "description": [
+            "Siempre que veo una noticia de coches ardiendo, son siempre los mismos."
+        ],
+        "size": "3000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        }
     }
 }

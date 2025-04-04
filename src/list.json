@@ -7973,5 +7973,16 @@
             "default": "es",
             "available": ["en", "pt"]
         }
+    },
+    "vergonha": {
+        "name": "Vergonha",
+        "date": "2025-04-04T00:00",
+        "description": [
+            "Siempre que veo una noticia de coches ardiendo, son siempre los mismos."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Luís Montenegro"],
+        "parties": ["PSOE"],
+        "contest": true
     }
 }

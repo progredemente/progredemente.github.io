@@ -7983,6 +7983,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Luís Montenegro"],
         "parties": ["PSOE"],
-        "contest": true
+        "contest": "--in-process"
+    },
+    "xabarin": {
+        "name": "Xabarín",
+        "date": "2025-04-06T00:00",
+        "description": [
+            "No colexio ou na escola temos menú halal."
+        ],
+        "size": "2500x2500"
     }
 }

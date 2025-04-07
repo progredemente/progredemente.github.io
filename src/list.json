@@ -7992,5 +7992,15 @@
             "No colexio ou na escola temos menú halal."
         ],
         "size": "2500x2500"
+    },
+    "furgoneta": {
+        "name": "Furgoneta",
+        "date": "2025-04-07T00:00",
+        "description": [
+            "Continúan saliendo más detalles de esta aventura torrentiana."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Ábalos", "Koldo García", "Joseba García"],
+        "parties": ["PSOE"]
     }
 }

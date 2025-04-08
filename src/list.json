@@ -8002,5 +8002,17 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Ábalos", "Koldo García", "Joseba García"],
         "parties": ["PSOE"]
+    },
+    "boicot": {
+        "name": "Boicot",
+        "date": "2025-04-08T00:00",
+        "description": [
+            "Así me imagino a los de «Twitter for iPhone» hablando de boicotear los productos americanos."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        }
     }
 }

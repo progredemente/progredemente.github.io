@@ -7978,12 +7978,12 @@
         "name": "Vergonha",
         "date": "2025-04-04T00:00",
         "description": [
-            "Siempre que veo una noticia de coches ardiendo, son siempre los mismos."
+            "Tenía que haber hecho esta viñeta hace unas semanas. No sé si vais a entenderla, ya que es una viñeta bilingüe, así que al primero que me la explique le hago un dibujo."
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Luís Montenegro"],
         "parties": ["PSOE"],
-        "contest": "--in-process"
+        "contest": "dimaneitor"
     },
     "xabarin": {
         "name": "Xabarín",
@@ -8014,5 +8014,13 @@
             "default": "es",
             "available": ["en", "pt"]
         }
+    },
+    "dimaneitor": {
+        "name": "Dimaneitor",
+        "date": "2025-04-10T00:00",
+        "description": [
+            "Premio para el que acertó de qué iba la broma de la viñeta de Luís Montenegro y Pedro Sánchez. La broma era que cuando Montenegro dice «vergonha» (vergüenza en portugués), Sánchez piensa que está diciendo algo sobre su mujer, ya que los argentinos la bautizaron como Vergoña."
+        ],
+        "size": "3000x3000"
     }
 }

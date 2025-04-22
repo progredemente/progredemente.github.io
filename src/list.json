@@ -8030,5 +8030,15 @@
             "Una serie donde todos los malos tienen la tez considerablemente más oscura que el resto de la gente. Da que pensar."
         ],
         "size": "2000x2000"
+    },
+    "33_": {
+        "name": "33",
+        "date": "2025-04-22T00:00",
+        "description": [
+            "Antonio Maestre el numerólogo."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Antonio Maestre", "Fernando Alonso"]
     }
 }

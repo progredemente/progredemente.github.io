@@ -8040,5 +8040,14 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Antonio Maestre", "Fernando Alonso"]
+    },
+    "simpatizante": {
+        "name": "Simpatizante",
+        "date": "2025-04-26T00:00",
+        "description": [
+            "No sé la eficacia de los puntos violeta para las mujeres, pero parece que estos nuevos puntos verdes van genial para el colectivo -H."
+        ],
+        "size": "2000x2000",
+        "parties": ["Vox"]
     }
 }

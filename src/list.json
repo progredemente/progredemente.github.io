@@ -8049,5 +8049,13 @@
         ],
         "size": "2000x2000",
         "parties": ["Vox"]
+    },
+    "apagon": {
+        "name": "Apagón",
+        "date": "2025-04-28T00:00",
+        "description": [
+            "A ver si vuelve la luz, se esclarece qué ha pasado y volvemos con lo del hermano de Sánchez."
+        ],
+        "size": "3800x2000"
     }
 }

@@ -8057,5 +8057,14 @@
             "A ver si vuelve la luz, se esclarece qué ha pasado y volvemos con lo del hermano de Sánchez."
         ],
         "size": "3800x2000"
+    },
+    "npcismo": {
+        "name": "NPCismo",
+        "date": "2025-04-30T00:00",
+        "description": [
+            "Los italianos y alemanes se han tenido que enterar por 20minutos de que no tenían luz."
+        ],
+        "size": "3000x3000",
+        "parties": ["PSOE"]
     }
 }

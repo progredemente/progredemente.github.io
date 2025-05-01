@@ -180,7 +180,7 @@ class Post extends Component {
                             <>
                             {
                                 post.contest === "--unclaimed" &&
-                                <p>Alguien ha ganado el concurso, pero no ha reclamado premio todavía.</p>
+                                <p>Alguien ha ganado el concurso, pero no ha reclamado el premio todavía.</p>
                             }
                             {
                                 post.contest === "--in-process" &&

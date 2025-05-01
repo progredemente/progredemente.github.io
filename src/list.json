@@ -8066,5 +8066,14 @@
         ],
         "size": "3000x3000",
         "parties": ["PSOE"]
+    },
+    "gigantes": {
+        "name": "Gigantes",
+        "date": "2025-05-01T00:00",
+        "description": [
+            "Otra viñeta con premio: ¿en qué viñeta me inspiré para hacer esta y de qué artista es? Al primero que acierte le hago un dibujo."
+        ],
+        "size": "2000x2000",
+        "contest": "--unclaimed"
     }
 }

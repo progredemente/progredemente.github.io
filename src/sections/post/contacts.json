@@ -64,6 +64,10 @@
             {
                 "id": "telegram",
                 "url": "https://t.me/stone_toss"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/@stonetosscomic"
             }
         ]
     },

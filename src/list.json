@@ -8074,6 +8074,14 @@
             "Otra viñeta con premio: ¿en qué viñeta me inspiré para hacer esta y de qué artista es? Al primero que acierte le hago un dibujo."
         ],
         "size": "2000x2000",
-        "contest": "--unclaimed"
+        "contest": "taki"
+    },
+    "taki": {
+        "name": "Taki",
+        "date": "2025-05-06T00:00",
+        "description": [
+            "El premio por acertar la viñeta a la que hacía referencia en mi viñeta de Don Quijote. La viñeta es de {contact:stonetoss} y se llama «Don Queerxote»."
+        ],
+        "size": "3000x3000"
     }
 }

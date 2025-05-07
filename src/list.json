@@ -8083,5 +8083,14 @@
             "El premio por acertar la viñeta a la que hacía referencia en mi viñeta de Don Quijote. La viñeta es de {contact:stonetoss} y se llama «Don Queerxote»."
         ],
         "size": "3000x3000"
+    },
+    "sabotaje": {
+        "name": "Sabotaje",
+        "date": "2025-05-07T00:00",
+        "description": [
+            "Al primero que me diga a qué hago referencia en esta viñeta le hago un dibujo."
+        ],
+        "size": "3000x2000",
+        "parties": ["PSOE", "PP", "Vox"]
     }
 }

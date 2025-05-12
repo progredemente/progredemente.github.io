@@ -8091,6 +8091,15 @@
             "Al primero que me diga a qué hago referencia en esta viñeta le hago un dibujo."
         ],
         "size": "3000x2000",
-        "parties": ["PSOE", "PP", "Vox"]
+        "parties": ["PSOE", "PP", "Vox"],
+        "contest": "zarzamora"
+    },
+    "zarzamora": {
+        "name": "Zarzamora",
+        "date": "2025-05-12T00:00",
+        "description": [
+            "El premio para quien acertó a qué hacía referencia en la viñeta anterior. Era al juego de cartas Saboteur."
+        ],
+        "size": "3000x3000"
     }
 }

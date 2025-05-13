@@ -8101,5 +8101,15 @@
             "El premio para quien acertó a qué hacía referencia en la viñeta anterior. Era al juego de cartas Saboteur."
         ],
         "size": "3000x3000"
+    },
+    "pajara": {
+        "name": "Pájara",
+        "date": "2025-05-13T00:00",
+        "description": [
+            "Quizás no sea lo más relevante del contenido de los Whatsapps, pero es curioso ver expresado el poco respeto que le tiene Sánchez a sus subordinados, aunque no sorprende a nadie."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Margarita Robles"],
+        "parties": ["PSOE"]
     }
 }

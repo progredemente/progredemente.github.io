@@ -8111,5 +8111,15 @@
         "size": "2000x2000",
         "celebrities": ["Margarita Robles"],
         "parties": ["PSOE"]
+    },
+    "bromance": {
+        "name": "Bromance",
+        "date": "2025-05-15T00:00",
+        "description": [
+            "¿Fue ese mensaje de Whatsapp una muestra real de amistad y aprecio por parte del Uno hacia el Goblins?"
+        ],
+        "size": "2000x3800",
+        "celebrities": ["Pedro Sánchez", "José Luis Ábalos"],
+        "parties": ["PSOE"]
     }
 }

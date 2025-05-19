@@ -8119,7 +8119,16 @@
             "¿Fue ese mensaje de Whatsapp una muestra real de amistad y aprecio por parte del Uno hacia el Goblins?"
         ],
         "size": "2000x3800",
+        "series": ["memes"],
         "celebrities": ["Pedro Sánchez", "José Luis Ábalos"],
         "parties": ["PSOE"]
+    },
+    "menores_tutelados": {
+        "name": "Menores tutelados",
+        "date": "2025-05-19T00:00",
+        "description": [
+            "Deberíais ver los vídeos de {contact:extremo_centro_} sobre los menores tutelados por el estado."
+        ],
+        "size": "2000x2000"
     }
 }

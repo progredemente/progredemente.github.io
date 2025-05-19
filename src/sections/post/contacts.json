@@ -401,6 +401,22 @@
                 "url": "https://www.instagram.com/sunnystreetcomics/"
             }
         ]
-
+    },
+    "extremo_centro_": {
+        "name": "Extremo Centro",
+        "pages": [
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/@ExtremoCentroLive"
+            },
+            {
+                "id": "x",
+                "url": "https://x.com/aparachiqui"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/extremo_centro_/"
+            }
+        ]
     }
 }

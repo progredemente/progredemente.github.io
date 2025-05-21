@@ -8130,5 +8130,15 @@
             "Deberíais ver los vídeos de {contact:extremo_centro_} sobre los menores tutelados por el estado."
         ],
         "size": "2000x2000"
+    },
+    "gluten": {
+        "name": "Gluten",
+        "date": "2025-05-21T00:00",
+        "description": [
+            "Sánchez está encantadísimo con esta «oposición»."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Núñez Feijóo"],
+        "parties": ["PP"]
     }
 }

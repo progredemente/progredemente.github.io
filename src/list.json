@@ -8140,5 +8140,13 @@
         "size": "2000x2000",
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"]
+    },
+    "a_posteriori": {
+        "name": "A posteriori",
+        "date": "2025-05-25T00:00",
+        "description": [
+            "Silvia Intxaurrondo demuestra la opinión que tiene la izquierda sobre sus votantes."
+        ],
+        "size": "2000x2000"
     }
 }

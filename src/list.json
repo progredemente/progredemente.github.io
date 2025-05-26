@@ -8148,5 +8148,15 @@
             "Silvia Intxaurrondo demuestra la opinión que tiene la izquierda sobre sus votantes."
         ],
         "size": "2000x2000"
+    },
+    "amor_prohibido": {
+        "name": "Amor prohibido",
+        "date": "2025-05-26T00:00",
+        "description": [
+            "Yamete kudasai, Vito-kun!"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gabriel Rufián", "Vito Quiles"],
+        "parties": ["ERC"]
     }
 }

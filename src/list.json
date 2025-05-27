@@ -8158,5 +8158,14 @@
         "size": "2000x2000",
         "celebrities": ["Gabriel Rufián", "Vito Quiles"],
         "parties": ["ERC"]
+    },
+    "fontaneros_psoe": {
+        "name": "Los fontaneros de la PSOE",
+        "date": "2025-05-27T00:00",
+        "description": [
+            "Parece que en la PSOE, a pesar del trabajo de sus fontaneros, son incapaces de contener las fugas."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

@@ -8167,5 +8167,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "betis": {
+        "name": "Betis",
+        "date": "2025-05-29T00:00",
+        "description": [
+            "Marcha pra casa, Feijoy."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alberto Núñez Feijóo"],
+        "parties": ["PP"]
     }
 }

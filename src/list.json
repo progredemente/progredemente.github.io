@@ -8177,5 +8177,16 @@
         "size": "2000x2000",
         "celebrities": ["Alberto Núñez Feijóo"],
         "parties": ["PP"]
+    },
+    "intxaurrondo": {
+        "name": "Intxaurrondo",
+        "date": "2025-06-03T00:00",
+        "description": [
+            "Oso ondo, Intxaurrondo.",
+            "Las mentiras tienen las patas muy gord... quiero decir, muy cortas."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Silvia Intxaurrondo"],
+        "parties": ["PSOE"]
     }
 }

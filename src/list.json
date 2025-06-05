@@ -8188,5 +8188,16 @@
         "size": "3000x3000",
         "celebrities": ["Silvia Intxaurrondo"],
         "parties": ["PSOE"]
+    },
+    "desviar_foco": {
+        "name": "Desviar el foco",
+        "date": "2025-06-05T00:00",
+        "description": [
+            "Oso ondo, Intxaurrondo.",
+            "Cuando todo esto acabe, si es que acaba, más de uno debería esconderse debajo de una piedra y no salir nunca de allí."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Gonzalo Miró"],
+        "parties": ["PSOE"]
     }
 }

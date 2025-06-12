@@ -8208,5 +8208,15 @@
         "size": "2000x2000",
         "celebrities": ["Sarah Pérez Santaolalla"],
         "parties": ["PSOE"]
+    },
+    "mano_fuego": {
+        "name": "Poner la mano en el fuego",
+        "date": "2025-06-12T00:00",
+        "description": [
+            "Si juegas con fuego te acabas quemando."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["María Jesús Montero"],
+        "parties": ["PSOE"]
     }
 }

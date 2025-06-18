@@ -10,7 +10,7 @@ class Language extends Component {
             <div className="language">
                 <span>Ver la viñeta en:</span>
                 <img
-                    src={`${process.env.RESOURCES_URL}/${flagCode}.svg`}
+                    src={`${process.env.RESOURCES_URL}/flags/${flagCode}.svg`}
                     className={checkCurrentLang ? "selected" : ""}
                     onClick={() => {
                         if(!checkCurrentLang) {
@@ -21,10 +21,10 @@ class Language extends Component {
                 />
                 {
                     this.props.langs.available.map((lang) => {
-                        const flagCode = lang !== 'en' ? lang : 'gb';
+                        const flagCode = lang !== 'en' ? lang !== 'el' ? lang : 'gr' : 'gb';
                         return (
                             <img
-                                src={`${process.env.RESOURCES_URL}/${flagCode}.svg`}
+                                src={`${process.env.RESOURCES_URL}/flags/${flagCode}.svg`}
                                 className={this.props.currentLang === lang ? "selected": ""}
                                 onClick={() => {
                                     if(this.props.currentLang !== lang)

@@ -8218,5 +8218,15 @@
         "size": "2000x2000",
         "celebrities": ["María Jesús Montero"],
         "parties": ["PSOE"]
+    },
+    "bono": {
+        "name": "Bono",
+        "date": "2025-06-18T00:00",
+        "description": [
+            "Me cuentan que Bono sustituirá a Jonnhy Depp y Zapatero a Orlando Bloom en una nueva entrega de Piratas del Caribe."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Bono"],
+        "parties": ["PSOE"]
     }
 }

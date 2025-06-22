@@ -8228,5 +8228,14 @@
         "size": "2000x2000",
         "celebrities": ["José Bono"],
         "parties": ["PSOE"]
+    },
+    "mordidas": {
+        "name": "Mordidas",
+        "date": "2025-06-22T00:00",
+        "description": [
+            "Los impuestos son para pagar hosptles y crrteras."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

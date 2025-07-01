@@ -8246,5 +8246,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Alán Barroso"]
+    },
+    "asado": {
+        "name": "Asado",
+        "date": "2025-07-01T00:00",
+        "description": [
+            "Qué mejor manera para aprovechar el verano que con carne asada, cervezas y amigos. La felicidad a veces es muy simple y está al alcance de (casi) todo el mundo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Santos Cerdán"]
     }
 }

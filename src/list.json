@@ -8255,5 +8255,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Santos Cerdán"]
+    },
+    "mopongo": {
+        "name": "MOPONGO",
+        "date": "2025-07-03T00:00",
+        "description": [
+            "MOPONGO"
+        ],
+        "url": "https://www.youtube.com/embed/3oKxDxQ70Zk",
+        "series": ["animacion", "memes"],
+        "celebrities": ["María Jesús Montero", "José Luis Ábalos", "Yolanda Díaz", "Margarita Robles", "Cristina Fallarás"],
+        "parties": ["PSOE"]
     }
 }

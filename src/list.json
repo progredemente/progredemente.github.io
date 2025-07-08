@@ -8266,5 +8266,15 @@
         "series": ["animacion", "memes"],
         "celebrities": ["María Jesús Montero", "José Luis Ábalos", "Yolanda Díaz", "Margarita Robles", "Cristina Fallarás"],
         "parties": ["PSOE"]
+    },
+    "cambio_opinion": {
+        "name": "Cambio de opinión",
+        "date": "2025-07-08T00:00",
+        "description": [
+            "El próximo cambio de opinión lo van a hacer en la misma frase."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pilar Alegría"],
+        "parties": ["PSOE"]
     }
 }

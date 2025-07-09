@@ -8276,5 +8276,13 @@
         "size": "3000x2000",
         "celebrities": ["Pilar Alegría"],
         "parties": ["PSOE"]
+    },
+    "trasplantes_seguros": {
+        "name": "Trasplantes seguros",
+        "date": "2025-07-09T00:00",
+        "description": [
+            "Trasplantes con sorpresa, a ver quién es el primero al que le toca la lotería de llevarse el bicho."
+        ],
+        "size": "2000x2000"
     }
 }

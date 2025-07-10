@@ -8284,5 +8284,15 @@
             "Trasplantes con sorpresa, a ver quién es el primero al que le toca la lotería de llevarse el bicho."
         ],
         "size": "2000x2000"
+    },
+    "escalera": {
+        "name": "Escalera",
+        "date": "2025-07-10T00:00",
+        "description": [
+            "¿Qué tienen en común Pedro Sánchez y Sindy Takanashi?"
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

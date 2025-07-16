@@ -8294,5 +8294,15 @@
         "size": "3000x3000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "chromatic": {
+        "name": "Cambio cromático",
+        "date": "2025-07-16T00:00",
+        "description": [
+            "Versión mejorada de la aplicación «¡Calor!» que hice en 2023. Además de la mejora visual, ahora se puede elegir país y cambiar de Celsius a Fahrenheit.",
+            "Visita la aplicación en: {https://progredemente.com/chromatic/}"
+        ],
+        "url": "https://www.youtube.com/embed/gmYxeDPcEm8",
+        "series": ["memes"]
     }
 }

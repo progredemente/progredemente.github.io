@@ -8312,5 +8312,13 @@
             "Sr. Kaputzinsky >>>>>> Rudi"
         ],
         "size": "3000x2000"
+    },
+    "saunas": {
+        "name": "Saunas",
+        "date": "2025-07-18T00:00",
+        "description": [
+            "¿Cuál es vuestra marca de whisky favorita?"
+        ],
+        "size": "3000x2000"
     }
 }

@@ -8320,5 +8320,16 @@
             "¿Cuál es vuestra marca de whisky favorita?"
         ],
         "size": "3000x2000"
+    },
+    "fan_service": {
+        "name": "Fan service",
+        "date": "2025-07-19T00:00",
+        "description": [
+            "Fan service de Democracia Ourensana vs fan service de la PSOE.",
+            "Al menos sabemos que Sarah sale en la tele también por su inteligencia."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Sarah Pérez Santaolalla", "Noa Rouco"],
+        "parties": ["PSOE", "DO"]
     }
 }

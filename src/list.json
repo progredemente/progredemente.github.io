@@ -8331,5 +8331,15 @@
         "size": "3000x2000",
         "celebrities": ["Sarah Pérez Santaolalla", "Noa Rouco"],
         "parties": ["PSOE", "DO"]
+    },
+    "dia_perro": {
+        "name": "Día del perro",
+        "date": "2025-07-21T00:00",
+        "description": [
+            "Maduro llamó a su ZetaPerro para decirle «buen chico»."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Rodríguez Zapatero", "Nicolás Maduro"],
+        "parties": ["PSOE"]
     }
 }

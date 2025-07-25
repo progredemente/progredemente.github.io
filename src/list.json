@@ -8341,5 +8341,14 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Rodríguez Zapatero", "Nicolás Maduro"],
         "parties": ["PSOE"]
+    },
+    "roro": {
+        "name": "RoRo",
+        "date": "2025-07-25T00:00",
+        "description": [
+            "Viñeta no política para descansar un poco de los moñecos de la PSOE. Me basé en un dibujo de Zoro que encontré por internet. La cara de RoRo la hice menos del estilo de Oda, intentando que se le pareciera más. Los brillos del pelo me los inventé, no sé muy bien cómo hacerlos."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["RoRo"]
     }
 }

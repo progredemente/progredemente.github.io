@@ -8350,5 +8350,17 @@
         ],
         "size": "3000x3000",
         "celebrities": ["RoRo"]
+    },
+    "aztec_batman": {
+        "name": "Aztec Batman",
+        "date": "2025-07-25T01:00",
+        "description": [
+            "Su superpoder es ser la persona con más espejos de todo Tenochtitlán."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        }
     }
 }

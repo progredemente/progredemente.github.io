@@ -8362,5 +8362,15 @@
             "default": "es",
             "available": ["en", "pt"]
         }
+    },
+    "quien_es_quien": {
+        "name": "Quién es quién",
+        "date": "2025-07-31T01:00",
+        "description": [
+            "¿Son cortos o les da igual el fuego amigo?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Alberto Núñez Feijóo", "Noelia Núñez"],
+        "parties": ["PSOE", "PP"]
     }
 }

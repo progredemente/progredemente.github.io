@@ -81,13 +81,17 @@ class Post extends Component {
         let size = post.size ? post.size.split("x") : null;
         let postSeries = (post.series ? post.series : []).filter((s) => s !== series);
         let postCelebrities = (post.celebrities ? post.celebrities : []);
-        let date = list_[id].date != null ? formatDate(new Date(list_[id].date)): null;
+        let date = post.date != null ? formatDate(new Date(post.date)): null;
         let currentUrl = urlSplit.join("/");
         urlSplit.pop();
         let parentUrl = urlSplit.join("/");
         let lang = "";
+        let description = post.description;
         if(post.lang && this.state.currentLang !== null && this.state.currentLang !== post.lang.default) {
             lang = `.${this.state.currentLang}`;
+            if(post.i18n !== undefined){
+                description = post.i18n[this.state.currentLang];
+            }
         }
         return (
             <div className="post-img-container">
@@ -125,12 +129,12 @@ class Post extends Component {
                 }
                 <div>
                     <p className="name">
-                        {list_[id].name}
+                        {post.name}
                         {
-                            JSON.parse(window.localStorage.getItem("xButton")) && list_[id].date &&
+                            JSON.parse(window.localStorage.getItem("xButton")) && post.date &&
                             <>
                                 &nbsp;
-                                <a className='x-button' target="_blank" rel="noopener noreferrer" href={`https://x.com/search?q=from%3Aprogredemente%20until%3A${getNextDayForX(new Date(list_[id].date))}&src=typed_query&f=live`}>
+                                <a className='x-button' target="_blank" rel="noopener noreferrer" href={`https://x.com/search?q=from%3Aprogredemente%20until%3A${getNextDayForX(new Date(post.date))}&src=typed_query&f=live`}>
                                     <Loading
                                         hidden={this.state.xLoad}
                                     />
@@ -153,7 +157,7 @@ class Post extends Component {
                             this.setState({currentLang: lang})
                         }}/>
                     }
-                    {list_[id].description.map((text, index) => {
+                    {description.map((text, index) => {
                         return <RichText key={index} text={text}/>
                     })}
                     { postSeries.length > 0 &&

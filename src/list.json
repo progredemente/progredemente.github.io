@@ -8382,5 +8382,21 @@
         "size": "3800x2000",
         "celebrities": ["José Luis Albares", "Mohamed VI", "Benjamin Netanyahu"],
         "parties": ["PSOE"]
+    },
+    "enfermedades": {
+        "name": "Enfermedades",
+        "date": "2025-08-11T00:00",
+        "description": [
+            "No sé si os acordáis de un evento que hubo hace unos años que hizo que se necesitase de cierto permiso especial para poder moverse entre países."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["I don't know if you remember an event that happened a few years ago that made it necessary to get special permission to travel between countries."],
+            "pt": ["Não sei se se lembram de um evento que aconteceu há alguns anos e que fez que fosse necessária uma autorização especial para poder viajar entre países."]
+        }
     }
 }

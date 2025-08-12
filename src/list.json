@@ -8398,5 +8398,14 @@
             "en": ["I don't know if you remember an event that happened a few years ago that made it necessary to get special permission to travel between countries."],
             "pt": ["Não sei se se lembram de um evento que aconteceu há alguns anos e que fez que fosse necessária uma autorização especial para poder viajar entre países."]
         }
+    },
+    "recompensa": {
+        "name": "Recompensa",
+        "date": "2025-08-12T00:00",
+        "description": [
+            "Le han subido la recompensa al amigo de Zapatero."
+        ],
+        "size": "2000x3000",
+        "celebrities": ["Nicolás Maduro"]
     }
 }

@@ -8407,5 +8407,13 @@
         ],
         "size": "2000x3000",
         "celebrities": ["Nicolás Maduro"]
+    },
+    "cancer": {
+        "name": "Cáncer",
+        "date": "2025-08-18T00:00",
+        "description": [
+            "Fui recientemente a un centro de salud, llevaba casi 10 años sin pisar uno y me sorprendió ver que los carteles informativos ya no solo informaban sobre temas relacionados con la salud. Aunque quizás no me sorprendió tanto..."
+        ],
+        "size": "2000x2000"
     }
 }

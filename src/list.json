@@ -8415,5 +8415,15 @@
             "Fui recientemente a un centro de salud, llevaba casi 10 años sin pisar uno y me sorprendió ver que los carteles informativos ya no solo informaban sobre temas relacionados con la salud. Aunque quizás no me sorprendió tanto..."
         ],
         "size": "2000x2000"
+    },
+    "hablar_ingles": {
+        "name": "Hablar inglés",
+        "date": "2025-08-20T00:00",
+        "description": [
+            "¿De qué sirve hablar inglés y no tener con quién hacerlo?"
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Pedro Sánchez", "José María Aznar", "George W. Bush"],
+        "parties": ["PSOE", "PP"]
     }
 }

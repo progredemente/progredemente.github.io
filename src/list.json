@@ -8425,5 +8425,16 @@
         "size": "3000x2000",
         "celebrities": ["Pedro Sánchez", "José María Aznar", "George W. Bush"],
         "parties": ["PSOE", "PP"]
+    },
+    "menos_floreros": {
+        "name": "Menos floreros, más toreros",
+        "date": "2025-08-21T00:00",
+        "description": [
+            "Puestos a decir chorradas..."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Ione Belarra", "Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

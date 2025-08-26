@@ -8436,5 +8436,13 @@
         "series": ["memes"],
         "celebrities": ["Ione Belarra", "Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "pensiones_sostenibles": {
+        "name": "Las pensiones son sostenibles",
+        "date": "2025-08-26T00:00",
+        "description": [
+            "La campaña publicitaria que podrían hacer, si fuesen honestos, para atraer a esos 3,5 millones de personas que hacen falta para que nuestro sistema de pensiones, que ya es sostenible, sea sostenible."
+        ],
+        "size": "3800x2000"
     }
 }

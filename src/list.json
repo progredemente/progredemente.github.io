@@ -8470,5 +8470,13 @@
         ],
         "size": "4000x3000",
         "celebrities": ["Greta Thunberg"]
+    },
+    "intro_rtve": {
+        "name": "Intro RTVE",
+        "date": "2025-09-04T00:00",
+        "description": [
+            "La nueva imagen corporativa de RTVE."
+        ],
+        "url": "https://www.youtube.com/embed/z9huPMEchnE"
     }
 }

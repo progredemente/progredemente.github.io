@@ -8478,5 +8478,16 @@
             "La nueva imagen corporativa de RTVE."
         ],
         "url": "https://www.youtube.com/embed/z9huPMEchnE"
+    },
+    "israel_israel": {
+        "name": "Israel, Israel",
+        "date": "2025-09-09T00:00",
+        "description": [
+            "En un concurso de vergüenza ajena, ¿quiénes ganarían: los del tecno folk andino, los de la flotilla del selfie o los que le compran los moñecos al marido de Begoña Gómez?"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Pedro Sánchez", "Delfín Quishpe"],
+        "parties": ["PSOE"]
     }
 }

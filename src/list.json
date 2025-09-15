@@ -8489,5 +8489,14 @@
         "series": ["memes"],
         "celebrities": ["Pedro Sánchez", "Delfín Quishpe"],
         "parties": ["PSOE"]
+    },
+    "gomu_gomu": {
+        "name": "Gomu Gomu",
+        "date": "2025-09-15T00:00",
+        "description": [
+            "Charo Charo no Mi."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

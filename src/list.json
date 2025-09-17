@@ -8498,5 +8498,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "como_en_casa": {
+        "name": "Como en casa",
+        "date": "2025-09-17T00:00",
+        "description": [
+            "En el menú de Moncloa hay francesinha y bacalhau com natas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "David Azagra"],
+        "parties": ["PSOE"]
     }
 }

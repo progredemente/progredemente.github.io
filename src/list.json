@@ -8454,7 +8454,7 @@
         "size": "3000x2000"
     },
     "nubes_sionistas": {
-        "name": "Papeleo",
+        "name": "Nubes sionistas",
         "date": "2025-09-02T00:00",
         "description": [
             "El Late Summer Boat Tour Genocide Fest ha sido pospuesto por el mal tiempo, no vaya a ser que se moje Greta y eso cuente como ducha."
@@ -8507,6 +8507,16 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "David Azagra"],
+        "parties": ["PSOE"]
+    },
+    "toreo": {
+        "name": "Toreo",
+        "date": "2025-09-20T00:00",
+        "description": [
+            "La nueva fiesta nacional."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "David Azagra", "Begoña Gómez", "José Luis Ábalos", "Koldo García", "José Luis Rodríguez Zapatero", "Álvaro García Ortiz", "María Jesús Montero", "Francina Armengol", "Santos Cerdán", "Ángel Víctor Torres", "Tito Berni"],
         "parties": ["PSOE"]
     }
 }

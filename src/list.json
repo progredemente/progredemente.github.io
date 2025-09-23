@@ -8527,5 +8527,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Cristina Fernández de Kirchner"]
+    },
+    "negocios": {
+        "name": "Negocios",
+        "date": "2025-09-23T00:00",
+        "description": [
+            "Yo creo que ya me es imposible leer cualquier noticia de algún organismo público comprando o renovando algún tipo de material y no pensar en que alguien de la PSOE se lo va a llevar crudo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Koldo García"],
+        "parties": ["PSOE"]
     }
 }

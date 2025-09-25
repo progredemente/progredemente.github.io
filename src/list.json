@@ -8537,5 +8537,14 @@
         "size": "2000x2000",
         "celebrities": ["Koldo García"],
         "parties": ["PSOE"]
+    },
+    "buque_armada": {
+        "name": "El buque de la Armada",
+        "date": "2025-09-25T00:00",
+        "description": [
+            "Muy bien, ya vimos tu moñeco, Sánchez."
+        ],
+        "size": "3800x2000",
+        "parties": ["PSOE"]
     }
 }

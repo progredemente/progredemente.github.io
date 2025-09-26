@@ -8546,5 +8546,15 @@
         ],
         "size": "3800x2000",
         "parties": ["PSOE"]
+    },
+    "oscar_lopez": {
+        "name": "Óscar López",
+        "date": "2025-09-26T00:00",
+        "description": [
+            "Óscar M.O.D.O.K. López, liderando la transformación digital del país gracias a su mente galaxia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Óscar López"],
+        "parties": ["PSOE"]
     }
 }

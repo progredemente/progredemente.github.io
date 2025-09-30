@@ -8565,5 +8565,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Hana Alcalde"]
+    },
+    "poner_culo": {
+        "name": "Poner el culo",
+        "date": "2025-09-30T00:00",
+        "description": [
+            "Va a Venezuela a hacer lo mismo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Rodríguez Zapatero"],
+        "parties": ["PSOE"]
     }
 }

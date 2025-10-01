@@ -8575,5 +8575,15 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Rodríguez Zapatero"],
         "parties": ["PSOE"]
+    },
+    "hikikomori_moncloa": {
+        "name": "El hikikomori de la Moncloa",
+        "date": "2025-10-01T00:00",
+        "description": [
+            "¿Y si David Sánchez, más conocido como el maestro Azagra, se recluyó incomunicado en la Moncloa a modo de inmersión en la cultura japonesa para estrechar la relación con su mujer?"
+        ],
+        "size": "3000x3000",
+        "celebrities": ["David Azagra"],
+        "parties": ["PSOE"]
     }
 }

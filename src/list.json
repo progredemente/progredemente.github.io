@@ -8585,5 +8585,15 @@
         "size": "3000x3000",
         "celebrities": ["David Azagra"],
         "parties": ["PSOE"]
+    },
+    "master_chef": {
+        "name": "Master Chef",
+        "date": "2025-10-02T00:00",
+        "description": [
+            "Redondo vs. Tezanos, ¿quién ganará el título de Master Chef?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Iván Redondo", "José Félix Tezanos"],
+        "parties": ["PSOE"]
     }
 }

@@ -8595,5 +8595,15 @@
         "size": "2000x2000",
         "celebrities": ["Iván Redondo", "José Félix Tezanos"],
         "parties": ["PSOE"]
+    },
+    "no_guerra": {
+        "name": "¿No a la guerra?",
+        "date": "2025-10-03T00:00",
+        "description": [
+            "No es el qué, es el quién, o contra quién en este caso."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

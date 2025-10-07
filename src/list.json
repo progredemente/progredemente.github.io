@@ -8605,5 +8605,15 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "bodegon_socialista": {
+        "name": "Bodegón socialista",
+        "date": "2025-10-07T00:00",
+        "description": [
+            "Curiosa jerga.",
+            "¿No era Ábalos quien tenía propiedades en Perú?"
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

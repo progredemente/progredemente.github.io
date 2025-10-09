@@ -8615,5 +8615,16 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "chico_chistorras": {
+        "name": "El chico de las chistorras",
+        "date": "2025-10-09T00:00",
+        "description": [
+            "Se le iba el sueldo en tintorerías.",
+            "Por favor, no nos habléis como si todos fuésemos votantes de la PSOE."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Koldo García"],
+        "parties": ["PSOE"]
     }
 }

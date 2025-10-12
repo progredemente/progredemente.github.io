@@ -8626,5 +8626,13 @@
         "size": "2000x2000",
         "celebrities": ["Koldo García"],
         "parties": ["PSOE"]
+    },
+    "hispanidad_5": {
+        "name": "Hispanidad",
+        "date": "2025-10-12T00:00",
+        "description": [
+            "Batman, se acabó lo de matar bebés."
+        ],
+        "size": "3000x3000"
     }
 }

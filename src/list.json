@@ -8634,5 +8634,21 @@
             "Batman, se acabó lo de matar bebés."
         ],
         "size": "3000x3000"
+    },
+    "chocolate_dubai": {
+        "name": "Chocolate de Dubái",
+        "date": "2025-10-18T00:00",
+        "description": [
+            "No preguntes."
+        ],
+        "size": "3000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["Don't ask."],
+            "pt": ["Não perguntes."]
+        }
     }
 }

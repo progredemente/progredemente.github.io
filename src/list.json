@@ -8650,5 +8650,15 @@
             "en": ["Don't ask."],
             "pt": ["Não perguntes."]
         }
+    },
+    "ratatouille": {
+        "name": "Ratatouille",
+        "date": "2025-10-19T00:00",
+        "description": [
+            "Hace tiempo que no dibujo a la rata chepuda, así que he probado a hacer un rediseño de su cara. No me termina de convencer, así que seguiré iterando sobre él si la actualidad me lo permite. Es el problema de la irrelevancia."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias"],
+        "parties": ["Podemos"]
     }
 }

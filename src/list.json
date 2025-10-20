@@ -8660,5 +8660,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["Podemos"]
+    },
+    "horario_berano": {
+        "name": "¿Horarion de Berano o de inBierno?",
+        "date": "2025-10-20T00:00",
+        "description": [
+            "Parece que la PSOBRE quiere acaBar con el horario de Berano y dejarnos con el de inBierno para siempre. ¿A Bosotros tamBién os parece una Buena idea?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

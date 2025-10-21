@@ -418,5 +418,22 @@
                 "url": "https://www.instagram.com/extremo_centro_/"
             }
         ]
+    },
+    "UTBH": {
+        "name": "UTBH",
+        "pages": [
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/@UnTioBlancoHetero"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/@untioblancoendirecto6814"
+            },
+            {
+                "id": "x",
+                "url": "https://x.com/soloquiero22"
+            }
+        ]
     }
 }

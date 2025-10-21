@@ -8670,5 +8670,14 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "rey_pelele": {
+        "name": "El rey pelele",
+        "date": "2025-10-21T00:00",
+        "description": [
+            "Cada vez que oigo el nombre de Javier Ruiz no consigo evitar pensar en el corte de «el rey pelele». Gracias, {contact:UTBH}."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Javier Ruiz"]
     }
 }

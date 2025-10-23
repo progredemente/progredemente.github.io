@@ -8679,5 +8679,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Javier Ruiz"]
+    },
+    "aliens": {
+        "name": "Aliens",
+        "date": "2025-10-23T00:00",
+        "description": [
+            "Creo que ya alguien hizo una broma parecida, no sé si en forma de viñeta, en una serie o en otro tipo de medio, así que la idea puede que no sea 100% original. Para quien no lo pille, «alien» en inglés se usa tanto para los extraterrestres como para los extranjeros."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Donald Trump", "Marco Rubio"]
     }
 }

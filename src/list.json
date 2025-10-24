@@ -8688,5 +8688,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Donald Trump", "Marco Rubio"]
+    },
+    "not_guar_yes_pis": {
+        "name": "Not guar, yes pis",
+        "date": "2025-10-24T00:00",
+        "description": [
+            "Nicolás Maduro ha estrenado nueva corbata: sus cojones."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Nicolás Maduro"]
     }
 }

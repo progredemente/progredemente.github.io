@@ -8698,5 +8698,16 @@
         "size": "2000x2000",
         "series": ["memes"],
         "celebrities": ["Nicolás Maduro"]
+    },
+    "richard_gere": {
+        "name": "Richard Gere",
+        "date": "2025-10-25T00:00",
+        "description": [
+            "Nobody expects this Spanish Inquisition.",
+            "No tengo pruebas pero tampoco dudas de que este señor se vuelve a su país después de que Marisú le haya puesto el cazo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Richard Gere", "María Jesús Montero"],
+        "parties": ["PSOE"]
     }
 }

@@ -8709,5 +8709,13 @@
         "size": "2000x2000",
         "celebrities": ["Richard Gere", "María Jesús Montero"],
         "parties": ["PSOE"]
+    },
+    "rayas_gaza": {
+        "name": "Rayas por Gaza",
+        "date": "2025-10-29T00:00",
+        "description": [
+            "¿Y tú?"
+        ],
+        "size": "2000x2000"
     }
 }

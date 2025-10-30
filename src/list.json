@@ -8717,5 +8717,13 @@
             "¿Y tú?"
         ],
         "size": "2000x2000"
+    },
+    "lagrimas_fango": {
+        "name": "Lágrimas de fango",
+        "date": "2025-10-30T00:00",
+        "description": [
+            "Tremenda cínica, y aún tiene los cojones de señalar con el dedito y hablar de frivolizar, de decencia y de empatía, la de la camiseta de las «7291 víctimas»."
+        ],
+        "size": "2000x2000"
     }
 }

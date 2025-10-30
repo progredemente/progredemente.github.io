@@ -9,10 +9,13 @@ import {
     Pie,
     Cell,
     Legend,
-    CartesianGrid
+    CartesianGrid,
+    LineChart,
+    Line
 } from 'recharts';
 import './PageStats.css';
 import list from '../../list.json';
+import CalendarGraph from './CalendarGraph';
  
 class PageStats extends Component {
 
@@ -57,6 +60,45 @@ class PageStats extends Component {
             yearColors.push({ year: years[i], color: `hsl(${360 * i / years.length}, 100%, 75%)`});
         }
         return [monthData, yearColors];
+    }
+
+    getNumberOfPostsByDate() {
+        const postsByDate = [];
+        for(let i = 0; i < new Date().getFullYear() - 2020 + 1; i++) {
+            const tomorrow = new Date();
+            tomorrow.setDate(tomorrow.getDate() + 1);
+            tomorrow.setMilliseconds(0);
+            tomorrow.setSeconds(0);
+            tomorrow.setMinutes(0);
+            tomorrow.setHours(0);
+            const lastDate = new Date().getFullYear() === 2020 + i ? tomorrow : new Date(`${2021 + i}-01-01T00:00`);
+            const startDate = new Date(`${2020 + i}-01-01T00:00`);
+            const numDays = Math.floor((lastDate - startDate + ((startDate.getTimezoneOffset() - lastDate.getTimezoneOffset()) * 60 * 1000)) / 1000 / 60 / 60 / 24);
+            postsByDate.push(new Array(numDays).fill(0));
+        }
+        let maxPostsPerDay = 0;
+        for(let key of Object.keys(list)) {
+            const post = list[key];
+            const date = new Date(post.date);
+            const yearIndex = date.getFullYear() - 2020;
+            const firstDayOfYear = new Date(`${date.getFullYear()}-01-01T00:00`);
+            const dayOfYear = Math.floor((date - firstDayOfYear + ((firstDayOfYear.getTimezoneOffset() - date.getTimezoneOffset()) * 60 * 1000)) / 1000 / 60 / 60 / 24);
+            postsByDate[yearIndex][dayOfYear]++;
+            maxPostsPerDay = Math.max(maxPostsPerDay, postsByDate[yearIndex][dayOfYear]);
+        }
+        return [postsByDate, maxPostsPerDay];
+    }
+
+    getAccumulatedMonthData = (monthData) => {
+        let accumulatedData = JSON.parse(JSON.stringify(monthData));
+        for(let i = 2020; i <= new Date().getFullYear(); i++){
+            for(let j = 1; j < accumulatedData.length; j++){
+                if(accumulatedData[j][i] !== undefined){
+                    accumulatedData[j][i] += accumulatedData[j - 1][i];
+                }
+            }
+        }
+        return accumulatedData;
     }
 
     getListKeys(year) {
@@ -179,10 +221,12 @@ class PageStats extends Component {
     }
 
     render() {
-        let [monthData, yearColors] = this.getMonthData();
-        let [celebrityData, celebColors] = this.getCelebrityData();
-        let [partyData, partyColors] = this.getPartyData();
-        let yearData = this.getYearData();
+        const [monthData, yearColors] = this.getMonthData();
+        const accumulatedMonthData = this.getAccumulatedMonthData(monthData);
+        const [celebrityData, celebColors] = this.getCelebrityData();
+        const [partyData, partyColors] = this.getPartyData();
+        const yearData = this.getYearData();
+        const [postsByDate, maxPostsPerDay] = this.getNumberOfPostsByDate();
         return (
             <div>
                 <h1 className="section-title">Estadísticas de la página</h1>
@@ -209,6 +253,28 @@ class PageStats extends Component {
                     </BarChart>
                 </div>
                 <div className="chart">
+                    <h2>Número de posts por mes y año (acumulado)</h2>
+                    <LineChart
+                        data={accumulatedMonthData}
+                        width={700}
+                        height={300}
+                    >
+                        <XAxis dataKey="name" interval={0} stroke="black"/>
+                        <Tooltip
+                            labelFormatter={(label) => monthData.filter((month) => month.name === label)[0].tootipName}
+                            cursor={{ fill: "#EEEEEE"}}
+                        />
+                        <YAxis stroke="black"/>
+                        <Legend verticalAlign="top"/>
+                        <CartesianGrid strokeDasharray="3 3" />
+                        {
+                            yearColors.map((year) => {
+                                return <Line dataKey={year.year} fill={year.color} stroke={year.color} key={year.year}/>
+                            })
+                        }
+                    </LineChart>
+                </div>
+                <div className="chart">
                     <h2>Número de posts por año</h2>
                     <BarChart
                         data={yearData}
@@ -228,6 +294,14 @@ class PageStats extends Component {
                             }
                         </Bar>
                     </BarChart>
+                </div>
+                <div className="chart">
+                    <h2>Número de posts por fecha</h2>
+                    {
+                        postsByDate.map((yearPosts, index) => {
+                            return <CalendarGraph key={2020 + index} year={2020 + index} data={yearPosts} max={maxPostsPerDay}/>
+                        })
+                    }
                 </div>
                 <div className="chart">
                     <h2>Personajes públicos por aparición</h2>

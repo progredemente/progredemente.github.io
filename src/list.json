@@ -8724,6 +8724,24 @@
         "description": [
             "Tremenda cínica, y aún tiene los cojones de señalar con el dedito y hablar de frivolizar, de decencia y de empatía, la de la camiseta de las «7291 víctimas»."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "celebrities": ["Sarah Pérez Santaolalla"],
+        "parties": ["PSOE"]
+    },
+    "convivencia": {
+        "name": "Convivencia",
+        "date": "2025-10-31T00:00",
+        "description": [
+            "«Palizas por la convivencia»."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["\"Beatings for coexistence\"."],
+            "pt": ["«Pancadas pela convivência»."]
+        }
     }
 }

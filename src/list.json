@@ -8743,5 +8743,15 @@
             "en": ["\"Beatings for coexistence\"."],
             "pt": ["«Pancadas pela convivência»."]
         }
+    },
+    "trofeo": {
+        "name": "Trofeo",
+        "date": "2025-11-01T00:00",
+        "description": [
+            "Poneos las Pilas, Putos Panolis."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Carlos Mazón", "Pedro Sánchez"],
+        "parties": ["PP", "PSOE"]
     }
 }

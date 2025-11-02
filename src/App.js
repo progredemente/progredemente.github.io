@@ -78,6 +78,13 @@ class App extends Component{
                                     <Post {...this.props}/>
                                 </div>
                             }/>
+                            <Route exact path={'paredones'} element={<Navigate to={'al_menos'} replace/>}/>
+                            <Route exact path={'paredones/:id'} element={
+                                <div>
+                                    <Banner id="paredones" alt={series["paredones"]} key={`banner-paredones`} />
+                                    <Post {...this.props}/>
+                                </div>
+                            }/>
                             <Route exact path={'postales_navidenas'} element={<Navigate to={'tio_nadal'} replace/>}/>
                             <Route exact path={'postales_navidenas/:id'} element={
                                 <div>

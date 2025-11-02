@@ -13,6 +13,7 @@ import Image from '../../common/Image';
 import { Icon } from 'components/Icon';
 import Thumbnail from '../../common/Thumbnail.js';
 import Loading from '../../common/Loading.js';
+import Video from './Video.js';
 
 let filterPosts = (posts, seriesName, initialPost, initialPostName) => {
     let postNames = Object.keys(posts);
@@ -112,17 +113,7 @@ class Post extends Component {
                 }
                 {
                     post.url &&
-                    <div className="video">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src={post.url}
-                            title="YouTube video player"
-                            frameBorder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowFullScreen
-                        ></iframe>
-                    </div>
+                    <Video url={post.url} />
                 }
                 { series !== "smash" &&
                     <PostNavigator currentId={id} list={Object.keys(list_)} url={currentUrl} changeImg={this.changeImg}/>

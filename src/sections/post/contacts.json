@@ -435,5 +435,30 @@
                 "url": "https://x.com/soloquiero22"
             }
         ]
+    },
+    "iberianson": {
+        "name": "Iberian Son",
+        "pages": [
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/iberianson.oficial/"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/c/iberianson"
+            },
+            {
+                "id": "x",
+                "url": "https://x.com/iberianson"
+            },
+            {
+                "id": "facebook",
+                "url": "https://www.facebook.com/iberianson"
+            },
+            {
+                "id": "tiktok",
+                "url": "https://www.tiktok.com/@iberianson"
+            }
+        ]
     }
 }

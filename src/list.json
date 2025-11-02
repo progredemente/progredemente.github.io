@@ -504,7 +504,8 @@
         "description": [
             "Para los radicales todo es justificable si juegan la baza del enemigo imaginario."
         ],
-        "size": "2000x2000"
+        "size": "2000x2000",
+        "series": ["paredones"]
     },
     "inclusivo": {
         "name": "Inclusivo",
@@ -3184,6 +3185,17 @@
         "parties": ["Podemos", "PSOE"],
         "series": ["memes"]
     },
+    "cable": {
+        "name": "Recoge Cable",
+        "date": "2022-05-28T00:00",
+        "description": [
+            "Colaboración con el gran {contact:iberianson} al que deberíais seguir si todavía no lo hacéis, el genio detrás de éxitos como: \"Dinerito para chiringuitos\", \"Monetizando el odio\" o \"Una charo soy\", que podéis encontrar en su canal de YouTube.",
+            "Para recoger cable vosotros también, visitad {https://progredemente.com/cable}."
+        ],
+        "url": "https://www.instagram.com/tv/CeHhwYiFKH1",
+        "celebrities": ["UTBH", "Yolanda Díaz", "Yolanda Domínguez", "Gema MJ", "Pablo Echenique"],
+        "parties": ["Podemos", "Sumar"]
+    },
     "lingua": {
         "name": "Língua",
         "date": "2022-05-31T00:00",
@@ -5264,7 +5276,8 @@
             "Muy democrático eso de querer censurar a periodistas. Lo han rectificado en el programa electoral, pero no porque les parezca una barbaridad, sino porque todavía no se ha movido la ventana de Overton lo suficiente. Y mientras tanto sus votantes llamando censura a que no financien con dinero público sus chorradas."
         ],
         "size": "3000x2000",
-        "parties": ["Sumar"]
+        "parties": ["Sumar"],
+        "series": ["paredones"]
     },
     "bizcochito": {
         "name": "Bizcochito",
@@ -7556,6 +7569,7 @@
             "Viendo como vuelan los piolets últimamente, más de uno de los que apoyan activamente este tipo de revoluciones acabaría purgado en el minuto uno."
         ],
         "size": "2000x2000",
+        "series": ["paredones"],
         "lang": {
             "default": "es",
             "available": ["en"]
@@ -8735,6 +8749,7 @@
             "«Palizas por la convivencia»."
         ],
         "size": "2000x2000",
+        "series": ["paredones"],
         "lang": {
             "default": "es",
             "available": ["en", "pt"]

@@ -8768,5 +8768,15 @@
         "size": "2000x2000",
         "celebrities": ["Carlos Mazón", "Pedro Sánchez"],
         "parties": ["PP", "PSOE"]
+    },
+    "torres": {
+        "name": "Torres",
+        "date": "2025-11-03T00:00",
+        "description": [
+            "¡NO PUEDE SERRRRRRR!"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ángel Víctor Torres"],
+        "parties": ["PSOE"]
     }
 }

@@ -8778,5 +8778,13 @@
         "size": "2000x2000",
         "celebrities": ["Ángel Víctor Torres"],
         "parties": ["PSOE"]
+    },
+    "excusa": {
+        "name": "Excusa",
+        "date": "2025-11-04T00:00",
+        "description": [
+            "La etiqueta sirve tanto para señalar como para excusarse."
+        ],
+        "size": "2000x2000"
     }
 }

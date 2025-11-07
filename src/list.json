@@ -8786,5 +8786,21 @@
             "La etiqueta sirve tanto para señalar como para excusarse."
         ],
         "size": "2000x2000"
+    },
+    "genes": {
+        "name": "Genes",
+        "date": "2025-11-07T00:00",
+        "description": [
+            "Y vosotros, ¿tenéis buenos jeans?"
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["And you, do you have good jeans?"],
+            "pt": ["E vocês, têm bons jeans?"]
+        }
     }
 }

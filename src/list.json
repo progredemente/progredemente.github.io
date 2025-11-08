@@ -8802,5 +8802,13 @@
             "en": ["And you, do you have good jeans?"],
             "pt": ["E vocês, têm bons jeans?"]
         }
+    },
+    "sanitarios": {
+        "name": "Sanitarios",
+        "date": "2025-11-08T00:00",
+        "description": [
+            "Parece que encontrar a un médico o a un enfermero en un hospital es una tarea difícil para los trabajadores de RTVE."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -8810,5 +8810,21 @@
             "Parece que encontrar a un médico o a un enfermero en un hospital es una tarea difícil para los trabajadores de RTVE."
         ],
         "size": "2000x2000"
+    },
+    "precio_huevos": {
+        "name": "El precio de los huevos",
+        "date": "2025-11-10T00:00",
+        "description": [
+            "Lujos de primera necesidad."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["Essential luxuries."],
+            "pt": ["Luxos de primeira necessidade."]
+        }
     }
 }

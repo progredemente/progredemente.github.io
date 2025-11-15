@@ -8037,8 +8037,8 @@
         ],
         "size": "3000x3000"
     },
-    "hanazawa": {
-        "name": "Hanazawa",
+    "hanzawa": {
+        "name": "Hanzawa",
         "date": "2025-04-16T00:00",
         "description": [
             "Una serie donde todos los malos tienen la tez considerablemente más oscura que el resto de la gente. Da que pensar."
@@ -8825,6 +8825,22 @@
         "i18n": {
             "en": ["Essential luxuries."],
             "pt": ["Luxos de primeira necessidade."]
+        }
+    },
+    "alfabetizacion": {
+        "name": "Alfabetización",
+        "date": "2025-11-15T00:00",
+        "description": [
+            "Empate."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["It's a draw."],
+            "pt": ["Empate."]
         }
     }
 }

@@ -8853,5 +8853,13 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias"],
         "parties": ["Podemos"]
+    },
+    "neo_paris": {
+        "name": "Neo Paris",
+        "date": "2025-11-18T00:00",
+        "description": [
+            "Algunos se arriman a Rosalía patéticamente, otros disfrutamos del último discazo de Rise of the Northstar. En el vídeo de «Neo Paris» no cambiaron el japonés por un idioma más neoparisino en los carteles y subtítulos, aunque sí pusieron a una persona cubierta hasta los ojos."
+        ],
+        "size": "3000x2000"
     }
 }

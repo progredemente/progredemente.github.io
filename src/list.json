@@ -8879,5 +8879,15 @@
             "Lo que no veo es a nadie dibujando qué es lo que está mirando. Obviamente está viendo que NOS FUMIGAN CON AVIONES."
         ],
         "size": "2000x2000"
+    },
+    "efectivo": {
+        "name": "Efectivo",
+        "date": "2025-11-19T01:00",
+        "description": [
+            "Petro podría ser de la PSOE: mostró sus cuentas para demostrar que no es un narco y salieron varios pagos en tiendas de lujo y en un club de striptease."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Ábalos", "Gustavo Petro"],
+        "parties": ["PSOE"]
     }
 }

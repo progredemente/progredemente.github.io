@@ -8889,5 +8889,14 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Ábalos", "Gustavo Petro"],
         "parties": ["PSOE"]
+    },
+    "francoano": {
+        "name": "Francoaño",
+        "date": "2025-11-20T01:00",
+        "description": [
+            "Menuda decepción está siendo el Francoaño. A ver si lo remontan de aquí a año nuevo."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["Francisco Franco"]
     }
 }

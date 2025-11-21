@@ -8898,5 +8898,16 @@
         ],
         "size": "3000x3000",
         "celebrities": ["Francisco Franco"]
+    },
+    "mongol": {
+        "name": "Mongol",
+        "date": "2025-11-21T01:00",
+        "description": [
+            "En palacio, en vez de mandarines, hay mongolines."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Álvaro García Ortiz"],
+        "series": ["memes"],
+        "parties": ["PSOE"]
     }
 }

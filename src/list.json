@@ -8909,5 +8909,15 @@
         "celebrities": ["Álvaro García Ortiz"],
         "series": ["memes"],
         "parties": ["PSOE"]
+    },
+    "18_meses": {
+        "name": "18 meses",
+        "date": "2025-11-22T01:00",
+        "description": [
+            "Qué 18 meses más largos."
+        ],
+        "size": "3800x2000",
+        "celebrities": ["Oriol Junqueras", "Gabriel Rufián", "Vito Quiles"],
+        "parties": ["ERC"]
     }
 }

@@ -8919,5 +8919,14 @@
         "size": "3800x2000",
         "celebrities": ["Oriol Junqueras", "Gabriel Rufián", "Vito Quiles"],
         "parties": ["ERC"]
+    },
+    "juventudes_socialistas": {
+        "name": "Juventudes socialistas",
+        "date": "2025-11-24T01:00",
+        "description": [
+            "Si no convocan elecciones pronto se van a quedar sin el voto joven."
+        ],
+        "size": "3000x3000",
+        "parties": ["PSOE"]
     }
 }

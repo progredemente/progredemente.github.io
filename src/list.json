@@ -8928,5 +8928,15 @@
         ],
         "size": "3000x3000",
         "parties": ["PSOE"]
+    },
+    "zapatero": {
+        "name": "Zapatero",
+        "date": "2025-11-25T01:00",
+        "description": [
+            "Debe de estar Zapatero que se le sale el corazón del pecho. Pena ninguna, también os digo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Rodríguez Zapatero"],
+        "parties": ["PSOE"]
     }
 }

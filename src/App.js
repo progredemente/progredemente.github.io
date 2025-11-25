@@ -92,6 +92,13 @@ class App extends Component{
                                     <Post {...this.props}/>
                                 </div>
                             }/>
+                            <Route exact path={'manis'} element={<Navigate to={'cuatro_gatos'} replace/>}/>
+                            <Route exact path={'manis/:id'} element={
+                                <div>
+                                    <Banner id="manis" alt={series["manis"]} key={`banner-manis`} />
+                                    <Post {...this.props}/>
+                                </div>
+                            }/>
                             <Route exact path={'banderas'} element={<Navigate to={'bandera_galibertaria'} replace/>}/>
                             <Route exact path={'banderas/:id'} element={
                                 <div>

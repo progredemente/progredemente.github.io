@@ -8944,5 +8944,15 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Rodríguez Zapatero"],
         "parties": ["PSOE"]
+    },
+    "palabra": {
+        "name": "Palabra",
+        "date": "2025-11-26T01:00",
+        "description": [
+            "Ciertamente Pedro Sánchez es un hombre de palabra."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Koldo García"],
+        "parties": ["PSOE"]
     }
 }

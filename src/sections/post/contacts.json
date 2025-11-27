@@ -460,5 +460,14 @@
                 "url": "https://www.tiktok.com/@iberianson"
             }
         ]
+    },
+    "thaContrast": {
+        "name": "thaContrast",
+        "pages": [
+            {
+                "id": "x",
+                "url": "https://x.com/thacontrast"
+            }
+        ]
     }
 }

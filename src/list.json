@@ -8897,7 +8897,7 @@
     },
     "francoano": {
         "name": "Francoaño",
-        "date": "2025-11-20T01:00",
+        "date": "2025-11-20T00:00",
         "description": [
             "Menuda decepción está siendo el Francoaño. A ver si lo remontan de aquí a año nuevo."
         ],
@@ -8906,7 +8906,7 @@
     },
     "mongol": {
         "name": "Mongol",
-        "date": "2025-11-21T01:00",
+        "date": "2025-11-21T00:00",
         "description": [
             "En palacio, en vez de mandarines, hay mongolines."
         ],
@@ -8917,7 +8917,7 @@
     },
     "18_meses": {
         "name": "18 meses",
-        "date": "2025-11-22T01:00",
+        "date": "2025-11-22T00:00",
         "description": [
             "Qué 18 meses más largos."
         ],
@@ -8927,7 +8927,7 @@
     },
     "juventudes_socialistas": {
         "name": "Juventudes socialistas",
-        "date": "2025-11-24T01:00",
+        "date": "2025-11-24T00:00",
         "description": [
             "Si no convocan elecciones pronto se van a quedar sin el voto joven."
         ],
@@ -8937,7 +8937,7 @@
     },
     "zapatero": {
         "name": "Zapatero",
-        "date": "2025-11-25T01:00",
+        "date": "2025-11-25T00:00",
         "description": [
             "Debe de estar Zapatero que se le sale el corazón del pecho. Pena ninguna, también os digo."
         ],
@@ -8947,12 +8947,20 @@
     },
     "palabra": {
         "name": "Palabra",
-        "date": "2025-11-26T01:00",
+        "date": "2025-11-26T00:00",
         "description": [
             "Ciertamente Pedro Sánchez es un hombre de palabra."
         ],
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez", "Koldo García"],
         "parties": ["PSOE"]
+    },
+    "mucha_honra": {
+        "name": "A mucha honra",
+        "date": "2025-11-27T00:00",
+        "description": [
+            "Colaboración con {contact:thaContrast} usando los personajes de nuestras fotos de perfil. Seguidlo si aún no lo hacéis."
+        ],
+        "size": "1000x1000"
     }
 }

@@ -8962,5 +8962,31 @@
             "Colaboración con {contact:thaContrast} usando los personajes de nuestras fotos de perfil. Seguidlo si aún no lo hacéis."
         ],
         "size": "1000x1000"
+    },
+    "peugeot": {
+        "name": "Peugeot",
+        "date": "2025-11-27T01:00",
+        "description": [
+            "Hay relevo en el club de lectura."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez", "Koldo García", "José Luis Ábalos", "Santos Cerdán"],
+        "parties": ["PSOE"]
+    },
+    "mink": {
+        "name": "Mink",
+        "date": "2025-11-28T00:00",
+        "description": [
+            "Los furros de One Piece."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["One Piece furries."],
+            "pt": ["Os furros de One Piece."]
+        }
     }
 }

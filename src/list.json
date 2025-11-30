@@ -8988,5 +8988,15 @@
             "en": ["One Piece furries."],
             "pt": ["Os furros de One Piece."]
         }
+    },
+    "marcus": {
+        "name": "Marcus",
+        "date": "2025-11-30T00:00",
+        "description": [
+            "Últimamente me sale bastante el bicho este en redes sociales. Me hace bastante gracia."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["José Luis Rodríguez Zapatero"],
+        "parties": ["PSOE"]
     }
 }

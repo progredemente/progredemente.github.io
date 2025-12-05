@@ -9005,8 +9005,18 @@
         "description": [
             "Su mujer y su hermano también serán grandes desconocidos dentro de poco."
         ],
-        "size": "2000x3000",
+        "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
+    },
+    "paco_salazar": {
+        "name": "Paco Salazar",
+        "date": "2025-12-05T00:00",
+        "description": [
+            "Tienen a los mejores en la PSOE."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Paco Salazar"],
         "parties": ["PSOE"]
     }
 }

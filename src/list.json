@@ -9018,5 +9018,16 @@
         "size": "2000x2000",
         "celebrities": ["Paco Salazar"],
         "parties": ["PSOE"]
+    },
+    "insultos": {
+        "name": "Insultos",
+        "date": "2025-12-06T00:00",
+        "description": [
+            "Pobriña.",
+            "Podría hacer la viñeta despersonalizada, pero se alinearon los astros con el informe de la palabra «charo» y el vídeo de la novia del rey pelele victimizándose. Además, me gusta dibujarla, tiene una anatomía diferente de la del resto de gente a la que dibujo."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Sarah Pérez Santaolalla"],
+        "parties": ["PSOE"]
     }
 }

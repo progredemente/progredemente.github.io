@@ -9038,5 +9038,13 @@
         ],
         "size": "2000x2000",
         "series": ["el_palmero"]
+    },
+    "psycho_charo": {
+        "name": "Psycho-Charo",
+        "date": "2025-12-10T00:00",
+        "description": [
+            "Hace un año, como premio a uno de mis concursos, el ganador me pidió que le dibujase a una charo Space Marine. Ayer me vi la serie Space King y he querido hacer la parodia de la parodia con esta charo Psycho-Warrior."
+        ],
+        "size": "3500x3500"
     }
 }

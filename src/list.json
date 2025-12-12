@@ -9056,5 +9056,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "ratas": {
+        "name": "Ratas",
+        "date": "2025-12-12T00:00",
+        "description": [
+            "No olvidemos."
+        ],
+        "size": "2000x2000"
     }
 }

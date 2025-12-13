@@ -9072,5 +9072,21 @@
             "Más de uno se está hinchando a memberberries porque la realidad es muy dura."
         ],
         "size": "2000x2000"
+    },
+    "rebelion_granja": {
+        "name": "Rebelión en la granja",
+        "date": "2025-12-13T00:00",
+        "description": [
+            "¿Cuál es mejor, mi reimaginación de «Rebelión en la granja» o la de Andy Serkis?"
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["Which one is better, my reimagining of \"Animal Farm\" or Andy Serkis'?"],
+            "pt": ["Qual é melhor, a minha reimaginação de «A Quinta dos Animais» ou a de Andy Serkis?"]
+        }
     }
 }

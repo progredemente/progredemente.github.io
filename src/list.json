@@ -9088,5 +9088,14 @@
             "en": ["Which one is better, my reimagining of \"Animal Farm\" or Andy Serkis'?"],
             "pt": ["Qual é melhor, a minha reimaginação de «A Quinta dos Animais» ou a de Andy Serkis?"]
         }
+    },
+    "aquellos_polvos_2": {
+        "name": "De Aquellos Polvos 2",
+        "date": "2025-12-16T00:00",
+        "description": [
+            "Estas Navidades, regalad «De Aquellos Polvos», el cómic de mi amigo {contact:merimonas} del cual salió hace poco la segunda parte, donde resume con humor y de manera muy amena la historia de nuestra Españita.",
+            "Lo tenéis disponible aquí: {https://amzn.eu/d/eElzW2b}"
+        ],
+        "size": "2000x2000"
     }
 }

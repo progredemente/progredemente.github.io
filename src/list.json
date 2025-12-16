@@ -9097,5 +9097,16 @@
             "Lo tenéis disponible aquí: {https://amzn.eu/d/eElzW2b}"
         ],
         "size": "2000x2000"
+    },
+    "detencion_zapatero": {
+        "name": "Detención de Zapatero",
+        "date": "2025-12-16T01:00",
+        "description": [
+            "Si acaban deteniendo a Zapatero, la escena será algo así.",
+            "Viñeta inspirada en una reciente de {contact:thaContrast}."
+        ],
+        "size": "3000x3000",
+        "celebrities": ["José Luis Rodríguez Zapatero", "Alba Rodríguez Espinosa", "Laura Rodríguez Espinosa"],
+        "parties": ["PSOE"]
     }
 }

@@ -9108,5 +9108,15 @@
         "size": "3000x3000",
         "celebrities": ["José Luis Rodríguez Zapatero", "Alba Rodríguez Espinosa", "Laura Rodríguez Espinosa"],
         "parties": ["PSOE"]
+    },
+    "mackey_gallardo": {
+        "name": "Mackey Ángel Gallardo",
+        "date": "2025-12-17T01:00",
+        "description": [
+            "Miguel Ángel Gallardo me recuerda al señor Mackey de South Park. No es tanto por el tamaño de la cabeza, sino por la forma extraña. También me recuerda a Timmy, aunque hay uno de otro partido que se le parece más."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Miguel Ángel Gallardo"],
+        "parties": ["PSOE"]
     }
 }

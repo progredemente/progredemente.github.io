@@ -9128,5 +9128,24 @@
         "size": "2000x2000",
         "celebrities": ["Miguel Ángel Gallardo", "Santiago Abascal", "María Guardiola"],
         "parties": ["PSOE", "PP", "Vox"]
+    },
+    "navidades_europeas": {
+        "name": "Navidades europeas",
+        "date": "2025-12-24T00:00",
+        "description": [
+            "¡Feliz Euro-Navidad!"
+        ],
+        "size": "2000x2000",
+        "series": ["postales_navidenas"],
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt", "de", "fr"]
+        },
+        "i18n": {
+            "en": ["Merry Euro-Christmas!"],
+            "pt": ["Feliz Euro-Natal!"],
+            "de": ["Frohe Euro-Weihnachten!"],
+            "fr": ["Joyeux Euro-Noël !"]
+        }
     }
 }

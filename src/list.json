@@ -9147,5 +9147,15 @@
             "de": ["Frohe Euro-Weihnachten!"],
             "fr": ["Joyeux Euro-Noël !"]
         }
+    },
+    "inocentes": {
+        "name": "Inocentes",
+        "date": "2025-12-28T00:00",
+        "description": [
+            "Seguro que más de uno está deseando que aparezcan hoy las cámaras de televisión en su celda."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Ábalos"],
+        "parties": ["PSOE"]
     }
 }

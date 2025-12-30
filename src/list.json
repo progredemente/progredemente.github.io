@@ -9157,5 +9157,13 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Ábalos"],
         "parties": ["PSOE"]
+    },
+    "v16": {
+        "name": "V16",
+        "date": "2025-12-30T00:00",
+        "description": [
+            "¿A este como lo llamamos? ¿Caso balizas? ¿Caso V16?"
+        ],
+        "size": "3800x2000"
     }
 }

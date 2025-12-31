@@ -9165,5 +9165,14 @@
             "¿A este como lo llamamos? ¿Caso balizas? ¿Caso V16?"
         ],
         "size": "3800x2000"
+    },
+    "feliz_2026": {
+        "name": "¡Feliz 2026!",
+        "date": "2025-12-31T00:00",
+        "description": [
+            "¡Que tengáis un feliz 2026!",
+            "Ha sido un final de año Franco bastante intenso y no sabemos qué nos espera en la siguiente temporada, aunque las señales parecen claras."
+        ],
+        "size": "2000x2000"
     }
 }

@@ -9174,5 +9174,14 @@
             "Ha sido un final de año Franco bastante intenso y no sabemos qué nos espera en la siguiente temporada, aunque las señales parecen claras."
         ],
         "size": "2000x2000"
+    },
+    "arresto_maduro": {
+        "name": "El arresto de Maduro",
+        "date": "2026-01-05T00:00",
+        "description": [
+            "Muy tranquilo veo yo a Maduro, saludando, felicitando el año, aprendiendo nuevas palabras en inglés... No sé si es retrasado (bastante probable), lo tienen sedado u otra cosa."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Nicolás Maduro"]
     }
 }

@@ -9183,5 +9183,21 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Nicolás Maduro"]
+    },
+    "posicionamiento": {
+        "name": "Posicionamiento",
+        "date": "2026-01-07T00:00",
+        "description": [
+            "Mucha gente disfrutaría más del arte si se la sudase la opinión de sus artistas politoxicómanos favoritos."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["A lot of people would enjoy art more if they didn't give a shit about the opinions of their favorite crackhead artists."],
+            "pt": ["Muitas pessoas desfrutariam mais da arte se não se importassem com a opinião dos seus artistas politoxicómanos favoritos."]
+        }
     }
 }

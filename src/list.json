@@ -9199,5 +9199,15 @@
             "en": ["A lot of people would enjoy art more if they didn't give a shit about the opinions of their favorite crackhead artists."],
             "pt": ["Muitas pessoas desfrutariam mais da arte se não se importassem com a opinião dos seus artistas politoxicómanos favoritos."]
         }
+    },
+    "bizums_venezolanos": {
+        "name": "Adiós a los Bizums venezolanos",
+        "date": "2026-01-08T00:00",
+        "description": [
+            "Ya se buscaron hace meses otro régimen de mierda que quiere desestabilizarnos dispuesto a pagarles, aunque por pedir que no sea."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pablo Iglesias", "Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

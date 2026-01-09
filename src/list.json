@@ -9209,5 +9209,15 @@
         "size": "2000x2000",
         "celebrities": ["Pablo Iglesias", "Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "campana_alegria": {
+        "name": "Una campaña con extra de Alegría",
+        "date": "2026-01-09T00:00",
+        "description": [
+            "Con lo fuerte que viene el año en relación al panorama internacional, nos estamos olvidando de la fantástica temporada electoral que le espera a la PSOE (además de la judicial)."
+        ],
+        "size": "3800x2000",
+        "celebrities": ["Pilar Alegría", "Paco Salazar"],
+        "parties": ["PSOE"]
     }
 }

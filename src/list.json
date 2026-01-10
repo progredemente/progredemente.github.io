@@ -9219,5 +9219,14 @@
         "size": "3800x2000",
         "celebrities": ["Pilar Alegría", "Paco Salazar"],
         "parties": ["PSOE"]
+    },
+    "tabelna_galibaldi": {
+        "name": "Tabelna Galibaldi",
+        "date": "2026-01-10T00:00",
+        "description": [
+            "En la Tabelna Galibaldi, ahola silven lollitos de plimavela, tallalines soble bandeja quemada, aloz flito y celdo aglidulce."
+        ],
+        "size": "3800x2000",
+        "parties": ["Podemos"]
     }
 }

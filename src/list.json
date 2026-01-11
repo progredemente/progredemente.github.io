@@ -9228,5 +9228,15 @@
         ],
         "size": "3800x2000",
         "parties": ["Podemos"]
+    },
+    "super_zp": {
+        "name": "Súper ZP",
+        "date": "2026-01-11T00:00",
+        "description": [
+            "¿Cómo es eso de que había presos políticos españoles en Venezuela? ¿Por qué no sabíamos nada hasta justo antes de que los liberasen?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Rodríguez Zapatero"],
+        "parties": ["PSOE"]
     }
 }

@@ -9238,5 +9238,14 @@
         "size": "2000x2000",
         "celebrities": ["José Luis Rodríguez Zapatero"],
         "parties": ["PSOE"]
+    },
+    "julio_iglesias": {
+        "name": "Julio Iglesias",
+        "date": "2026-01-13T00:00",
+        "description": [
+            "No respetan nada, ahora se meten hasta con su propio padre."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Julio Iglesias"]
     }
 }

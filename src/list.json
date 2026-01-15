@@ -9264,5 +9264,15 @@
             "en": ["Having emotional responsibility is optional when your last name is Hemsworth."],
             "pt": ["Ter responsabilidade afetiva é opcional quando o teu apelido é Hemsworth."]
         }
+    },
+    "irane_montero": {
+        "name": "Irane Montero",
+        "date": "2026-01-15T01:00",
+        "description": [
+            "Estaba viendo un vídeo donde salía Irene Montero tratando de blanquear al régimen iraní y aparece mi novia, que apenas conoce a la harpía esta, y dice: Irane. Muy bien hilado."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Irene Montero"],
+        "parties": ["Podemos"]
     }
 }

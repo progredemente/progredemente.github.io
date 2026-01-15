@@ -9246,6 +9246,23 @@
             "No respetan nada, ahora se meten hasta con su propio padre."
         ],
         "size": "2000x2000",
+        "series": ["memes"],
         "celebrities": ["Julio Iglesias"]
+    },
+    "heteropesimismo": {
+        "name": "Heteropesimismo",
+        "date": "2026-01-15T00:00",
+        "description": [
+            "Tener responsabilidad afectiva es opcional cuando te apellidas Hemsworth."
+        ],
+        "size": "2000x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["Having emotional responsibility is optional when your last name is Hemsworth."],
+            "pt": ["Ter responsabilidade afetiva é opcional quando o teu apelido é Hemsworth."]
+        }
     }
 }

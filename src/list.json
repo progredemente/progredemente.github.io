@@ -9274,5 +9274,13 @@
         "size": "2000x2000",
         "celebrities": ["Irene Montero"],
         "parties": ["Podemos"]
+    },
+    "amelia": {
+        "name": "Amelia",
+        "date": "2026-01-16T00:00",
+        "description": [
+            "Mi versión de Amelia."
+        ],
+        "size": "2000x2000"
     }
 }

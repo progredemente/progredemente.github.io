@@ -9282,5 +9282,15 @@
             "Mi versión de Amelia."
         ],
         "size": "2000x2000"
+    },
+    "politits": {
+        "name": "Politits",
+        "date": "2026-01-18T00:00",
+        "description": [
+            "Nuevo concurso: al primero que acierte los nombres de estas 5 personas le hago un dibujo. Hay que acertarlos todos de una vez. Si se aciertan algunos, pero no todos, la respuesta no será válida y no voy a indicar qué nombres son los correctos. Las únicas pistas: 3 son españolas, 4 son hispanohablantes y a una de ellas ya la dibujé más de una vez. Quería que fuesen todas españolas, pero no encontré la inspiración.",
+            "Esto es una práctica para poner a prueba mi habilidad para hacer caricaturas. Quizás haga otras prácticas semejantes en un futuro, utilizando otra característica común entre los personajes."
+        ],
+        "size": "2000x2000",
+        "contest": true
     }
 }

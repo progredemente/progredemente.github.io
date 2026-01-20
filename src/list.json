@@ -9292,5 +9292,13 @@
         ],
         "size": "2000x2000",
         "contest": true
+    },
+    "no_politizar": {
+        "name": "No politizar",
+        "date": "2026-01-20T00:00",
+        "description": [
+            "Nos dicen que no politicemos los que tienen el monopolio."
+        ],
+        "size": "2000x2000"
     }
 }

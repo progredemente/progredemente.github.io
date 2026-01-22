@@ -9300,5 +9300,13 @@
             "Nos dicen que no politicemos los que tienen el monopolio."
         ],
         "size": "2000x2000"
+    },
+    "ruleta_rusa": {
+        "name": "Ruleta rusa",
+        "date": "2026-01-22T00:00",
+        "description": [
+            "No vuelvo a coger un tren en España ni harto de vino."
+        ],
+        "size": "2000x2000"
     }
 }

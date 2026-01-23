@@ -9308,5 +9308,14 @@
             "No vuelvo a coger un tren en España ni harto de vino."
         ],
         "size": "2000x2000"
+    },
+    "pinguino": {
+        "name": "Pingüino",
+        "date": "2026-01-23T00:00",
+        "description": [
+            "Si un pingüino puede, ¿por qué tú no?"
+        ],
+        "size": "2000x2000",
+        "series": ["memes"]
     }
 }

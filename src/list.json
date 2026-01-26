@@ -9317,5 +9317,16 @@
         ],
         "size": "2000x2000",
         "series": ["memes"]
+    },
+    "woke_fans": {
+        "name": "WokeFans",
+        "date": "2026-01-26T00:00",
+        "description": [
+            "¿Por qué politizar una tragedia cuando se puede politizar y sexualizar?",
+            "Los vídeos de la tal Reinés son patéticos, en el primero entrevistando a Vito Quiles ya se coronó, pero el que hizo recientemente sobre el accidente ferroviario de Adamuz es surrealista. Sería mejor tanto para ella como para su público objetivo si hiciese un contenido similar no politizado en otro tipo de plataformas."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Elena Reinés"],
+        "parties": ["MP"]
     }
 }

@@ -9328,5 +9328,15 @@
         "size": "2000x2000",
         "celebrities": ["Elena Reinés"],
         "parties": ["MP"]
+    },
+    "oscar_kong": {
+        "name": "Oscar Kong",
+        "date": "2026-01-27T00:00",
+        "description": [
+            "Y aún quería aumentar la velocidad a 350 km/h en algunos tramos..."
+        ],
+        "size": "3000x2000",
+        "celebrities": ["Óscar Puente"],
+        "parties": ["PSOE"]
     }
 }

@@ -9330,7 +9330,7 @@
         "parties": ["MP"]
     },
     "oscar_kong": {
-        "name": "Oscar Kong",
+        "name": "Óscar Kong",
         "date": "2026-01-27T00:00",
         "description": [
             "Y aún quería aumentar la velocidad a 350 km/h en algunos tramos..."
@@ -9338,5 +9338,13 @@
         "size": "3000x2000",
         "celebrities": ["Óscar Puente"],
         "parties": ["PSOE"]
+    },
+    "saturacion": {
+        "name": "Saturación",
+        "date": "2026-01-28T00:00",
+        "description": [
+            "Óscar Puente decía de ir de pie dentro de los trenes. También podemos ir encima, siempre se puede ir más allá en el proceso de tercermundización del país."
+        ],
+        "size": "3000x2000"
     }
 }

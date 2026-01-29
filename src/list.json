@@ -9346,5 +9346,13 @@
             "Óscar Puente decía de ir de pie dentro de los trenes. También podemos ir encima, siempre se puede ir más allá en el proceso de tercermundización del país."
         ],
         "size": "3000x2000"
+    },
+    "antivacunas": {
+        "name": "Antivacunas",
+        "date": "2026-01-29T00:00",
+        "description": [
+            "Son unos antiv4cunas muy poco convencionales."
+        ],
+        "size": "3000x2000"
     }
 }

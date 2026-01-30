@@ -9351,8 +9351,17 @@
         "name": "Antivacunas",
         "date": "2026-01-29T00:00",
         "description": [
-            "Son unos antiv4cunas muy poco convencionales."
+            "Son unos antivacunas muy poco convencionales."
         ],
         "size": "3000x2000"
+    },
+    "ruralita": {
+        "name": "Ruralita",
+        "date": "2026-01-30T00:00",
+        "description": [
+            "No sé cómo visten en el pueblo de David Uclés o en los vuestros, pero si quieres ir de ruralita tomando como referencia a como visten en el mío, no te pones un cordel a modo de cinturón."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["David Uclés"]
     }
 }

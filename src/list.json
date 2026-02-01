@@ -9363,5 +9363,14 @@
         ],
         "size": "2000x2000",
         "celebrities": ["David Uclés"]
+    },
+    "liberalismo": {
+        "name": "Liberalismo",
+        "date": "2026-02-01T00:00",
+        "description": [
+            "Resulta que el Estado genere una demanda artificial de un bien utilizando la coacción es cosa del liberalismo, porque el liberalismo es, siempre y en todo momento, lo que le salga de los cojones al rojo promedio."
+        ],
+        "size": "3000x2000",
+        "parties": ["PSOE"]
     }
 }

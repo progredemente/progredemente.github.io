@@ -9372,5 +9372,15 @@
         ],
         "size": "3000x2000",
         "parties": ["PSOE"]
+    },
+    "gran_reemplazo": {
+        "name": "Gran reemplazo",
+        "date": "2026-02-03T00:00",
+        "description": [
+            "¿Le dará las gracias Óscar Puente a Irene Montero al igual que hizo con Silvia Intxaurrondo?"
+        ],
+        "size": "3800x2000",
+        "celebrities": ["Óscar Puente", "José Luis Rodríguez Zapatero", "Irene Montero"],
+        "parties": ["Podemos", "PSOE"]
     }
 }

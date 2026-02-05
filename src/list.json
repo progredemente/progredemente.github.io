@@ -9382,5 +9382,14 @@
         "size": "3800x2000",
         "celebrities": ["Óscar Puente", "José Luis Rodríguez Zapatero", "Irene Montero"],
         "parties": ["Podemos", "PSOE"]
+    },
+    "thomas": {
+        "name": "Thomas",
+        "date": "2026-02-05T00:00",
+        "description": [
+            "Si «el tren vive en España el mejor momento de su historia» (Óscar Puente, 2024), no quiero saber cómo será el peor."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

@@ -9391,5 +9391,15 @@
         ],
         "size": "2000x2000",
         "parties": ["PSOE"]
+    },
+    "mensaje": {
+        "name": "Mensaje",
+        "date": "2026-02-06T00:00",
+        "description": [
+            "Hice esta tira ayer antes de irme a dormir y me acabo de enterar que Paco Salazar está colaborando en la campaña electoral de Pilar Alegría. Es la segunda sobre las elecciones aragonesas donde lo meto como colaborador, solamente para incidir en la relación de estos dos sujetos, y resulta que es verdad."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Paco Salazar", "Pilar Alegría"],
+        "parties": ["PSOE"]
     }
 }

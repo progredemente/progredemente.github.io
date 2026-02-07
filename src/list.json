@@ -9401,5 +9401,15 @@
         "size": "2000x2000",
         "celebrities": ["Paco Salazar", "Pilar Alegría"],
         "parties": ["PSOE"]
+    },
+    "we_say": {
+        "name": "We say...",
+        "date": "2026-02-07T00:00",
+        "description": [
+            "Los papeles de Sabiniano."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "parties": ["PSOE"]
     }
 }

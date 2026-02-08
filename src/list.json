@@ -9411,5 +9411,15 @@
         "size": "2000x2000",
         "series": ["memes"],
         "parties": ["PSOE"]
+    },
+    "lucha_cancer": {
+        "name": "Lucha contra el cáncer",
+        "date": "2026-02-08T00:00",
+        "description": [
+            "Que traten de hacer de menos un avance en la lucha contra el cáncer solamente porque no se pueden poner la medallita me toca especialmente los cojones."
+        ],
+        "size": "2000x2000",
+        "series": ["el_palmero"],
+        "celebrities": ["Mariano Barbacid"]
     }
 }

@@ -9421,5 +9421,15 @@
         "size": "2000x2000",
         "series": ["el_palmero"],
         "celebrities": ["Mariano Barbacid"]
+    },
+    "lagrimas_facha": {
+        "name": "Lágrimas de facha",
+        "date": "2026-02-09T00:00",
+        "description": [
+            "Celebremos el excelente resultado de Podemos en las elecciones de Aragón."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Ione Belarra"],
+        "parties": ["Podemos"]
     }
 }

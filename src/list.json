@@ -9431,5 +9431,14 @@
         "size": "2000x2000",
         "celebrities": ["Ione Belarra"],
         "parties": ["Podemos"]
+    },
+    "peligro_extincion": {
+        "name": "Peligro de extinción",
+        "date": "2026-02-11T00:00",
+        "description": [
+            "Al igual que los osos panda, Podemos depende cada vez más de que el PCCh lo mantenga artificialmente con vida."
+        ],
+        "size": "2000x2000",
+        "parties": ["Podemos"]
     }
 }

@@ -9450,5 +9450,16 @@
         "size": "2000x2000",
         "celebrities": ["Sarah Pérez Santaolalla", "Gabriel Rufián"],
         "parties": ["PSOE", "ERC"]
+    },
+    "proyecto_rufian": {
+        "name": "El proyecto de Rufián",
+        "date": "2026-02-19T00:00",
+        "description": [
+            "El proyecto de Rufián es no quedarse sin comer."
+        ],
+        "url": "https://www.youtube.com/embed/58tIFjTvwJk",
+        "series": ["animacion", "memes"],
+        "celebrities": ["Gabriel Rufián"],
+        "parties": ["ERC"]
     }
 }

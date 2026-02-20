@@ -9461,5 +9461,14 @@
         "series": ["animacion", "memes"],
         "celebrities": ["Gabriel Rufián"],
         "parties": ["ERC"]
+    },
+    "mueble_bar": {
+        "name": "Mueble bar",
+        "date": "2026-02-20T00:00",
+        "description": [
+            "El mueble bar de las saunas del suegro de Pedro Sánchez."
+        ],
+        "size": "2000x2000",
+        "parties": ["PSOE"]
     }
 }

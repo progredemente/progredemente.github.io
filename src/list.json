@@ -9445,7 +9445,7 @@
         "name": "Listas",
         "date": "2026-02-16T00:00",
         "description": [
-            "Se me ocurrió esta viñeta viendo un vídeo de UTBH de la semana pasada donde dice que le gustaría ver a Sarah Pérez Santaolalla ir en las listas del proyecto de Gabriel Rufián."
+            "Se me ocurrió esta viñeta viendo un vídeo de {contact:UTBH} de la semana pasada donde dice que le gustaría ver a Sarah Pérez Santaolalla ir en las listas del proyecto de Gabriel Rufián."
         ],
         "size": "2000x2000",
         "celebrities": ["Sarah Pérez Santaolalla", "Gabriel Rufián"],
@@ -9480,5 +9480,15 @@
         "size": "3800x2000",
         "series": ["memes"],
         "parties": ["PSOE"]
+    },
+    "therian": {
+        "name": "Therian",
+        "date": "2026-02-22T00:00",
+        "description": [
+            "Choque de civilizaciones.",
+            "¿Por qué me sale esto de los therians hasta en la sopa?",
+            "Viñeta inspirada en un tweet de {contact:anima_marina}."
+        ],
+        "size": "2000x2000"
     }
 }

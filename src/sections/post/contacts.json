@@ -469,5 +469,26 @@
                 "url": "https://x.com/thacontrast"
             }
         ]
+    },
+    "anima_marina": {
+        "name": "Anima Marina",
+        "pages": [
+            {
+                "id": "x",
+                "url": "https://x.com/anima_marina"
+            },
+            {
+                "id": "youtube",
+                "url": "https://www.youtube.com/@ANIMAMarina"
+            },
+            {
+                "id": "instagram",
+                "url": "https://www.instagram.com/animarium_marina/"
+            },
+            {
+                "id": "twitch",
+                "url": "https://www.twitch.tv/animamarina"
+            }
+        ]
     }
 }

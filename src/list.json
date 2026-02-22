@@ -9490,5 +9490,13 @@
             "Viñeta inspirada en un tweet de {contact:anima_marina}."
         ],
         "size": "2000x2000"
+    },
+    "mv": {
+        "name": "mv",
+        "date": "2026-02-22T01:00",
+        "description": [
+            "Una rapidita para los de mi gremio. A la izquierda patria más les valía hacer un rm -Rf y volver al /dev/null del que nunca debieron haber salido."
+        ],
+        "size": "2000x2000"
     }
 }

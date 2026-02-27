@@ -9508,5 +9508,13 @@
         "size": "2000x2000",
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
+    },
+    "menas_adultos": {
+        "name": "Menas adultos",
+        "date": "2026-02-27T01:00",
+        "description": [
+            "Vamos a fingir sorpresa. Hay que empezar a llamarlos aes en vez de menas."
+        ],
+        "size": "3800x2000"
     }
 }

@@ -9501,17 +9501,18 @@
     },
     "probabilidades": {
         "name": "Probabilidades",
-        "date": "2026-02-26T01:00",
+        "date": "2026-02-26T00:00",
         "description": [
             "Qué mala suerte, macho, todas le tocan a Errejón."
         ],
         "size": "2000x2000",
+        "series": ["el_palmero"],
         "celebrities": ["Íñigo Errejón"],
         "parties": ["MP"]
     },
     "menas_adultos": {
         "name": "Menas adultos",
-        "date": "2026-02-27T01:00",
+        "date": "2026-02-27T00:00",
         "description": [
             "Vamos a fingir sorpresa. Hay que empezar a llamarlos aes en vez de menas."
         ],
@@ -9532,5 +9533,14 @@
             "en": ["Imagine calling yourself an artist but not being able to get the approval you want from society through your artwork and having to perform rituals of self-humiliation to obtain a substitute for genuine warmth from people."],
             "pt": ["Imagina-te a chamar-te de artista, mas não ser capaz de conseguir a aprovação que desejas da sociedade através da tua obra e ter de fazer rituais de auto-humilhação para obter um substituto do calor real das pessoas."]
         }
+    },
+    "ayatollah": {
+        "name": "Ayatollah",
+        "date": "2026-03-01T01:00",
+        "description": [
+            "El plan de diversificación de los Iglesias Montero se está viendo bastante comprometido últimamente. Les entra una nueva fuente de ingresos e inmediatamente después pierden otra."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Alí Jamenei"]
     }
 }

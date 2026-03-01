@@ -9516,5 +9516,21 @@
             "Vamos a fingir sorpresa. Hay que empezar a llamarlos aes en vez de menas."
         ],
         "size": "3800x2000"
+    },
+    "artistas_fracasados": {
+        "name": "Artistas fracasados",
+        "date": "2026-03-01T00:00",
+        "description": [
+            "Imagínate llamarte a ti mismo artista pero no ser capaz de conseguir la aprobación que quieres que te dé la sociedad a través de tu obra y tener que hacer rituales de autohumillación para obtener un sucedáneo del calor real de la gente."
+        ],
+        "size": "3800x2000",
+        "lang": {
+            "default": "es",
+            "available": ["en", "pt"]
+        },
+        "i18n": {
+            "en": ["Imagine calling yourself an artist but not being able to get the approval you want from society through your artwork and having to perform rituals of self-humiliation to obtain a substitute for genuine warmth from people."],
+            "pt": ["Imagina-te a chamar-te de artista, mas não ser capaz de conseguir a aprovação que desejas da sociedade através da tua obra e ter de fazer rituais de auto-humilhação para obter um substituto do calor real das pessoas."]
+        }
     }
 }

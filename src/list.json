@@ -9542,5 +9542,15 @@
         ],
         "size": "2000x2000",
         "celebrities": ["Alí Jamenei"]
+    },
+    "jugarsela": {
+        "name": "Jugársela",
+        "date": "2026-03-06T01:00",
+        "description": [
+            "Imagínate que entre los que siempre le compran sus mentiras y los que no, Sánchez eligiese engañar a los segundos, ¿estamos tontos o qué?"
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

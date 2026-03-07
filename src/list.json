@@ -9552,5 +9552,13 @@
         "size": "2000x2000",
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "20_euros": {
+        "name": "20 euros",
+        "date": "2026-03-07T00:00",
+        "description": [
+            "Estaré toda la tarde yendo y viniendo a la gasolinera, pero a mi nadie me va a quitar el placer de echarle siempre 20€ al coche."
+        ],
+        "size": "2000x2000"
     }
 }

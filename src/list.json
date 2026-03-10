@@ -9560,5 +9560,16 @@
             "Estaré toda la tarde yendo y viniendo a la gasolinera, pero a mi nadie me va a quitar el placer de echarle siempre 20€ al coche."
         ],
         "size": "2000x2000"
+    },
+    "circo_mediatico": {
+        "name": "Circo mediático",
+        "date": "2026-03-10T00:00",
+        "description": [
+            "¿Cómo no vas a participar en el circo mediático si eres la estrella principal?",
+            "Qué papelón el de Sarah Santaolalla, quien tiene que estar durante 3 semanas con el brazo en cabestrillo en público cuando ya nadie la cree."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Sarah Pérez Santaolalla"],
+        "parties": ["PSOE"]
     }
 }

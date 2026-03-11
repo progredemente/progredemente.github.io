@@ -9571,5 +9571,15 @@
         "size": "2000x2000",
         "celebrities": ["Sarah Pérez Santaolalla"],
         "parties": ["PSOE"]
+    },
+    "poni_2": {
+        "name": "Poni 2",
+        "date": "2026-03-11T00:00",
+        "description": [
+            "Soy de la opinión de que cada vez que Von der Charen da un volantazo en algún tema, como ahora con la energía nuclear, es porque algo le ha pasado a su poni."
+        ],
+        "size": "4000x3000",
+        "celebrities": ["Ursula von der Leyen"],
+        "tags": ["cielo", "hierba", "sangre", "tierra", "fuego", "humo"]
     }
 }

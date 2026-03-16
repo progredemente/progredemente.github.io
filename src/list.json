@@ -9592,5 +9592,17 @@
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"],
         "tags": ["bate"]
+    },
+    "ultimo_baile": {
+        "name": "El último baile",
+        "date": "2026-03-16T00:00",
+        "description": [
+            "¿Vosotros creéis que la PSOE tendrá el detalle de colocarla en algún lado que le permita mantener su estilo de vida?",
+            "Siempre me gusta dibujar a los personajes como van vestidos, pero parece que Yolanda Díaz no se dejó fotografiar por la prensa en los Oscars, si es que había prensa interesada en su presencia, por lo que tuve que tirar de imaginación."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["Yolanda Díaz"],
+        "parties": ["Sumar"],
+        "tags": ["oro", "palestina"]
     }
 }

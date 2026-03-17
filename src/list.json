@@ -9604,5 +9604,16 @@
         "celebrities": ["Yolanda Díaz"],
         "parties": ["Sumar"],
         "tags": ["oro", "palestina"]
+    },
+    "justicia": {
+        "name": "Justicia",
+        "date": "2026-03-17T00:00",
+        "description": [
+            "He visto que circulaba otra vez este infame cómic por las redes y lo he mejorado."
+        ],
+        "size": "2000x2000",
+        "celebrities": ["José Luis Rodríguez Zapatero"],
+        "parties": ["PSOE"],
+        "tags": ["hierba", "arena", "cielo", "caja", "madera"]
     }
 }

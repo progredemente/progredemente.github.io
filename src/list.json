@@ -9615,5 +9615,14 @@
         "celebrities": ["José Luis Rodríguez Zapatero"],
         "parties": ["PSOE"],
         "tags": ["hierba", "arena", "cielo", "caja", "madera"]
+    },
+    "agua_moja": {
+        "name": "El agua moja",
+        "date": "2026-03-23T00:00",
+        "description": [
+            "¿Vosotros sois team agua o team cubalibre?"
+        ],
+        "size": "3800x2000",
+        "tags": ["agua", "arena", "cielo", "playa"]
     }
 }

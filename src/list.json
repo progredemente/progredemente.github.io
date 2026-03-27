@@ -9624,5 +9624,15 @@
         ],
         "size": "3800x2000",
         "tags": ["agua", "arena", "cielo", "playa"]
+    },
+    "saco_boxeo": {
+        "name": "Saco de boxeo",
+        "date": "2026-03-27T00:00",
+        "description": [
+            "Pan para hoy, hambre para después de las próximas elecciones. Siempre les quedará Pekín."
+        ],
+        "size": "2500x2500",
+        "parties": ["Podemos"],
+        "tags": ["cielo", "árbol", "edificio"]
     }
 }

@@ -9634,5 +9634,14 @@
         "size": "2500x2500",
         "parties": ["Podemos"],
         "tags": ["cielo", "árbol", "edificio"]
+    },
+    "mutt_blood": {
+        "name": "Mutt Blood",
+        "date": "2026-03-28T00:00",
+        "description": [
+            "We wuz wizardz n shiet"
+        ],
+        "size": "2000x2000",
+        "tags": ["pergamino"]
     }
 }

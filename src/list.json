@@ -9643,5 +9643,15 @@
         ],
         "size": "2000x2000",
         "tags": ["pergamino"]
+    },
+    "fake_martyrs": {
+        "name": "FakeMartyrs",
+        "date": "2026-04-01T00:00",
+        "description": [
+            "Crea tus propios mártires de cartón. Ejemplos:",
+            "console.log(new FakeMartyrs(6, \"la Suiza\", Gender.Female).name)",
+            "console.log(new FakeMartyrs(10, \"Zaragoza\", Gender.Male).name)"
+        ],
+        "size": "2000x2000"
     }
 }

@@ -9653,5 +9653,16 @@
             "console.log(new FakeMartyrs(10, \"Zaragoza\", Gender.Male).name)"
         ],
         "size": "2000x2000"
+    },
+    "bote": {
+        "name": "Bote",
+        "date": "2026-04-02T00:00",
+        "description": [
+            "No os metáis con el relevo generacional de los votantes de la PSOE."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Pedro Sánchez"],
+        "parties": ["PSOE"]
     }
 }

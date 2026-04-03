@@ -9664,5 +9664,16 @@
         "series": ["memes"],
         "celebrities": ["Pedro Sánchez"],
         "parties": ["PSOE"]
+    },
+    "artemis_ii": {
+        "name": "Artemis II",
+        "date": "2026-04-03T00:00",
+        "description": [
+            "Ya verás qué risas cuando los de la NASA se encuentren a mi primo Laureano moviéndoles los marcos."
+        ],
+        "size": "2000x2000",
+        "series": ["memes"],
+        "celebrities": ["Victor J. Glover", "Christina Koch"],
+        "tags": ["espacio", "luna", "galicia", "celta"]
     }
 }
